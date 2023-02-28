@@ -1,0 +1,40 @@
+DROP TABLE IF EXISTS Food_Access;
+
+CREATE TABLE Food_Access (
+   StateFIPS 		   VARCHAR NOT NULL,
+   CensusTract         VARCHAR NOT NULL,
+   State               VARCHAR NOT NULL,
+   County              VARCHAR NOT NULL,
+   Urban               bigint NOT NULL,
+   Pop2010             bigint NOT NULL, 
+   OHU2010             bigint NOT NULL,
+   PovertyRate         float8 not NULL,
+   MedianFamilyIncome  float8 not NULL,
+   LAhalfand10		   bigint NOT NULL, 
+   TractLOWI           float8 not NULL,
+   TractKids           float8 not NULL,
+   TractSeniors        float8 not NULL,
+   TractWhite          float8 not NULL,
+   TractBlack          float8 not NULL,
+   TractAsian          float8 not NULL,
+   TractNHOPI          float8 not NULL,
+   TractAIAN           float8 not NULL,
+   TractOMultir        float8 not NULL,
+   TractHispanic       float8 not NULL,
+   TractHUNV           float8 not NULL,
+   TractSNAP           float8 not NULL,
+   TractLOWI_PCT       float8 not NULL,
+   TractKids_PCT       float8 not NULL,
+   TractSeniors_PCT    float8 not NULL,
+   TractWhite_PCT      float8 not NULL,
+   TractBlack_PCT      float8 not NULL,
+   TractAsian_PCT      float8 not NULL,
+   TractNHOPI_PCT      float8 not NULL,
+   TractAIAN_PCT       float8 not NULL,
+   TractOMultir_PCT    float8 not NULL,
+   TractHispanic_PCT   float8 not NULL,
+   TractHUNV_PCT       float8 not NULL,
+   TractSNAP_PCT       float8 not NULL
+);
+
+SELECT * FROM Food_Access;
