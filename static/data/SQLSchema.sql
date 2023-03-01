@@ -1,8 +1,8 @@
 DROP TABLE IF EXISTS Food_Access;
 
 CREATE TABLE Food_Access (
-   StateFIPS 		   VARCHAR NOT NULL,
-   CensusTract         VARCHAR NOT NULL,
+   StateFIPS 		     VARCHAR NOT NULL,
+   CensusTract         VARCHAR NOT NULL PRIMARY KEY,
    State               VARCHAR NOT NULL,
    County              VARCHAR NOT NULL,
    Urban               bigint NOT NULL,
@@ -10,7 +10,7 @@ CREATE TABLE Food_Access (
    OHU2010             bigint NOT NULL,
    PovertyRate         float8 not NULL,
    MedianFamilyIncome  float8 not NULL,
-   LAhalfand10		   bigint NOT NULL, 
+   LAhalfand10		     integer NOT NULL, 
    TractLOWI           float8 not NULL,
    TractKids           float8 not NULL,
    TractSeniors        float8 not NULL,
