@@ -1,14 +1,21 @@
 # dependencies
-from flask import Flask, render_template, jsonify
 import pandas as pd
-from sqlalchemy import create_engine
-from config import username, password, protocol, port, database_name, host
+import sqlalchemy
+from flask import Flask, render_template, jsonify
+from sqlalchemy import create_engine, func
+from config import username, password, port, database_name, host
 
+print(sqlalchemy.__version__)
 ##################################################################################
 # connect to postgres database
-database_name = 'food_insecurity'
-rds_connection_string = f'{protocol}://{username}:{password}@{host}:{port}/{database_name}'
-engine = create_engine(rds_connection_string)
+rds_connection_string = f'postgresql://{username}:{password}@{host}:{port}/{database_name}'
+
+# prior to running, run 'python -m pip install sqlalchemy-jdbcapi'
+# rds_connection_string = 'jdbcapi+pgjdbc://{}:{}@{}/{}'.format(username, password, <ip:host>', <database name>))
+config = {'user': 'postgres',
+          'password': password,
+          'driver':'org.postgresql.Driver'}
+# engine = create_engine(rds_connection_string)
 
 ##################################################################################
 # create app
@@ -37,22 +44,48 @@ def food_access():
     food_access_json = food_access_df.to_json(orient='records', index=True)
     return food_access_json
 
+# @app.route('/api/food-access/<fips>')
+# def food_access_by_state(fips):
+#     # create DB session
+#     conn = engine.connect()
+    
+#     # import data from postgres
+#     query = "food_access"
+#     food_access_df = pd.read_sql(query, conn)
+    
+#     print(food_access_df.tail())
+    
+#     # send json data
+#     food_access_json = food_access_df.to_json(orient='records', index=True)
+#     return food_access_json
+
 ##################################################################################
 # route for geojson data by state
-# @app.route('api/census-tract-by-state/<fips>.geojson')
-# def tract(fips):            
-#     filepath = 'static/data/geojson/tl_2021_{fips}_tract.geojson'
-#     with open(filepath, 'r', encoding='utf-8') as f:
-#         data = f.read()
-#     return data
+@app.route('/api/census-tract-by-state/<fips>.geojson')
+def tract(fips):            
+    filepath = f'static/data/geojson/tl_2021_{fips}_tract.geojson'
+    with open(filepath, 'r', encoding='utf-8') as f:
+        data = f.read()
+    return data
 
 ##################################################################################
 # route for info box
-# @app.route('api/state-data/<fips>')
-# def state_data(fips):
+@app.route('/api/food-access/<fips>')
+def food_access_by_state(fips):
+    # create DB session
+    conn = engine.connect()
     
-#     conn = engine.connect()
+    # import data from postgres
+    query = 'select * from food_access where "StateFIPS" = ' + "'" + fips + "'"
+    # food_access_df = pd.read_sql_query(query, conn)
+    food_access_df = pd.DataFrame(conn.execute(query))
+        
+    print(food_access_df.tail())
     
+    # send json data
+    food_access_json = food_access_df.to_json(orient='records', index=True)
+    return food_access_json
+
 #     # retrieve data from postgres
 #     query = "select * from food_access where StateFIPS = '" + fips + "'"
 #     state_df = pd.read_sql(query, conn)
