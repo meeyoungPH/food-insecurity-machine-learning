@@ -1,7 +1,9 @@
+DROP TABLE IF EXISTS State CASCADE;
 DROP TABLE IF EXISTS Food_Access_1;
 DROP TABLE IF EXISTS Food_Access_2;
 DROP TABLE IF EXISTS Food_Access_3;
-DROP TABLE IF EXISTS State CASCADE;
+DROP TABLE IF EXISTS Summary;
+DROP TABLE IF EXISTS Viz_Data;
 
 CREATE TABLE State (
    StateFIPS           VARCHAR NOT NULL PRIMARY KEY,
@@ -161,6 +163,57 @@ CREATE TABLE Food_Access_3 (
    FOREIGN KEY (StateFIPS) REFERENCES State(StateFIPS)
 );
 
+CREATE TABLE Viz_Data (
+   CensusTract          VARCHAR NOT NULL PRIMARY KEY,
+   StateFIPS 		      VARCHAR NOT NULL,
+   State                VARCHAR NOT NULL,
+   County               VARCHAR NOT NULL,
+   Urban                int NOT NULL,
+   Pop2010              int NOT NULL, 
+   OHU2010              int NOT NULL,
+   PovertyRate          float8 not NULL,
+   MedianFamilyIncome   float8 not NULL,
+   LAhalfand10		      integer NOT NULL, 
+   lapophalfshare       float8 not NULL,
+   lalowihalfshare      float8 not NULL,
+   lakidshalfshare      float8 not NULL,
+   laseniorshalfshare   float8 not NULL,
+   lawhitehalfshare     float8 not NULL,
+   lablackhalfshare     float8 not NULL,
+   laasianhalfshare     float8 not NULL,
+   lanhopihalfshare     float8 not NULL,
+   laaianhalfshare      float8 not NULL,
+   laomultirhalfshare   float8 not NULL,
+   lahisphalfshare      float8 not NULL,
+   lahunvhalfshare      float8 not NULL,
+   lasnaphalfshare      float8 not NULL,  
+   TractLOWI            int not NULL,
+   TractKids            int not NULL,
+   TractSeniors         int not NULL,
+   TractWhite           int not NULL,
+   TractBlack           int not NULL,
+   TractAsian           int not NULL,
+   TractNHOPI           int not NULL,
+   TractAIAN            int not NULL,
+   TractOMultir         int not NULL,
+   TractHispanic        int not NULL,
+   TractHUNV            int not NULL,
+   TractSNAP            int not NULL,
+   TractLOWI_PCT        float8 not NULL,
+   TractKids_PCT        float8 not NULL,
+   TractSeniors_PCT     float8 not NULL,
+   TractWhite_PCT       float8 not NULL,
+   TractBlack_PCT       float8 not NULL,
+   TractAsian_PCT       float8 not NULL,
+   TractNHOPI_PCT       float8 not NULL,
+   TractAIAN_PCT        float8 not NULL,
+   TractOMultir_PCT     float8 not NULL,
+   TractHispanic_PCT    float8 not NULL,
+   TractHUNV_PCT        float8 not NULL,
+   TractSNAP_PCT        float8 not NULL,
+   FOREIGN KEY (StateFIPS) REFERENCES State(StateFIPS)
+);
+
 CREATE TABLE Summary (
    Jurisdiction         VARCHAR not NULL,
    LAhalfand10          int not NULL,
@@ -198,3 +251,4 @@ SELECT * FROM Food_Access_2;
 SELECT * FROM Food_Access_3;
 SELECT * FROM State;
 SELECT * FROM Summary;
+SELECT * FROM Data_Viz;
