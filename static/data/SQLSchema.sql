@@ -1,7 +1,12 @@
 DROP TABLE IF EXISTS Food_Access_1;
 DROP TABLE IF EXISTS Food_Access_2;
 DROP TABLE IF EXISTS Food_Access_3;
+DROP TABLE IF EXISTS State CASCADE;
 
+CREATE TABLE State (
+   StateFIPS           VARCHAR NOT NULL PRIMARY KEY,
+   State               VARCHAR NOT NULL
+   );  
 
 CREATE TABLE Food_Access_1 (
    CensusTract         VARCHAR NOT NULL PRIMARY KEY,
@@ -37,7 +42,8 @@ CREATE TABLE Food_Access_1 (
    TractOMultir_PCT    float8 not NULL,
    TractHispanic_PCT   float8 not NULL,
    TractHUNV_PCT       float8 not NULL,
-   TractSNAP_PCT       float8 not NULL
+   TractSNAP_PCT       float8 not NULL,
+   FOREIGN KEY (StateFIPS) REFERENCES State(StateFIPS)
 );
 
 CREATE TABLE Food_Access_2 (
@@ -100,7 +106,8 @@ CREATE TABLE Food_Access_2 (
    TractOMultir_PCT    float8 not NULL,
    TractHispanic_PCT   float8 not NULL,
    TractHUNV_PCT       float8 not NULL,
-   TractSNAP_PCT       float8 not NULL
+   TractSNAP_PCT       float8 not NULL,
+   FOREIGN KEY (StateFIPS) REFERENCES State(StateFIPS)
 );
 
 CREATE TABLE Food_Access_3 (
@@ -150,10 +157,11 @@ CREATE TABLE Food_Access_3 (
    TractOMultir_PCT    float8 not NULL,
    TractHispanic_PCT   float8 not NULL,
    TractHUNV_PCT       float8 not NULL,
-   TractSNAP_PCT       float8 not NULL
+   TractSNAP_PCT       float8 not NULL,
+   FOREIGN KEY (StateFIPS) REFERENCES State(StateFIPS)
 );
-
 
 SELECT * FROM Food_Access_1;
 SELECT * FROM Food_Access_2;
 SELECT * FROM Food_Access_3;
+SELECT * FROM State;
