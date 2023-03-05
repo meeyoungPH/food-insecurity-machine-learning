@@ -22,6 +22,22 @@ def home():
     return render_template('index.html')
 
 ##################################################################################
+# route for list of jurisdictions
+@app.route('/api/jurisdictions')
+def jurisdictions():
+    # create DB session
+    conn = engine.connect()
+    
+    # import data from postgres
+    query = "state"
+    jurisdiction_df = pd.read_sql(query, conn)
+    
+    print(jurisdiction_df.tail())
+    
+    # send json data
+    jurisdiction_json = jurisdiction_df.to_json(orient='records', index=True)
+    return jurisdiction_json
+
 # route for raw-data
 @app.route('/api/raw-data')
 def raw_data():
@@ -51,8 +67,8 @@ def ml_data():
     return food_access_json
 
 # route for data for visualizations
-@app.route('/api/viz-data/')
-def subset_data():
+@app.route('/api/food-access/')
+def all_data():
     # create DB session
     conn = engine.connect()
     
@@ -66,18 +82,40 @@ def subset_data():
     food_access_json = food_access_df.to_json(orient='records', index=True)
     return food_access_json
 
+# route for data for visualizations by state
+@app.route('/api/food-access/<fips>')
+def state_data(fips):
+    # create DB session
+    conn = engine.connect()
+    
+    # import data from postgres
+    query = 'select * from viz_data where "StateFIPS" = ' + "'" + fips + "'"
+    food_access_df = pd.read_sql(query, conn)
+    
+    print(food_access_df.tail())
+    
+    # send json data
+    food_access_json = food_access_df.to_json(orient='records', index=True)
+    return food_access_json
+
 ##################################################################################
-# route for geojson data by state
-@app.route('/api/census-tract-by-state/<fips>.geojson')
-def tract(fips):            
+# route for food access geojson data by state
+@app.route('/api/food-access/<fips>.geojson')
+def access_map(fips):            
     filepath = f'static/data/geojson/tl_2021_{fips}_tract.geojson'
     with open(filepath, 'r', encoding='utf-8') as f:
         data = f.read()
     return data
 
+# route for food market geojsons by state
+@app.route('/api/food-markets/<fips>.geojson')
+def market_map(fips):
+    filepath = f'static/data/geojson/overpass_food_markets_{fips}.geojson'
+    with open(filepath, 'r', encoding='utf-8') as f:
+        data = f.read()
+    return data
+
 ##################################################################################
-# to do - add state fips to summary table; use 00 for US
-# to do - add row to state table for US
 # route for info box
 # @app.route('/api/summary/<fips>')
 # def food_access_by_state(fips):
