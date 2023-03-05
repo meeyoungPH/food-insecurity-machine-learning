@@ -1,0 +1,116 @@
+/* Add background image and parallax effect */
+body, html {
+    height: 100%;
+    margin: 0;
+    font: 400 15px/1.8 "Lato", sans-serif;
+    color: #777;
+}
+  
+.bgimg-1, .bgimg-2, .bgimg-3 {
+    position: relative;
+    opacity: 0.65;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgimg-1 {
+    background-image: url("https://d31nhj1t453igc.cloudfront.net/cloudinary/2022/Apr/08/kEj6bRq5c0eDeW6u6GDJ.jpg");
+    min-height: 100%;
+}
+  
+.bgimg-2 {
+    background-image: url("https://foodtank.com/wp-content/uploads/2022/04/vince-veras-sYaK3SlGwEw-unsplash.jpg");
+    min-height: 400px;
+}
+  
+.bgimg-3 {
+    background-image: url("https://helpingpeople.org/wp-content/uploads/2020/03/FoodInsecurity.jpg");
+    min-height: 400px;
+}
+  
+.caption {
+    position: absolute;
+    left: 0;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+  
+.caption span.border {
+    background-color: #111;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+}
+  
+h3 {
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font: 20px "Lato", sans-serif;
+    color: #111;
+}
+  
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3 {
+        background-attachment: scroll;
+    }
+}
+
+/* Style the navbar */
+.navbar {
+    background-color: transparent;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+    color: #fff;
+}
+
+.nav-link {
+    margin-right: 1rem !important;
+}
+
+/* Style the active menu item */
+.active {
+    font-weight: bold;
+    border-bottom: 2px solid #fff;
+}
+
+/* Style the map */
+#myMap {
+  width: 100px;
+  height: 100px;
+  min-height: 100%;
+  min-width: 100%;
+  display: block;
+}
+
+.legend {
+    line-height: 18px;
+    color: #555;
+    background-color: white;
+    padding: 0px 8px 8px 8px;
+    opacity: 0.85;
+    border-radius: 10px;
+}
+  
+.legend i {
+    width: 30px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+
+/* Style the dropdown */
+dropdown-content a { 
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
