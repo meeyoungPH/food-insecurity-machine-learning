@@ -215,10 +215,13 @@ CREATE TABLE Viz_Data (
 );
 
 CREATE TABLE Summary (
+   StateFIPS            VARCHAR not NULL PRIMARY KEY,
    Jurisdiction         VARCHAR not NULL,
+   Pop_Total            int not NULL,
+   OHU_Total            int not NULL,
+   POP_byFlag           int not NULL,
+   OHU_byFlag           int not NULL,
    LAhalfand10          int not NULL,
-   Pop2010              int not NULL,
-   OHU2010              int not NULL,
    TractLOWI            int not NULL,
    TractKids            int not NULL,
    TractSeniors         int not NULL,
@@ -243,7 +246,31 @@ CREATE TABLE Summary (
    Multi_Race_per       float8 not NULL,
    Hispanic_per         float8 not NULL,
    HUNV_per             float8 not NULL,
-   SNAP_per             float8 not NULL
+   SNAP_per             float8 not NULL,
+   lapophalf            int not NULL,
+   lakidshalf            int not NULL,
+   laseniorshalf            int not NULL,
+   lalowihalf            int not NULL,
+   lawhitehalf            int not NULL,
+   lablackhalf            int not NULL,
+   laasianhalf            int not NULL,
+   lanhopihalf            int not NULL,
+   laaianhalf            int not NULL,
+   laomultirhalf            int not NULL,
+   lahisphalf            int not NULL,
+   lahunvhalf            int not NULL,
+   lasnaphalf            int not NULL,
+   LOWI_perhalf         float8 not NULL,
+   Kids_perhalf         float8 not NULL,
+   Seniors_perhalf      float8 not NULL,
+   Non_prod_ages_perhalf float8 not NULL,
+   White_perhalf        float8 not NULL,
+   Black_perhalf        float8 not NULL,
+   Asian_perhalf        float8 not NULL,
+   NHOPI_perhalf        float8 not NULL,
+   AIAN_perhalf         float8 not NULL,
+   Multi_Race_perhalf   float8 not NULL,
+   Hispanic_perhalf     float8 not NULL
 );
 
 SELECT * FROM Food_Access_1;
