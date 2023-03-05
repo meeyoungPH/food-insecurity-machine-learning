@@ -3,19 +3,13 @@ import pandas as pd
 import sqlalchemy
 from flask import Flask, render_template, jsonify
 from sqlalchemy import create_engine, func
-from config import username, password, port, database_name, host
+from config import protocol, username, password, port, database_name, host
 
-print(sqlalchemy.__version__)
+# print(sqlalchemy.__version__)
 ##################################################################################
 # connect to postgres database
-rds_connection_string = f'postgresql://{username}:{password}@{host}:{port}/{database_name}'
-
-# prior to running, run 'python -m pip install sqlalchemy-jdbcapi'
-# rds_connection_string = 'jdbcapi+pgjdbc://{}:{}@{}/{}'.format(username, password, <ip:host>', <database name>))
-config = {'user': 'postgres',
-          'password': password,
-          'driver':'org.postgresql.Driver'}
-# engine = create_engine(rds_connection_string)
+rds_connection_string = f'{protocol}://{username}:{password}@{host}:{port}/{database_name}'
+engine = create_engine(rds_connection_string)
 
 ##################################################################################
 # create app
@@ -28,14 +22,42 @@ def home():
     return render_template('index.html')
 
 ##################################################################################
-# route for food insecurity data
-@app.route('/api/food-access')
-def food_access():
+# route for list of jurisdictions
+@app.route('/api/jurisdictions')
+def jurisdictions():
     # create DB session
     conn = engine.connect()
     
     # import data from postgres
-    query = "food_access"
+    query = "state"
+    jurisdiction_df = pd.read_sql(query, conn)
+    
+    print(jurisdiction_df.tail())
+    
+    # send json data
+    jurisdiction_json = jurisdiction_df.to_json(orient='records', index=True)
+    return jurisdiction_json
+
+# route for raw-data
+@app.route('/api/raw-data')
+def raw_data():
+    
+    # read data from s3 bucket
+    raw_df = pd.read_csv("https://gtbootcamp20230221.s3.amazonaws.com/FoodAccessResearchAtlasData2019.csv", dtype={'CensusTract': str})
+    print(raw_df.head())
+    
+    # send json data
+    raw_data_json = raw_df.to_json(orient='records', index=True)
+    return raw_data_json  
+    
+# route for food insecurity data
+@app.route('/api/ml-data')
+def ml_data():
+    # create DB session
+    conn = engine.connect()
+    
+    # import data from postgres
+    query = "food_access_3"
     food_access_df = pd.read_sql(query, conn)
     
     print(food_access_df.tail())
@@ -44,47 +66,72 @@ def food_access():
     food_access_json = food_access_df.to_json(orient='records', index=True)
     return food_access_json
 
-# @app.route('/api/food-access/<fips>')
-# def food_access_by_state(fips):
-#     # create DB session
-#     conn = engine.connect()
+# route for data for visualizations
+@app.route('/api/food-access/')
+def all_data():
+    # create DB session
+    conn = engine.connect()
     
-#     # import data from postgres
-#     query = "food_access"
-#     food_access_df = pd.read_sql(query, conn)
+    # import data from postgres
+    query = "viz_data"
+    food_access_df = pd.read_sql(query, conn)
     
-#     print(food_access_df.tail())
+    print(food_access_df.tail())
     
-#     # send json data
-#     food_access_json = food_access_df.to_json(orient='records', index=True)
-#     return food_access_json
+    # send json data
+    food_access_json = food_access_df.to_json(orient='records', index=True)
+    return food_access_json
+
+# route for data for visualizations by state
+@app.route('/api/food-access/<fips>')
+def state_data(fips):
+    # create DB session
+    conn = engine.connect()
+    
+    # import data from postgres
+    query = 'select * from viz_data where "StateFIPS" = ' + "'" + fips + "'"
+    food_access_df = pd.read_sql(query, conn)
+    
+    print(food_access_df.tail())
+    
+    # send json data
+    food_access_json = food_access_df.to_json(orient='records', index=True)
+    return food_access_json
 
 ##################################################################################
-# route for geojson data by state
-@app.route('/api/census-tract-by-state/<fips>.geojson')
-def tract(fips):            
+# route for food access geojson data by state
+@app.route('/api/food-access/<fips>.geojson')
+def access_map(fips):            
     filepath = f'static/data/geojson/tl_2021_{fips}_tract.geojson'
+    with open(filepath, 'r', encoding='utf-8') as f:
+        data = f.read()
+    return data
+
+# route for food market geojsons by state
+@app.route('/api/food-markets/<fips>.geojson')
+def market_map(fips):
+    filepath = f'static/data/geojson/overpass_food_markets_{fips}.geojson'
     with open(filepath, 'r', encoding='utf-8') as f:
         data = f.read()
     return data
 
 ##################################################################################
 # route for info box
-@app.route('/api/food-access/<fips>')
-def food_access_by_state(fips):
-    # create DB session
-    conn = engine.connect()
+# @app.route('/api/summary/<fips>')
+# def food_access_by_state(fips):
+#     # create DB session
+#     conn = engine.connect()
     
-    # import data from postgres
-    query = 'select * from food_access where "StateFIPS" = ' + "'" + fips + "'"
-    # food_access_df = pd.read_sql_query(query, conn)
-    food_access_df = pd.DataFrame(conn.execute(query))
+#     # import data from postgres
+#     query = 'select * from summary where "StateFIPS" = ' + "'" + fips + "'"
+#     # food_access_df = pd.read_sql_query(query, conn)
+#     food_access_df = pd.DataFrame(conn.execute(query))
         
-    print(food_access_df.tail())
+#     print(food_access_df.tail())
     
-    # send json data
-    food_access_json = food_access_df.to_json(orient='records', index=True)
-    return food_access_json
+#     # send json data
+#     food_access_json = food_access_df.to_json(orient='records', index=True)
+#     return food_access_json
 
 #     # retrieve data from postgres
 #     query = "select * from food_access where StateFIPS = '" + fips + "'"
