@@ -1,0 +1,7556 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-05T23:37:23Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266310881",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934985,
+          41.8923773
+        ]
+      },
+      "id": "node/266310881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/344560411",
+        "name": "Hank's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0495802,
+          29.9685687
+        ]
+      },
+      "id": "node/344560411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/347197722",
+        "addr:city": "New Orleans",
+        "addr:housenumber": "8115",
+        "addr:postcode": "70118",
+        "addr:state": "LA",
+        "addr:street": "South Claiborne Avenue",
+        "name": "Robért Fresh Market",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket",
+        "website": "http://www.robertfreshmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1205407,
+          29.9571214
+        ]
+      },
+      "id": "node/347197722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/387188785",
+        "name": "Sav-a-lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0959314,
+          29.9425586
+        ]
+      },
+      "id": "node/387188785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/387644493",
+        "name": "Winn-Dixie Marketplace",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9626536,
+          29.9501315
+        ]
+      },
+      "id": "node/387644493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388984003",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494519,
+          41.8877413
+        ]
+      },
+      "id": "node/388984003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/417266423",
+        "name": "Rouses",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7795393,
+          30.2890858
+        ]
+      },
+      "id": "node/417266423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/422014630",
+        "addr:housenumber": "3135",
+        "addr:street": "Esplanade Avenue",
+        "name": "Canseco's",
+        "phone": "+1 504 3222594",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0845107,
+          29.9805827
+        ]
+      },
+      "id": "node/422014630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/448396213",
+        "amenity": "fuel",
+        "brand": "Exxon",
+        "brand:wikidata": "Q109675651",
+        "brand:wikipedia": "en:Exxon",
+        "name": "Exxon",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0581463,
+          29.9905073
+        ]
+      },
+      "id": "node/448396213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/466979847",
+        "addr:city": "Pineville",
+        "addr:housenumber": "3123",
+        "addr:postcode": "71360",
+        "addr:state": "LA",
+        "addr:street": "Hwy 28 East",
+        "name": "Super 1 Foods",
+        "phone": "+1-318-442-6950",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3970897,
+          31.3340143
+        ]
+      },
+      "id": "node/466979847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/466979848",
+        "name": "Mac's Fresh Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3998792,
+          31.3343442
+        ]
+      },
+      "id": "node/466979848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/471148273",
+        "name": "Mac's Fresh Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4109303,
+          31.4084053
+        ]
+      },
+      "id": "node/471148273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/471544540",
+        "addr:city": "New Orleans",
+        "addr:housenumber": "4838",
+        "addr:postcode": "70115",
+        "addr:state": "LA",
+        "addr:street": "Prytania Street",
+        "name": "Zara's Lil' Giant Supermarket and Po-boys",
+        "opening_hours": "Mo-Su 07:30-20:30",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "504-895-0581",
+        "shop": "supermarket",
+        "website": "http://www.zarasmarket.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1073966,
+          29.9244036
+        ]
+      },
+      "id": "node/471544540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/472302980",
+        "name": "Express One Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0562468,
+          30.4121102
+        ]
+      },
+      "id": "node/472302980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495113034",
+        "amenity": "drinking_water",
+        "check_date": "2022-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934283,
+          41.8913309
+        ]
+      },
+      "id": "node/495113034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578541832",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.47859,
+          31.299843
+        ]
+      },
+      "id": "node/578541832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/668111925",
+        "brand": "Market Basket",
+        "brand:wikidata": "Q2079198",
+        "brand:wikipedia": "en:Market Basket (New England)",
+        "name": "Market Basket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2475816,
+          30.1770661
+        ]
+      },
+      "id": "node/668111925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685457655",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4867108,
+          41.8902623
+        ]
+      },
+      "id": "node/685457655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685461877",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4875779,
+          41.8891234
+        ]
+      },
+      "id": "node/685461877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/808047556",
+        "addr:housenumber": "3308",
+        "addr:street": "Esplanade Ave",
+        "name": "Terranova's",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0851316,
+          29.9805978
+        ]
+      },
+      "id": "node/808047556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/818431975",
+        "name": "Broadway Food Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.116082,
+          29.9505551
+        ]
+      },
+      "id": "node/818431975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/818431976",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1133535,
+          29.9463231
+        ]
+      },
+      "id": "node/818431976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/850961727",
+        "addr:housenumber": "3301",
+        "addr:street": "Magazine Street",
+        "name": "BIg Fisherman seafood",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0878995,
+          29.9234999
+        ]
+      },
+      "id": "node/850961727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/887743162",
+        "addr:city": "Slidell",
+        "addr:housenumber": "2985",
+        "addr:postcode": "70461",
+        "addr:state": "LA",
+        "addr:street": "Gause Boulevard",
+        "brand": "Winn-Dixie",
+        "brand:wikidata": "Q1264366",
+        "brand:wikipedia": "en:Winn-Dixie",
+        "name": "Winn-Dixie",
+        "opening_hours": "07:00-21:00",
+        "phone": "+1 985 639 0021",
+        "shop": "supermarket",
+        "website": "https://www.winndixie.com/StoreDetails?search=1502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7206088,
+          30.289601
+        ]
+      },
+      "id": "node/887743162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890053",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4879526,
+          41.8887986
+        ]
+      },
+      "id": "node/953890053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890062",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883755,
+          41.890985
+        ]
+      },
+      "id": "node/953890062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953909059",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via dei santi Quattro,roma,italy 62022.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968765,
+          41.8889852
+        ]
+      },
+      "id": "node/953909059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/957438634",
+        "addr:city": "New Orleans",
+        "addr:country": "US",
+        "addr:housenumber": "4408",
+        "addr:postcode": "70119",
+        "addr:street": "Banks Street",
+        "amenity": "marketplace",
+        "name": "Crescent Market",
+        "phone": "+1 504 4826264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1068106,
+          29.9742832
+        ]
+      },
+      "id": "node/957438634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1039982257",
+        "amenity": "fuel",
+        "brand": "Exxon",
+        "brand:wikidata": "Q109675651",
+        "brand:wikipedia": "en:Exxon",
+        "name": "Exxon",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1100688,
+          29.9651705
+        ]
+      },
+      "id": "node/1039982257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1053341300",
+        "name": "Target",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7065347,
+          32.5585338
+        ]
+      },
+      "id": "node/1053341300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1084901591",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3758132,
+          30.1838269
+        ]
+      },
+      "id": "node/1084901591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1084902749",
+        "name": "Fisherman's Heaadquarters",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3765146,
+          30.1686439
+        ]
+      },
+      "id": "node/1084902749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1105871874",
+        "name": "Quicky's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0911396,
+          29.9623067
+        ]
+      },
+      "id": "node/1105871874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1105871882",
+        "name": "S Express",
+        "old_name": "Soprano's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0806321,
+          29.9744481
+        ]
+      },
+      "id": "node/1105871882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1105871895",
+        "name": "Ideal Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0884734,
+          29.9638961
+        ]
+      },
+      "id": "node/1105871895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1134230666",
+        "addr:housenumber": "1413",
+        "addr:street": "North Claiborne Avenue",
+        "name": "Manchu Chicken & Poboy Takeaway",
+        "phone": "5049475507",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0686888,
+          29.9698716
+        ]
+      },
+      "id": "node/1134230666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1170494282",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942213,
+          41.8900377
+        ]
+      },
+      "id": "node/1170494282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1186305069",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "name": "Save-A-Lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0472392,
+          29.9763819
+        ]
+      },
+      "id": "node/1186305069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1235088048",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1068679,
+          29.9792027
+        ]
+      },
+      "id": "node/1235088048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1236420985",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0563799,
+          29.9738151
+        ]
+      },
+      "id": "node/1236420985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1274347349",
+        "amenity": "fuel",
+        "brand": "Exxon",
+        "brand:wikidata": "Q109675651",
+        "brand:wikipedia": "en:Exxon",
+        "name": "Exxon",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0734654,
+          29.9435676
+        ]
+      },
+      "id": "node/1274347349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1351707326",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2200687,
+          30.1852335
+        ]
+      },
+      "id": "node/1351707326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1357925573",
+        "addr:housenumber": "3238",
+        "addr:street": "Orleans Avenue",
+        "name": "John and Mary Food Store",
+        "phone": "+1 504 4843003",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0892343,
+          29.9748217
+        ]
+      },
+      "id": "node/1357925573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1401465371",
+        "name": "Rouses",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8187578,
+          29.8013076
+        ]
+      },
+      "id": "node/1401465371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1504282950",
+        "addr:housenumber": "2959",
+        "addr:street": "College Drive",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "phone": "225 923 1075",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1400763,
+          30.4212158
+        ]
+      },
+      "id": "node/1504282950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1506447892",
+        "addr:city": "New Orleans",
+        "addr:housenumber": "701",
+        "addr:postcode": "70113",
+        "addr:state": "LA",
+        "addr:street": "Baronne Street",
+        "brand": "Rouses",
+        "brand:wikidata": "Q7371327",
+        "name": "Rouses",
+        "shop": "supermarket",
+        "website": "https://shop.rouses.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0741703,
+          29.9477232
+        ]
+      },
+      "id": "node/1506447892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1506494131",
+        "addr:city": "Thibodaux",
+        "addr:country": "US",
+        "addr:full": "410 N Canal Blvd",
+        "addr:housenumber": "410",
+        "addr:postcode": "70301",
+        "addr:state": "LA",
+        "addr:street": "North Canal Boulevard",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-985-446-2257",
+        "ref:walmart": "1016",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1016/thibodaux-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8183167,
+          29.8094383
+        ]
+      },
+      "id": "node/1506494131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1555199853",
+        "name": "Rouse's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8479872,
+          29.8005748
+        ]
+      },
+      "id": "node/1555199853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1560843979",
+        "addr:housenumber": "1001",
+        "addr:street": "Dauphine Street",
+        "name": "Matassa's Grocery & Deli",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.064375,
+          29.9617789
+        ]
+      },
+      "id": "node/1560843979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1560843989",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Royal Pharmacy",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0618749,
+          29.9613518
+        ]
+      },
+      "id": "node/1560843989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1598153070",
+        "addr:street": "Burgundy Street",
+        "name": "Quarter Grocery Deli & Takeaway",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0659598,
+          29.9613276
+        ]
+      },
+      "id": "node/1598153070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656861982",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883955,
+          41.8907173
+        ]
+      },
+      "id": "node/1656861982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1707755164",
+        "name": "Albertson's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2655154,
+          30.1704492
+        ]
+      },
+      "id": "node/1707755164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709280191",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-02",
+        "fountain": "bottle_refill",
+        "name:ru": "вода с газом и без. бесплатная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911794,
+          41.891319
+        ]
+      },
+      "id": "node/1709280191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1740636101",
+        "addr:housenumber": "40017",
+        "addr:postcode": "70769",
+        "addr:street": "Highway 42",
+        "name": "LeBlanc's Food Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9387168,
+          30.3216766
+        ]
+      },
+      "id": "node/1740636101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1774933418",
+        "addr:housenumber": "602",
+        "addr:street": "Frenchmen Street",
+        "name": "Frenchmen Deli & Grocery",
+        "phone": "+1 504 9446800",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.057874,
+          29.9636749
+        ]
+      },
+      "id": "node/1774933418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1786164470",
+        "addr:housenumber": "900",
+        "addr:street": "North Broad Street",
+        "name": "Magnolia Meat Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0812424,
+          29.97209
+        ]
+      },
+      "id": "node/1786164470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1786257081",
+        "name": "Orleans Center",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0828076,
+          29.9713498
+        ]
+      },
+      "id": "node/1786257081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1786257090",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0841701,
+          29.9702088
+        ]
+      },
+      "id": "node/1786257090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1798426032",
+        "name": "Manchu Food Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0807623,
+          29.9727379
+        ]
+      },
+      "id": "node/1798426032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1798426042",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0788628,
+          29.9757216
+        ]
+      },
+      "id": "node/1798426042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1850054727",
+        "name": "99 Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.929056,
+          30.0321233
+        ]
+      },
+      "id": "node/1850054727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1851656983",
+        "name": "Hong Kong Supermarket",
+        "name:vi": "Siêu thị Hồng Kông",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0176669,
+          29.8907589
+        ]
+      },
+      "id": "node/1851656983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1904483417",
+        "addr:city": "New Orleans",
+        "addr:housenumber": "4645",
+        "addr:postcode": "70115",
+        "addr:state": "LA",
+        "addr:street": "Freret Street",
+        "brand": "Rouses",
+        "brand:wikidata": "Q7371327",
+        "name": "Rouses",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Rouses",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "504-355-0800",
+        "shop": "supermarket",
+        "website": "https://www.rouses.com/locations/rouses-market-83/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1061849,
+          29.9353739
+        ]
+      },
+      "id": "node/1904483417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1904483427",
+        "addr:city": "New Orleans",
+        "addr:housenumber": "4929",
+        "addr:postcode": "70115",
+        "addr:state": "LA",
+        "addr:street": "Freret Street",
+        "name": "Supermercado Las Acacias",
+        "opening_hours": "Mo-We 08:00-20:00; Th-Sa 08:00-21:00; Su 09:00-20:00",
+        "phone": "504-896-2251",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1082847,
+          29.9350695
+        ]
+      },
+      "id": "node/1904483427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2041525917",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4764408,
+          31.2824551
+        ]
+      },
+      "id": "node/2041525917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2053246228",
+        "addr:city": "Natchitoches",
+        "addr:country": "US",
+        "addr:housenumber": "318",
+        "addr:state": "LA",
+        "addr:street": "Dixie Plaza",
+        "building": "shop",
+        "name": "Super 1 Foods",
+        "phone": "+1-318-352-4000",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0809823,
+          31.7524924
+        ]
+      },
+      "id": "node/2053246228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2053246229",
+        "addr:city": "Natchitoches",
+        "addr:country": "US",
+        "addr:housenumber": "400",
+        "addr:postcode": "71457",
+        "addr:state": "LA",
+        "addr:street": "Dixie Plaza",
+        "building": "shop",
+        "name": "Fred's Super Dollar",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0799542,
+          31.7523514
+        ]
+      },
+      "id": "node/2053246229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2108409583",
+        "addr:city": "Natchitoches",
+        "addr:country": "US",
+        "addr:housenumber": "5696",
+        "addr:postcode": "71457",
+        "addr:state": "LA",
+        "addr:street": "Highway 1",
+        "name": "Super 1 Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1069032,
+          31.754475
+        ]
+      },
+      "id": "node/2108409583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2169871610",
+        "amenity": "fuel",
+        "brand": "Valero",
+        "name": "Bon Tiemps",
+        "operator": "Valero",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2905275,
+          32.5947263
+        ]
+      },
+      "id": "node/2169871610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2169871611",
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "brand:wikipedia": "en:Chevron Corporation",
+        "name": "Chevron",
+        "operator": "Chevron",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2903477,
+          32.5936806
+        ]
+      },
+      "id": "node/2169871611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172403250",
+        "addr:housenumber": "1330",
+        "addr:street": "Arabella Street",
+        "name": "Langenstein's Grocery",
+        "shop": "supermarket",
+        "website": "https://www.langensteins.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1167569,
+          29.9266474
+        ]
+      },
+      "id": "node/2172403250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2342388706",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1194951,
+          29.9556968
+        ]
+      },
+      "id": "node/2342388706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2511054381",
+        "name": "Canseco's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0598511,
+          30.0122177
+        ]
+      },
+      "id": "node/2511054381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2511054383",
+        "name": "Happy Discount",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0505288,
+          30.0125515
+        ]
+      },
+      "id": "node/2511054383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537299968",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "indoor": "no",
+        "wikimedia_commons": "File:Nasone via mecenate, Roma, Italia Jun 30, 2022 06-19-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4987211,
+          41.8911676
+        ]
+      },
+      "id": "node/2537299968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2578699271",
+        "brand": "Dollar General Market",
+        "brand:wikidata": "Q145168",
+        "brand:wikipedia": "en:Dollar General",
+        "name": "Dollar General Market",
+        "phone": "+1 504 6621395",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0677625,
+          29.9775229
+        ]
+      },
+      "id": "node/2578699271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2589905641",
+        "addr:city": "Youngsville",
+        "addr:housenumber": "2900",
+        "addr:postcode": "70592",
+        "addr:street": "East Milton Avenue",
+        "name": "Rouses Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0145704,
+          30.107756
+        ]
+      },
+      "id": "node/2589905641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2589912324",
+        "addr:city": "Youngsville",
+        "addr:housenumber": "509",
+        "addr:postcode": "70592",
+        "addr:state": "LA",
+        "addr:street": "Lafayette Street",
+        "name": "NuNu's Fresh Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9911078,
+          30.1043653
+        ]
+      },
+      "id": "node/2589912324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2622979836",
+        "addr:city": "Scott",
+        "addr:housenumber": "5525",
+        "addr:postcode": "70583",
+        "addr:street": "Cameron Street",
+        "brand": "Piggly Wiggly",
+        "brand:wikidata": "Q3388303",
+        "brand:wikipedia": "en:Piggly Wiggly",
+        "name": "Piggly Wiggly",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0883094,
+          30.2326275
+        ]
+      },
+      "id": "node/2622979836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2686782948",
+        "addr:city": "Shreveport",
+        "addr:state": "LA",
+        "addr:street": "Mansfield Road",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8009684,
+          32.4038143
+        ]
+      },
+      "id": "node/2686782948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2700333766",
+        "addr:city": "Breaux Bridge",
+        "addr:housenumber": "241",
+        "addr:postcode": "70517",
+        "addr:state": "LA",
+        "addr:street": "Rees Street",
+        "name": "Rees Street Market",
+        "phone": "+1 3373322243",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8995151,
+          30.2782036
+        ]
+      },
+      "id": "node/2700333766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2700336994",
+        "addr:city": "Breaux Bridge",
+        "addr:housenumber": "218",
+        "addr:postcode": "70517",
+        "addr:state": "LA",
+        "addr:street": "S Main Street",
+        "name": "Hebert's Super Market",
+        "phone": "+1 3373326690",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8903677,
+          30.2779045
+        ]
+      },
+      "id": "node/2700336994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2700350947",
+        "name": "Carter's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8608217,
+          30.4860022
+        ]
+      },
+      "id": "node/2700350947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2700688366",
+        "name": "Oak Point",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.028211,
+          30.514465
+        ]
+      },
+      "id": "node/2700688366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2700964203",
+        "addr:city": "Baton Rouge",
+        "addr:country": "US",
+        "addr:full": "10200 Sullivan Rd",
+        "addr:housenumber": "10200",
+        "addr:postcode": "70818",
+        "addr:state": "LA",
+        "addr:street": "Sullivan Road",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "organic": "no",
+        "phone": "+1-225-262-6599",
+        "ref:walmart": "3288",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3288/baton-rouge-la/whats-new",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.025213,
+          30.541764
+        ]
+      },
+      "id": "node/2700964203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2702177844",
+        "addr:city": "Breaux Bridge",
+        "addr:housenumber": "924",
+        "addr:postcode": "70517",
+        "addr:state": "LA",
+        "addr:street": "Rees Street",
+        "brand": "Winn-Dixie",
+        "brand:wikidata": "Q1264366",
+        "brand:wikipedia": "en:Winn-Dixie",
+        "name": "Winn-Dixie",
+        "phone": "+1 337 332 2599",
+        "shop": "supermarket",
+        "website": "https://www.winndixie.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9017951,
+          30.2828615
+        ]
+      },
+      "id": "node/2702177844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2822010448",
+        "addr:housenumber": "7529",
+        "addr:street": "Corporate Boulevard",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "name": "Whole Foods Market",
+        "operator": "Whole Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1111575,
+          30.4322104
+        ]
+      },
+      "id": "node/2822010448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3059013186",
+        "brand": "Winn-Dixie",
+        "brand:wikidata": "Q1264366",
+        "name": "Winn-Dixie",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0328309,
+          29.8879961
+        ]
+      },
+      "id": "node/3059013186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3269898444",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2002704,
+          32.3964731
+        ]
+      },
+      "id": "node/3269898444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3269898445",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1985955,
+          32.3966241
+        ]
+      },
+      "id": "node/3269898445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3317831453",
+        "addr:city": "New Orleans",
+        "addr:housenumber": "1940",
+        "addr:postcode": "70118",
+        "addr:state": "LA",
+        "addr:street": "Dante Street",
+        "description": "Supermarket",
+        "name": "Jake's Uptown Supermarket",
+        "opening_hours": "Mo-Su 08:00-19:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1257242,
+          29.9544101
+        ]
+      },
+      "id": "node/3317831453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3340142951",
+        "addr:city": "New Orleans",
+        "addr:housenumber": "1133",
+        "addr:postcode": "70118",
+        "addr:state": "LA",
+        "addr:street": "South Carrollton Avenue",
+        "name": "Canseco's Carrollton Market",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+15047660972",
+        "shop": "supermarket",
+        "website": "http://cansecos.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1296506,
+          29.9469414
+        ]
+      },
+      "id": "node/3340142951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3348469840",
+        "addr:housenumber": "801",
+        "addr:street": "Convention Center Boulevard",
+        "level": "0",
+        "name": "Cajun Market",
+        "shop": "convenience",
+        "shop:alcohol": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.064818,
+          29.9442442
+        ]
+      },
+      "id": "node/3348469840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3362207441",
+        "addr:housenumber": "2925",
+        "addr:street": "Bienville Avenue",
+        "name": "Norma's Sweets Bakery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0884684,
+          29.9693342
+        ]
+      },
+      "id": "node/3362207441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3362351709",
+        "addr:housenumber": "535",
+        "addr:postcode": "70130",
+        "addr:street": "Decatur Street",
+        "name": "Laura's Candies",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0638084,
+          29.955851
+        ]
+      },
+      "id": "node/3362351709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3390305122",
+        "name": "Walmart Supercenter",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7065083,
+          32.2280619
+        ]
+      },
+      "id": "node/3390305122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3446956370",
+        "addr:city": "Slidell",
+        "name": "Quick Check",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7556348,
+          30.3107337
+        ]
+      },
+      "id": "node/3446956370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3446961460",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "cuisine": "american",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7650788,
+          30.3108541
+        ]
+      },
+      "id": "node/3446961460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3446982212",
+        "brand": "Winn-Dixie",
+        "brand:wikidata": "Q1264366",
+        "brand:wikipedia": "en:Winn-Dixie",
+        "name": "Winn-Dixie",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7469715,
+          30.3090692
+        ]
+      },
+      "id": "node/3446982212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3446986302",
+        "addr:city": "Slidell",
+        "addr:country": "US",
+        "addr:full": "637 Robert Blvd",
+        "addr:housenumber": "637",
+        "addr:postcode": "70458",
+        "addr:state": "LA",
+        "addr:street": "Robert Boulevard",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-985-288-6118",
+        "ref:walmart": "6577",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/6577/slidell-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7620734,
+          30.2979093
+        ]
+      },
+      "id": "node/3446986302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3447006335",
+        "addr:city": "Slidell",
+        "addr:country": "US",
+        "addr:full": "39142 Natchez Dr",
+        "addr:housenumber": "39142",
+        "addr:postcode": "70461",
+        "addr:state": "LA",
+        "addr:street": "Natchez Drive",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-985-641-8572",
+        "ref:walmart": "553",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/553/slidell-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7490436,
+          30.2788805
+        ]
+      },
+      "id": "node/3447006335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3447083486",
+        "brand": "Winn-Dixie",
+        "brand:wikidata": "Q1264366",
+        "brand:wikipedia": "en:Winn-Dixie",
+        "name": "Winn-Dixie",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7840406,
+          30.261982
+        ]
+      },
+      "id": "node/3447083486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3470013390",
+        "addr:city": "New Orleans",
+        "addr:housenumber": "541",
+        "addr:postcode": "70114",
+        "addr:state": "LA",
+        "addr:street": "Bermuda Street",
+        "description": "A specialty grocery serving \n\nthe Algiers Point community.\n\nOpen Weekdays 10am - 7pm\nWeekends 9am - 1pm",
+        "name": "Faubourg Fresh Market",
+        "shop": "supermarket",
+        "website": "https://faubourgfreshmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0512547,
+          29.950784
+        ]
+      },
+      "id": "node/3470013390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3484392575",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7530455,
+          30.2861307
+        ]
+      },
+      "id": "node/3484392575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3484408694",
+        "addr:city": "Pearl River",
+        "name": "Jubilee",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7483573,
+          30.3584666
+        ]
+      },
+      "id": "node/3484408694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3502137479",
+        "addr:city": "New Orleans",
+        "addr:country": "US",
+        "addr:housenumber": "3008",
+        "addr:state": "LA",
+        "addr:street": "Holiday Drive",
+        "brand": "Winn-Dixie",
+        "brand:wikidata": "Q1264366",
+        "brand:wikipedia": "en:Winn-Dixie",
+        "name": "Winn-Dixie",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0118608,
+          29.9235993
+        ]
+      },
+      "id": "node/3502137479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3511045446",
+        "name": "Exxon Service Station",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2647336,
+          31.145409
+        ]
+      },
+      "id": "node/3511045446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3511120028",
+        "name": "Fina Gas Station",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2665967,
+          31.1293023
+        ]
+      },
+      "id": "node/3511120028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3511125931",
+        "name": "Tobacco Plus Shell Station",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2701793,
+          31.1195993
+        ]
+      },
+      "id": "node/3511125931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3511135899",
+        "name": "Lebos Chevron Station",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2867584,
+          31.1429596
+        ]
+      },
+      "id": "node/3511135899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3511142258",
+        "name": "Jacks Service Station",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2650003,
+          31.1567467
+        ]
+      },
+      "id": "node/3511142258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3511147169",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "brand:wikipedia": "en:Chevron Corporation",
+        "name": "Chevron",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2609233,
+          31.1593317
+        ]
+      },
+      "id": "node/3511147169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3519335318",
+        "addr:housenumber": "87",
+        "addr:street": "French Market Place",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0583973,
+          29.9610384
+        ]
+      },
+      "id": "node/3519335318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3560288021",
+        "name": "Pack A Pack #2",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0047845,
+          30.0975802
+        ]
+      },
+      "id": "node/3560288021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3560313503",
+        "name": "Leblanc's Payless",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0017013,
+          30.0984774
+        ]
+      },
+      "id": "node/3560313503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3627390333",
+        "name": "Cannatas",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7477542,
+          29.6249148
+        ]
+      },
+      "id": "node/3627390333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3654784358",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "internet_access": "yes",
+        "name": "Whole Foods Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0844933,
+          29.96718
+        ]
+      },
+      "id": "node/3654784358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3753518483",
+        "addr:housenumber": "2222",
+        "addr:postcode": "70117",
+        "addr:street": "Saint Claude Avenue",
+        "alt_name": "Robért's Fresh Market",
+        "check_date": "2023-02-10",
+        "name": "Robért Fresh Market",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "5042628888",
+        "shop": "supermarket",
+        "website": "https://www.robertfreshmarket.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0558785,
+          29.9685007
+        ]
+      },
+      "id": "node/3753518483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3777256448",
+        "addr:housenumber": "2706",
+        "addr:street": "Royal Street",
+        "name": "Mardi Gras Zone",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0503123,
+          29.9644755
+        ]
+      },
+      "id": "node/3777256448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785014818",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934389,
+          41.8873381
+        ]
+      },
+      "id": "node/3785014818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3891167406",
+        "addr:city": "Houma",
+        "addr:country": "US",
+        "addr:full": "1633 Martin Luther King Jr Blv",
+        "addr:housenumber": "1633",
+        "addr:postcode": "70360",
+        "addr:state": "LA",
+        "addr:street": "Martin Luther King Jr Boulevard",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-985-851-6373",
+        "ref:walmart": "542",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/542/houma-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.75184,
+          29.6077578
+        ]
+      },
+      "id": "node/3891167406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4246246121",
+        "addr:city": "Natchitoches",
+        "addr:housenumber": "758",
+        "addr:state": "LA",
+        "addr:street": "Front Street",
+        "name": "Kaffie-Frederick General Mercantile Store",
+        "shop": "convenience",
+        "website": "http://www.oldhardwarestore.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0860875,
+          31.7626096
+        ]
+      },
+      "id": "node/4246246121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4313264723",
+        "addr:housenumber": "110",
+        "addr:postcode": "70506",
+        "addr:street": "Arnould Boulevard",
+        "name": "Asian Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0528305,
+          30.2028159
+        ]
+      },
+      "id": "node/4313264723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4318188089",
+        "addr:city": "Lafayette",
+        "addr:country": "US",
+        "addr:full": "3142 Ambassador Caffery Pkwy",
+        "addr:housenumber": "3142",
+        "addr:postcode": "70506",
+        "addr:state": "LA",
+        "addr:street": "Ambassador Caffery Parkway",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-337-989-4082",
+        "ref:walmart": "531",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/531/lafayette-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.078505,
+          30.187238
+        ]
+      },
+      "id": "node/4318188089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4336262690",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0745207,
+          30.1967093
+        ]
+      },
+      "id": "node/4336262690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4373291876",
+        "name": "Cracker Barrel Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.942944,
+          30.2102525
+        ]
+      },
+      "id": "node/4373291876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4434661232",
+        "addr:city": "La Place",
+        "addr:country": "US",
+        "addr:full": "1616 W Airline Hwy",
+        "addr:housenumber": "1616",
+        "addr:postcode": "70068",
+        "addr:state": "LA",
+        "addr:street": "West Airline Highway",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-985-652-8994",
+        "ref:walmart": "961",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/961/la-place-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4981931,
+          30.0747668
+        ]
+      },
+      "id": "node/4434661232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4435446289",
+        "name": "walmart",
+        "name:en": "walmart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6561357,
+          31.9502982
+        ]
+      },
+      "id": "node/4435446289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469406407",
+        "addr:city": "New Orleans",
+        "addr:state": "LA",
+        "amenity": "marketplace",
+        "name": "French Market",
+        "place": "neighbourhood",
+        "wikidata": "Q3087476",
+        "wikipedia": "en:French Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0602566,
+          29.9593429
+        ]
+      },
+      "id": "node/4469406407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4576630492",
+        "name": "Oriental Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1959244,
+          30.0068395
+        ]
+      },
+      "id": "node/4576630492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4632173701",
+        "addr:city": "Shreveport",
+        "addr:housenumber": "3809",
+        "addr:postcode": "71106",
+        "addr:state": "LA",
+        "addr:street": "Creswell Avenue",
+        "name": "Perfect Pair",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7432303,
+          32.470509
+        ]
+      },
+      "id": "node/4632173701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4650300792",
+        "brand": "Rouses",
+        "brand:wikidata": "Q7371327",
+        "name": "Rouses",
+        "name:en": "Rouses",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0647854,
+          29.9580824
+        ]
+      },
+      "id": "node/4650300792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4726906997",
+        "name": "Ideal Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0703838,
+          29.9588837
+        ]
+      },
+      "id": "node/4726906997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4737060831",
+        "shop": "convenience",
+        "shop:alcohol": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0585878,
+          29.9608062
+        ]
+      },
+      "id": "node/4737060831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4752018128",
+        "addr:unit": "114",
+        "level": "0",
+        "name": "Fulton Street Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0652462,
+          29.9418115
+        ]
+      },
+      "id": "node/4752018128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4753869226",
+        "name": "Sterling Xpress",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0669346,
+          29.9293207
+        ]
+      },
+      "id": "node/4753869226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4756179236",
+        "addr:housenumber": "212a",
+        "addr:street": "Magazine Street",
+        "level": "0",
+        "name": "Casa Angelo Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0674761,
+          29.9508178
+        ]
+      },
+      "id": "node/4756179236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4756497121",
+        "level": "0",
+        "name": "New Orleans Praline Company",
+        "shop": "convenience",
+        "shop:confectionery": "yes",
+        "shop:gift": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.068513,
+          29.9524687
+        ]
+      },
+      "id": "node/4756497121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4757926569",
+        "addr:city": "Mandeville",
+        "addr:country": "US",
+        "addr:full": "3009 E Causeway Approach",
+        "addr:housenumber": "3009",
+        "addr:postcode": "70448",
+        "addr:state": "LA",
+        "addr:street": "East Causeway Approach",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "level": "0",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-985-626-1113",
+        "ref:walmart": "5832",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/5832/mandeville-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0772979,
+          30.3724501
+        ]
+      },
+      "id": "node/4757926569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4792778737",
+        "name": "Matherne's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7419005,
+          30.0412148
+        ]
+      },
+      "id": "node/4792778737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4798393333",
+        "brand": "Winn-Dixie",
+        "brand:wikidata": "Q1264366",
+        "brand:wikipedia": "en:Winn-Dixie",
+        "name": "Winn-Dixie",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5026212,
+          30.0755841
+        ]
+      },
+      "id": "node/4798393333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4801939643",
+        "name": "Champagne's Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4265,
+          30.487195
+        ]
+      },
+      "id": "node/4801939643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4813944689",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7125507,
+          32.5308205
+        ]
+      },
+      "id": "node/4813944689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4882493623",
+        "name": "STEP IN #11",
+        "name:en": "STEP IN #11",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3763506,
+          30.2019513
+        ]
+      },
+      "id": "node/4882493623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4937514223",
+        "addr:housenumber": "707",
+        "addr:postcode": "70648",
+        "addr:street": "1st Avenue",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8505975,
+          30.4815439
+        ]
+      },
+      "id": "node/4937514223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4946373721",
+        "addr:housenumber": "1090",
+        "addr:postcode": "63525",
+        "name": "The Purple Cow",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7435561,
+          30.3545233
+        ]
+      },
+      "id": "node/4946373721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5024868016",
+        "addr:city": "New Orleans",
+        "addr:housenumber": "2372",
+        "addr:postcode": "70117",
+        "addr:state": "LA",
+        "addr:street": "Saint Claude Avenue",
+        "description": "Everyone can shop there, no need to be a member. Located inside the New Orleans Healing Center.",
+        "email": "info@nolafood.coop",
+        "instagram": "https://www.instagram.com/nolafoodcoop/",
+        "name": "New Orleans Food Co-op",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+15042645579",
+        "shop": "supermarket",
+        "website": "http://www.nolafood.coop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0523776,
+          29.9682625
+        ]
+      },
+      "id": "node/5024868016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5070462711",
+        "cuisine": "vietnamese",
+        "name": "Kiên Giang Market",
+        "name:en": "Kiên Giang Market",
+        "name:vi": "Siêu thị Kiên Giang",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.053069,
+          29.9037422
+        ]
+      },
+      "id": "node/5070462711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5175237550",
+        "name": "Rouses Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9551824,
+          30.2823023
+        ]
+      },
+      "id": "node/5175237550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5218860278",
+        "addr:city": "Sulphur",
+        "addr:housenumber": "1612",
+        "addr:postcode": "70663",
+        "addr:state": "LA",
+        "addr:street": "Ruth Street",
+        "brand": "Brookshire Brothers",
+        "brand:wikidata": "Q4975084",
+        "brand:wikipedia": "en:Brookshire Brothers",
+        "name": "Brookshire Brothers",
+        "phone": "(337) 527-0011",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3750264,
+          30.2248228
+        ]
+      },
+      "id": "node/5218860278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5219107934",
+        "addr:city": "Lake Charles",
+        "addr:housenumber": "4907",
+        "addr:postcode": "70605",
+        "addr:street": "Big Lake Road",
+        "name": "Cormie's Grocery",
+        "phone": "(337) 474-5455",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2823173,
+          30.1680481
+        ]
+      },
+      "id": "node/5219107934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5221845398",
+        "addr:city": "DeRidder",
+        "addr:housenumber": "820",
+        "addr:postcode": "70634",
+        "addr:state": "LA",
+        "addr:street": "East 1st Street",
+        "name": "Brookshire Brothers",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2704822,
+          30.8460055
+        ]
+      },
+      "id": "node/5221845398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5302934685",
+        "brand": "Winn-Dixie",
+        "brand:wikidata": "Q1264366",
+        "brand:wikipedia": "en:Winn-Dixie",
+        "name": "Winn-Dixie",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6999081,
+          30.0610324
+        ]
+      },
+      "id": "node/5302934685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315594646",
+        "addr:city": "Bastrop",
+        "addr:country": "US",
+        "addr:full": "6091 Mer Rouge Rd",
+        "addr:housenumber": "6091",
+        "addr:postcode": "71220",
+        "addr:state": "LA",
+        "addr:street": "Mer Rouge Road",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-318-281-9384",
+        "ref:walmart": "98",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/98/bastrop-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.870221,
+          32.775799
+        ]
+      },
+      "id": "node/5315594646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315594663",
+        "addr:city": "Marrero",
+        "addr:country": "US",
+        "addr:full": "4810 Lapalco Blvd",
+        "addr:housenumber": "4810",
+        "addr:postcode": "70072",
+        "addr:state": "LA",
+        "addr:street": "Lapalco Boulevard",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-504-341-0075",
+        "ref:walmart": "911",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/911/marrero-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.093306,
+          29.87864
+        ]
+      },
+      "id": "node/5315594663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315594678",
+        "addr:city": "Many",
+        "addr:country": "US",
+        "addr:full": "25800 Highway 171",
+        "addr:housenumber": "25800",
+        "addr:postcode": "71449",
+        "addr:state": "LA",
+        "addr:street": "Highway 171",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-318-256-9207",
+        "ref:walmart": "876",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/876/many-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.508768,
+          31.579129
+        ]
+      },
+      "id": "node/5315594678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315594694",
+        "addr:city": "Baton Rouge",
+        "addr:country": "US",
+        "addr:full": "9350 Cortana Pl",
+        "addr:housenumber": "9350",
+        "addr:postcode": "70815",
+        "addr:state": "LA",
+        "addr:street": "Cortana Place",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-225-923-3400",
+        "ref:walmart": "839",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/839/baton-rouge-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.090899,
+          30.462569
+        ]
+      },
+      "id": "node/5315594694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315596429",
+        "addr:city": "Raceland",
+        "addr:country": "US",
+        "addr:full": "4858 Highway 1",
+        "addr:housenumber": "4858",
+        "addr:postcode": "70394",
+        "addr:state": "LA",
+        "addr:street": "Highway 1",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-985-532-6936",
+        "ref:walmart": "761",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/761/raceland-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.554241,
+          29.691111
+        ]
+      },
+      "id": "node/5315596429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315596436",
+        "addr:city": "Pineville",
+        "addr:country": "US",
+        "addr:full": "3636 Monroe Hwy",
+        "addr:housenumber": "3636",
+        "addr:postcode": "71360",
+        "addr:state": "LA",
+        "addr:street": "Monroe Highway",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "operator:wikidata": "Q483551",
+        "operator:wikipedia": "en:Walmart",
+        "phone": "+1-318-640-6900",
+        "ref:walmart": "75",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/75/pineville-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.406583,
+          31.367011
+        ]
+      },
+      "id": "node/5315596436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315596488",
+        "addr:city": "Baton Rouge",
+        "addr:country": "US",
+        "addr:full": "11825 Hooper Road",
+        "addr:housenumber": "11825",
+        "addr:postcode": "70818",
+        "addr:state": "LA",
+        "addr:street": "Hooper Road",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-225-923-6039",
+        "ref:walmart": "7233",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/7233/baton-rouge-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.055864,
+          30.547722
+        ]
+      },
+      "id": "node/5315596488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315596515",
+        "addr:city": "Morgan City",
+        "addr:country": "US",
+        "addr:full": "1002 La Hwy 70",
+        "addr:housenumber": "1002",
+        "addr:postcode": "70380",
+        "addr:state": "LA",
+        "addr:street": "La Highway 70",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-985-384-1459",
+        "ref:walmart": "7099",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/7099/morgan-city-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2005534,
+          29.7054279
+        ]
+      },
+      "id": "node/5315596515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315596542",
+        "addr:city": "Shreveport",
+        "addr:country": "US",
+        "addr:full": "4701 Northport Blvd",
+        "addr:housenumber": "4701",
+        "addr:postcode": "71107",
+        "addr:state": "LA",
+        "addr:street": "Northport Boulevard",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-318-929-3502",
+        "ref:walmart": "6932",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/6932/shreveport-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.838319,
+          32.596094
+        ]
+      },
+      "id": "node/5315596542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315596579",
+        "addr:city": "Lake Charles",
+        "addr:country": "US",
+        "addr:full": "2011 Ryan St",
+        "addr:housenumber": "2011",
+        "addr:postcode": "70601",
+        "addr:state": "LA",
+        "addr:street": "Ryan Street",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-337-508-3864",
+        "ref:walmart": "6583",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/6583/lake-charles-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2174559,
+          30.2125055
+        ]
+      },
+      "id": "node/5315596579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315596696",
+        "addr:city": "Houma",
+        "addr:country": "US",
+        "addr:full": "6411 W Park Ave",
+        "addr:housenumber": "6411",
+        "addr:postcode": "70364",
+        "addr:state": "LA",
+        "addr:street": "West Park Avenue",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-985-217-3665",
+        "ref:walmart": "5774",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/5774/houma-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.747899,
+          29.6237046
+        ]
+      },
+      "id": "node/5315596696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315596716",
+        "addr:city": "Harvey",
+        "addr:country": "US",
+        "addr:full": "3265 Manhattan Blvd",
+        "addr:housenumber": "3265",
+        "addr:postcode": "70058",
+        "addr:state": "LA",
+        "addr:street": "Manhattan Boulevard",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-504-366-1404",
+        "ref:walmart": "5722",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/5722/harvey-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.045013,
+          29.861688
+        ]
+      },
+      "id": "node/5315596716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597575",
+        "addr:city": "Thibodaux",
+        "addr:country": "US",
+        "addr:full": "224 W Main St",
+        "addr:housenumber": "224",
+        "addr:postcode": "70301",
+        "addr:state": "LA",
+        "addr:street": "West Main Street",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-985-492-5305",
+        "ref:walmart": "5464",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/5464/thibodaux-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.818157,
+          29.774315
+        ]
+      },
+      "id": "node/5315597575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597586",
+        "addr:city": "Opelousas",
+        "addr:country": "US",
+        "addr:full": "1629 E Cresswell Ln",
+        "addr:housenumber": "1629",
+        "addr:postcode": "70570",
+        "addr:state": "LA",
+        "addr:street": "East Cresswell Lane",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-337-942-9853",
+        "ref:walmart": "543",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/543/opelousas-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.065731,
+          30.520821
+        ]
+      },
+      "id": "node/5315597586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597596",
+        "addr:city": "Morgan City",
+        "addr:country": "US",
+        "addr:full": "973 Highway 90 E",
+        "addr:housenumber": "973",
+        "addr:postcode": "70380",
+        "addr:state": "LA",
+        "addr:street": "Highway 90 East",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-985-395-2094",
+        "ref:walmart": "540",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/540/morgan-city-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.267157,
+          29.683712
+        ]
+      },
+      "id": "node/5315597596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597615",
+        "addr:city": "Baton Rouge",
+        "addr:country": "US",
+        "addr:full": "14241 Coursey Blvd",
+        "addr:housenumber": "14241",
+        "addr:postcode": "70817",
+        "addr:state": "LA",
+        "addr:street": "Coursey Boulevard",
+        "addr:unit": "A1",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-225-752-5354",
+        "ref:walmart": "5328",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/5328/baton-rouge-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.020659,
+          30.409498
+        ]
+      },
+      "id": "node/5315597615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597616",
+        "addr:city": "Baton Rouge",
+        "addr:country": "US",
+        "addr:full": "9830 Old Hammond Hwy",
+        "addr:housenumber": "9830",
+        "addr:postcode": "70816",
+        "addr:state": "LA",
+        "addr:street": "Old Hammond Highway",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-225-248-1616",
+        "ref:walmart": "5327",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/5327/baton-rouge-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.077884,
+          30.431024
+        ]
+      },
+      "id": "node/5315597616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597726",
+        "addr:city": "Prairieville",
+        "addr:country": "US",
+        "addr:full": "15047 Airline Hwy",
+        "addr:housenumber": "15047",
+        "addr:postcode": "70769",
+        "addr:state": "LA",
+        "addr:street": "Airline Highway",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-225-744-8405",
+        "ref:walmart": "5310",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/5310/prairieville-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9572051,
+          30.2846752
+        ]
+      },
+      "id": "node/5315597726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597768",
+        "addr:city": "Bossier City",
+        "addr:country": "US",
+        "addr:full": "4000 Barksdale Blvd",
+        "addr:housenumber": "4000",
+        "addr:postcode": "71112",
+        "addr:state": "LA",
+        "addr:street": "Barksdale Boulevard",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-318-606-6306",
+        "ref:walmart": "5204",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/5204/bossier-city-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.679174,
+          32.479497
+        ]
+      },
+      "id": "node/5315597768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597798",
+        "addr:city": "Opelousas",
+        "addr:country": "US",
+        "addr:full": "2310 S Union Street",
+        "addr:housenumber": "2310",
+        "addr:postcode": "70570",
+        "addr:state": "LA",
+        "addr:street": "South Union Street",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-337-594-6026",
+        "ref:walmart": "5125",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/5125/opelousas-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.086308,
+          30.5089087
+        ]
+      },
+      "id": "node/5315597798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597808",
+        "addr:city": "Meraux",
+        "addr:country": "US",
+        "addr:full": "2500 Archbishop Hannan Blvd",
+        "addr:housenumber": "2500",
+        "addr:postcode": "70075",
+        "addr:state": "LA",
+        "addr:street": "Archbishop Hannan Boulevard",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 05:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-504-249-7757",
+        "ref:walmart": "5081",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/5081-meraux-la"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.924234,
+          29.934138
+        ]
+      },
+      "id": "node/5315597808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597935",
+        "addr:city": "Jena",
+        "addr:country": "US",
+        "addr:full": "3670 W Oak St",
+        "addr:housenumber": "3670",
+        "addr:postcode": "71342",
+        "addr:state": "LA",
+        "addr:street": "West Oak Street",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-318-992-1351",
+        "ref:walmart": "498",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/498/jena-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1404735,
+          31.6927546
+        ]
+      },
+      "id": "node/5315597935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597939",
+        "addr:city": "Donaldsonville",
+        "addr:country": "US",
+        "addr:full": "1351 Marchand Dr.",
+        "addr:housenumber": "1351",
+        "addr:postcode": "70346",
+        "addr:state": "LA",
+        "addr:street": "Marchand Drive",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Walmart",
+        "phone": "+1-225-473-6687",
+        "ref:walmart": "485",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/485/donaldsonville-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.980352,
+          30.095133
+        ]
+      },
+      "id": "node/5315597939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597954",
+        "addr:city": "Lake Charles",
+        "addr:country": "US",
+        "addr:full": "3415 Gerstner Memorial Blvd",
+        "addr:housenumber": "3415",
+        "addr:postcode": "70607",
+        "addr:state": "LA",
+        "addr:street": "Gerstner Memorial Boulevard",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-337-477-7799",
+        "ref:walmart": "469",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/469/lake-charles-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.17622,
+          30.195609
+        ]
+      },
+      "id": "node/5315597954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597968",
+        "addr:city": "Baton Rouge",
+        "addr:country": "US",
+        "addr:full": "5255 Highland Rd",
+        "addr:housenumber": "5255",
+        "addr:postcode": "70808",
+        "addr:state": "LA",
+        "addr:street": "Highland Road",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-225-766-7776",
+        "ref:walmart": "4659",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/4659/baton-rouge-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.160018,
+          30.395741
+        ]
+      },
+      "id": "node/5315597968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598009",
+        "addr:city": "Shreveport",
+        "addr:country": "US",
+        "addr:full": "9550 Mansfield Rd",
+        "addr:housenumber": "9550",
+        "addr:postcode": "71118",
+        "addr:state": "LA",
+        "addr:street": "Mansfield Road",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-318-688-0538",
+        "ref:walmart": "450",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/450/shreveport-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.819215,
+          32.388433
+        ]
+      },
+      "id": "node/5315598009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598076",
+        "addr:city": "Alexandria",
+        "addr:country": "US",
+        "addr:full": "6225 Coliseum Blvd",
+        "addr:housenumber": "6225",
+        "addr:postcode": "71303",
+        "addr:state": "LA",
+        "addr:street": "Coliseum Boulevard",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "operator:wikidata": "Q483551",
+        "operator:wikipedia": "en:Walmart",
+        "phone": "+1-318-448-8881",
+        "ref:walmart": "4295",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/4295/alexandria-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.513688,
+          31.292001
+        ]
+      },
+      "id": "node/5315598076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598079",
+        "addr:city": "Zachary",
+        "addr:country": "US",
+        "addr:full": "5801 Main St",
+        "addr:housenumber": "5801",
+        "addr:postcode": "70791",
+        "addr:state": "LA",
+        "addr:street": "Main Street",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-225-654-0313",
+        "ref:walmart": "428",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/428/zachary-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1421476,
+          30.6511982
+        ]
+      },
+      "id": "node/5315598079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598118",
+        "addr:city": "Broussard",
+        "addr:country": "US",
+        "addr:full": "123 Saint Nazaire Rd",
+        "addr:housenumber": "123",
+        "addr:postcode": "70518",
+        "addr:state": "LA",
+        "addr:street": "Saint Nazaire Road",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-337-837-8886",
+        "ref:walmart": "415",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/415/broussard-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.943449,
+          30.144151
+        ]
+      },
+      "id": "node/5315598118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598126",
+        "addr:city": "Ponchatoula",
+        "addr:country": "US",
+        "addr:full": "1331 Hwy 51",
+        "addr:housenumber": "1331",
+        "addr:postcode": "70454",
+        "addr:state": "LA",
+        "addr:street": "Highway 51",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-985-467-8046",
+        "ref:walmart": "4129",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/4129/ponchatoula-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.453331,
+          30.443733
+        ]
+      },
+      "id": "node/5315598126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598144",
+        "addr:city": "Prairieville",
+        "addr:country": "US",
+        "addr:full": "40567 La Hwy 42",
+        "addr:housenumber": "40567",
+        "addr:postcode": "70769",
+        "addr:state": "LA",
+        "addr:street": "La Highway 42",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-225-622-4200",
+        "ref:walmart": "4048",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/4048/prairieville-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.92082,
+          30.323437
+        ]
+      },
+      "id": "node/5315598144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598146",
+        "addr:city": "Breaux Bridge",
+        "addr:country": "US",
+        "addr:full": "1932 Rees St",
+        "addr:housenumber": "1932",
+        "addr:postcode": "70517",
+        "addr:state": "LA",
+        "addr:street": "Rees Street",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-337-332-1280",
+        "ref:walmart": "402",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/402/breaux-bridge-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.910347,
+          30.293263
+        ]
+      },
+      "id": "node/5315598146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598164",
+        "addr:city": "Shreveport",
+        "addr:country": "US",
+        "addr:full": "1125 Shreveport Barksdale Hwy",
+        "addr:housenumber": "1125",
+        "addr:postcode": "71105",
+        "addr:state": "LA",
+        "addr:street": "Shreveport Barksdale Highway",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-318-861-9202",
+        "ref:walmart": "3868",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3868/shreveport-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.705344,
+          32.48368
+        ]
+      },
+      "id": "node/5315598164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598188",
+        "addr:city": "Bossier City",
+        "addr:country": "US",
+        "addr:full": "5700 Shed Road",
+        "addr:housenumber": "5700",
+        "addr:postcode": "71111",
+        "addr:state": "LA",
+        "addr:street": "Shed Road",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-318-606-6575",
+        "ref:walmart": "3752",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3752/bossier-city-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.648246,
+          32.55969
+        ]
+      },
+      "id": "node/5315598188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598191",
+        "addr:city": "Shreveport",
+        "addr:country": "US",
+        "addr:full": "412 Bert Kouns Industrial Loop",
+        "addr:housenumber": "412",
+        "addr:postcode": "71106",
+        "addr:state": "LA",
+        "addr:street": "Bert Kouns Industrial Loop",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-318-840-0480",
+        "ref:walmart": "3746",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3746/shreveport-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.765036,
+          32.399649
+        ]
+      },
+      "id": "node/5315598191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598192",
+        "addr:city": "Monroe",
+        "addr:country": "US",
+        "addr:full": "1840 Mckeen Place",
+        "addr:housenumber": "1840",
+        "addr:postcode": "71201",
+        "addr:state": "LA",
+        "addr:street": "McKeen Place",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-318-267-3616",
+        "ref:walmart": "3745",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3745/monroe-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.113661,
+          32.526989
+        ]
+      },
+      "id": "node/5315598192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598193",
+        "addr:city": "West Monroe",
+        "addr:country": "US",
+        "addr:full": "2400 Cypress Street",
+        "addr:housenumber": "2400",
+        "addr:postcode": "71291",
+        "addr:state": "LA",
+        "addr:street": "Cypress Street",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-318-267-3000",
+        "ref:walmart": "3743",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3743/west-monroe-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.144564,
+          32.519587
+        ]
+      },
+      "id": "node/5315598193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598198",
+        "addr:city": "Pineville",
+        "addr:country": "US",
+        "addr:full": "2750 Hwy 28 East",
+        "addr:housenumber": "2750",
+        "addr:postcode": "71360",
+        "addr:state": "LA",
+        "addr:street": "Highway 28 East",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "operator:wikidata": "Q483551",
+        "operator:wikipedia": "en:Walmart",
+        "phone": "+1-318-229-4184",
+        "ref:walmart": "3736",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3736/pineville-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.405713,
+          31.331719
+        ]
+      },
+      "id": "node/5315598198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598204",
+        "addr:city": "Alexandria",
+        "addr:country": "US",
+        "addr:full": "812 Belleau Wood",
+        "addr:housenumber": "812",
+        "addr:postcode": "71303",
+        "addr:state": "LA",
+        "addr:street": "Belleau Wood",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-318-625-3762",
+        "ref:walmart": "3727",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3727/alexandria-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.487231,
+          31.270914
+        ]
+      },
+      "id": "node/5315598204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598213",
+        "addr:city": "Kenner",
+        "addr:country": "US",
+        "addr:full": "3520 Williams Blvd",
+        "addr:housenumber": "3520",
+        "addr:postcode": "70065",
+        "addr:state": "LA",
+        "addr:street": "Williams Boulevard",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-504-466-6882",
+        "ref:walmart": "3703",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3703/kenner-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.237608,
+          30.020403
+        ]
+      },
+      "id": "node/5315598213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598239",
+        "addr:city": "Amite",
+        "addr:country": "US",
+        "addr:full": "1200 W Oak St",
+        "addr:housenumber": "1200",
+        "addr:postcode": "70422",
+        "addr:state": "LA",
+        "addr:street": "West Oak Street",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-985-748-7707",
+        "ref:walmart": "3616",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3616/amite-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.529634,
+          30.729012
+        ]
+      },
+      "id": "node/5315598239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598873",
+        "addr:city": "Mansfield",
+        "addr:country": "US",
+        "addr:full": "7292 Hwy #509",
+        "addr:housenumber": "7292",
+        "addr:postcode": "71052",
+        "addr:state": "LA",
+        "addr:street": "Highway",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-318-872-5711",
+        "ref:walmart": "323",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/323/mansfield-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.68175,
+          32.052932
+        ]
+      },
+      "id": "node/5315598873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598893",
+        "addr:city": "New Orleans",
+        "addr:country": "US",
+        "addr:full": "4301 Chef Menteur Highway",
+        "addr:housenumber": "4301",
+        "addr:postcode": "70126",
+        "addr:state": "LA",
+        "addr:street": "Chef Menteur Highway",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Walmart",
+        "phone": "+1-504-434-6076",
+        "ref:walmart": "3167",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3167-new-orleans-la"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.037914,
+          30.005604
+        ]
+      },
+      "id": "node/5315598893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598915",
+        "addr:city": "Ville Platte",
+        "addr:country": "US",
+        "addr:full": "891 E La Salle St",
+        "addr:housenumber": "891",
+        "addr:postcode": "70586",
+        "addr:state": "LA",
+        "addr:street": "East Lasalle Street",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-337-363-5623",
+        "ref:walmart": "312",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/312/ville-platte-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.260969,
+          30.687254
+        ]
+      },
+      "id": "node/5315598915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598918",
+        "addr:city": "Franklin",
+        "addr:country": "US",
+        "addr:full": "200 Northwest Blvd",
+        "addr:housenumber": "200",
+        "addr:postcode": "70538",
+        "addr:state": "LA",
+        "addr:street": "Northwest Boulevard",
+        "name": "Walmart",
+        "opening_hours": "Mo-Sa 06:00-23:00;Su 06:00-22:00",
+        "operator": "Walmart",
+        "phone": "+1-337-828-2418",
+        "ref:walmart": "311",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/311/franklin-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.51306,
+          29.814155
+        ]
+      },
+      "id": "node/5315598918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598922",
+        "addr:city": "Abbeville",
+        "addr:country": "US",
+        "addr:full": "3005 Charity Street",
+        "addr:housenumber": "3005",
+        "addr:postcode": "70510",
+        "addr:state": "LA",
+        "addr:street": "Charity Street",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-337-893-6485",
+        "ref:walmart": "309",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/309/abbeville-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.095051,
+          29.972971
+        ]
+      },
+      "id": "node/5315598922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598941",
+        "addr:city": "Covington",
+        "addr:country": "US",
+        "addr:full": "2800 N Hwy 190",
+        "addr:housenumber": "2800",
+        "addr:postcode": "70433",
+        "addr:state": "LA",
+        "addr:street": "North Highway 190",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-985-327-6312",
+        "ref:walmart": "3042",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3042/covington-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0847276,
+          30.4720776
+        ]
+      },
+      "id": "node/5315598941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598967",
+        "addr:city": "West Monroe",
+        "addr:country": "US",
+        "addr:full": "5251 Cypress Street",
+        "addr:housenumber": "5251",
+        "addr:postcode": "71291",
+        "addr:state": "LA",
+        "addr:street": "Cypress Street",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "operator:wikidata": "Q483551",
+        "operator:wikipedia": "en:Walmart",
+        "phone": "+1-318-267-3500",
+        "ref:walmart": "2940",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/2940/west-monroe-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.189444,
+          32.514938
+        ]
+      },
+      "id": "node/5315598967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598975",
+        "addr:city": "Monroe",
+        "addr:country": "US",
+        "addr:full": "4430 Desiard Street",
+        "addr:housenumber": "4430",
+        "addr:postcode": "71203",
+        "addr:state": "LA",
+        "addr:street": "Desiard Street",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "operator:wikidata": "Q483551",
+        "operator:wikipedia": "en:Walmart",
+        "phone": "+1-318-267-3608",
+        "ref:walmart": "2919",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/2919/monroe-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0677469,
+          32.5249911
+        ]
+      },
+      "id": "node/5315598975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598979",
+        "addr:city": "Boutte",
+        "addr:country": "US",
+        "addr:full": "13001 Highway 90",
+        "addr:housenumber": "13001",
+        "addr:postcode": "70039",
+        "addr:state": "LA",
+        "addr:street": "Highway 90",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-985-785-0855",
+        "ref:walmart": "2913",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/2913/boutte-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.372369,
+          29.904678
+        ]
+      },
+      "id": "node/5315598979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315599522",
+        "addr:city": "Winnfield",
+        "addr:country": "US",
+        "addr:full": "5940 Highway 167 N",
+        "addr:housenumber": "5940",
+        "addr:postcode": "71483",
+        "addr:state": "LA",
+        "addr:street": "Highway 167 North",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-318-628-2194",
+        "ref:walmart": "244",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/244/winnfield-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.656886,
+          31.950346
+        ]
+      },
+      "id": "node/5315599522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602222",
+        "addr:city": "New Roads",
+        "addr:country": "US",
+        "addr:full": "460 Hospital Rd",
+        "addr:housenumber": "460",
+        "addr:postcode": "70760",
+        "addr:state": "LA",
+        "addr:street": "Hospital Road",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-225-638-8609",
+        "ref:walmart": "1196",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1196/new-roads-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4642,
+          30.688578
+        ]
+      },
+      "id": "node/5315602222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602234",
+        "addr:city": "Springhill",
+        "addr:country": "US",
+        "addr:full": "1920 S Arkansas St",
+        "addr:housenumber": "1920",
+        "addr:postcode": "71075",
+        "addr:state": "LA",
+        "addr:street": "South Arkansas Street",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Walmart",
+        "phone": "+1-318-539-5660",
+        "ref:walmart": "1169",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1169/springhill-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.462724,
+          32.984603
+        ]
+      },
+      "id": "node/5315602234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602240",
+        "addr:city": "Vivian",
+        "addr:country": "US",
+        "addr:full": "929 S Pine St",
+        "addr:housenumber": "929",
+        "addr:postcode": "71082",
+        "addr:state": "LA",
+        "addr:street": "South Pine Street",
+        "name": "Walmart",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "operator": "Walmart",
+        "phone": "+1-318-375-4810",
+        "ref:walmart": "116",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/116/vivian-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.986591,
+          32.857781
+        ]
+      },
+      "id": "node/5315602240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602253",
+        "addr:city": "Port Allen",
+        "addr:country": "US",
+        "addr:full": "3255 La Highway 1 S",
+        "addr:housenumber": "3255",
+        "addr:postcode": "70767",
+        "addr:state": "LA",
+        "addr:street": "La Highway 1 South",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-225-749-7455",
+        "ref:walmart": "1136",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1136/port-allen-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.216458,
+          30.420257
+        ]
+      },
+      "id": "node/5315602253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602258",
+        "addr:city": "Marksville",
+        "addr:country": "US",
+        "addr:full": "7162 Highway 1",
+        "addr:housenumber": "7162",
+        "addr:postcode": "71350",
+        "addr:state": "LA",
+        "addr:street": "Highway 1",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-318-253-4069",
+        "ref:walmart": "1128",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1128/mansura-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.062482,
+          31.095695
+        ]
+      },
+      "id": "node/5315602258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602267",
+        "addr:city": "Farmerville",
+        "addr:country": "US",
+        "addr:full": "833 Sterlington Hwy",
+        "addr:housenumber": "833",
+        "addr:postcode": "71241",
+        "addr:state": "LA",
+        "addr:street": "Sterlington Highway",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-318-368-2535",
+        "ref:walmart": "1110",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1110/farmerville-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.39437,
+          32.773497
+        ]
+      },
+      "id": "node/5315602267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602269",
+        "addr:city": "Rayville",
+        "addr:country": "US",
+        "addr:full": "1806 Julia St",
+        "addr:housenumber": "1806",
+        "addr:postcode": "71269",
+        "addr:state": "LA",
+        "addr:street": "Julia Street",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-318-728-6437",
+        "ref:walmart": "1109",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1109/rayville-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.76335,
+          32.46287
+        ]
+      },
+      "id": "node/5315602269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602270",
+        "addr:city": "Oak Grove",
+        "addr:country": "US",
+        "addr:full": "705 S Constitution Ave",
+        "addr:housenumber": "705",
+        "addr:postcode": "71263",
+        "addr:state": "LA",
+        "addr:street": "South Constitution Avenue",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-01:00",
+        "operator": "Walmart",
+        "phone": "+1-318-428-9631",
+        "ref:walmart": "1108",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1108/oak-grove-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.395153,
+          32.853507
+        ]
+      },
+      "id": "node/5315602270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602271",
+        "addr:city": "Vidalia",
+        "addr:country": "US",
+        "addr:full": "4283 Carter St",
+        "addr:housenumber": "4283",
+        "addr:postcode": "71373",
+        "addr:state": "LA",
+        "addr:street": "Carter Street",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-318-336-8996",
+        "ref:walmart": "1106",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1106/vidalia-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.462452,
+          31.577418
+        ]
+      },
+      "id": "node/5315602271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602272",
+        "addr:city": "Baker",
+        "addr:country": "US",
+        "addr:full": "14507 Plank Rd",
+        "addr:housenumber": "14507",
+        "addr:postcode": "70714",
+        "addr:state": "LA",
+        "addr:street": "Plank Road",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-225-774-2050",
+        "ref:walmart": "1102",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1102/baker-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.131267,
+          30.580162
+        ]
+      },
+      "id": "node/5315602272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5342042881",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4804138,
+          31.2767742
+        ]
+      },
+      "id": "node/5342042881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5473829222",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6712033,
+          30.0808978
+        ]
+      },
+      "id": "node/5473829222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5612904128",
+        "name": "Pecan Island Food Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4238805,
+          29.6477183
+        ]
+      },
+      "id": "node/5612904128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5922272299",
+        "addr:city": "Baton Rouge",
+        "addr:housenumber": "3535",
+        "addr:postcode": "70808",
+        "addr:state": "LA",
+        "addr:street": "Perkins Road",
+        "addr:unit": "315",
+        "brand": "Trader Joe's",
+        "brand:wikidata": "Q688825",
+        "brand:wikipedia": "en:Trader Joe's",
+        "name": "Trader Joe's",
+        "phone": "+1-225-382-0588",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1535477,
+          30.422742
+        ]
+      },
+      "id": "node/5922272299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5929324815",
+        "addr:city": "Slidell",
+        "addr:country": "US",
+        "addr:housenumber": "3130",
+        "addr:postcode": "70458",
+        "addr:state": "LA",
+        "addr:street": "Pontchatrain Drive",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-985-288-6518",
+        "ref:walmart": "6588",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/6588/slidell-la/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.783993,
+          30.260779
+        ]
+      },
+      "id": "node/5929324815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5960496593",
+        "name": "Janise's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0568522,
+          30.4125623
+        ]
+      },
+      "id": "node/5960496593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5973367421",
+        "addr:city": "Baton Rouge",
+        "addr:housenumber": "9110",
+        "addr:postcode": "70815",
+        "addr:state": "LA",
+        "addr:street": "Airline Highway",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "opening_hours": "24/7",
+        "phone": "1-225-923-3226",
+        "shop": "convenience",
+        "website": "https://www.circlek.com/store-locator/US/baton-rouge/9110-airline-hwy/2701905?language=en"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0893443,
+          30.4424461
+        ]
+      },
+      "id": "node/5973367421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5976673723",
+        "addr:city": "Baton Rouge",
+        "addr:housenumber": "9630",
+        "addr:postcode": "70815",
+        "addr:state": "LA",
+        "addr:street": "Florida Boulevard",
+        "name": "Hi Nabor Supermarket",
+        "phone": "(225) 927-5450",
+        "shop": "supermarket",
+        "website": "https://www.hinabor.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0787584,
+          30.4538432
+        ]
+      },
+      "id": "node/5976673723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6018361266",
+        "addr:city": "Franklinton",
+        "addr:housenumber": "26505",
+        "addr:postcode": "70438",
+        "addr:state": "LA",
+        "addr:street": "State Route 62",
+        "name": "Pine Cash Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0137156,
+          30.9072284
+        ]
+      },
+      "id": "node/6018361266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6018361268",
+        "addr:city": "Franklinton",
+        "addr:housenumber": "27019",
+        "addr:postcode": "70438",
+        "addr:state": "LA",
+        "addr:street": "State Route 62",
+        "name": "L L Cp & Grocery Llc",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0137451,
+          30.908309
+        ]
+      },
+      "id": "node/6018361268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6020844586",
+        "name": "Esplanade Mini Mart (24h)",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0615445,
+          29.9646992
+        ]
+      },
+      "id": "node/6020844586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6037619402",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "brand:wikipedia": "en:Save-A-Lot",
+        "name": "Save-A-Lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2378821,
+          30.0180915
+        ]
+      },
+      "id": "node/6037619402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6065095409",
+        "name": "Danny & Clyde's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2041839,
+          29.9638449
+        ]
+      },
+      "id": "node/6065095409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6086653334",
+        "name": "La Placita #2",
+        "shop": "grocery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2410221,
+          29.9967138
+        ]
+      },
+      "id": "node/6086653334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6086653341",
+        "name": "Double Deal",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.241841,
+          29.9961859
+        ]
+      },
+      "id": "node/6086653341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6107581015",
+        "addr:city": "Benton",
+        "addr:housenumber": "6280",
+        "addr:postcode": "71006",
+        "addr:state": "LA",
+        "addr:street": "L A Highway 3",
+        "name": "Brookshire's",
+        "phone": "+1-318-965-3667",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7446611,
+          32.6782275
+        ]
+      },
+      "id": "node/6107581015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6108476663",
+        "addr:city": "Delhi",
+        "addr:housenumber": "902",
+        "addr:postcode": "71232",
+        "addr:state": "LA",
+        "addr:street": "Broadway Street",
+        "name": "Brookshire's",
+        "phone": "+1-318-878-3000",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4936823,
+          32.4495453
+        ]
+      },
+      "id": "node/6108476663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6108513029",
+        "addr:city": "Farmerville",
+        "addr:housenumber": "1018",
+        "addr:postcode": "71241",
+        "addr:state": "LA",
+        "addr:street": "East Highway 2",
+        "brand": "Brookshire's",
+        "brand:wikidata": "Q4975085",
+        "brand:wikipedia": "en:Brookshire Grocery Company",
+        "name": "Brookshire's",
+        "phone": "+1-318-368-2244",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.390421,
+          32.7685237
+        ]
+      },
+      "id": "node/6108513029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6109550106",
+        "addr:city": "Homer",
+        "addr:housenumber": "817",
+        "addr:postcode": "71040",
+        "addr:state": "LA",
+        "addr:street": "West Main",
+        "name": "Brookshire's",
+        "phone": "+1-318-927-9651",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0569877,
+          32.800565
+        ]
+      },
+      "id": "node/6109550106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6109562312",
+        "addr:city": "Mansfield",
+        "addr:housenumber": "1117",
+        "addr:postcode": "71052",
+        "addr:state": "LA",
+        "addr:street": "Polk Street",
+        "name": "Brookshire's",
+        "phone": "+1-318-871-5511",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6968958,
+          32.0387883
+        ]
+      },
+      "id": "node/6109562312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110865786",
+        "addr:city": "Monroe",
+        "addr:housenumber": "7920",
+        "addr:postcode": "71203",
+        "addr:state": "LA",
+        "addr:street": "Desiard Street",
+        "name": "Brookshire's",
+        "phone": "+1-318-345-2680",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0399535,
+          32.5257173
+        ]
+      },
+      "id": "node/6110865786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110930589",
+        "addr:city": "Rayville",
+        "addr:housenumber": "1952",
+        "addr:postcode": "71269",
+        "addr:state": "LA",
+        "addr:street": "South Julia Street",
+        "brand": "Brookshire's",
+        "brand:wikidata": "Q4975085",
+        "name": "Brookshire's",
+        "phone": "+1-318-728-4004",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7604711,
+          32.4616833
+        ]
+      },
+      "id": "node/6110930589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6116185360",
+        "addr:city": "Springhill",
+        "addr:housenumber": "400",
+        "addr:postcode": "71075",
+        "addr:state": "LA",
+        "addr:street": "Butler Street",
+        "name": "Brookshire's",
+        "phone": "+1-318-539-2062",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4664979,
+          33.0064906
+        ]
+      },
+      "id": "node/6116185360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6116223659",
+        "addr:city": "West Monroe",
+        "addr:housenumber": "3426",
+        "addr:postcode": "71291",
+        "addr:state": "LA",
+        "addr:street": "Cypress Street",
+        "addr:unit": "#16",
+        "brand": "Brookshire's",
+        "brand:wikidata": "Q4975085",
+        "brand:wikipedia": "en:Brookshire's Food & Pharmacy",
+        "fax": "+1-318-397-2787",
+        "name": "Brookshire's",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:ebt": "yes",
+        "payment:snap": "yes",
+        "payment:wic": "yes",
+        "phone": "+1-318-396-7090",
+        "shop": "supermarket",
+        "website": "https://www.brookshires.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1610062,
+          32.5186359
+        ]
+      },
+      "id": "node/6116223659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6117533175",
+        "addr:city": "Shreveport",
+        "addr:housenumber": "5828",
+        "addr:postcode": "71106",
+        "addr:state": "LA",
+        "addr:street": "Line Avenue",
+        "name": "Brookshire's",
+        "phone": "+1-318-869-3545",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7472444,
+          32.4559724
+        ]
+      },
+      "id": "node/6117533175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6117556257",
+        "addr:city": "Shreveport",
+        "addr:housenumber": "3000",
+        "addr:postcode": "71107",
+        "addr:state": "LA",
+        "addr:street": "North Market Street",
+        "brand": "Brookshire's",
+        "brand:wikidata": "Q4975085",
+        "brand:wikipedia": "en:Brookshire Grocery Company",
+        "name": "Brookshire's",
+        "phone": "+1-318-424-5560",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7813445,
+          32.5587243
+        ]
+      },
+      "id": "node/6117556257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6117580048",
+        "addr:city": "Shreveport",
+        "addr:housenumber": "388",
+        "addr:state": "LA",
+        "addr:street": "West Bert Kouns Industrial Loop",
+        "name": "Brookshire's",
+        "phone": "+1-318-686-6829",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7624564,
+          32.3997281
+        ]
+      },
+      "id": "node/6117580048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6119221686",
+        "addr:city": "Columbia",
+        "addr:housenumber": "7713",
+        "addr:postcode": "71418",
+        "addr:state": "LA",
+        "addr:street": "Hwy 165",
+        "brand": "Brookshire's",
+        "brand:wikidata": "Q4975085",
+        "brand:wikipedia": "en:Brookshire Grocery Company",
+        "name": "Brookshire's",
+        "phone": "+1-318-649-2822",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0910073,
+          32.0832877
+        ]
+      },
+      "id": "node/6119221686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6119292272",
+        "addr:city": "Winnfield",
+        "addr:housenumber": "817",
+        "addr:postcode": "71483",
+        "addr:state": "LA",
+        "addr:street": "West Court Street",
+        "name": "Brookshire's",
+        "phone": "+1-318-628-2877",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6503544,
+          31.924922
+        ]
+      },
+      "id": "node/6119292272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6119314631",
+        "addr:city": "Shreveport",
+        "addr:housenumber": "3620",
+        "addr:postcode": "71119",
+        "addr:state": "LA",
+        "addr:street": "Pines Road",
+        "name": "Brookshire's",
+        "phone": "+1-318-631-9610",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8671918,
+          32.4788768
+        ]
+      },
+      "id": "node/6119314631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6119358432",
+        "addr:city": "Shreveport",
+        "addr:housenumber": "9250",
+        "addr:postcode": "71118",
+        "addr:state": "LA",
+        "addr:street": "Mansfield Road",
+        "brand": "Brookshire's",
+        "brand:wikidata": "Q4975085",
+        "brand:wikipedia": "en:Brookshire Grocery Company",
+        "name": "Brookshire's",
+        "phone": "+1-318-686-1937",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8064953,
+          32.4016705
+        ]
+      },
+      "id": "node/6119358432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6123473249",
+        "addr:city": "Shreveport",
+        "addr:housenumber": "3705",
+        "addr:postcode": "71109",
+        "addr:state": "LA",
+        "addr:street": "Jewella Avenue",
+        "name": "Super 1 Foods",
+        "phone": "+1-318-635-5711",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7961247,
+          32.4772409
+        ]
+      },
+      "id": "node/6123473249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6123592634",
+        "addr:city": "Shreveport",
+        "addr:housenumber": "745",
+        "addr:postcode": "71105",
+        "addr:state": "LA",
+        "addr:street": "Shreveport Barksdale Highway",
+        "name": "Super 1 Foods",
+        "phone": "+1-318-861-3181",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.714902,
+          32.4782836
+        ]
+      },
+      "id": "node/6123592634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6124077255",
+        "addr:city": "Eunice",
+        "addr:housenumber": "1800",
+        "addr:postcode": "70535",
+        "addr:state": "LA",
+        "addr:street": "West Laurel Avenue",
+        "name": "Super 1 Foods",
+        "phone": "+1-337-457-0878",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4345444,
+          30.4969259
+        ]
+      },
+      "id": "node/6124077255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6124455772",
+        "addr:city": "Crowley",
+        "addr:housenumber": "2004",
+        "addr:postcode": "70526",
+        "addr:state": "LA",
+        "addr:street": "North Parkerson Avenue",
+        "name": "Super 1 Foods",
+        "phone": "+1-337-785-0010",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.380166,
+          30.2288081
+        ]
+      },
+      "id": "node/6124455772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6134049686",
+        "addr:city": "Alexandria",
+        "addr:housenumber": "604",
+        "addr:postcode": "71303",
+        "addr:state": "LA",
+        "addr:street": "Macarthur Drive",
+        "brand": "Super 1 Foods",
+        "brand:wikidata": "Q7642102",
+        "name": "Super 1 Foods",
+        "operator:wikidata": "Q7642102",
+        "operator:wikipedia": "en:Brookshire Grocery Company",
+        "phone": "+1-318-445-4014",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.48087,
+          31.2969292
+        ]
+      },
+      "id": "node/6134049686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6134076069",
+        "addr:city": "Pineville",
+        "addr:housenumber": "2951",
+        "addr:postcode": "71360",
+        "addr:state": "LA",
+        "addr:street": "Cottingham Expy",
+        "name": "Super 1 Foods",
+        "phone": "+1-318-641-7131",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4158598,
+          31.3554563
+        ]
+      },
+      "id": "node/6134076069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6135294277",
+        "addr:city": "Scott",
+        "addr:housenumber": "200",
+        "addr:postcode": "70583",
+        "addr:state": "LA",
+        "name": "Super 1 Foods",
+        "phone": "+1-337-210-2000",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1109025,
+          30.2515411
+        ]
+      },
+      "id": "node/6135294277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6135466552",
+        "addr:city": "Abbeville",
+        "addr:housenumber": "2210",
+        "addr:postcode": "70510",
+        "addr:state": "LA",
+        "addr:street": "Veterans Memorial Drive",
+        "name": "Super 1 Foods",
+        "phone": "+1-337-898-1255",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1046461,
+          29.9754491
+        ]
+      },
+      "id": "node/6135466552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6135500095",
+        "addr:city": "Opelousas",
+        "addr:housenumber": "2418",
+        "addr:postcode": "70570",
+        "addr:state": "LA",
+        "addr:street": "South Union Street",
+        "name": "Super 1 Foods",
+        "phone": "+1-337-948-7802",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0865195,
+          30.5079781
+        ]
+      },
+      "id": "node/6135500095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6138230959",
+        "addr:city": "Lafayette",
+        "addr:housenumber": "215",
+        "addr:postcode": "70501",
+        "addr:state": "LA",
+        "addr:street": "West Willow Street",
+        "name": "Super 1 Foods",
+        "phone": "+1-337-572-9340",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0159073,
+          30.2439088
+        ]
+      },
+      "id": "node/6138230959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6138236244",
+        "addr:city": "Youngsville",
+        "addr:housenumber": "1500",
+        "addr:postcode": "70592",
+        "addr:state": "LA",
+        "addr:street": "Bonin Road",
+        "name": "Super 1 Foods",
+        "phone": "+1- 337-573-6176",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0080791,
+          30.1340266
+        ]
+      },
+      "id": "node/6138236244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6147523833",
+        "addr:city": "West Monroe",
+        "addr:housenumber": "2907",
+        "addr:postcode": "71291",
+        "addr:state": "LA",
+        "addr:street": "Cypress Street",
+        "name": "Super 1 Foods",
+        "phone": "+1-318-322-8665",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1498869,
+          32.5164404
+        ]
+      },
+      "id": "node/6147523833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6147573913",
+        "addr:city": "Monroe",
+        "addr:housenumber": "2810",
+        "addr:postcode": "71201",
+        "addr:state": "LA",
+        "addr:street": "Louisville Avenue",
+        "name": "Super 1 Foods",
+        "phone": "+1-318-322-2237",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0940535,
+          32.5235058
+        ]
+      },
+      "id": "node/6147573913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6147730061",
+        "brand": "Winn-Dixie",
+        "brand:wikidata": "Q1264366",
+        "brand:wikipedia": "en:Winn-Dixie",
+        "name": "Winn-Dixie",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5144988,
+          29.8136949
+        ]
+      },
+      "id": "node/6147730061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6148027704",
+        "addr:city": "Winnsboro",
+        "addr:housenumber": "9",
+        "addr:postcode": "71295",
+        "addr:state": "LA",
+        "addr:street": "Fair Avenue",
+        "name": "Super 1 Foods",
+        "phone": "+1-318-435-7811",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7246464,
+          32.1785586
+        ]
+      },
+      "id": "node/6148027704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6148990282",
+        "addr:city": "Bastrop",
+        "addr:housenumber": "2211",
+        "addr:postcode": "71220",
+        "addr:state": "LA",
+        "addr:street": "East Madison Avenue",
+        "name": "Super 1 Foods",
+        "phone": "+1-318-283-0082",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8846255,
+          32.7780433
+        ]
+      },
+      "id": "node/6148990282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6157559876",
+        "addr:city": "Baton Rouge",
+        "addr:housenumber": "15128",
+        "addr:postcode": "70817",
+        "addr:state": "LA",
+        "addr:street": "Airline Highway",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0083665,
+          30.3572776
+        ]
+      },
+      "id": "node/6157559876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6157559883",
+        "addr:city": "Baton Rouge",
+        "addr:housenumber": "16970",
+        "addr:postcode": "70817",
+        "addr:state": "LA",
+        "addr:street": "Jefferson Highway",
+        "addr:unit": "A",
+        "name": "L A Express Food Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0046902,
+          30.3626589
+        ]
+      },
+      "id": "node/6157559883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6157560911",
+        "addr:city": "Baton Rouge",
+        "addr:postcode": "70817",
+        "addr:state": "LA",
+        "addr:street": "Airline Highway",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0098701,
+          30.3589763
+        ]
+      },
+      "id": "node/6157560911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6157718080",
+        "addr:city": "Baton Rouge",
+        "addr:housenumber": "300",
+        "addr:postcode": "70808",
+        "addr:state": "LA",
+        "addr:street": "Lee Drive",
+        "name": "Brother's Food Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1569771,
+          30.3960871
+        ]
+      },
+      "id": "node/6157718080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6281861304",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1720691,
+          30.0051719
+        ]
+      },
+      "id": "node/6281861304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6346111463",
+        "addr:city": "Hammond",
+        "addr:housenumber": "14006",
+        "addr:postcode": "70403",
+        "addr:state": "LA",
+        "addr:street": "West Club Deluxe Road",
+        "name": "Jeff's Grocery",
+        "operator": "Jeff",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5004766,
+          30.4755189
+        ]
+      },
+      "id": "node/6346111463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6346111464",
+        "addr:city": "Hammond",
+        "addr:housenumber": "14021",
+        "addr:postcode": "70403",
+        "addr:state": "LA",
+        "addr:street": "West Club Deluxe Road",
+        "name": "Miller's Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5000422,
+          30.4763687
+        ]
+      },
+      "id": "node/6346111464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6427890521",
+        "addr:city": "Port Allen",
+        "addr:housenumber": "3857",
+        "addr:postcode": "70767",
+        "addr:state": "LA",
+        "addr:street": "Hwy 1 S",
+        "addr:unit": "Ste E",
+        "description": "SoSis Boutique sells apparel for women of all sizes, plus accessories and shoes in Port Allen, LA. Address: 3857 Hwy 1 S Ste E Port Allen, LA 70767",
+        "email": "shopsosis@gmail.com",
+        "name": "SoSis Boutique",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-16:00",
+        "operator": "Chelsey Blankenship",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "payment:diners_club": "yes",
+        "payment:discover_card": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "phone": "225-442-1568",
+        "shop": "supermarket",
+        "website": "https://shopsosis.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2235341,
+          30.4140686
+        ]
+      },
+      "id": "node/6427890521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6508612396",
+        "addr:city": "west monroe",
+        "addr:postcode": "71292",
+        "addr:state": "LA",
+        "addr:street": "Jonesboro Road",
+        "name": "New Excel",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1917146,
+          32.4143011
+        ]
+      },
+      "id": "node/6508612396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6508719441",
+        "addr:city": "west monroe",
+        "addr:postcode": "71292",
+        "addr:state": "LA",
+        "name": "Fourway Grocery",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2350987,
+          32.4133061
+        ]
+      },
+      "id": "node/6508719441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6555724362",
+        "addr:city": "Baton Rouge",
+        "addr:housenumber": "660",
+        "addr:postcode": "70806",
+        "addr:state": "LA",
+        "addr:street": "Jefferson Highway",
+        "name": "Red Stick Spice Co.",
+        "opening_hours": "Mo-Fr 10:00-18:00, Sa 10:00-17:00, Su 12:00-16:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1308752,
+          30.4436778
+        ]
+      },
+      "id": "node/6555724362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6555883118",
+        "addr:city": "Baton Rouge",
+        "addr:postcode": "70808",
+        "addr:state": "LA",
+        "addr:street": "Perkins Road",
+        "name": "Red Stick Farmers Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1190022,
+          30.398746
+        ]
+      },
+      "id": "node/6555883118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6555903870",
+        "addr:city": "Baton Rouge",
+        "addr:housenumber": "5215",
+        "addr:postcode": "70805",
+        "addr:state": "LA",
+        "addr:street": "Plank Road",
+        "name": "Tony's Seafood",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1545964,
+          30.4970151
+        ]
+      },
+      "id": "node/6555903870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6555919545",
+        "addr:city": "Baton Rouge",
+        "addr:housenumber": "9414",
+        "addr:postcode": "70815",
+        "addr:state": "LA",
+        "addr:street": "Florida Boulevard",
+        "name": "Our Daily Bread",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0834624,
+          30.4543562
+        ]
+      },
+      "id": "node/6555919545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6557758786",
+        "addr:street": "Florida Boulevard",
+        "name": "Greyhound Shop",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1762507,
+          30.4498269
+        ]
+      },
+      "id": "node/6557758786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6559070085",
+        "addr:street": "Esplanade Avenue",
+        "name": "Esplanade Food Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0671541,
+          29.9681034
+        ]
+      },
+      "id": "node/6559070085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6564125485",
+        "addr:housenumber": "135",
+        "addr:postcode": "70124",
+        "addr:street": "Robert E. Lee Boulevard",
+        "name": "Robert Fresh Market",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "5042823428",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1114534,
+          30.0205078
+        ]
+      },
+      "id": "node/6564125485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6746749492",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2327177,
+          30.168341
+        ]
+      },
+      "id": "node/6746749492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6789627139",
+        "name": "Get-N-Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2657948,
+          30.0105257
+        ]
+      },
+      "id": "node/6789627139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6793910277",
+        "name": "Majoria's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3844408,
+          29.9014066
+        ]
+      },
+      "id": "node/6793910277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6804187076",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "brand:wikipedia": "en:Save-A-Lot",
+        "name": "Save-A-Lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2058836,
+          29.9782379
+        ]
+      },
+      "id": "node/6804187076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6907418043",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1946034,
+          30.300184
+        ]
+      },
+      "id": "node/6907418043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6986285784",
+        "name": "Kenner Supermarket",
+        "phone": "+1-504-469-1993",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2384199,
+          30.0249912
+        ]
+      },
+      "id": "node/6986285784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6993735483",
+        "name": "Williams Discount Center",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2385872,
+          30.021752
+        ]
+      },
+      "id": "node/6993735483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6994219448",
+        "brand:wikidata": "Q7371327",
+        "brand:wikipedia": "en:Rouses",
+        "name": "Rouses",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2397469,
+          30.0293025
+        ]
+      },
+      "id": "node/6994219448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7100386837",
+        "drink:beer": "yes",
+        "drink:coffee": "yes",
+        "drink:wine": "yes",
+        "name": "U-Pak-It",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7583574,
+          32.4557253
+        ]
+      },
+      "id": "node/7100386837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7113303877",
+        "name": "CNBC",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2567097,
+          29.9949065
+        ]
+      },
+      "id": "node/7113303877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7113363857",
+        "name": "TripAdvisor",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.253778,
+          29.9937117
+        ]
+      },
+      "id": "node/7113363857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161340455",
+        "addr:housenumber": "58045",
+        "addr:street": "Belleview Drive",
+        "name": "Butcher Boy",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "shop": "convenience",
+        "website": "www.butcherboysupermarket.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.229989,
+          30.2790503
+        ]
+      },
+      "id": "node/7161340455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7161392308",
+        "name": "Easyshop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2343504,
+          30.2865334
+        ]
+      },
+      "id": "node/7161392308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7259837478",
+        "name": "Discount One",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1644042,
+          30.0143471
+        ]
+      },
+      "id": "node/7259837478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7285771200",
+        "addr:street": "2017 West University Avenue",
+        "name": "Shoppers Value Foods",
+        "opening_hours": "Mo-Th, Su 07:00-22:00; Fr, Sa 07:00-23:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0324852,
+          30.231921
+        ]
+      },
+      "id": "node/7285771200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7447558153",
+        "addr:housenumber": "3623",
+        "addr:street": "Jefferson Highway",
+        "name": "Shoppers Value",
+        "phone": "+1-504-831-1840",
+        "shop": "supermarket",
+        "website": "https://www.shoppersvaluefoodsla.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1629602,
+          29.9638542
+        ]
+      },
+      "id": "node/7447558153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7524031718",
+        "name": "Acadian Food Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0924507,
+          30.1961401
+        ]
+      },
+      "id": "node/7524031718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7524031719",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0917855,
+          30.1961169
+        ]
+      },
+      "id": "node/7524031719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7552874685",
+        "brand": "Rouses",
+        "brand:wikidata": "Q7371327",
+        "brand:wikipedia": "en:Rouses",
+        "name": "Rouses",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1513092,
+          30.0013242
+        ]
+      },
+      "id": "node/7552874685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7552874713",
+        "addr:city": "Metairie",
+        "addr:housenumber": "2949",
+        "addr:postcode": "70002",
+        "addr:state": "LA",
+        "addr:street": "Veterans Memorial Boulevard",
+        "brand": "Trader Joe's",
+        "brand:wikidata": "Q688825",
+        "brand:wikipedia": "en:Trader Joe's",
+        "name": "Trader Joe's",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "phone": "+1-504-831-0253",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1521317,
+          30.004488
+        ]
+      },
+      "id": "node/7552874713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7692931093",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0612858,
+          32.640466
+        ]
+      },
+      "id": "node/7692931093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7784844942",
+        "name": "Rouse's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0899138,
+          30.420213
+        ]
+      },
+      "id": "node/7784844942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7820523284",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1074139,
+          30.4296155
+        ]
+      },
+      "id": "node/7820523284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7863448331",
+        "addr:housenumber": "6576",
+        "addr:street": "Jones Creek Road",
+        "name": "Shoppers Value",
+        "opening_hours": "closed",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0197265,
+          30.3932576
+        ]
+      },
+      "id": "node/7863448331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8066898983",
+        "name": "Robért Fresh Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1995016,
+          30.0162227
+        ]
+      },
+      "id": "node/8066898983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8150262563",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6103935,
+          32.5507869
+        ]
+      },
+      "id": "node/8150262563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8185100921",
+        "addr:city": "Walker",
+        "addr:housenumber": "30008",
+        "addr:postcode": "70785",
+        "addr:state": "LA",
+        "addr:street": "Walker Road North",
+        "brand": "On the Run",
+        "brand:wikidata": "Q16931259",
+        "brand:wikipedia": "en:On the Run (convenience store)",
+        "name": "On the Run",
+        "phone": "1-225-664-2645",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.861149,
+          30.4885083
+        ]
+      },
+      "id": "node/8185100921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8272197918",
+        "addr:city": "Slidell",
+        "addr:housenumber": "2000",
+        "addr:state": "LA",
+        "addr:street": "Oak Harbor Boulevard",
+        "name": "The Purple Cow",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7804274,
+          30.2187391
+        ]
+      },
+      "id": "node/8272197918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8272481234",
+        "addr:housenumber": "2710",
+        "addr:street": "Highway 190 North",
+        "name": "We Dat Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0853884,
+          30.4707965
+        ]
+      },
+      "id": "node/8272481234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8353270305",
+        "name": "Canseco's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1408765,
+          29.9871702
+        ]
+      },
+      "id": "node/8353270305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8353300229",
+        "name": "Langenstein's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1318455,
+          29.9875022
+        ]
+      },
+      "id": "node/8353300229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8451778048",
+        "brand": "Love's",
+        "brand:wikidata": "Q1872496",
+        "brand:wikipedia": "en:Love's Travel Stops & Country Stores",
+        "name": "Love's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1948521,
+          30.2518058
+        ]
+      },
+      "id": "node/8451778048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8451778052",
+        "addr:city": "Duson",
+        "addr:housenumber": "400",
+        "addr:postcode": "70529",
+        "addr:state": "LA",
+        "addr:street": "Austria Road",
+        "name": "Big D Truck Stop",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1936798,
+          30.2424995
+        ]
+      },
+      "id": "node/8451778052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8451778058",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1923495,
+          30.2422886
+        ]
+      },
+      "id": "node/8451778058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8452040082",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2501732,
+          30.1940399
+        ]
+      },
+      "id": "node/8452040082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8459917928",
+        "addr:housenumber": "7515",
+        "addr:street": "Perkins Road",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.110009,
+          30.3966574
+        ]
+      },
+      "id": "node/8459917928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8889255324",
+        "name": "Rouses",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1501723,
+          29.9748579
+        ]
+      },
+      "id": "node/8889255324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8917778915",
+        "brand": "The Fresh Market",
+        "brand:wikidata": "Q7735265",
+        "brand:wikipedia": "en:The Fresh Market",
+        "name": "The Fresh Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.130718,
+          30.0037042
+        ]
+      },
+      "id": "node/8917778915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8925230509",
+        "addr:city": "Lafayette",
+        "addr:housenumber": "1100",
+        "addr:postcode": "70506",
+        "addr:state": "LA",
+        "addr:street": "North University Avenue",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0322086,
+          30.2433033
+        ]
+      },
+      "id": "node/8925230509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9051113592",
+        "name": "Rouse's Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0847408,
+          30.4747567
+        ]
+      },
+      "id": "node/9051113592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9106205377",
+        "addr:city": "Baton Rouge",
+        "addr:housenumber": "7580",
+        "addr:postcode": "70810",
+        "addr:state": "LA",
+        "addr:street": "Bluebonnet Boulevard",
+        "name": "Rouses Market",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Rouses Market",
+        "phone": "225 251 1010",
+        "shop": "supermarket",
+        "website": "https://www.rouses.com/locations/rouses-market-69/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0985466,
+          30.3815587
+        ]
+      },
+      "id": "node/9106205377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9120422280",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3189705,
+          30.5680631
+        ]
+      },
+      "id": "node/9120422280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9254906659",
+        "name": "Los Aleros",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.269289,
+          30.0225075
+        ]
+      },
+      "id": "node/9254906659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9321152440",
+        "name": "Jett's Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3670097,
+          30.7852909
+        ]
+      },
+      "id": "node/9321152440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9426973002",
+        "name": "Wingtai Oriental Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2183439,
+          30.1891103
+        ]
+      },
+      "id": "node/9426973002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9559232655",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4633963,
+          31.2741714
+        ]
+      },
+      "id": "node/9559232655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9590221514",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7858002,
+          30.225537
+        ]
+      },
+      "id": "node/9590221514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9590278732",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8056907,
+          30.2306844
+        ]
+      },
+      "id": "node/9590278732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9591515349",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4926331,
+          30.6065093
+        ]
+      },
+      "id": "node/9591515349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9778325457",
+        "addr:city": "Metairie",
+        "addr:housenumber": "211",
+        "addr:postcode": "70005",
+        "addr:street": "Veterans Memorial Boulevard",
+        "brand": "Winn-Dixie",
+        "brand:wikidata": "Q1264366",
+        "name": "Winn-Dixie",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1251289,
+          30.0017608
+        ]
+      },
+      "id": "node/9778325457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9810001278",
+        "name": "Hometown Travis Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8587152,
+          30.8006416
+        ]
+      },
+      "id": "node/9810001278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901010901",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8136842,
+          29.6788041
+        ]
+      },
+      "id": "node/9901010901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9987360917",
+        "addr:housenumber": "333",
+        "addr:postcode": "70130",
+        "addr:street": "Julia Street",
+        "name": "Nesbit’s Market",
+        "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00",
+        "phone": "+1 504 592 7559",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0667288,
+          29.9448422
+        ]
+      },
+      "id": "node/9987360917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10069013496",
+        "addr:city": "Baton Rouge",
+        "addr:housenumber": "14827",
+        "addr:postcode": "70817",
+        "addr:state": "LA",
+        "addr:street": "Coursey Boulevard",
+        "amenity": "marketplace",
+        "name": "Farmer's & Artist's Market",
+        "opening_hours": "Sa 06:00-13:00",
+        "website": "https://www.marketattheoasis.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0240138,
+          30.4090581
+        ]
+      },
+      "id": "node/10069013496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10104481415",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1517488,
+          30.4437853
+        ]
+      },
+      "id": "node/10104481415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10195541305",
+        "addr:city": "Louisiana",
+        "addr:housenumber": "501",
+        "addr:postcode": "63353",
+        "addr:state": "MO",
+        "addr:street": "South Carolina Street",
+        "name": "Karl's Grocery Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0486722,
+          39.4485835
+        ]
+      },
+      "id": "node/10195541305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10195727186",
+        "addr:city": "Louisiana",
+        "addr:housenumber": "3328",
+        "addr:postcode": "63353",
+        "addr:state": "MO",
+        "addr:street": "Georgia Street",
+        "name": "County Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0714564,
+          39.4312097
+        ]
+      },
+      "id": "node/10195727186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10197665988",
+        "name": "Shoppers Value",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1420086,
+          29.8963788
+        ]
+      },
+      "id": "node/10197665988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10197726550",
+        "name": "Quick-N-Karry",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1651174,
+          29.9104606
+        ]
+      },
+      "id": "node/10197726550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10198567894",
+        "name": "Brother's Food Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0182007,
+          29.9243459
+        ]
+      },
+      "id": "node/10198567894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10215078909",
+        "check_date": "2022-11-24",
+        "name": "Parish Provisions",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2551494,
+          29.9963956
+        ]
+      },
+      "id": "node/10215078909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10242891745",
+        "addr:city": "Mandeville",
+        "addr:housenumber": "4350",
+        "addr:postcode": "70471",
+        "addr:state": "LA",
+        "addr:street": "Highway 22",
+        "brand": "Rouses",
+        "brand:wikidata": "Q7371327",
+        "name": "Rouses",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1-985-674-7573",
+        "ref": "32",
+        "shop": "supermarket",
+        "website": "https://www.rouses.com/locations/rouses-market-32/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0998589,
+          30.3958425
+        ]
+      },
+      "id": "node/10242891745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10249679894",
+        "amenity": "marketplace",
+        "name": "Lit'l bit of Yesterday",
+        "phone": "(318) 329-8284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1511657,
+          32.5185621
+        ]
+      },
+      "id": "node/10249679894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10563739431",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "name": "ALDI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2274012,
+          30.0073063
+        ]
+      },
+      "id": "node/10563739431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10576018120",
+        "addr:city": "Kentwood",
+        "addr:housenumber": "802",
+        "addr:postcode": "70444",
+        "addr:state": "LA",
+        "addr:street": "Ave G",
+        "name": "Kentwood Shell",
+        "opening_hours": "24/7",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:cheque": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "985-614-5050",
+        "shop": "convenience",
+        "website": "https://kentwoodshell.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5219463,
+          30.9364732
+        ]
+      },
+      "id": "node/10576018120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10600196550",
+        "addr:housenumber": "3708",
+        "addr:street": "Saint Claude Avenue",
+        "check_date": "2023-02-01",
+        "description": "wine, beer, liquor, groceries, fresh hot food, vegan, grilled oyster",
+        "name": "Mike's Food Store",
+        "opening_hours": "08:00-24:00",
+        "phone": "+1 504-942-2448",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0378063,
+          29.9660199
+        ]
+      },
+      "id": "node/10600196550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10647865158",
+        "facebook": "https://www.facebook.com/people/Keys-Fuel-Mart/100066729907321/",
+        "name": "Key's Fuelmart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0653444,
+          29.9645576
+        ]
+      },
+      "id": "node/10647865158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10671475508",
+        "name": "Family Dollar",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0357231,
+          29.8774282
+        ]
+      },
+      "id": "node/10671475508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10671507506",
+        "name": "Dollar General",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0306083,
+          29.8999899
+        ]
+      },
+      "id": "node/10671507506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340247517",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-51-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978518,
+          41.8912427
+        ]
+      },
+      "id": "node/5340247517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340252322",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-49-50 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4973968,
+          41.8913872
+        ]
+      },
+      "id": "node/5340252322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535092255",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915049,
+          41.8918027
+        ]
+      },
+      "id": "node/5535092255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5801329944",
+        "amenity": "drinking_water",
+        "description:de": "Wasserbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4884569,
+          41.8880861
+        ]
+      },
+      "id": "node/5801329944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6547164641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Via in Miranda, Foro Romano, Roma, Italia Oct 05, 2022 04-55-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870814,
+          41.8924043
+        ]
+      },
+      "id": "node/6547164641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6616168986",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4967144,
+          41.8922741
+        ]
+      },
+      "id": "node/6616168986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6841124063",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926345,
+          41.8906387
+        ]
+      },
+      "id": "node/6841124063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085935353",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941883,
+          41.8915996
+        ]
+      },
+      "id": "node/7085935353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7203154248",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Via Marco Aurelio, Roma, Italia Jun 30, 2022 08-08-32 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4955486,
+          41.8882028
+        ]
+      },
+      "id": "node/7203154248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9108120217",
+        "amenity": "drinking_water",
+        "name": "Acqua",
+        "name:en": "Drinkable water",
+        "name:fr": "Eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4847106,
+          41.8877336
+        ]
+      },
+      "id": "node/9108120217"
+    }
+  ]
+}

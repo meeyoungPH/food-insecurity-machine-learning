@@ -1,0 +1,2513 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-05T23:24:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266310881",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934985,
+          41.8923773
+        ]
+      },
+      "id": "node/266310881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388984003",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494519,
+          41.8877413
+        ]
+      },
+      "id": "node/388984003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/466888051",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "operator": "Valero",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6421016,
+          39.6213133
+        ]
+      },
+      "id": "node/466888051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/471727076",
+        "addr:housenumber": "1100",
+        "addr:street": "Pulaski Highway",
+        "brand": "Wawa",
+        "brand:wikidata": "Q5936320",
+        "brand:wikipedia": "en:Wawa (company)",
+        "name": "Wawa",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "shop": "convenience",
+        "url": "http://www.wawa.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6604376,
+          39.6318681
+        ]
+      },
+      "id": "node/471727076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495113034",
+        "amenity": "drinking_water",
+        "check_date": "2022-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934283,
+          41.8913309
+        ]
+      },
+      "id": "node/495113034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/571681012",
+        "addr:housenumber": "7417",
+        "addr:postcode": "19707",
+        "addr:street": "Lancaster Pike",
+        "alt_name": "Harvest Market",
+        "name": "Harvest Market Natural Foods",
+        "shop": "supermarket",
+        "website": "https://www.harvestmarketnaturalfoods.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.695537,
+          39.7890853
+        ]
+      },
+      "id": "node/571681012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685457655",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4867108,
+          41.8902623
+        ]
+      },
+      "id": "node/685457655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685461877",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4875779,
+          41.8891234
+        ]
+      },
+      "id": "node/685461877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/849830465",
+        "building": "entrance",
+        "shop": "convenience",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6488889,
+          39.6399295
+        ]
+      },
+      "id": "node/849830465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/872536878",
+        "name": "Sammy’s Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0789676,
+          38.7152819
+        ]
+      },
+      "id": "node/872536878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890053",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4879526,
+          41.8887986
+        ]
+      },
+      "id": "node/953890053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890062",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883755,
+          41.890985
+        ]
+      },
+      "id": "node/953890062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953909059",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via dei santi Quattro,roma,italy 62022.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968765,
+          41.8889852
+        ]
+      },
+      "id": "node/953909059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1170494282",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942213,
+          41.8900377
+        ]
+      },
+      "id": "node/1170494282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1398007743",
+        "addr:city": "Smyrna",
+        "addr:housenumber": "215",
+        "addr:postcode": "19977",
+        "addr:state": "DE",
+        "addr:street": "Stadium Street",
+        "brand": "Food Lion",
+        "brand:wikidata": "Q1435950",
+        "brand:wikipedia": "en:Food Lion",
+        "name": "Food Lion",
+        "phone": "+1 (302) 659-5593",
+        "shop": "supermarket",
+        "website": "https://www.foodlion.com/",
+        "wheelchair": "yes",
+        "wheelchair:description": "perfect"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5909896,
+          39.2801631
+        ]
+      },
+      "id": "node/1398007743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1513615389",
+        "addr:city": "Newark",
+        "addr:housenumber": "100",
+        "addr:postcode": "19711",
+        "addr:state": "DE",
+        "addr:street": "College Square",
+        "brand": "Acme",
+        "brand:wikidata": "Q341975",
+        "brand:wikipedia": "en:Acme Markets",
+        "name": "Acme",
+        "phone": "+1 302 286 0425",
+        "shop": "supermarket",
+        "source": "survey",
+        "survey:date": "2011-11-22",
+        "website": "https://local.acmemarkets.com/de/newark/100-college-square.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7353412,
+          39.6826469
+        ]
+      },
+      "id": "node/1513615389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656861982",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883955,
+          41.8907173
+        ]
+      },
+      "id": "node/1656861982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709280191",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-02",
+        "fountain": "bottle_refill",
+        "name:ru": "вода с газом и без. бесплатная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911794,
+          41.891319
+        ]
+      },
+      "id": "node/1709280191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1975437834",
+        "addr:city": "Middlesex Centre",
+        "addr:housenumber": "4",
+        "addr:street": "York Street",
+        "name": "BJs Country Market",
+        "name:en": "BJs Country Market",
+        "shop": "convenience",
+        "source": "NRCan-CanVec-10.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4196739,
+          42.9078146
+        ]
+      },
+      "id": "node/1975437834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2037560161",
+        "amenity": "truck_rental",
+        "amenity:source": "survey 2012-11",
+        "name": "Getty Oil",
+        "shop": "convenience",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6568911,
+          39.5790146
+        ]
+      },
+      "id": "node/2037560161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2100732237",
+        "brand": "Food Lion",
+        "brand:wikidata": "Q1435950",
+        "brand:wikipedia": "en:Food Lion",
+        "name": "Food Lion",
+        "phone": "+1 302-325-9158",
+        "ref:foodlion": "2153",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6240557,
+          39.6411821
+        ]
+      },
+      "id": "node/2100732237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2100732240",
+        "addr:city": "New Castle",
+        "addr:housename": "Route 13 & Saienni Boulevard",
+        "addr:postcode": "19720",
+        "brand": "Wawa",
+        "brand:wikidata": "Q5936320",
+        "brand:wikipedia": "en:Wawa (company)",
+        "name": "Wawa",
+        "ref:wawa": "857",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6256705,
+          39.6412392
+        ]
+      },
+      "id": "node/2100732240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2106030086",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6416346,
+          39.6198425
+        ]
+      },
+      "id": "node/2106030086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2120131288",
+        "brand": "Dash In",
+        "brand:wikidata": "Q108809024",
+        "name": "Dash In",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6194008,
+          39.6518766
+        ]
+      },
+      "id": "node/2120131288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2151428858",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5853573,
+          39.750985
+        ]
+      },
+      "id": "node/2151428858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2258918522",
+        "addr:city": "New Castle",
+        "addr:housenumber": "506",
+        "addr:postcode": "19720-0001",
+        "addr:state": "DE",
+        "addr:street": "North Dupont Highway",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "2814",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5869602,
+          39.6833933
+        ]
+      },
+      "id": "node/2258918522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537299968",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "indoor": "no",
+        "wikimedia_commons": "File:Nasone via mecenate, Roma, Italia Jun 30, 2022 06-19-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4987211,
+          41.8911676
+        ]
+      },
+      "id": "node/2537299968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2738833230",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2626999,
+          37.1893737
+        ]
+      },
+      "id": "node/2738833230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3102740532",
+        "addr:city": "Newark",
+        "addr:housenumber": "276",
+        "addr:street": "East Main Street",
+        "name": "Wang's Oriental Food Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7421172,
+          39.6849574
+        ]
+      },
+      "id": "node/3102740532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3536635068",
+        "name": "ACME Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7758256,
+          39.667958
+        ]
+      },
+      "id": "node/3536635068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3564534724",
+        "brand": "Acme",
+        "brand:wikidata": "Q341975",
+        "brand:wikipedia": "en:Acme Markets",
+        "name": "Acme",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5326407,
+          39.1853167
+        ]
+      },
+      "id": "node/3564534724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3564586002",
+        "brand": "Tiger Mart",
+        "brand:wikidata": "Q57643977",
+        "name": "Tiger Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5537524,
+          39.1977918
+        ]
+      },
+      "id": "node/3564586002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3658977263",
+        "addr:city": "Clarksville",
+        "addr:state": "DE",
+        "name": "Hocker's Super Center",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1305006,
+          38.5498105
+        ]
+      },
+      "id": "node/3658977263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3660711325",
+        "addr:city": "South Bethany",
+        "addr:housenumber": "34444",
+        "addr:postcode": "19930",
+        "addr:street": "Coastal Highway",
+        "addr:unit": "Unit 1",
+        "name": "McCabe's Gourmet Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.055178,
+          38.509755
+        ]
+      },
+      "id": "node/3660711325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3700232555",
+        "brand": "Weis",
+        "brand:wikidata": "Q7980370",
+        "brand:wikipedia": "en:Weis Markets",
+        "name": "Weis",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1249337,
+          38.7225024
+        ]
+      },
+      "id": "node/3700232555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785014818",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934389,
+          41.8873381
+        ]
+      },
+      "id": "node/3785014818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4362176090",
+        "name": "Little Beaver Variety",
+        "name:en": "Little Beaver Variety",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.419937,
+          42.9078272
+        ]
+      },
+      "id": "node/4362176090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4365671689",
+        "name": "Delaware Variety",
+        "name:en": "Delaware Variety",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4210495,
+          42.9078364
+        ]
+      },
+      "id": "node/4365671689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4383898038",
+        "name": "Acme",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7088241,
+          39.7737288
+        ]
+      },
+      "id": "node/4383898038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4386222674",
+        "brand": "Acme",
+        "brand:wikidata": "Q341975",
+        "brand:wikipedia": "en:Acme Markets",
+        "name": "Acme",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.693338,
+          39.7398479
+        ]
+      },
+      "id": "node/4386222674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4560503518",
+        "addr:city": "Georgetown",
+        "addr:housenumber": "515",
+        "addr:postcode": "19947",
+        "addr:state": "DE",
+        "addr:street": "College Park Lane",
+        "brand": "Redner's",
+        "brand:wikidata": "Q7306166",
+        "brand:wikipedia": "en:Redner's Markets",
+        "name": "Redner's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4041749,
+          38.7006842
+        ]
+      },
+      "id": "node/4560503518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4569064297",
+        "name": "Zingo's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7096812,
+          39.7187428
+        ]
+      },
+      "id": "node/4569064297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4739109422",
+        "brand": "Acme",
+        "brand:wikidata": "Q341975",
+        "brand:wikipedia": "en:Acme Markets",
+        "name": "Acme",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6528262,
+          39.7287129
+        ]
+      },
+      "id": "node/4739109422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4804702284",
+        "addr:city": "Lewes",
+        "addr:housenumber": "34396",
+        "addr:postcode": "19958",
+        "addr:state": "DE",
+        "addr:street": "Tenley Court",
+        "name": "Jerusalem International Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1508269,
+          38.7421028
+        ]
+      },
+      "id": "node/4804702284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4955155188",
+        "addr:city": "Rehoboth Beach",
+        "addr:housenumber": "18578",
+        "addr:postcode": "19971",
+        "addr:state": "DE",
+        "addr:street": "Coastal Highway",
+        "brand": "Acme",
+        "brand:wikidata": "Q341975",
+        "brand:wikipedia": "en:Acme Markets",
+        "name": "Acme",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.143521,
+          38.7366067
+        ]
+      },
+      "id": "node/4955155188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4972657688",
+        "brand": "Food Lion",
+        "brand:wikidata": "Q1435950",
+        "brand:wikipedia": "en:Food Lion",
+        "name": "Food Lion",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5645869,
+          38.9257774
+        ]
+      },
+      "id": "node/4972657688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4972702885",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4434338,
+          38.9155432
+        ]
+      },
+      "id": "node/4972702885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4973184513",
+        "addr:city": "Millsboro",
+        "addr:housenumber": "24832",
+        "addr:postcode": "19966",
+        "addr:state": "DE",
+        "addr:street": "John J Williams Highway",
+        "name": "Weis Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1950002,
+          38.6369733
+        ]
+      },
+      "id": "node/4973184513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4974354981",
+        "addr:city": "Selbyville",
+        "addr:housenumber": "38223",
+        "addr:postcode": "19975",
+        "addr:state": "DE",
+        "addr:street": "Dupont Boulevard",
+        "brand": "Food Lion",
+        "brand:wikidata": "Q1435950",
+        "brand:wikipedia": "en:Food Lion",
+        "name": "Food Lion",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2319546,
+          38.4588793
+        ]
+      },
+      "id": "node/4974354981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5054405052",
+        "addr:city": "Laurel",
+        "addr:housenumber": "30214",
+        "addr:postcode": "19956",
+        "addr:state": "DE",
+        "addr:street": "Sussex Highway",
+        "brand": "Food Lion",
+        "brand:wikidata": "Q1435950",
+        "brand:wikipedia": "en:Food Lion",
+        "name": "Food Lion",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5664812,
+          38.5732789
+        ]
+      },
+      "id": "node/5054405052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5054502056",
+        "addr:city": "Laurel",
+        "addr:housenumber": "309",
+        "addr:postcode": "19956",
+        "addr:state": "DE",
+        "addr:street": "North Central Avenue",
+        "name": "Do Do Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5713806,
+          38.5603151
+        ]
+      },
+      "id": "node/5054502056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5054502058",
+        "addr:city": "Laurel",
+        "addr:housenumber": "309",
+        "addr:postcode": "19956",
+        "addr:state": "DE",
+        "addr:street": "North Central Avenue",
+        "name": "Shore Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5713608,
+          38.5602318
+        ]
+      },
+      "id": "node/5054502058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5076390865",
+        "addr:city": "Georgetown",
+        "addr:housenumber": "6",
+        "addr:postcode": "19947",
+        "addr:state": "DE",
+        "addr:street": "College Park Lane",
+        "name": "El Charro Mexican Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4037004,
+          38.703812
+        ]
+      },
+      "id": "node/5076390865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5076685279",
+        "addr:city": "Delmar",
+        "addr:housenumber": "38650",
+        "addr:postcode": "19940",
+        "addr:state": "DE",
+        "addr:street": "Sussex Highway",
+        "addr:unit": "1",
+        "brand": "Food Lion",
+        "brand:wikidata": "Q1435950",
+        "brand:wikipedia": "en:Food Lion",
+        "name": "Food Lion",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5597353,
+          38.4582351
+        ]
+      },
+      "id": "node/5076685279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5143045420",
+        "addr:city": "Millsboro",
+        "addr:housenumber": "26370",
+        "addr:postcode": "19966",
+        "addr:state": "DE",
+        "addr:street": "Bay Farm Road",
+        "brand": "Harris Teeter",
+        "brand:wikidata": "Q5665067",
+        "brand:wikipedia": "en:Harris Teeter",
+        "name": "Harris Teeter",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1948813,
+          38.625017
+        ]
+      },
+      "id": "node/5143045420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5251222382",
+        "addr:city": "Wilmington",
+        "addr:housenumber": "5605",
+        "addr:postcode": "19803",
+        "addr:state": "DE",
+        "addr:street": "Concord Pike",
+        "brand": "Trader Joe's",
+        "brand:wikidata": "Q688825",
+        "brand:wikipedia": "en:Trader Joe's",
+        "name": "Trader Joe's",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "shop": "supermarket",
+        "website": "https://www.traderjoes.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5415864,
+          39.83381
+        ]
+      },
+      "id": "node/5251222382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597923",
+        "addr:city": "Camden",
+        "addr:country": "US",
+        "addr:housenumber": "263",
+        "addr:postcode": "19934",
+        "addr:state": "DE",
+        "addr:street": "Walmart Drive",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-302-698-9170",
+        "ref:walmart": "5039",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/5039/camden-de/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.546151,
+          39.102742
+        ]
+      },
+      "id": "node/5315597923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5318635471",
+        "addr:city": "Newark",
+        "addr:housenumber": "13",
+        "addr:postcode": "19711",
+        "addr:state": "DE",
+        "addr:street": "North Chapel Street",
+        "cuisine": "mexican",
+        "name": "Mi Ranchito",
+        "payment:bitcoincash": "yes",
+        "phone": "+1-302-894-0322",
+        "shop": "supermarket",
+        "website": "https://www.ordermiranchitoonline.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7459195,
+          39.6841036
+        ]
+      },
+      "id": "node/5318635471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5318946625",
+        "addr:city": "Newark",
+        "addr:housenumber": "46",
+        "addr:postcode": "19711",
+        "addr:state": "DE",
+        "addr:street": "East Main Street",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "phone": "+1-302-737-1850",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7516263,
+          39.6832602
+        ]
+      },
+      "id": "node/5318946625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5369201572",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0356504,
+          40.2952742
+        ]
+      },
+      "id": "node/5369201572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5583399933",
+        "addr:city": "Wilmington",
+        "addr:housenumber": "2098",
+        "addr:postcode": "19810",
+        "addr:state": "DE",
+        "addr:street": "Naamans Road",
+        "branch": "Markets",
+        "brand": "Acme",
+        "brand:wikidata": "Q341975",
+        "brand:wikipedia": "en:Acme Markets",
+        "name": "Acme",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5005006,
+          39.8237688
+        ]
+      },
+      "id": "node/5583399933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5600324067",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0867688,
+          38.7159273
+        ]
+      },
+      "id": "node/5600324067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5600378282",
+        "name": "Hiway Convenience",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1200726,
+          38.7205076
+        ]
+      },
+      "id": "node/5600378282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5614066696",
+        "name": "1 Stop Food Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3786275,
+          38.6952699
+        ]
+      },
+      "id": "node/5614066696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5649226321",
+        "name": "Cigarette Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5819469,
+          39.6891106
+        ]
+      },
+      "id": "node/5649226321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5649226322",
+        "name": "Lottery",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.581839,
+          39.689278
+        ]
+      },
+      "id": "node/5649226322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5824204938",
+        "name": "Z Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6913644,
+          39.6622914
+        ]
+      },
+      "id": "node/5824204938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6110918544",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6153616,
+          39.314993
+        ]
+      },
+      "id": "node/6110918544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6111217677",
+        "name": "Shore Shop Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6075858,
+          39.3062032
+        ]
+      },
+      "id": "node/6111217677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6352978420",
+        "brand": "Sprouts Farmers Market",
+        "brand:wikidata": "Q7581369",
+        "brand:wikipedia": "en:Sprouts Farmers Market",
+        "name": "Sprouts Farmers Market",
+        "shop": "supermarket",
+        "short_name": "Sprouts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5429865,
+          39.8257462
+        ]
+      },
+      "id": "node/6352978420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6355486913",
+        "name": "Chefs’ Haven",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6977989,
+          39.7881364
+        ]
+      },
+      "id": "node/6355486913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6366158396",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "brand:wikipedia": "en:Save-A-Lot",
+        "name": "Save-A-Lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5686555,
+          39.7439937
+        ]
+      },
+      "id": "node/6366158396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6369202649",
+        "addr:city": "Bridgeville",
+        "addr:housenumber": "9537",
+        "addr:postcode": "19933",
+        "addr:state": "DE",
+        "addr:street": "Bridgeville Center Road",
+        "brand": "Food Lion",
+        "brand:wikidata": "Q1435950",
+        "brand:wikipedia": "en:Food Lion",
+        "name": "Food Lion",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5851018,
+          38.7191431
+        ]
+      },
+      "id": "node/6369202649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6373325750",
+        "branch": "Food",
+        "brand": "Giant",
+        "brand:wikidata": "Q5558336",
+        "brand:wikipedia": "en:Giant Food (Landover)",
+        "name": "Giant",
+        "official_name": "Giant Food",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5474096,
+          39.8137391
+        ]
+      },
+      "id": "node/6373325750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6421060973",
+        "addr:city": "Seaford",
+        "addr:housenumber": "630",
+        "addr:postcode": "19973",
+        "addr:state": "DE",
+        "addr:street": "W Stein Hwy",
+        "name": "The Open Cupboard Natural Foods",
+        "opening_hours": "Mo-Fr 10:00-17:30, Sa 10:00-17:00",
+        "operator": "Owner",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "302-629-6147",
+        "shop": "health_food",
+        "website": "http://theopencupboard.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6269217,
+          38.6463359
+        ]
+      },
+      "id": "node/6421060973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6448697259",
+        "name": "Gigante",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6324958,
+          39.7367227
+        ]
+      },
+      "id": "node/6448697259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6448748205",
+        "name": "La Simpatica",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.641458,
+          39.7328346
+        ]
+      },
+      "id": "node/6448748205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6448748265",
+        "addr:city": "Wilmington",
+        "addr:country": "US",
+        "addr:county": "New Castle, DE",
+        "addr:housenumber": "2205",
+        "addr:postcode": "19808-5763",
+        "addr:state": "DE",
+        "addr:street": "Farrand Drive",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "delivery": "yes",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 08:30-20:00",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cheque": "no",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:ebt": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:snap": "yes",
+        "payment:visa": "yes",
+        "payment:wic": "no",
+        "phone": "+1 844 460 7149",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6477658,
+          39.7278039
+        ]
+      },
+      "id": "node/6448748265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6459806506",
+        "name": "Brown Bag",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5454804,
+          39.743607
+        ]
+      },
+      "id": "node/6459806506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6463035358",
+        "name": "City Market Deli & Grocery",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5374731,
+          39.7536179
+        ]
+      },
+      "id": "node/6463035358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6463035365",
+        "name": "Home Town Grocery & Deli",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5386332,
+          39.7530892
+        ]
+      },
+      "id": "node/6463035365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6470694581",
+        "brand": "Food Lion",
+        "brand:wikidata": "Q1435950",
+        "brand:wikipedia": "en:Food Lion",
+        "name": "Food Lion",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5442893,
+          39.1566534
+        ]
+      },
+      "id": "node/6470694581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6470698994",
+        "name": "One Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.541221,
+          39.1702447
+        ]
+      },
+      "id": "node/6470698994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6477934025",
+        "name": "La Costena Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7160503,
+          39.4494031
+        ]
+      },
+      "id": "node/6477934025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6477995109",
+        "addr:city": "Middletown",
+        "addr:housenumber": "725",
+        "addr:postcode": "19709",
+        "addr:street": "North Broad Street",
+        "name": "Middletown African Marker",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7174875,
+          39.4593326
+        ]
+      },
+      "id": "node/6477995109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6477995149",
+        "addr:city": "Middletown",
+        "addr:housenumber": "701",
+        "addr:postcode": "19709",
+        "addr:street": "North Broad Street",
+        "name": "Dutch Country Farmers Market",
+        "opening_hours": "Th,Fr 08:30-18:00; Sa 08:30-16:00",
+        "shop": "supermarket",
+        "website": "https://delawarefarmersmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7174801,
+          39.4584546
+        ]
+      },
+      "id": "node/6477995149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6510931358",
+        "branch": "Markets",
+        "brand": "Redner's",
+        "brand:wikidata": "Q7306166",
+        "brand:wikipedia": "en:Redner's Markets",
+        "name": "Redner's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5534672,
+          39.1604696
+        ]
+      },
+      "id": "node/6510931358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6515656161",
+        "name": "Ruby’s Mexican Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7105403,
+          39.6967018
+        ]
+      },
+      "id": "node/6515656161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6515672896",
+        "name": "Asia Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7099731,
+          39.6969416
+        ]
+      },
+      "id": "node/6515672896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6548288493",
+        "name": "Food Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.531235,
+          39.7562451
+        ]
+      },
+      "id": "node/6548288493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6615223796",
+        "name": "Acme",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7120748,
+          39.6066358
+        ]
+      },
+      "id": "node/6615223796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6680433330",
+        "addr:city": "Millsboro",
+        "addr:housenumber": "34792",
+        "addr:postcode": "19966",
+        "addr:state": "DE",
+        "addr:street": "Long Neck Road",
+        "name": "Perry's 1 Stop Shoppes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.134982,
+          38.6218613
+        ]
+      },
+      "id": "node/6680433330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6680641108",
+        "addr:city": "Millsboro",
+        "addr:housenumber": "31507",
+        "addr:postcode": "19966",
+        "addr:state": "DE",
+        "addr:street": "Oak Orchard Road",
+        "name": "La Guadalupana Mexican Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2013035,
+          38.6147952
+        ]
+      },
+      "id": "node/6680641108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6852956106",
+        "name": "International Food Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4813096,
+          39.7830575
+        ]
+      },
+      "id": "node/6852956106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936890662",
+        "amenity": "marketplace",
+        "name": "Guatemex Mini Mart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2918016,
+          38.590958
+        ]
+      },
+      "id": "node/6936890662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7479938053",
+        "brand": "Acme",
+        "brand:wikidata": "Q341975",
+        "brand:wikipedia": "en:Acme Markets",
+        "name": "Acme",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6719106,
+          39.667067
+        ]
+      },
+      "id": "node/7479938053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7518371707",
+        "name": "Byler's Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6013051,
+          39.1550862
+        ]
+      },
+      "id": "node/7518371707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7519505935",
+        "brand": "Acme",
+        "brand:wikidata": "Q341975",
+        "brand:wikipedia": "en:Acme Markets",
+        "name": "Acme",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6104771,
+          39.3061381
+        ]
+      },
+      "id": "node/7519505935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7519648958",
+        "brand": "Wawa",
+        "brand:wikidata": "Q5936320",
+        "brand:wikipedia": "en:Wawa (company)",
+        "name": "Wawa",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6487496,
+          39.5004538
+        ]
+      },
+      "id": "node/7519648958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8195053756",
+        "name": "The Parisii",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "opening_hours:covid19": "Mo-Fr 08:00-12:00",
+        "operator": "The Parisii",
+        "payment:bitcoin": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket",
+        "website": "https://theparisii.online/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5431629,
+          39.1580338
+        ]
+      },
+      "id": "node/8195053756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8949841748",
+        "addr:city": "Dover",
+        "addr:housenumber": "31",
+        "addr:postcode": "19901",
+        "addr:state": "DE",
+        "addr:street": "North Dupont Highway",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "2812",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5156069,
+          39.1644415
+        ]
+      },
+      "id": "node/8949841748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9002366938",
+        "addr:housenumber": "710",
+        "amenity": "fuel",
+        "brand": "Sheetz",
+        "brand:wikidata": "Q7492551",
+        "brand:wikipedia": "en:Sheetz",
+        "name": "Sheetz",
+        "shop": "convenience",
+        "survey:date": "2021-08-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0392441,
+          40.2946058
+        ]
+      },
+      "id": "node/9002366938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9123110325",
+        "addr:city": "Lewes",
+        "addr:housenumber": "17232",
+        "addr:postcode": "19958",
+        "addr:street": "North Village Main Boulevard",
+        "brand": "Weis",
+        "brand:wikidata": "Q7980370",
+        "brand:wikipedia": "en:Weis Markets",
+        "name": "Weis",
+        "official_name": "Weis Markets",
+        "shop": "supermarket",
+        "website": "https://www.weismarkets.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1667324,
+          38.7524873
+        ]
+      },
+      "id": "node/9123110325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9351593053",
+        "brand": "Acme",
+        "brand:wikidata": "Q341975",
+        "brand:wikipedia": "en:Acme Markets",
+        "name": "Acme",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5051886,
+          39.8044137
+        ]
+      },
+      "id": "node/9351593053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9362719624",
+        "name": "Buehlers",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0959509,
+          40.3089603
+        ]
+      },
+      "id": "node/9362719624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9681768347",
+        "brand": "Wawa",
+        "brand:wikidata": "Q5936320",
+        "brand:wikipedia": "en:Wawa (company)",
+        "name": "Wawa",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6148803,
+          39.3162608
+        ]
+      },
+      "id": "node/9681768347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9705352131",
+        "addr:city": "Delaware",
+        "addr:housenumber": "2061",
+        "addr:postcode": "43015",
+        "addr:state": "OH",
+        "addr:street": "US Highway 23 North",
+        "name": "Certified Oil Corp",
+        "ref": "481",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0731271,
+          40.3287979
+        ]
+      },
+      "id": "node/9705352131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9705352171",
+        "addr:city": "Delaware",
+        "addr:housenumber": "2381",
+        "addr:postcode": "43015",
+        "addr:state": "OH",
+        "addr:street": "US Highway 23 North",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "7775",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.074872,
+          40.3332478
+        ]
+      },
+      "id": "node/9705352171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9708249718",
+        "addr:city": "Delaware",
+        "addr:housenumber": "590",
+        "addr:postcode": "43015",
+        "addr:state": "OH",
+        "addr:street": "West Central Avenue",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9189",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0898584,
+          40.3068751
+        ]
+      },
+      "id": "node/9708249718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9708314905",
+        "addr:city": "Delaware",
+        "addr:housenumber": "270",
+        "addr:postcode": "43015",
+        "addr:state": "OH",
+        "addr:street": "South Sandusky Street",
+        "name": "Delaware Food Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0690117,
+          40.290464
+        ]
+      },
+      "id": "node/9708314905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9708334077",
+        "addr:city": "Delaware",
+        "addr:housenumber": "132",
+        "addr:postcode": "43015",
+        "addr:state": "OH",
+        "addr:street": "London Road",
+        "name": "London Rd Shell",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0729696,
+          40.290619
+        ]
+      },
+      "id": "node/9708334077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9708334087",
+        "addr:city": "Delaware",
+        "addr:housenumber": "131",
+        "addr:postcode": "43015",
+        "addr:state": "OH",
+        "addr:street": "London Road",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "1404",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0735562,
+          40.2900925
+        ]
+      },
+      "id": "node/9708334087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9797291533",
+        "name": "Royal Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0781316,
+          38.7167554
+        ]
+      },
+      "id": "node/9797291533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913508909",
+        "name": "Newark Natural Foods",
+        "organic": "only",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7434125,
+          39.6849151
+        ]
+      },
+      "id": "node/9913508909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9922163108",
+        "addr:housenumber": "500",
+        "addr:street": "North Walnut Street",
+        "name": "Windsor Food Market",
+        "opening_hours": "Mo-Su 07:30-19:00",
+        "phone": "+1 302-652-2714",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5476295,
+          39.7402354
+        ]
+      },
+      "id": "node/9922163108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9931908287",
+        "name": "Seaside Snacks",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0565767,
+          38.538658
+        ]
+      },
+      "id": "node/9931908287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9997804396",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "name": "ALDI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6656193,
+          39.6694207
+        ]
+      },
+      "id": "node/9997804396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10040190704",
+        "name": "Harrington P.O.D.",
+        "opening_hours": "10:00-00:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7479858,
+          39.6759716
+        ]
+      },
+      "id": "node/10040190704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10268860350",
+        "name": "Kennedy's Corner Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3801891,
+          42.8396364
+        ]
+      },
+      "id": "node/10268860350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10710786165",
+        "addr:city": "Millsboro",
+        "addr:housenumber": "26684",
+        "addr:postcode": "19966",
+        "addr:state": "DE",
+        "addr:street": "Centerview Drive",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "name": "ALDI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2883967,
+          38.5716727
+        ]
+      },
+      "id": "node/10710786165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340247517",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-51-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978518,
+          41.8912427
+        ]
+      },
+      "id": "node/5340247517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340252322",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-49-50 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4973968,
+          41.8913872
+        ]
+      },
+      "id": "node/5340252322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535092255",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915049,
+          41.8918027
+        ]
+      },
+      "id": "node/5535092255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5801329944",
+        "amenity": "drinking_water",
+        "description:de": "Wasserbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4884569,
+          41.8880861
+        ]
+      },
+      "id": "node/5801329944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6547164641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Via in Miranda, Foro Romano, Roma, Italia Oct 05, 2022 04-55-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870814,
+          41.8924043
+        ]
+      },
+      "id": "node/6547164641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6616168986",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4967144,
+          41.8922741
+        ]
+      },
+      "id": "node/6616168986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6841124063",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926345,
+          41.8906387
+        ]
+      },
+      "id": "node/6841124063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085935353",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941883,
+          41.8915996
+        ]
+      },
+      "id": "node/7085935353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7203154248",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Via Marco Aurelio, Roma, Italia Jun 30, 2022 08-08-32 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4955486,
+          41.8882028
+        ]
+      },
+      "id": "node/7203154248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9108120217",
+        "amenity": "drinking_water",
+        "name": "Acqua",
+        "name:en": "Drinkable water",
+        "name:fr": "Eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4847106,
+          41.8877336
+        ]
+      },
+      "id": "node/9108120217"
+    }
+  ]
+}

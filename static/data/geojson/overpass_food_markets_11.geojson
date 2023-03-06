@@ -1,0 +1,7513 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-05T23:12:08Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/246574144",
+        "amenity": "drinking_water",
+        "flow": "constant",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5031327,
+          41.8953181
+        ]
+      },
+      "id": "node/246574144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/246574145",
+        "amenity": "drinking_water",
+        "flow": "constant",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5030581,
+          41.8952417
+        ]
+      },
+      "id": "node/246574145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/246574149",
+        "amenity": "drinking_water",
+        "flow": "push-button",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4919107,
+          41.8947855
+        ]
+      },
+      "id": "node/246574149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/246574150",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-07",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Piazza dei Serpenti, Roma, Italia Oct 05, 2022 04-43-54 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4909457,
+          41.8948869
+        ]
+      },
+      "id": "node/246574150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/246574151",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.487739,
+          41.8944984
+        ]
+      },
+      "id": "node/246574151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248743319",
+        "amenity": "drinking_water",
+        "capacity": "3",
+        "fountain": "nasone",
+        "name": "Fontana delle tre cannelle",
+        "wikidata": "Q76938649",
+        "wikimedia_commons": "File:Fontanella delle tre cannelle.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4859132,
+          41.8967142
+        ]
+      },
+      "id": "node/248743319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248743322",
+        "amenity": "drinking_water",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870349,
+          41.8960711
+        ]
+      },
+      "id": "node/248743322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248743324",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "fountain": "roman_wolf",
+        "wikimedia_commons": "File:Roman wolf fountain, Torre dei Conti, Roma, Italia Oct 05, 2022 04-47-28 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4877431,
+          41.8935288
+        ]
+      },
+      "id": "node/248743324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/250889642",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4903891,
+          41.8959904
+        ]
+      },
+      "id": "node/250889642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/251773348",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.485289,
+          41.885391
+        ]
+      },
+      "id": "node/251773348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/251773349",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4827727,
+          41.8870009
+        ]
+      },
+      "id": "node/251773349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/251773551",
+        "amenity": "drinking_water",
+        "name": "Acqua Marcia",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4838554,
+          41.8933168
+        ]
+      },
+      "id": "node/251773551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/251792639",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "tap": "no",
+        "wikimedia_commons": "File:Nasone via di San Teodoro, Roma, Italia Sep 08, 2021 06-03-56 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4836676,
+          41.8885804
+        ]
+      },
+      "id": "node/251792639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252602350",
+        "amenity": "drinking_water",
+        "created_by": "JOSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4929031,
+          41.8961224
+        ]
+      },
+      "id": "node/252602350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252609581",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4969575,
+          41.8958602
+        ]
+      },
+      "id": "node/252609581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/252899499",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Merulana, Roma, Italia Mar 22, 2022 04-53-33 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5022052,
+          41.8917675
+        ]
+      },
+      "id": "node/252899499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253704802",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "tap": "push_button"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5030463,
+          41.8835007
+        ]
+      },
+      "id": "node/253704802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256572272",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4963709,
+          41.8947199
+        ]
+      },
+      "id": "node/256572272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/264897052",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4809626,
+          41.8883122
+        ]
+      },
+      "id": "node/264897052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266310881",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934985,
+          41.8923773
+        ]
+      },
+      "id": "node/266310881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266317282",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4901658,
+          41.8932611
+        ]
+      },
+      "id": "node/266317282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266965232",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "tap": "no",
+        "wikimedia_commons": "File:Nasone, Viale Aventino, Roma, Italia Nov 04, 2020 09-28-54 AM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4875256,
+          41.8833501
+        ]
+      },
+      "id": "node/266965232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270198478",
+        "amenity": "drinking_water",
+        "fountain": "roman_wolf",
+        "wikimedia_commons": "File:Roman wolf fountain, Parco del Celio, Roma, Italia Sep 01, 2020 12-32-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494358,
+          41.8855249
+        ]
+      },
+      "id": "node/270198478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270198479",
+        "amenity": "drinking_water",
+        "fountain": "roman_wolf",
+        "wikimedia_commons": "File:Roman Wolf Fountain, Villa Celimontana, Roma, Italia Sep 01, 2020 12-41-19 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4947844,
+          41.8837598
+        ]
+      },
+      "id": "node/270198479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270198480",
+        "amenity": "drinking_water",
+        "fountain": "roman_wolf",
+        "wikimedia_commons": "File:Roman wolf fountain, Celio, Roma, Italia Sep 01, 2020 12-03-35 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4932314,
+          41.8854777
+        ]
+      },
+      "id": "node/270198480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280155143",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5009036,
+          41.889461
+        ]
+      },
+      "id": "node/280155143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/281351519",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4922226,
+          41.8963253
+        ]
+      },
+      "id": "node/281351519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/281352641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via botta, Roma, Italia Jun 30, 2022 06-23-28 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5003989,
+          41.8915913
+        ]
+      },
+      "id": "node/281352641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/327114989",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5010324,
+          41.8937726
+        ]
+      },
+      "id": "node/327114989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388983995",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4949446,
+          41.8869371
+        ]
+      },
+      "id": "node/388983995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388984003",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494519,
+          41.8877413
+        ]
+      },
+      "id": "node/388984003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/461865871",
+        "name": "Eagle's Nest",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0893648,
+          38.9372697
+        ]
+      },
+      "id": "node/461865871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/469752582",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5029448,
+          41.8903641
+        ]
+      },
+      "id": "node/469752582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495113034",
+        "amenity": "drinking_water",
+        "check_date": "2022-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934283,
+          41.8913309
+        ]
+      },
+      "id": "node/495113034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/568148646",
+        "addr:city": "Washington",
+        "addr:housenumber": "1222",
+        "addr:postcode": "20007",
+        "addr:state": "DC",
+        "addr:street": "Wisconsin Avenue Northwest",
+        "brand": "Wawa",
+        "brand:wikidata": "Q5936320",
+        "brand:wikipedia": "en:Wawa (company)",
+        "name": "Wawa",
+        "shop": "convenience",
+        "website": "https://www.wawa.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.063049,
+          38.9058817
+        ]
+      },
+      "id": "node/568148646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/584633628",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0778046,
+          38.9453712
+        ]
+      },
+      "id": "node/584633628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/585335307",
+        "cuisine": "sandwich",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0223514,
+          38.9007163
+        ]
+      },
+      "id": "node/585335307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/622268373",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "opening_hours": "24/7",
+        "shop": "convenience",
+        "source": "3am snack cravings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.027869,
+          38.9171521
+        ]
+      },
+      "id": "node/622268373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/662332472",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0437233,
+          38.8965513
+        ]
+      },
+      "id": "node/662332472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685457655",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4867108,
+          41.8902623
+        ]
+      },
+      "id": "node/685457655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685461877",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4875779,
+          41.8891234
+        ]
+      },
+      "id": "node/685461877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685465032",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone, Viale delle Terme di Caracalla, Roma, Italia Sep 01, 2020 10-57-05 AM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915911,
+          41.8829819
+        ]
+      },
+      "id": "node/685465032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/701594825",
+        "name": "Manhattan Market",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0520003,
+          38.9249243
+        ]
+      },
+      "id": "node/701594825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/721669814",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0432258,
+          38.9053489
+        ]
+      },
+      "id": "node/721669814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/730829805",
+        "name": "Marvelous Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.041992,
+          38.90196
+        ]
+      },
+      "id": "node/730829805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/734374075",
+        "name": "New York Convenience",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0328651,
+          38.8993189
+        ]
+      },
+      "id": "node/734374075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735126366",
+        "addr:city": "Washington",
+        "addr:housenumber": "1631",
+        "addr:postcode": "20009",
+        "addr:state": "DC",
+        "addr:street": "Kalorama Road",
+        "brand": "Harris Teeter",
+        "brand:wikidata": "Q5665067",
+        "brand:wikipedia": "en:Harris Teeter",
+        "dataset": "grocery",
+        "name": "Harris Teeter",
+        "opening_hours": "Mo-Su 07:00-24:00",
+        "phone": "+1-202-986-1415",
+        "shop": "supermarket",
+        "source": "dcgis",
+        "website": "https://locations.harristeeter.com/dc/washington/231/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0383963,
+          38.9218478
+        ]
+      },
+      "id": "node/735126366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735126369",
+        "addr:city": "Washington",
+        "addr:housenumber": "1345",
+        "addr:postcode": "20010",
+        "addr:state": "DC",
+        "addr:street": "Park Road Northwest",
+        "brand": "Giant",
+        "brand:wikidata": "Q5558336",
+        "brand:wikipedia": "en:Giant Food (Landover)",
+        "dataset": "grocery",
+        "name": "Giant",
+        "official_name": "Giant Food",
+        "opening_hours": "Su 06:00-23:00; Mo-Sa 06:00-00:00",
+        "phone": "2027771077",
+        "shop": "supermarket",
+        "source": "dcgis",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0318599,
+          38.9308461
+        ]
+      },
+      "id": "node/735126369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735126406",
+        "addr:city": "Washington",
+        "addr:housenumber": "1101",
+        "addr:postcode": "20037",
+        "addr:state": "DC",
+        "addr:street": "25th Street Northwest",
+        "brand": "Trader Joe's",
+        "brand:wikidata": "Q688825",
+        "brand:wikipedia": "en:Trader Joe's",
+        "dataset": "grocery",
+        "name": "Trader Joe's",
+        "opening_hours": "08:00-22:00",
+        "phone": "+1 202 296 1921",
+        "shop": "supermarket",
+        "source": "dcgis",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0531294,
+          38.9041925
+        ]
+      },
+      "id": "node/735126406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735126444",
+        "addr:housenumber": "2123",
+        "addr:street": "14th Street Northwest",
+        "dataset": "grocery",
+        "name": "Yes! Organic",
+        "shop": "supermarket",
+        "source": "dcgis",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0317099,
+          38.9186373
+        ]
+      },
+      "id": "node/735126444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735126449",
+        "addr:housenumber": "1440",
+        "addr:street": "P Street Northwest",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "dataset": "buildings",
+        "dcgis:captureyear": "20050405",
+        "dcgis:lot": "0128",
+        "dcgis:square": "0210",
+        "name": "Whole Foods Market",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1-202-332-4300",
+        "shop": "supermarket",
+        "source": "survey;dcgis",
+        "website": "https://www.wholefoodsmarket.com/stores/pstreet",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0335553,
+          38.9094423
+        ]
+      },
+      "id": "node/735126449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735126454",
+        "addr:city": "Washington",
+        "addr:housenumber": "4303",
+        "addr:postcode": "20008",
+        "addr:state": "DC",
+        "addr:street": "Connecticut Avenue Northwest",
+        "brand": "Giant",
+        "brand:wikidata": "Q5558336",
+        "brand:wikipedia": "en:Giant Food (Landover)",
+        "dataset": "grocery",
+        "name": "Giant",
+        "official_name": "Giant Food",
+        "phone": "2023648250",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0631702,
+          38.944499
+        ]
+      },
+      "id": "node/735126454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735126467",
+        "addr:housenumber": "3201",
+        "addr:street": "New Mexico Avenue Northwest",
+        "dataset": "grocery",
+        "name": "Wagshal's",
+        "phone": "202-363-5698",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0853629,
+          38.9331586
+        ]
+      },
+      "id": "node/735126467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735126477",
+        "addr:city": "Washington",
+        "addr:housenumber": "3425",
+        "addr:postcode": "20008",
+        "addr:state": "DC",
+        "addr:street": "Connecticut Avenue",
+        "dataset": "grocery",
+        "name": "Yes! Organic",
+        "phone": "2023631559",
+        "shop": "supermarket",
+        "source": "dcgis",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0577882,
+          38.9351586
+        ]
+      },
+      "id": "node/735126477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735126491",
+        "addr:city": "Washington",
+        "addr:housenumber": "1050",
+        "addr:postcode": "20018",
+        "addr:state": "DC",
+        "addr:street": "Brentwood Rd NE",
+        "brand": "Giant",
+        "brand:wikidata": "Q5558336",
+        "brand:wikipedia": "en:Giant Food (Landover)",
+        "dataset": "grocery",
+        "name": "Giant",
+        "official_name": "Giant Food",
+        "phone": "2022813900",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9924287,
+          38.919222
+        ]
+      },
+      "id": "node/735126491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735126507",
+        "addr:housenumber": "3178",
+        "addr:street": "Mount Pleasant St NW",
+        "dataset": "grocery",
+        "name": "Best World",
+        "phone": "2022653768",
+        "shop": "supermarket",
+        "source": "dcgis",
+        "website": "https://www.yelp.com/biz/best-world-supermarket-washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0385457,
+          38.9309584
+        ]
+      },
+      "id": "node/735126507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735126513",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "name": "Whole Foods Market",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+12022375800",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0792124,
+          38.9491011
+        ]
+      },
+      "id": "node/735126513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735126518",
+        "addr:city": "Washington",
+        "addr:housenumber": "3336",
+        "addr:state": "DC",
+        "addr:street": "Wisconsin Avenue Northwest",
+        "brand": "Giant",
+        "brand:wikidata": "Q5558336",
+        "brand:wikipedia": "en:Giant Food (Landover)",
+        "dataset": "grocery",
+        "name": "Giant",
+        "phone": "2022445922",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0730461,
+          38.934323
+        ]
+      },
+      "id": "node/735126518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735126524",
+        "addr:housenumber": "1825",
+        "addr:street": "Columbia Road Northwest",
+        "dataset": "grocery",
+        "name": "Yes! Organic",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 08:00-21:00",
+        "phone": "+12024625150",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0437087,
+          38.9217967
+        ]
+      },
+      "id": "node/735126524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735126543",
+        "addr:housenumber": "5626",
+        "addr:street": "Connecticut Avenue Northwest",
+        "dataset": "grocery",
+        "name": "Magruder's",
+        "phone": "2024644946",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0763186,
+          38.965605
+        ]
+      },
+      "id": "node/735126543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735126557",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "4100",
+        "addr:postcode": "20011",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "dataset": "grocery",
+        "name": "Yes! Organic Market",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "organic": "only",
+        "phone": "+1 202 291 5790",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0255334,
+          38.9409985
+        ]
+      },
+      "id": "node/735126557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735126566",
+        "addr:city": "Washington",
+        "addr:housenumber": "1535",
+        "addr:state": "DC",
+        "addr:street": "Alabama Avenue Southeast",
+        "brand": "Giant",
+        "brand:wikidata": "Q5558336",
+        "brand:wikipedia": "en:Giant Food (Landover)",
+        "dataset": "grocery",
+        "name": "Giant",
+        "official_name": "Giant Food",
+        "phone": "2026106464",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9810368,
+          38.8450821
+        ]
+      },
+      "id": "node/735126566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/735126568",
+        "addr:housenumber": "322",
+        "addr:postcode": "20019",
+        "addr:street": "40th ST NE",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "dataset": "grocery",
+        "name": "Safeway",
+        "phone": "2023972802",
+        "shop": "supermarket",
+        "website": "https://local.safeway.com/dc/washington-1177.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9477203,
+          38.8933254
+        ]
+      },
+      "id": "node/735126568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/736998234",
+        "addr:housenumber": "5100",
+        "addr:street": "Wisconsin Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "Rodmans Gourmet Grocery & Pharmacy",
+        "opening_hours": "Mo-Sa 09:00-21:30; Su 10:00-19:00",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0839157,
+          38.9562372
+        ]
+      },
+      "id": "node/736998234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737066316",
+        "addr:housenumber": "1776",
+        "addr:street": "U Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Virginia Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0411555,
+          38.9167673
+        ]
+      },
+      "id": "node/737066316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737066448",
+        "addr:housenumber": "1629",
+        "addr:street": "Columbia Road Northwest",
+        "dataset": "ABRA locations",
+        "drink:beer": "retail",
+        "drink:wine": "retail",
+        "name": "Argonne Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0373262,
+          38.9264696
+        ]
+      },
+      "id": "node/737066448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737066567",
+        "addr:city": "Washington",
+        "addr:housenumber": "1733",
+        "addr:postcode": "20009",
+        "addr:state": "DC",
+        "addr:street": "Columbia Road Northwest",
+        "dataset": "address",
+        "dcgis:lot": "0285",
+        "dcgis:square": "2581",
+        "name": "Casa Lebrato",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0401525,
+          38.9245758
+        ]
+      },
+      "id": "node/737066567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080368",
+        "addr:housenumber": "4401",
+        "addr:street": "South Capitol Street Southwest",
+        "dataset": "ABRA locations",
+        "name": "Elmira Grocery",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0075506,
+          38.8258876
+        ]
+      },
+      "id": "node/737080368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080377",
+        "addr:housenumber": "3041",
+        "addr:street": "Naylor Road Southeast",
+        "dataset": "ABRA locations",
+        "name": "Southeast People's Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9644939,
+          38.8532728
+        ]
+      },
+      "id": "node/737080377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080384",
+        "addr:housenumber": "3853",
+        "addr:street": "Alabama Avenue Southeast",
+        "dataset": "ABRA locations",
+        "name": "Lee's Mini Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.949811,
+          38.8661743
+        ]
+      },
+      "id": "node/737080384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080388",
+        "addr:housenumber": "601",
+        "addr:street": "Chesapeake Street Southeast",
+        "dataset": "ABRA locations",
+        "name": "Chesapeake Big Market",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9982902,
+          38.8289977
+        ]
+      },
+      "id": "node/737080388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080391",
+        "addr:housenumber": "2200",
+        "addr:street": "16th Street Southeast",
+        "dataset": "ABRA locations",
+        "name": "Paramount Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.982449,
+          38.8634589
+        ]
+      },
+      "id": "node/737080391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080398",
+        "addr:housenumber": "2400",
+        "addr:street": "Martin Luther King Junior Avenue Southeast",
+        "dataset": "ABRA locations",
+        "name": "King's Mini Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9923097,
+          38.8625781
+        ]
+      },
+      "id": "node/737080398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080400",
+        "addr:city": "Washington",
+        "addr:housenumber": "1303",
+        "addr:postcode": "20020",
+        "addr:state": "DC",
+        "addr:street": "Good Hope Road Southeast",
+        "dataset": "ABRA locations",
+        "name": "Dollar Plus Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9868321,
+          38.8668776
+        ]
+      },
+      "id": "node/737080400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080406",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "2924",
+        "addr:postcode": "20019",
+        "addr:source": "dcgis",
+        "addr:state": "DC",
+        "addr:street": "Minnesota Avenue Southeast",
+        "dataset": "ABRA locations",
+        "name": "Randall Grocery",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9653711,
+          38.8763823
+        ]
+      },
+      "id": "node/737080406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080408",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "5319",
+        "addr:postcode": "20019",
+        "addr:state": "DC",
+        "addr:street": "East Capitol Street Southeast",
+        "dataset": "ABRA locations",
+        "name": "Toni's Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9253064,
+          38.8894113
+        ]
+      },
+      "id": "node/737080408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080417",
+        "addr:housenumber": "2420",
+        "addr:street": "Martin Luther King Junior Avenue Southeast",
+        "dataset": "ABRA locations",
+        "name": "Martin Luther King's Grocery",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9927795,
+          38.8621894
+        ]
+      },
+      "id": "node/737080417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080419",
+        "addr:housenumber": "3333",
+        "addr:street": "Martin Luther King Junior Avenue Southeast",
+        "dataset": "ABRA locations",
+        "name": "K & H Grocery",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0030806,
+          38.8424062
+        ]
+      },
+      "id": "node/737080419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080421",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "2209",
+        "addr:postcode": "20020",
+        "addr:state": "DC",
+        "addr:street": "Alabama Avenue Southeast",
+        "dataset": "ABRA locations",
+        "name": "Alabama Grocery-Deli",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9737021,
+          38.850669
+        ]
+      },
+      "id": "node/737080421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080436",
+        "addr:housenumber": "600",
+        "addr:street": "Alabama Avenue Southeast",
+        "dataset": "ABRA locations",
+        "name": "Liff's Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9975832,
+          38.8433866
+        ]
+      },
+      "id": "node/737080436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080438",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "4510",
+        "addr:state": "DC",
+        "addr:street": "Bowen Road Southeast",
+        "dataset": "ABRA locations",
+        "name": "Bowen Discount",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9343162,
+          38.8739132
+        ]
+      },
+      "id": "node/737080438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080442",
+        "addr:housenumber": "2201",
+        "addr:street": "Minnesota Avenue SE",
+        "dataset": "ABRA locations",
+        "name": "J & D Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9745949,
+          38.8713203
+        ]
+      },
+      "id": "node/737080442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080446",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "5000",
+        "addr:state": "DC",
+        "addr:street": "Benning Road Southeast",
+        "dataset": "ABRA locations",
+        "name": "Dennies Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9311629,
+          38.8784712
+        ]
+      },
+      "id": "node/737080446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080448",
+        "addr:housenumber": "3833",
+        "addr:postcode": "20020",
+        "addr:street": "Pennsylvania Avenue SE;Pennsylvania Avenue Southeast",
+        "dataset": "ABRA locations",
+        "name": "Penn Way Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.951413,
+          38.8651433
+        ]
+      },
+      "id": "node/737080448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080451",
+        "addr:housenumber": "3235",
+        "addr:street": "Pennsylvania Avenue SE",
+        "dataset": "ABRA locations",
+        "name": "Patron Convenience Store",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9589495,
+          38.8683778
+        ]
+      },
+      "id": "node/737080451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080462",
+        "addr:housenumber": "1918",
+        "addr:street": "14th Street Southeast",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "dataset": "ABRA locations",
+        "name": "7-Eleven",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9848458,
+          38.8665147
+        ]
+      },
+      "id": "node/737080462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080473",
+        "addr:housenumber": "4686",
+        "addr:street": "Martin Luther King Junior Avenue Southwest",
+        "dataset": "ABRA locations",
+        "name": "Fort Drum Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0107128,
+          38.8209499
+        ]
+      },
+      "id": "node/737080473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080474",
+        "addr:housenumber": "1535",
+        "addr:street": "U Street Southeast",
+        "dataset": "ABRA locations",
+        "name": "Tony's Country Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9823569,
+          38.8651869
+        ]
+      },
+      "id": "node/737080474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737080476",
+        "addr:housenumber": "2283",
+        "addr:postcode": "20020",
+        "addr:street": "Savannah Street Southeast",
+        "dataset": "ABRA locations",
+        "name": "Shipley Supermarket",
+        "shop": "supermarket",
+        "source:name": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9713211,
+          38.8475854
+        ]
+      },
+      "id": "node/737080476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737098867",
+        "addr:housenumber": "5608",
+        "addr:street": "Broad Branch Road Northwest",
+        "dataset": "ABRA locations",
+        "name": "The Broad Branch Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0686241,
+          38.9656259
+        ]
+      },
+      "id": "node/737098867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737129832",
+        "addr:housenumber": "2501",
+        "addr:street": "North Capitol Street NE",
+        "dataset": "ABRA locations",
+        "name": "Fairway Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0087296,
+          38.9225243
+        ]
+      },
+      "id": "node/737129832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737129850",
+        "addr:housenumber": "2409",
+        "addr:street": "Franklin Street Northeast",
+        "dataset": "ABRA locations",
+        "name": "Langdon Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9715792,
+          38.9253535
+        ]
+      },
+      "id": "node/737129850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737129876",
+        "addr:housenumber": "2205",
+        "addr:street": "4th Street Northeast",
+        "dataset": "ABRA locations",
+        "name": "New Star Supermarket",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0003155,
+          38.9194256
+        ]
+      },
+      "id": "node/737129876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737129877",
+        "addr:housenumber": "2723",
+        "addr:street": "7th Street Northeast",
+        "dataset": "ABRA locations",
+        "name": "Franklin Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9959258,
+          38.9254107
+        ]
+      },
+      "id": "node/737129877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737129894",
+        "addr:housenumber": "2122",
+        "addr:street": "24th Place Northeast",
+        "dataset": "ABRA locations",
+        "name": "24",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9716664,
+          38.9198948
+        ]
+      },
+      "id": "node/737129894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737129900",
+        "addr:housenumber": "321",
+        "addr:street": "T Street Northeast",
+        "dataset": "ABRA locations",
+        "name": "McKinley Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.000995,
+          38.9153018
+        ]
+      },
+      "id": "node/737129900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737129917",
+        "addr:housenumber": "1201",
+        "addr:street": "Mount Olivet Road Northeast",
+        "dataset": "ABRA locations",
+        "name": "Northeast Supermarket",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.984811,
+          38.9097813
+        ]
+      },
+      "id": "node/737129917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737129922",
+        "addr:housenumber": "1613",
+        "addr:street": "Montello Avenue Northeast",
+        "dataset": "ABRA locations",
+        "name": "Compact Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9866807,
+          38.9073877
+        ]
+      },
+      "id": "node/737129922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737129953",
+        "addr:housenumber": "415",
+        "addr:street": "Rhode Island Avenue Northeast",
+        "dataset": "ABRA locations",
+        "name": "Sun Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9997757,
+          38.9196188
+        ]
+      },
+      "id": "node/737129953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737129966",
+        "addr:housenumber": "1611",
+        "addr:street": "Rhode Island Avenue Northeast",
+        "dataset": "ABRA locations",
+        "name": "New Neighborhood Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.981265,
+          38.9262253
+        ]
+      },
+      "id": "node/737129966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737143753",
+        "addr:city": "Washington",
+        "addr:housenumber": "5900",
+        "addr:postcode": "20011",
+        "addr:street": "Georgia Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "Missouri Avenue Market",
+        "phone": "202- 829- 3618",
+        "shop": "convenience",
+        "source": "dcgis",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0284286,
+          38.9615177
+        ]
+      },
+      "id": "node/737143753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737143754",
+        "addr:housenumber": "5501",
+        "addr:street": "Colorado Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "Gold Corner Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0328467,
+          38.9563573
+        ]
+      },
+      "id": "node/737143754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737143756",
+        "addr:housenumber": "1206",
+        "addr:street": "Underwood Street Northwest",
+        "check_date": "2022-05-11",
+        "dataset": "ABRA locations",
+        "name": "Lena Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0278294,
+          38.9687561
+        ]
+      },
+      "id": "node/737143756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737145401",
+        "addr:housenumber": "5010",
+        "addr:street": "New Hampshire Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "Avenue Supermarket",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0123645,
+          38.9513947
+        ]
+      },
+      "id": "node/737145401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737145408",
+        "addr:housenumber": "646",
+        "addr:street": "Rock Creek Church Road Northwest",
+        "dataset": "ABRA locations",
+        "name": "Rock Creek Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0211677,
+          38.9368538
+        ]
+      },
+      "id": "node/737145408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737145410",
+        "addr:housenumber": "823",
+        "addr:street": "Upshur Street Northwest",
+        "dataset": "ABRA locations",
+        "drink:beer": "retail",
+        "drink:wine": "retail",
+        "name": "Town & Country Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0242966,
+          38.9420891
+        ]
+      },
+      "id": "node/737145410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737145412",
+        "addr:housenumber": "233",
+        "addr:street": "Upshur Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "J&B Food Market and Hot Deli Kitchen",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0151196,
+          38.9423547
+        ]
+      },
+      "id": "node/737145412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737145413",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "3583",
+        "addr:state": "DC",
+        "addr:street": "Warder Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Gee's Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0207947,
+          38.9348606
+        ]
+      },
+      "id": "node/737145413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737145416",
+        "addr:housenumber": "2815",
+        "addr:street": "7th Street Northeast",
+        "dataset": "ABRA locations",
+        "name": "Brookland Supermarket & Deli",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9958684,
+          38.926123
+        ]
+      },
+      "id": "node/737145416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737145431",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "3819",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "7 Round Davis Market",
+        "opening_hours:covid19": "open",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "convenience",
+        "source": "dcgis",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0243745,
+          38.9382854
+        ]
+      },
+      "id": "node/737145431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737145438",
+        "addr:housenumber": "200",
+        "addr:postcode": "20017",
+        "addr:street": "Michigan Avenue NE;Michigan Avenue Northeast",
+        "dataset": "ABRA locations",
+        "name": "Trinity Deli & Food Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0040949,
+          38.9296005
+        ]
+      },
+      "id": "node/737145438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737145441",
+        "addr:city": "Washington",
+        "addr:housenumber": "5125",
+        "addr:postcode": "20011",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "Georgia Line Convenience Store",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0272417,
+          38.9527521
+        ]
+      },
+      "id": "node/737145441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737145443",
+        "addr:housenumber": "3213",
+        "addr:street": "6th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Spruill's Convenience Store",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0211675,
+          38.930765
+        ]
+      },
+      "id": "node/737145443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737404939",
+        "addr:housenumber": "700",
+        "addr:street": "L Street Southeast",
+        "dataset": "ABRA locations",
+        "name": "7th & L Street Market",
+        "shop": "convenience",
+        "source": "dcgis",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9959531,
+          38.8776882
+        ]
+      },
+      "id": "node/737404939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737404958",
+        "addr:housenumber": "1064",
+        "addr:street": "Bladensburg Road Northeast",
+        "dataset": "ABRA locations",
+        "name": "Mudrick's Supermarket",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9810917,
+          38.9039764
+        ]
+      },
+      "id": "node/737404958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737405020",
+        "addr:housenumber": "241",
+        "addr:street": "Massachusetts Avenue Northeast",
+        "dataset": "ABRA locations",
+        "name": "Capitol Hill Market",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 08:00-20:00",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0022708,
+          38.8944231
+        ]
+      },
+      "id": "node/737405020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737405025",
+        "addr:housenumber": "421",
+        "addr:street": "East Capitol Street Southeast",
+        "dataset": "ABRA locations",
+        "name": "Congress Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9997277,
+          38.8895474
+        ]
+      },
+      "id": "node/737405025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737405034",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "538",
+        "addr:postcode": "20002",
+        "addr:state": "DC",
+        "addr:street": "3rd Street Northeast",
+        "dataset": "ABRA locations",
+        "name": "Union Kitchen",
+        "opening_hours": "Mo-Su 07:30-21:00",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0022095,
+          38.8971951
+        ]
+      },
+      "id": "node/737405034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737405042",
+        "addr:housenumber": "522",
+        "addr:street": "K Street Northeast",
+        "dataset": "ABRA locations",
+        "name": "ABC Grocery",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9986388,
+          38.9027699
+        ]
+      },
+      "id": "node/737405042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737405083",
+        "addr:housenumber": "1000",
+        "addr:street": "3rd Street Southeast",
+        "contact:twitter": "https://twitter.com/cornercopia",
+        "dataset": "ABRA locations",
+        "drink:beer": "retail",
+        "drink:wine": "retail",
+        "name": "Cornercopia",
+        "opening_hours": "Mo-Fr 08:00-19:00",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0018587,
+          38.8782785
+        ]
+      },
+      "id": "node/737405083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737405101",
+        "addr:housenumber": "700",
+        "addr:street": "F Street Northeast",
+        "dataset": "ABRA locations",
+        "name": "Adams Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9959815,
+          38.8975407
+        ]
+      },
+      "id": "node/737405101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737405123",
+        "addr:city": "Washington",
+        "addr:housenumber": "1111",
+        "addr:postcode": "20002",
+        "addr:street": "H Street Northeast",
+        "dataset": "ABRA locations",
+        "name": "Me & My Super Market",
+        "shop": "supermarket",
+        "source": "dcgis, site visit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9909894,
+          38.899995
+        ]
+      },
+      "id": "node/737405123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737405132",
+        "addr:housenumber": "234",
+        "addr:street": "15th Street Northeast",
+        "dataset": "ABRA locations",
+        "name": "J & K Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.983933,
+          38.8934385
+        ]
+      },
+      "id": "node/737405132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737405145",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "1136",
+        "addr:postcode": "20002",
+        "addr:state": "DC",
+        "addr:street": "Florida Avenue Northeast",
+        "dataset": "ABRA locations",
+        "name": "Darby's Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9903544,
+          38.9030389
+        ]
+      },
+      "id": "node/737405145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737405183",
+        "addr:housenumber": "233",
+        "addr:street": "12th Street Southeast",
+        "dataset": "ABRA locations",
+        "name": "Motts Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9905346,
+          38.8866935
+        ]
+      },
+      "id": "node/737405183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737405186",
+        "addr:city": "Washington",
+        "addr:housenumber": "1101",
+        "addr:postcode": "20002",
+        "addr:street": "H Street Northeast",
+        "dataset": "ABRA locations",
+        "name": "1101 Convenience Mart",
+        "phone": "202 698 0555",
+        "shop": "convenience",
+        "source": "dcgis, site visit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9912642,
+          38.8999933
+        ]
+      },
+      "id": "node/737405186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737405193",
+        "addr:city": "Washington",
+        "addr:housenumber": "501",
+        "addr:postcode": "20003",
+        "addr:street": "4th Street Southeast",
+        "atm": "yes",
+        "dataset": "ABRA locations",
+        "name": "Capitol Supreme Market",
+        "opening_hours": "Mo-Sa 08:00-21:30; Su 08:00-20:00",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.000825,
+          38.883082
+        ]
+      },
+      "id": "node/737405193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737405197",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "539",
+        "addr:postcode": "20002",
+        "addr:state": "DC",
+        "addr:street": "8th Street Northeast",
+        "dataset": "ABRA locations",
+        "name": "DC Supermarket",
+        "opening_hours": "PH,Mo-Su 08:00-21:00",
+        "shop": "convenience",
+        "source": "dcgis",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9947141,
+          38.8971712
+        ]
+      },
+      "id": "node/737405197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737405207",
+        "addr:housenumber": "1023",
+        "addr:street": "East Capitol Street Southeast",
+        "dataset": "ABRA locations",
+        "name": "P & C Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9917104,
+          38.8895263
+        ]
+      },
+      "id": "node/737405207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737405254",
+        "addr:city": "Washington",
+        "addr:housenumber": "1100",
+        "addr:postcode": "20002",
+        "addr:state": "DC",
+        "addr:street": "4th Street Northeast",
+        "name": "L Street Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0008251,
+          38.903882
+        ]
+      },
+      "id": "node/737405254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737460321",
+        "addr:city": "Washington",
+        "addr:housenumber": "4326",
+        "addr:state": "DC",
+        "addr:street": "Wisconsin Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "Tenley Mini Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0784617,
+          38.9451727
+        ]
+      },
+      "id": "node/737460321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737495014",
+        "addr:housenumber": "4920",
+        "addr:postcode": "20019",
+        "addr:street": "Central Avenue NE",
+        "dataset": "ABRA locations",
+        "name": "Capitol View Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9319226,
+          38.8906247
+        ]
+      },
+      "id": "node/737495014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737495029",
+        "addr:housenumber": "4401",
+        "addr:street": "Nannie Helen Burroughs Avenue Northeast",
+        "dataset": "ABRA locations",
+        "name": "Menick's Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9389307,
+          38.9003074
+        ]
+      },
+      "id": "node/737495029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737495033",
+        "addr:housenumber": "4600",
+        "addr:street": "Sheriff Road Northeast",
+        "dataset": "ABRA locations",
+        "name": "Suburban Market",
+        "opening_hours:covid19": "same",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9364753,
+          38.9029855
+        ]
+      },
+      "id": "node/737495033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737495037",
+        "addr:housenumber": "547",
+        "addr:street": "42nd Street NE",
+        "dataset": "ABRA locations",
+        "name": "Benning Heights Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9423361,
+          38.8973691
+        ]
+      },
+      "id": "node/737495037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737495052",
+        "addr:housenumber": "4748",
+        "addr:street": "Sheriff Road Northeast",
+        "dataset": "ABRA locations",
+        "name": "A & S Grocery",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9340796,
+          38.9030784
+        ]
+      },
+      "id": "node/737495052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737495058",
+        "addr:housenumber": "615",
+        "addr:street": "Division Avenue Northeast",
+        "dataset": "ABRA locations",
+        "name": "A-1 Grocery",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9255254,
+          38.8978641
+        ]
+      },
+      "id": "node/737495058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737495082",
+        "addr:housenumber": "4003",
+        "addr:street": "Gault Place NE",
+        "dataset": "ABRA locations",
+        "name": "R & M Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9458632,
+          38.8989082
+        ]
+      },
+      "id": "node/737495082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737526124",
+        "addr:housenumber": "2411",
+        "addr:street": "37th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Glover Park Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0729046,
+          38.9214761
+        ]
+      },
+      "id": "node/737526124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737526129",
+        "addr:housenumber": "4000",
+        "addr:street": "Tunlaw Road Northwest",
+        "dataset": "ABRA locations",
+        "name": "Food Town Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.080244,
+          38.9252843
+        ]
+      },
+      "id": "node/737526129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737526161",
+        "addr:housenumber": "4000",
+        "addr:street": "Massachusetts Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "Mass Avenue & Mini Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0787448,
+          38.9313015
+        ]
+      },
+      "id": "node/737526161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737526168",
+        "addr:housenumber": "4000",
+        "addr:street": "Cathedral Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "Westchester Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0799458,
+          38.9282709
+        ]
+      },
+      "id": "node/737526168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738190915",
+        "addr:housenumber": "3301",
+        "addr:street": "11th Street Northwest",
+        "dataset": "ABRA locations;address",
+        "dcgis:lot": "0043",
+        "dcgis:square": "2841",
+        "name": "Odd Provisions",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.027835,
+          38.9308994
+        ]
+      },
+      "id": "node/738190915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738190923",
+        "addr:housenumber": "3001",
+        "addr:street": "Sherman Avenue Northwest",
+        "dataset": "address",
+        "dcgis:lot": "0035",
+        "dcgis:square": "2890",
+        "name": "Stop & Go Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0258321,
+          38.9279649
+        ]
+      },
+      "id": "node/738190923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738190926",
+        "addr:housenumber": "3400",
+        "addr:street": "13th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Park Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0299532,
+          38.931466
+        ]
+      },
+      "id": "node/738190926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738190935",
+        "addr:housenumber": "3620",
+        "addr:street": "14th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "New Dodge Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.033028,
+          38.9370059
+        ]
+      },
+      "id": "node/738190935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738190949",
+        "addr:housenumber": "2601",
+        "addr:postcode": "20001",
+        "addr:street": "Sherman Avenue NW",
+        "dataset": "ABRA locations",
+        "name": "City Corner Mart",
+        "opening_hours": "Su-Th 09:30-21:30; Fr,Sa 09:30-22:00",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0252682,
+          38.924032
+        ]
+      },
+      "id": "node/738190949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738190950",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "3108",
+        "addr:postcode": "20001",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "Kusa Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0235389,
+          38.9293998
+        ]
+      },
+      "id": "node/738190950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738190951",
+        "addr:housenumber": "1500",
+        "addr:street": "Ogden Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Ogden Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.034944,
+          38.9353976
+        ]
+      },
+      "id": "node/738190951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738190954",
+        "addr:housenumber": "3306",
+        "addr:street": "Georgia Avenue Northwest",
+        "dataset": "ABRA locations;address",
+        "dcgis:lot": "0093",
+        "dcgis:square": "2893",
+        "name": "Gray's Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0237589,
+          38.9312793
+        ]
+      },
+      "id": "node/738190954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738190955",
+        "addr:housenumber": "2833",
+        "addr:postcode": "20009",
+        "addr:street": "11th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Sonya's Market",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "convenience",
+        "source": "dcgis",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0267989,
+          38.9266522
+        ]
+      },
+      "id": "node/738190955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738190957",
+        "addr:housenumber": "3582",
+        "addr:street": "13th Street Northwest",
+        "dataset": "ABRA locations;address",
+        "dcgis:lot": "0149",
+        "dcgis:square": "2834",
+        "name": "13th Street Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0299674,
+          38.9344672
+        ]
+      },
+      "id": "node/738190957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738194967",
+        "addr:housenumber": "521",
+        "addr:street": "H Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Chinatown Market",
+        "shop": "convenience",
+        "source": "dcgis",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0196947,
+          38.8999477
+        ]
+      },
+      "id": "node/738194967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738194978",
+        "addr:housenumber": "717",
+        "addr:street": "D Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "8th Street Deli & Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0226946,
+          38.8949551
+        ]
+      },
+      "id": "node/738194978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738194986",
+        "addr:housenumber": "1500",
+        "addr:street": "Massachusetts Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "1500 Market",
+        "shop": "convenience",
+        "source": "dcgis",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0356465,
+          38.9064403
+        ]
+      },
+      "id": "node/738194986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/739339895",
+        "addr:housenumber": "2024",
+        "addr:street": "P Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Oasis",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0460371,
+          38.9094669
+        ]
+      },
+      "id": "node/739339895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/739339963",
+        "addr:city": "Washington",
+        "addr:housenumber": "2130",
+        "addr:postcode": "20037",
+        "addr:state": "DC",
+        "addr:street": "P Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Metro Supermarket",
+        "not:brand:wikidata": "Q13610282",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0479345,
+          38.9094782
+        ]
+      },
+      "id": "node/739339963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/739528076",
+        "addr:housenumber": "730",
+        "addr:street": "21st Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Best Vending II",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0469123,
+          38.8992996
+        ]
+      },
+      "id": "node/739528076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/739528118",
+        "addr:housenumber": "1215",
+        "addr:street": "23rd Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Federal Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0497934,
+          38.9059619
+        ]
+      },
+      "id": "node/739528118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/739528206",
+        "addr:housenumber": "2424",
+        "addr:street": "Pennsylvania Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "Marvelous Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0518338,
+          38.9029778
+        ]
+      },
+      "id": "node/739528206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/739653546",
+        "addr:housenumber": "6900",
+        "addr:street": "4th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Fourth Street Market",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su 10:00-15:00",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0182813,
+          38.973818
+        ]
+      },
+      "id": "node/739653546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/739653553",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "5433",
+        "addr:postcode": "20011",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "Lucky Corner Store",
+        "phone": "+1 202 726 6731",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0277174,
+          38.9560758
+        ]
+      },
+      "id": "node/739653553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/739653615",
+        "addr:housenumber": "626",
+        "addr:street": "Kennedy Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Rainbow Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0220417,
+          38.9562068
+        ]
+      },
+      "id": "node/739653615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/739653638",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "100",
+        "addr:state": "DC",
+        "addr:street": "Kennedy Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Brightwood Supermarket",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0118455,
+          38.9563932
+        ]
+      },
+      "id": "node/739653638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/740272396",
+        "addr:housenumber": "1236",
+        "addr:street": "36th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Wisemillers Grocery & Deli",
+        "opening_hours": "Mo-Fr 07:00-23:30; Sa-Su 08:00-23:30",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0704123,
+          38.9063259
+        ]
+      },
+      "id": "node/740272396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/740272422",
+        "addr:housenumber": "1643",
+        "addr:street": "34th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Le Petite Corner Store",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0676767,
+          38.9116137
+        ]
+      },
+      "id": "node/740272422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/740272478",
+        "addr:housenumber": "3008",
+        "addr:street": "Q Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Sara's Food Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0596779,
+          38.9103543
+        ]
+      },
+      "id": "node/740272478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/740372207",
+        "addr:housenumber": "2160",
+        "addr:street": "California Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Embassy Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0486794,
+          38.9159913
+        ]
+      },
+      "id": "node/740372207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/740376916",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "80",
+        "addr:state": "DC",
+        "addr:street": "T Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "T Street Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0116825,
+          38.9154049
+        ]
+      },
+      "id": "node/740376916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/740376917",
+        "addr:housenumber": "233",
+        "addr:street": "Florida Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "Rafael Grocery Deli",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0151531,
+          38.9136347
+        ]
+      },
+      "id": "node/740376917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/740376918",
+        "addr:housenumber": "1901",
+        "addr:street": "4th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Le Droit Park Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0172278,
+          38.916057
+        ]
+      },
+      "id": "node/740376918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/740376920",
+        "addr:housenumber": "1942",
+        "addr:street": "1st Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "U First Mart",
+        "operator": "open",
+        "shop": "convenience",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0124155,
+          38.9168576
+        ]
+      },
+      "id": "node/740376920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/740376921",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "1828",
+        "addr:state": "DC",
+        "addr:street": "1st Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "DC Mini Supermarket",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0123531,
+          38.9151443
+        ]
+      },
+      "id": "node/740376921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/740376922",
+        "addr:housenumber": "2200",
+        "addr:street": "Flagler Place NW",
+        "dataset": "ABRA locations",
+        "name": "Flagler Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0137891,
+          38.9193027
+        ]
+      },
+      "id": "node/740376922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/740376924",
+        "addr:housenumber": "2324",
+        "addr:street": "North Capitol Street NW",
+        "dataset": "ABRA locations",
+        "name": "Sunbeam Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0093752,
+          38.9211478
+        ]
+      },
+      "id": "node/740376924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/741027262",
+        "dataset": "ABRA locations",
+        "name": "Samber Food Store",
+        "shop": "convenience",
+        "source": "dcgis",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0384555,
+          38.9320096
+        ]
+      },
+      "id": "node/741027262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/741027352",
+        "atm": "yes",
+        "name": "Brown Street Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0380971,
+          38.9337445
+        ]
+      },
+      "id": "node/741027352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/741027374",
+        "addr:housenumber": "3158",
+        "addr:street": "Mount Pleasant Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "International Progresso Market",
+        "opening_hours:signed": "no",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0382703,
+          38.9301976
+        ]
+      },
+      "id": "node/741027374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/741027379",
+        "name": "Argyle Convenient Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0390542,
+          38.9324175
+        ]
+      },
+      "id": "node/741027379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/741027388",
+        "addr:housenumber": "3636",
+        "addr:street": "16th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Woodner Grocery",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0372628,
+          38.936428
+        ]
+      },
+      "id": "node/741027388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/741033242",
+        "addr:housenumber": "1133",
+        "addr:street": "11th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "11-M Corner Market",
+        "shop": "convenience",
+        "source": "dcgis",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0268093,
+          38.9055217
+        ]
+      },
+      "id": "node/741033242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/744636024",
+        "addr:housenumber": "4413",
+        "addr:street": "14th Street Northwest",
+        "dataset": "ABRA locations;address",
+        "dcgis:lot": "0811",
+        "dcgis:square": "2819",
+        "name": "Super Saver Grocery & Deli",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0324516,
+          38.9446956
+        ]
+      },
+      "id": "node/744636024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/744636041",
+        "addr:housenumber": "3904",
+        "addr:street": "14th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "14th Mini-market",
+        "shop": "convenience",
+        "source": "dcgis",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0330061,
+          38.9388185
+        ]
+      },
+      "id": "node/744636041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/744636045",
+        "addr:housenumber": "4600",
+        "addr:street": "14th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Royal Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.033002,
+          38.9462785
+        ]
+      },
+      "id": "node/744636045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/744636066",
+        "addr:housenumber": "1247",
+        "addr:street": "Shepherd Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Shepherd Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0294793,
+          38.9399477
+        ]
+      },
+      "id": "node/744636066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/745905369",
+        "addr:housenumber": "523",
+        "addr:street": "Q Street Northwest",
+        "dcgis:lot": "0829",
+        "dcgis:square": "0477",
+        "name": "6th & Q Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0196844,
+          38.9113091
+        ]
+      },
+      "id": "node/745905369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/745905394",
+        "addr:housenumber": "215",
+        "addr:street": "New York Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "B & M Food Store",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0141934,
+          38.9058362
+        ]
+      },
+      "id": "node/745905394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/745905416",
+        "addr:housenumber": "1401",
+        "addr:street": "6th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "ABC Grocery",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0196517,
+          38.90872
+        ]
+      },
+      "id": "node/745905416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/745905447",
+        "addr:housenumber": "1511",
+        "addr:street": "7th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Variety Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0216748,
+          38.9100012
+        ]
+      },
+      "id": "node/745905447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/745905483",
+        "addr:housenumber": "1245",
+        "addr:street": "5th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "5th & N Street Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0186819,
+          38.9071048
+        ]
+      },
+      "id": "node/745905483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/745905518",
+        "addr:housenumber": "1000",
+        "addr:street": "S Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "10th Street Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0261699,
+          38.9138783
+        ]
+      },
+      "id": "node/745905518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/745905570",
+        "addr:housenumber": "512",
+        "addr:street": "Rhode Island Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "Grapes & Hopes Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.019484,
+          38.9129498
+        ]
+      },
+      "id": "node/745905570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/745905575",
+        "addr:housenumber": "1618",
+        "addr:street": "8th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "1618 Variety Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0232152,
+          38.9116648
+        ]
+      },
+      "id": "node/745905575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/745905579",
+        "addr:housenumber": "1231",
+        "addr:street": "11th Street Northwest",
+        "check_date:opening_hours": "2022-01-07",
+        "dataset": "ABRA locations",
+        "name": "Capitol Supermarket",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-20:30; Su 09:00-20:00",
+        "phone": "+1-202-289-1336",
+        "shop": "supermarket",
+        "source": "dcgis",
+        "website": "https://www.facebook.com/Capitol-Supermarket-160212324006470/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0266901,
+          38.9067904
+        ]
+      },
+      "id": "node/745905579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/745922235",
+        "addr:housenumber": "1399",
+        "addr:street": "Half Street Southwest",
+        "dataset": "ABRA locations",
+        "drink:beer": "retail",
+        "drink:wine": "retail",
+        "name": "Friendly Food Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0108332,
+          38.8731283
+        ]
+      },
+      "id": "node/745922235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750157947",
+        "brand": "Wawa",
+        "brand:wikidata": "Q5936320",
+        "brand:wikipedia": "en:Wawa (company)",
+        "name": "Wawa",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.029305,
+          38.899573
+        ]
+      },
+      "id": "node/750157947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750406532",
+        "addr:housenumber": "1804",
+        "addr:street": "D Street Northeast",
+        "dataset": "ABRA locations",
+        "name": "Economy Market",
+        "shop": "convenience",
+        "source": "dcgis",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.978706,
+          38.8949945
+        ]
+      },
+      "id": "node/750406532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750406545",
+        "addr:housenumber": "1620",
+        "addr:street": "A Street Southeast",
+        "dataset": "ABRA locations",
+        "name": "Eastern Thrifty Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9811629,
+          38.8888554
+        ]
+      },
+      "id": "node/750406545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750406547",
+        "addr:housenumber": "1501",
+        "addr:street": "Pennsylvania Avenue Southeast",
+        "dataset": "ABRA locations",
+        "name": "Pennsylvania Avenue Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9834606,
+          38.8791795
+        ]
+      },
+      "id": "node/750406547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750406550",
+        "addr:housenumber": "1504",
+        "addr:street": "East Capitol Street Northeast",
+        "dataset": "ABRA locations",
+        "name": "The Cupboard",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9833613,
+          38.8900643
+        ]
+      },
+      "id": "node/750406550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750408669",
+        "addr:housenumber": "7350",
+        "addr:street": "Georgia Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "Geranium Market",
+        "phone": "2027231342",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0267174,
+          38.9792413
+        ]
+      },
+      "id": "node/750408669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750421370",
+        "addr:housenumber": "4201",
+        "addr:street": "Cathedral Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "Lee Tower Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0829773,
+          38.9308225
+        ]
+      },
+      "id": "node/750421370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750421372",
+        "addr:housenumber": "4201",
+        "addr:street": "Massachusetts Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "Berkshire Food & Drug",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0819566,
+          38.9358591
+        ]
+      },
+      "id": "node/750421372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750432407",
+        "addr:housenumber": "4418",
+        "addr:street": "MacArthur Boulevard Northwest",
+        "dataset": "ABRA locations",
+        "name": "Town Square Gourmet",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0819789,
+          38.9068509
+        ]
+      },
+      "id": "node/750432407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750432418",
+        "addr:housenumber": "5185",
+        "addr:street": "MacArthur Boulevard Northwest",
+        "dataset": "ABRA locations",
+        "drink:beer": "yes",
+        "drink:wine": "yes",
+        "name": "Mac Market & Deli",
+        "not:brand:wikidata": "Q2624442",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1029112,
+          38.9268148
+        ]
+      },
+      "id": "node/750432418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750432421",
+        "addr:housenumber": "4554",
+        "addr:street": "MacArthur Boulevard Northwest",
+        "dataset": "ABRA locations",
+        "name": "Palisades Deli & Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0875351,
+          38.9090713
+        ]
+      },
+      "id": "node/750432421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750432426",
+        "addr:housenumber": "5435",
+        "addr:street": "MacArthur Boulevard Northwest",
+        "alt_name": "Mimi's Deli",
+        "atm": "yes",
+        "cuisine": "breakfast;sandwich",
+        "dataset": "ABRA locations",
+        "drink:beer": "yes",
+        "drink:wine": "yes",
+        "name": "Mimi's Convenience Store",
+        "opening_hours": "Mo-Fr 06:30-20:00; Sa 08:00-20:00",
+        "phone": "+1-202-686-6865",
+        "shop": "convenience",
+        "source": "dcgis",
+        "website": "http://mimimacarthur.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1064745,
+          38.929876
+        ]
+      },
+      "id": "node/750432426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750461214",
+        "addr:housenumber": "2647",
+        "addr:street": "Connecticut Avenue Northwest",
+        "dataset": "ABRA locations;address",
+        "dcgis:lot": "0162",
+        "dcgis:square": "2204",
+        "name": "Manhattan Market",
+        "opening_hours": "PH,Mo-Su 08:00-22:00",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0518877,
+          38.9248968
+        ]
+      },
+      "id": "node/750461214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750467834",
+        "addr:housenumber": "1901",
+        "addr:street": "New Hampshire Avenue Northwest",
+        "dataset": "ABRA locations",
+        "name": "Freedom Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0374169,
+          38.9157515
+        ]
+      },
+      "id": "node/750467834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750467848",
+        "addr:housenumber": "1936",
+        "addr:street": "11th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Eleven Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0273013,
+          38.9166687
+        ]
+      },
+      "id": "node/750467848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750467866",
+        "addr:city": "Washington",
+        "addr:housenumber": "1805",
+        "addr:postcode": "20009",
+        "addr:state": "DC",
+        "addr:street": "14th Street Northwest",
+        "cuisine": "wine",
+        "dataset": "ABRA locations;address",
+        "dcgis:lot": "0854",
+        "dcgis:square": "0238",
+        "housesuffix": "A",
+        "name": "Cork Market & Tasting Room",
+        "phone": "(202) 265-2674",
+        "shop": "convenience",
+        "source": "dcgis",
+        "website": "https://www.corkdc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0315791,
+          38.9143418
+        ]
+      },
+      "id": "node/750467866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750467905",
+        "addr:housenumber": "1351",
+        "addr:street": "U Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "U Mini Mart",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0311031,
+          38.9171672
+        ]
+      },
+      "id": "node/750467905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/750467925",
+        "addr:housenumber": "1846",
+        "addr:street": "13th Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Whitelaw Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0298757,
+          38.9154221
+        ]
+      },
+      "id": "node/750467925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/775844073",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0222153,
+          38.9119172
+        ]
+      },
+      "id": "node/775844073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/804627275",
+        "addr:housenumber": "516",
+        "addr:street": "23rd Street Northwest",
+        "dataset": "ABRA locations",
+        "dcgis:lot": "0087",
+        "dcgis:square": "0033",
+        "name": "Market Of Columbia Plaza",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0511415,
+          38.8965266
+        ]
+      },
+      "id": "node/804627275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/806606941",
+        "addr:housenumber": "1331",
+        "addr:street": "29th Street Northwest",
+        "dataset": "ABRA locations",
+        "dcgis:lot": "0842",
+        "dcgis:square": "1240",
+        "name": "Scheele's Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0579857,
+          38.9078075
+        ]
+      },
+      "id": "node/806606941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/807161286",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "1406",
+        "addr:state": "DC",
+        "addr:street": "H Street Northeast",
+        "dataset": "address;ABRA locations",
+        "dcgis:lot": "0802",
+        "dcgis:square": "1049",
+        "fixme": "It seems likely from imagery that this store doesn't exist. Needs survey.",
+        "name": "Dees Convenient Store",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9851297,
+          38.9003551
+        ]
+      },
+      "id": "node/807161286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/807746578",
+        "addr:housenumber": "2001",
+        "addr:street": "S Street Northwest",
+        "dataset": "address",
+        "dcgis:lot": "0032",
+        "dcgis:square": "0090",
+        "name": "Glen's Garden Market",
+        "shop": "supermarket",
+        "source": "dcgis",
+        "website": "https://glensgardenmarket.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.045079,
+          38.9144038
+        ]
+      },
+      "id": "node/807746578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/807988909",
+        "addr:housenumber": "4845",
+        "addr:street": "Massachusetts Avenue Northwest",
+        "dataset": "address",
+        "dcgis:lot": "0803",
+        "dcgis:square": "1499",
+        "name": "Wagshal's Market",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa,Su 10:00-19:00",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0957298,
+          38.9456119
+        ]
+      },
+      "id": "node/807988909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/810531455",
+        "addr:city": "Washington",
+        "addr:housenumber": "490",
+        "addr:postcode": "20001",
+        "addr:state": "DC",
+        "addr:street": "L Street Northwest",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "dataset": "address",
+        "name": "Safeway",
+        "ref": "2737",
+        "shop": "supermarket",
+        "website": "https://local.safeway.com/safeway/dc/washington/490-l-st-nw.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0187533,
+          38.9035899
+        ]
+      },
+      "id": "node/810531455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/810624736",
+        "addr:housenumber": "1807",
+        "addr:street": "18th Street Northwest",
+        "dataset": "address",
+        "dcgis:lot": "0192",
+        "dcgis:square": "0152",
+        "name": "Dupont Market",
+        "shop": "supermarket",
+        "source": "dcgis",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.041488,
+          38.9144478
+        ]
+      },
+      "id": "node/810624736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/811817936",
+        "addr:city": "Washington",
+        "addr:housenumber": "1731",
+        "addr:postcode": "20010",
+        "addr:state": "DC",
+        "addr:street": "7th Street Northwest",
+        "dataset": "address",
+        "dcgis:lot": "0092",
+        "dcgis:square": "0442",
+        "name": "Elbo's Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0216445,
+          38.9137659
+        ]
+      },
+      "id": "node/811817936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/814292522",
+        "addr:housenumber": "2922",
+        "addr:street": "Martin Luther King Junior Avenue Southeast;1",
+        "dataset": "address;ABRA locations",
+        "dcgis:lot": "0806",
+        "dcgis:square": "5951",
+        "housesuffix": "1/2",
+        "name": "Quality Convenience Store",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9968781,
+          38.8453213
+        ]
+      },
+      "id": "node/814292522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/814295292",
+        "addr:housenumber": "3705",
+        "addr:street": "Martin Luther King Junior Avenue Southeast",
+        "dataset": "address;ABRA locations",
+        "dcgis:lot": "0051",
+        "dcgis:square": "6070",
+        "name": "Fort Carroll Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0064389,
+          38.8379427
+        ]
+      },
+      "id": "node/814295292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/814363577",
+        "addr:housenumber": "1795",
+        "addr:street": "Lanier Place Northwest",
+        "dataset": "ABRA locations",
+        "dcgis:lot": "0358",
+        "dcgis:square": "2583",
+        "name": "T's Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0435299,
+          38.9237775
+        ]
+      },
+      "id": "node/814363577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/829688512",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "4036",
+        "addr:postcode": "20011",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "dataset": "address",
+        "dcgis:lot": "0025",
+        "dcgis:square": "2909",
+        "level": "1",
+        "name": "Brightwood Mart",
+        "opening_hours": "08:00-22:00",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0253831,
+          38.9405726
+        ]
+      },
+      "id": "node/829688512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/829737928",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "3418",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "dataset": "address",
+        "dcgis:lot": "0075",
+        "dcgis:square": "2894",
+        "name": "Park Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0239598,
+          38.9325324
+        ]
+      },
+      "id": "node/829737928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/829741008",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "3414",
+        "addr:postcode": "20010",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "dataset": "address",
+        "dcgis:lot": "0075",
+        "dcgis:square": "2894",
+        "name": "Dollar 1 General Merchandise",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0239719,
+          38.9324625
+        ]
+      },
+      "id": "node/829741008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/850209259",
+        "addr:city": "Washington",
+        "addr:housenumber": "6406",
+        "addr:postcode": "20011",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "check_date": "2022-05-11",
+        "dataset": "address",
+        "dcgis:lot": "0839",
+        "dcgis:square": "2945",
+        "name": "Intoto Market",
+        "phone": "202-545-5027",
+        "shop": "convenience",
+        "source": "Site Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0277921,
+          38.9678187
+        ]
+      },
+      "id": "node/850209259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/850210379",
+        "addr:city": "Washington",
+        "addr:housenumber": "6404",
+        "addr:postcode": "20011",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "dataset": "address",
+        "dcgis:lot": "0839",
+        "dcgis:square": "2945",
+        "name": "Jocelyn's Market la Casa Latina",
+        "phone": "202-722-7574",
+        "shop": "convenience",
+        "source": "Site Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.027796,
+          38.9677634
+        ]
+      },
+      "id": "node/850210379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/850210442",
+        "addr:city": "Washington",
+        "addr:housenumber": "5912",
+        "addr:postcode": "20011",
+        "addr:street": "Georgia Avenue Northwest",
+        "dataset": "address",
+        "dcgis:lot": "0818",
+        "dcgis:square": "2938",
+        "name": "Ge-Ex Grocery",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0282188,
+          38.9616537
+        ]
+      },
+      "id": "node/850210442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/875991649",
+        "addr:housenumber": "450",
+        "addr:street": "Massachusetts Avenue Northwest",
+        "dataset": "ABRA locations",
+        "dcgis:lot": "0876",
+        "dcgis:square": "0517",
+        "name": "Gallery Market & Cafe",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0183355,
+          38.9004867
+        ]
+      },
+      "id": "node/875991649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/911209562",
+        "name": "B & K News Stand",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0424169,
+          38.9211686
+        ]
+      },
+      "id": "node/911209562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890053",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4879526,
+          41.8887986
+        ]
+      },
+      "id": "node/953890053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890062",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883755,
+          41.890985
+        ]
+      },
+      "id": "node/953890062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953909049",
+        "amenity": "drinking_water",
+        "fountain": "roman_wolf",
+        "wikimedia_commons": "File:Fountain, Foro Romano, Roma, Italia Mar 15, 2022 10-52-31 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.48238,
+          41.8922771
+        ]
+      },
+      "id": "node/953909049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953909059",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via dei santi Quattro,roma,italy 62022.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968765,
+          41.8889852
+        ]
+      },
+      "id": "node/953909059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1114994714",
+        "addr:housenumber": "1315",
+        "addr:street": "2nd Street Northeast",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "dataset": "address",
+        "dcgis:lot": "0802",
+        "dcgis:square": "0710",
+        "name": "7-Eleven",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0033132,
+          38.907761
+        ]
+      },
+      "id": "node/1114994714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1149356652",
+        "brand": "BP Shop",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "name": "BP Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0326176,
+          38.9238283
+        ]
+      },
+      "id": "node/1149356652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1157932638",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4954695,
+          41.8867552
+        ]
+      },
+      "id": "node/1157932638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1170494282",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942213,
+          41.8900377
+        ]
+      },
+      "id": "node/1170494282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1217748978",
+        "addr:housenumber": "21",
+        "addr:street": "First Street & M Street",
+        "brand": "Harris Teeter",
+        "brand:wikidata": "Q5665067",
+        "brand:wikipedia": "en:Harris Teeter",
+        "name": "Harris Teeter",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0056238,
+          38.9058663
+        ]
+      },
+      "id": "node/1217748978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1218539031",
+        "name": "Vital Vittles",
+        "opening_hours": "Mo-Fr 09:30-01:00; Sa-Su 11:00-01:00",
+        "shop": "convenience",
+        "website": "https://www.thecorp.org/storefronts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0742113,
+          38.9100432
+        ]
+      },
+      "id": "node/1218539031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1333685836",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0326958,
+          38.927614
+        ]
+      },
+      "id": "node/1333685836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1366269421",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9712309,
+          38.9177532
+        ]
+      },
+      "id": "node/1366269421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1366280615",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9885837,
+          38.9140552
+        ]
+      },
+      "id": "node/1366280615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1407542660",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4919666,
+          41.8952361
+        ]
+      },
+      "id": "node/1407542660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656861982",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883955,
+          41.8907173
+        ]
+      },
+      "id": "node/1656861982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1701226235",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5019658,
+          41.8890191
+        ]
+      },
+      "id": "node/1701226235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709280191",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-02",
+        "fountain": "bottle_refill",
+        "name:ru": "вода с газом и без. бесплатная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911794,
+          41.891319
+        ]
+      },
+      "id": "node/1709280191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1784988466",
+        "amenity": "marketplace",
+        "name": "Columbia Heights Farmers Market",
+        "opening_hours": "Sa 10:00-13:00",
+        "website": "http://www.columbiaheightscommunitymarketplace.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0323439,
+          38.9302362
+        ]
+      },
+      "id": "node/1784988466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1809556030",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.010714,
+          38.9629827
+        ]
+      },
+      "id": "node/1809556030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2043189385",
+        "addr:city": "Washington",
+        "addr:housenumber": "1100",
+        "addr:postcode": "20024",
+        "addr:state": "DC",
+        "addr:street": "4th Street Southwest",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "opening_hours": "05:00-24:00",
+        "phone": "+1 202 554 9155",
+        "ref": "2892",
+        "shop": "supermarket",
+        "website": "https://local.safeway.com/safeway/dc/washington/1100-4th-st-sw.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0172181,
+          38.8774173
+        ]
+      },
+      "id": "node/2043189385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2045974457",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9823875,
+          38.9020697
+        ]
+      },
+      "id": "node/2045974457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2105948243",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4878685,
+          41.8968428
+        ]
+      },
+      "id": "node/2105948243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2127909646",
+        "name": "Black Lion Market & Deli",
+        "shop": "convenience",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0329597,
+          38.9342455
+        ]
+      },
+      "id": "node/2127909646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2134010234",
+        "name": "Hoya Snaxa",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0755587,
+          38.9072255
+        ]
+      },
+      "id": "node/2134010234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2313467077",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.019279,
+          38.902268
+        ]
+      },
+      "id": "node/2313467077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2457603232",
+        "amenity": "marketplace",
+        "name": "Farmer's Market (Wednesdays)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0508406,
+          38.9006047
+        ]
+      },
+      "id": "node/2457603232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2503173643",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9899068,
+          38.8816389
+        ]
+      },
+      "id": "node/2503173643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537299968",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "indoor": "no",
+        "wikimedia_commons": "File:Nasone via mecenate, Roma, Italia Jun 30, 2022 06-19-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4987211,
+          41.8911676
+        ]
+      },
+      "id": "node/2537299968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2724305949",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5020523,
+          41.8877205
+        ]
+      },
+      "id": "node/2724305949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2788370135",
+        "name": "Market 77",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0230438,
+          38.9288358
+        ]
+      },
+      "id": "node/2788370135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2792745938",
+        "addr:city": "Washington",
+        "addr:housenumber": "1100",
+        "addr:state": "DC",
+        "addr:street": "Vermont Avenue Northwest",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "diet:halal": "no",
+        "name": "7-Eleven",
+        "opening_hours": "24/7",
+        "phone": "202-296-1301",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0332865,
+          38.9038874
+        ]
+      },
+      "id": "node/2792745938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2806227486",
+        "name": "Today's News",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0310058,
+          38.8971402
+        ]
+      },
+      "id": "node/2806227486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2951662335",
+        "addr:city": "Washington",
+        "addr:housenumber": "3830",
+        "addr:postcode": "20011",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "phone": "202 722 4023",
+        "shop": "supermarket",
+        "website": "https://local.safeway.com/safeway/dc/washington/3830-georgia-ave-nw.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0249072,
+          38.9383742
+        ]
+      },
+      "id": "node/2951662335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2961630558",
+        "addr:city": "Washington",
+        "addr:housenumber": "3552",
+        "addr:postcode": "20010",
+        "addr:state": "DC",
+        "addr:street": "14th Street Northwest",
+        "name": "Panamericana",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0329877,
+          38.9358559
+        ]
+      },
+      "id": "node/2961630558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2965926433",
+        "name": "Streets Market and Cafe",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+1-202-265-3300",
+        "shop": "supermarket",
+        "website": "https://www.streetsmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0321303,
+          38.9208499
+        ]
+      },
+      "id": "node/2965926433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2965930333",
+        "addr:city": "Washington",
+        "addr:housenumber": "1914",
+        "addr:postcode": "20009",
+        "addr:state": "DC",
+        "addr:street": "14th Street Northwest",
+        "brand": "Trader Joe's",
+        "brand:wikidata": "Q688825",
+        "brand:wikipedia": "en:Trader Joe's",
+        "name": "Trader Joe's",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+1 202 986 1591",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0322113,
+          38.9161261
+        ]
+      },
+      "id": "node/2965930333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2966223709",
+        "brand": "Giant",
+        "brand:wikidata": "Q5558336",
+        "brand:wikipedia": "en:Giant Food (Landover)",
+        "name": "Giant",
+        "official_name": "Giant Food",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0226834,
+          38.9090968
+        ]
+      },
+      "id": "node/2966223709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2975798681",
+        "addr:city": "Washington",
+        "addr:housenumber": "5766",
+        "addr:postcode": "20011",
+        "addr:street": "Georgia Avenue Northwest",
+        "name": "Unsulution Grocery",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 08:00-21:00",
+        "phone": "202- 829-2619",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0283393,
+          38.9601041
+        ]
+      },
+      "id": "node/2975798681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2975839306",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "5929",
+        "addr:postcode": "20011",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-202-719-3770",
+        "ref:walmart": "5968",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/5968/washington-dc/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0273083,
+          38.9620325
+        ]
+      },
+      "id": "node/2975839306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2975856787",
+        "addr:city": "Washington",
+        "addr:housenumber": "6224",
+        "addr:postcode": "20011",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "name": "Enat Ethopia Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0278766,
+          38.965717
+        ]
+      },
+      "id": "node/2975856787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2975857635",
+        "addr:city": "Washington",
+        "addr:housenumber": "6226",
+        "addr:postcode": "20011",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "name": "Wow market",
+        "phone": "202-722-1205",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0278686,
+          38.9657594
+        ]
+      },
+      "id": "node/2975857635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2975867917",
+        "addr:city": "Washington",
+        "addr:housenumber": "6232",
+        "addr:postcode": "20011",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "name": "Sheridan International Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0278427,
+          38.9659254
+        ]
+      },
+      "id": "node/2975867917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2984563450",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "3547",
+        "addr:postcode": "20010",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "name": "Georgia Ave Mart and Wireless",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0236978,
+          38.9340623
+        ]
+      },
+      "id": "node/2984563450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2988104846",
+        "addr:housenumber": "1300",
+        "addr:postcode": "20003",
+        "addr:street": "Pennsylvania Avenue Southeast",
+        "name": "Potomac Tobacco Mini Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9881136,
+          38.8816744
+        ]
+      },
+      "id": "node/2988104846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2989830137",
+        "addr:city": "Washington",
+        "addr:housenumber": "7717",
+        "addr:postcode": "20012",
+        "addr:street": "Juniper Street Northwest",
+        "name": "Fairland Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0261342,
+          38.9834299
+        ]
+      },
+      "id": "node/2989830137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2989830138",
+        "addr:city": "Washington",
+        "addr:housenumber": "7719",
+        "addr:postcode": "20012",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "name": "Progresso Market (International)",
+        "shop": "supermarket",
+        "source": "Site Survey / #Mapping DC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0261623,
+          38.9835973
+        ]
+      },
+      "id": "node/2989830138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2995769337",
+        "addr:housenumber": "2400",
+        "addr:postcode": "20020",
+        "addr:street": "Minnesota Avenue SE",
+        "dataset": "ABRA locations",
+        "name": "Martha's Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97219,
+          38.8730039
+        ]
+      },
+      "id": "node/2995769337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3000733721",
+        "addr:housenumber": "200",
+        "addr:postcode": "20003",
+        "addr:street": "15th Street Southeast",
+        "description": "7/11",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.983422,
+          38.8874019
+        ]
+      },
+      "id": "node/3000733721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3010470450",
+        "addr:city": "Washington",
+        "addr:housenumber": "3907",
+        "addr:postcode": "20019",
+        "addr:state": "DC",
+        "addr:street": "Benning Road Northeast",
+        "name": "DC Dome",
+        "shop": "convenience",
+        "source": "Site Visit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.948889,
+          38.8947769
+        ]
+      },
+      "id": "node/3010470450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3012311756",
+        "addr:housenumber": "701",
+        "addr:postcode": "20011",
+        "addr:street": "Kennedy Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Kennedy Street Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0225054,
+          38.9565357
+        ]
+      },
+      "id": "node/3012311756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3014213932",
+        "addr:housenumber": "5018",
+        "addr:postcode": "20011",
+        "addr:street": "Rock Creek Church Road Northeast",
+        "name": "Price's Grocery",
+        "shop": "supermarket",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0082994,
+          38.9515737
+        ]
+      },
+      "id": "node/3014213932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3024686415",
+        "addr:housenumber": "450",
+        "addr:postcode": "20010",
+        "addr:street": "Lamont Street Northwest",
+        "dataset": "ABRA locations",
+        "name": "Lamont Market",
+        "shop": "convenience",
+        "source": "dcgis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0199129,
+          38.9311373
+        ]
+      },
+      "id": "node/3024686415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3056141350",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Piazza della Consolazione, Roma, Italia Sep 08, 2021 06-22-13 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4821627,
+          41.8911658
+        ]
+      },
+      "id": "node/3056141350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3098527533",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4841145,
+          41.8915162
+        ]
+      },
+      "id": "node/3098527533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3137343769",
+        "addr:city": "Washington",
+        "addr:housenumber": "806",
+        "addr:postcode": "20002",
+        "addr:street": "H Street Northeast",
+        "fixme": "JOSM can't fix this automatically. Please fix by hand using proper syntax as defined at https://wiki.openstreetmap.org/wiki/Key:opening_hours",
+        "name": "H Street Market",
+        "opening_hours:rubbish": "Monday - Sunday: 9 A.M - 9 P.M",
+        "phone": "202-601-7097",
+        "shop": "grocery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9945234,
+          38.9004007
+        ]
+      },
+      "id": "node/3137343769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3222137940",
+        "addr:city": "Washington",
+        "addr:housenumber": "3932",
+        "addr:postcode": "20019",
+        "addr:state": "DC",
+        "addr:street": "Minnesota Avenue Northeast",
+        "building:condition": "average",
+        "name": "Murry's",
+        "note": "#DCGreatStreets",
+        "shop": "supermarket",
+        "source": "#DCGreatStreets",
+        "website": "http://www.murrys.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9503318,
+          38.8940598
+        ]
+      },
+      "id": "node/3222137940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3222170221",
+        "addr:city": "Washington",
+        "addr:housenumber": "3900",
+        "addr:postcode": "20019",
+        "addr:state": "DC",
+        "addr:street": "Minnesota Avenue Northeast",
+        "building:condition": "average",
+        "name": "7 Value Mart",
+        "note": "#DCGreatStreets",
+        "shop": "convenience",
+        "source": "#DCGreatStreets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9507725,
+          38.8933939
+        ]
+      },
+      "id": "node/3222170221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3228776001",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "99",
+        "addr:postcode": "20001",
+        "addr:state": "DC",
+        "addr:street": "H Street Northwest",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "operator:wikidata": "Q483551",
+        "operator:wikipedia": "en:Walmart",
+        "phone": "+1-202-719-2110",
+        "ref:walmart": "5941",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/5941/washington-dc/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.011954,
+          38.900475
+        ]
+      },
+      "id": "node/3228776001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3347849619",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0259356,
+          38.9796794
+        ]
+      },
+      "id": "node/3347849619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3355411712",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0447515,
+          38.9184531
+        ]
+      },
+      "id": "node/3355411712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3684845714",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "429",
+        "addr:postcode": "20003",
+        "addr:state": "DC",
+        "addr:street": "8th Street Southeast",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9951839,
+          38.8828808
+        ]
+      },
+      "id": "node/3684845714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3710986601",
+        "brand": "Harris Teeter",
+        "brand:wikidata": "Q5665067",
+        "brand:wikipedia": "en:Harris Teeter",
+        "name": "Harris Teeter",
+        "shop": "supermarket",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0002448,
+          38.8760895
+        ]
+      },
+      "id": "node/3710986601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3781085662",
+        "amenity": "marketplace",
+        "name": "Petworth Community Market",
+        "opening_hours": "Sa 09:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0250915,
+          38.9413521
+        ]
+      },
+      "id": "node/3781085662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3781209121",
+        "addr:city": "Washington",
+        "addr:state": "DC",
+        "addr:street": "Gresham Place Northwest",
+        "name": "727 Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0231487,
+          38.9267143
+        ]
+      },
+      "id": "node/3781209121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3782788269",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0325049,
+          38.934869
+        ]
+      },
+      "id": "node/3782788269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785014818",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934389,
+          41.8873381
+        ]
+      },
+      "id": "node/3785014818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3786621294",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4927208,
+          41.8867114
+        ]
+      },
+      "id": "node/3786621294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3816366749",
+        "name": "Dollar Plus and Grocery",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0240537,
+          38.9359901
+        ]
+      },
+      "id": "node/3816366749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3874127057",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.001892,
+          38.952783
+        ]
+      },
+      "id": "node/3874127057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3887704116",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0380855,
+          38.9301094
+        ]
+      },
+      "id": "node/3887704116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4040900223",
+        "addr:city": "Washington",
+        "addr:housenumber": "4201",
+        "addr:postcode": "20016",
+        "addr:state": "DC",
+        "addr:street": "Cathedral Avenue Northwest",
+        "name": "Towers' Market",
+        "opening_hours": "10:00-09:00",
+        "operator": "Duq",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0836597,
+          38.9306971
+        ]
+      },
+      "id": "node/4040900223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4128647168",
+        "name": "Family Convenience Store",
+        "proposed:shop": "deli",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0234529,
+          38.9291791
+        ]
+      },
+      "id": "node/4128647168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270747925",
+        "addr:city": "Washington",
+        "addr:housenumber": "1924",
+        "addr:postcode": "20001",
+        "addr:state": "DC",
+        "addr:street": "8th Street Northwest",
+        "amenity": "marketplace",
+        "name": "Union Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0231554,
+          38.916232
+        ]
+      },
+      "id": "node/4270747925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4332706293",
+        "addr:housenumber": "1400",
+        "addr:postcode": "20005",
+        "addr:street": "Rhode Island Avenue Northwest",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0321538,
+          38.9085324
+        ]
+      },
+      "id": "node/4332706293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4555731514",
+        "addr:city": "Washington",
+        "addr:housenumber": "3427",
+        "addr:postcode": "20008",
+        "addr:state": "DC",
+        "addr:street": "Connecticut Avenue Northwest",
+        "name": "Streets Market",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+1-202-244-9114",
+        "shop": "supermarket",
+        "website": "https://www.streetsmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0579966,
+          38.9351856
+        ]
+      },
+      "id": "node/4555731514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4640273561",
+        "addr:city": "Washington",
+        "addr:housenumber": "2216",
+        "addr:postcode": "20020",
+        "addr:state": "DC",
+        "addr:street": "Martin Luther King Junior Avenue Southeast",
+        "name": "ABG Mart",
+        "phone": "202-889-8900",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9899064,
+          38.8642759
+        ]
+      },
+      "id": "node/4640273561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4770036975",
+        "level": "0",
+        "name": "Dubai Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0324278,
+          38.9330384
+        ]
+      },
+      "id": "node/4770036975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4777169351",
+        "addr:city": "Washington",
+        "addr:housenumber": "2702",
+        "addr:state": "DC",
+        "addr:street": "14th Street Northwest",
+        "name": "Delicia's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.032972,
+          38.9373684
+        ]
+      },
+      "id": "node/4777169351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4796814275",
+        "addr:city": "Washington",
+        "addr:housenumber": "600",
+        "addr:postcode": "20002",
+        "addr:state": "DC",
+        "addr:street": "H Street Northeast",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "internet_access": "wlan",
+        "name": "Whole Foods Market",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1-202-469-7410",
+        "shop": "supermarket",
+        "website": "https://www.wholefoodsmarket.com/stores/hstreet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.998128,
+          38.9003882
+        ]
+      },
+      "id": "node/4796814275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4840560722",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "name:en": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9971693,
+          38.8847784
+        ]
+      },
+      "id": "node/4840560722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4922870557",
+        "name": "Hana Japanese Market",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "phone": "+1-202-939-8854",
+        "shop": "supermarket",
+        "website": "http://galaxygalaxy.com/hana/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.038694,
+          38.9171471
+        ]
+      },
+      "id": "node/4922870557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4935641921",
+        "addr:housenumber": "2300",
+        "addr:street": "14th Street Northwest",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "name:en": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0321227,
+          38.9201885
+        ]
+      },
+      "id": "node/4935641921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5132064121",
+        "brand": "Hudson",
+        "brand:wikidata": "Q111534515",
+        "brand:wikipedia": "en:Hudson Group",
+        "diet:halal": "no",
+        "level": "0",
+        "name": "Hudson",
+        "opening_hours": "Mo-Su 07:00-18:00+",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0064843,
+          38.8980173
+        ]
+      },
+      "id": "node/5132064121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5187823052",
+        "description": "URL: http://podmarket.com/Default.aspx",
+        "name": "P.O.D. Market",
+        "operator": "Aramark",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0868176,
+          38.9362087
+        ]
+      },
+      "id": "node/5187823052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598942",
+        "addr:city": "Washington",
+        "addr:country": "US",
+        "addr:housenumber": "310",
+        "addr:postcode": "20011",
+        "addr:state": "DC",
+        "addr:street": "Riggs Road Northeast",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "operator:wikidata": "Q483551",
+        "operator:wikipedia": "en:Walmart",
+        "phone": "+1-202-756-4418",
+        "ref:walmart": "3035",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3035/washington-dc/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0022035,
+          38.9578188
+        ]
+      },
+      "id": "node/5315598942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5329642520",
+        "name": "Petworth Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02425,
+          38.9372213
+        ]
+      },
+      "id": "node/5329642520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5376787642",
+        "addr:city": "Washington",
+        "addr:housenumber": "750",
+        "addr:state": "DC",
+        "addr:street": "Pennsylvania Avenue Southeast",
+        "brand": "Trader Joe's",
+        "brand:wikidata": "Q688825",
+        "brand:wikipedia": "en:Trader Joe's",
+        "level": "-1",
+        "name": "Trader Joe's",
+        "opening_hours": "08:00-22:00",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9958375,
+          38.8849142
+        ]
+      },
+      "id": "node/5376787642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5471127029",
+        "addr:housenumber": "1251",
+        "addr:street": "9th Street Northwest",
+        "air_conditioning": "yes",
+        "coffee": "yes",
+        "name": "Union Kitchen Grocery",
+        "shop": "convenience",
+        "website": "https://unionkitchen.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0237107,
+          38.9069713
+        ]
+      },
+      "id": "node/5471127029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5923081248",
+        "brand": "Hudson",
+        "brand:wikidata": "Q111534515",
+        "brand:wikipedia": "en:Hudson Group",
+        "diet:halal": "no",
+        "name": "Hudson",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.005553,
+          38.8978132
+        ]
+      },
+      "id": "node/5923081248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5999218243",
+        "addr:housenumber": "101",
+        "addr:street": "H Street Southeast",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "name": "Whole Foods Market",
+        "shop": "supermarket",
+        "website": "https://www.wholefoodsmarket.com/stores/southcapitolhill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0051123,
+          38.880363
+        ]
+      },
+      "id": "node/5999218243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6129180614",
+        "amenity": "marketplace",
+        "name": "Market SW",
+        "operator": "Diverse Markets Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0182216,
+          38.8767384
+        ]
+      },
+      "id": "node/6129180614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6173810703",
+        "amenity": "marketplace",
+        "name": "Downtown Holiday Market",
+        "xmas:feature": "market",
+        "xmas:opening_hours": "Mo-Su 12:00-20:00",
+        "xmas:url": "http://downtownholidaymarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0229739,
+          38.897329
+        ]
+      },
+      "id": "node/6173810703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6232229115",
+        "addr:city": "Washington",
+        "addr:housenumber": "350",
+        "addr:postcode": "20002",
+        "addr:state": "DC",
+        "addr:street": "Florida Avenue Northeast",
+        "brand": "Trader Joe's",
+        "brand:wikidata": "Q688825",
+        "brand:wikipedia": "en:Trader Joe's",
+        "name": "Trader Joe's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0005857,
+          38.9074588
+        ]
+      },
+      "id": "node/6232229115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6283490728",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0636724,
+          38.9077594
+        ]
+      },
+      "id": "node/6283490728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6292228029",
+        "addr:housenumber": "51",
+        "addr:street": "M Street Northeast",
+        "email": "info@streetsmarketcafe.com",
+        "fax": "+1 202 898 1316",
+        "name": "Streets Market",
+        "opening_hours": "Mo-Th 07:00-23:00; Fr-Sa 07:00-00:00; Su 08:00-23:00",
+        "organic": "yes",
+        "phone": "+1 202 898 1314",
+        "shop": "convenience",
+        "website": "http://www.streetsmarketcafe.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0089041,
+          38.903757
+        ]
+      },
+      "id": "node/6292228029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6617838319",
+        "brand": "Wawa",
+        "brand:wikidata": "Q5936320",
+        "brand:wikipedia": "en:Wawa (company)",
+        "name": "Wawa",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0789624,
+          38.9482406
+        ]
+      },
+      "id": "node/6617838319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6942961843",
+        "name": "Rioja Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0430692,
+          38.9219805
+        ]
+      },
+      "id": "node/6942961843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7523212270",
+        "addr:city": "Washington",
+        "addr:housenumber": "4418",
+        "addr:postcode": "20011",
+        "addr:state": "DC",
+        "addr:street": "Georgia Avenue Northwest",
+        "name": "Zemen Market",
+        "opening_hours:covid19": "Mo-Fr 09:00-21:00, Sa-Su 10:00-21:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0264512,
+          38.9447567
+        ]
+      },
+      "id": "node/7523212270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7596621086",
+        "addr:city": "Washington",
+        "addr:housenumber": "3433",
+        "addr:street": "Connecticut Avenue Northwest",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0580713,
+          38.9353127
+        ]
+      },
+      "id": "node/7596621086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7782851110",
+        "name": "Streets Market",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+1-202-758-0658",
+        "shop": "supermarket",
+        "website": "https://www.streetsmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0436208,
+          38.9207504
+        ]
+      },
+      "id": "node/7782851110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8188498316",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0752563,
+          38.9646203
+        ]
+      },
+      "id": "node/8188498316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8567898632",
+        "addr:city": "Washington",
+        "addr:housenumber": "1267",
+        "addr:postcode": "20007",
+        "addr:state": "DC",
+        "addr:street": "Wisconsin Avenue Northwest",
+        "name": "Foxtrot",
+        "phone": "+1 202 290 3611",
+        "shop": "convenience",
+        "website": "https://foxtrotco.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0627839,
+          38.9066467
+        ]
+      },
+      "id": "node/8567898632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8812731250",
+        "addr:city": "Washington",
+        "addr:housenumber": "4975",
+        "addr:postcode": "20017",
+        "addr:state": "DC",
+        "addr:street": "South Dakota Avenue Northeast",
+        "name": "DC Super Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9926661,
+          38.9499956
+        ]
+      },
+      "id": "node/8812731250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8812731252",
+        "addr:city": "Washington",
+        "addr:housenumber": "5005",
+        "addr:postcode": "20011",
+        "addr:state": "DC",
+        "addr:street": "South Dakota Avenue Northeast",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "opening_hours": "24/7",
+        "phone": "202-526-1793",
+        "shop": "convenience",
+        "website": "https://www.7-eleven.com/locations/dc/washington/5505-s-dakota-ave-36711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0005383,
+          38.9559676
+        ]
+      },
+      "id": "node/8812731252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9010770730",
+        "addr:city": "Washington",
+        "addr:postcode": "20009",
+        "addr:state": "DC",
+        "addr:street": "Euclid Street Northwest",
+        "amenity": "marketplace",
+        "description": "Saturday farmers market June - December",
+        "name": "Adams Morgan Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0416327,
+          38.9231997
+        ]
+      },
+      "id": "node/9010770730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9046095962",
+        "name": "Newton Foodmart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9912316,
+          38.933624
+        ]
+      },
+      "id": "node/9046095962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9325090664",
+        "addr:city": "Washington",
+        "addr:housenumber": "1625",
+        "addr:postcode": "20002",
+        "addr:state": "DC",
+        "addr:street": "Eckington Place Northeast",
+        "name": "Union Kitchen",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "organic": "yes",
+        "phone": "+1-202-792-7850",
+        "shop": "convenience",
+        "website": "https://www.unionkitchen.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0043525,
+          38.911937
+        ]
+      },
+      "id": "node/9325090664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9339246813",
+        "amenity": "marketplace",
+        "name": "Historic Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0379437,
+          38.9299886
+        ]
+      },
+      "id": "node/9339246813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9410952563",
+        "addr:city": "Washington",
+        "addr:housenumber": "1733",
+        "addr:postcode": "20009",
+        "addr:state": "DC",
+        "addr:street": "14th Street Northwest",
+        "brand": "Amazon Fresh",
+        "brand:wikidata": "Q4740834",
+        "brand:wikipedia": "en:Amazon Fresh",
+        "name": "Amazon Fresh",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0317256,
+          38.9132465
+        ]
+      },
+      "id": "node/9410952563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9483455588",
+        "addr:city": "Washington",
+        "addr:housenumber": "716",
+        "addr:postcode": "20017",
+        "addr:state": "DC",
+        "addr:street": "Monroe Street Northeast",
+        "amenity": "marketplace",
+        "name": "Monroe Street Farmers Market",
+        "opening_hours": "Sa 10:00-13:00",
+        "operator": "FRESHFARM Markets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9952093,
+          38.9332572
+        ]
+      },
+      "id": "node/9483455588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9492680335",
+        "name": "Streets Market",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+1-202-652-0843",
+        "shop": "supermarket",
+        "website": "https://www.streetsmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0484327,
+          38.9065572
+        ]
+      },
+      "id": "node/9492680335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9547731879",
+        "addr:city": "Washington",
+        "addr:housenumber": "967",
+        "addr:postcode": "20001",
+        "addr:state": "DC",
+        "addr:street": "Florida Avenue Northwest",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "name": "Whole Foods Market",
+        "phone": "+1 (202) 519-3400",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0248026,
+          38.9194079
+        ]
+      },
+      "id": "node/9547731879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9733612348",
+        "check_date": "2022-05-11",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0190661,
+          38.9750456
+        ]
+      },
+      "id": "node/9733612348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9795524379",
+        "name": "Senbeb Natural Foods",
+        "opening_hours": "Mo-Sa 11:00-18:00; Su 10:00-15:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.016357,
+          38.965691
+        ]
+      },
+      "id": "node/9795524379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9795524385",
+        "name": "Tropi Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0213812,
+          38.9565612
+        ]
+      },
+      "id": "node/9795524385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9879481359",
+        "addr:city": "Washington",
+        "addr:housenumber": "41",
+        "addr:postcode": "20016",
+        "addr:state": "DC",
+        "addr:street": "Ridge Square Northwest",
+        "brand:wikidata": "Q11288478",
+        "name": "Wegmans",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.077345,
+          38.9407522
+        ]
+      },
+      "id": "node/9879481359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10673913479",
+        "addr:housenumber": "51",
+        "addr:postcode": "20002",
+        "addr:street": "M Street Northeast",
+        "name": "Streets Market",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+1-202-898-1314",
+        "shop": "supermarket",
+        "website": "https://www.streetsmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0071569,
+          38.9055
+        ]
+      },
+      "id": "node/10673913479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10673916984",
+        "name": "Streets Market",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+1-202-414-7891",
+        "shop": "supermarket",
+        "website": "https://www.streetsmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0293815,
+          38.9050411
+        ]
+      },
+      "id": "node/10673916984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5167443540",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "covered": "no",
+        "fee": "no",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4931902,
+          41.8955726
+        ]
+      },
+      "id": "node/5167443540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5314059440",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone piazza di San Gregorio, Roma, Italia Sep 01, 2020 11-51-42 AM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.490124,
+          41.8863528
+        ]
+      },
+      "id": "node/5314059440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340247517",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-51-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978518,
+          41.8912427
+        ]
+      },
+      "id": "node/5340247517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340252322",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-49-50 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4973968,
+          41.8913872
+        ]
+      },
+      "id": "node/5340252322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535092255",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915049,
+          41.8918027
+        ]
+      },
+      "id": "node/5535092255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5732659653",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4923174,
+          41.8936702
+        ]
+      },
+      "id": "node/5732659653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5801329944",
+        "amenity": "drinking_water",
+        "description:de": "Wasserbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4884569,
+          41.8880861
+        ]
+      },
+      "id": "node/5801329944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6280605307",
+        "amenity": "drinking_water",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4936946,
+          41.8939824
+        ]
+      },
+      "id": "node/6280605307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6547164641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Via in Miranda, Foro Romano, Roma, Italia Oct 05, 2022 04-55-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870814,
+          41.8924043
+        ]
+      },
+      "id": "node/6547164641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6616168986",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4967144,
+          41.8922741
+        ]
+      },
+      "id": "node/6616168986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6841124063",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926345,
+          41.8906387
+        ]
+      },
+      "id": "node/6841124063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085935353",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941883,
+          41.8915996
+        ]
+      },
+      "id": "node/7085935353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7203154248",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Via Marco Aurelio, Roma, Italia Jun 30, 2022 08-08-32 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4955486,
+          41.8882028
+        ]
+      },
+      "id": "node/7203154248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7869827179",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4947587,
+          41.8966257
+        ]
+      },
+      "id": "node/7869827179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9108120217",
+        "amenity": "drinking_water",
+        "name": "Acqua",
+        "name:en": "Drinkable water",
+        "name:fr": "Eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4847106,
+          41.8877336
+        ]
+      },
+      "id": "node/9108120217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9878433809",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4970398,
+          41.893108
+        ]
+      },
+      "id": "node/9878433809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9983658444",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4836941,
+          41.8923945
+        ]
+      },
+      "id": "node/9983658444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10082714502",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "historic": "yes",
+        "note": "this is a unique historic drinking fountain, not a nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4818028,
+          41.8919755
+        ]
+      },
+      "id": "node/10082714502"
+    }
+  ]
+}

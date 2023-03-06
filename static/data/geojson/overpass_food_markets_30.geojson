@@ -1,0 +1,5855 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-05T23:50:21Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266310881",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934985,
+          41.8923773
+        ]
+      },
+      "id": "node/266310881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/314011685",
+        "name": "Price Rite Food Farm",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6670967,
+          47.818179
+        ]
+      },
+      "id": "node/314011685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/317650617",
+        "addr:city": "Bozeman",
+        "addr:state": "MT",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0652474,
+          45.6769407
+        ]
+      },
+      "id": "node/317650617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/355287954",
+        "addr:housenumber": "32",
+        "addr:postcode": "3963",
+        "addr:street": "Route du Rawyl",
+        "brand": "Migros",
+        "brand:wikidata": "Q680727",
+        "cash_withdrawal": "postfinance_card",
+        "cash_withdrawal:fee": "no",
+        "cash_withdrawal:purchase_required": "no",
+        "cash_withdrawal:type": "checkout",
+        "name": "Migros",
+        "shop": "supermarket",
+        "website": "https://www.migros.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4729474,
+          46.3092958
+        ]
+      },
+      "id": "node/355287954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388984003",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494519,
+          41.8877413
+        ]
+      },
+      "id": "node/388984003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/448045021",
+        "name": "Gift Shop & Campstore",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6769316,
+          48.7978771
+        ]
+      },
+      "id": "node/448045021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495113034",
+        "amenity": "drinking_water",
+        "check_date": "2022-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934283,
+          41.8913309
+        ]
+      },
+      "id": "node/495113034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/513898342",
+        "brand": "Denner",
+        "brand:wikidata": "Q379911",
+        "brand:wikipedia": "en:Denner (supermarket)",
+        "cash_withdrawal": "migros_bank;postfinance_card",
+        "cash_withdrawal:fee": "no",
+        "cash_withdrawal:purchase_required": "no",
+        "cash_withdrawal:type": "checkout",
+        "name": "Denner",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4807526,
+          46.3126425
+        ]
+      },
+      "id": "node/513898342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685457655",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4867108,
+          41.8902623
+        ]
+      },
+      "id": "node/685457655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685461877",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4875779,
+          41.8891234
+        ]
+      },
+      "id": "node/685461877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/761710583",
+        "name": "Kremer's C-Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7063584,
+          45.0332665
+        ]
+      },
+      "id": "node/761710583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/762672034",
+        "addr:city": "Billings",
+        "addr:housenumber": "3137",
+        "addr:postcode": "59102",
+        "addr:state": "MT",
+        "addr:street": "Grand Avenue",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "note": "Billings - Grand & Rehberg Hours Mon-Sun 6am-Midnight Services      Bakery     Beer     Deli     Floral Dept     Health & Beauty     Pharmacy     Redbox     Starbucks     Wine",
+        "phone": "(406) 652-8370",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.592934,
+          45.7852541
+        ]
+      },
+      "id": "node/762672034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890053",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4879526,
+          41.8887986
+        ]
+      },
+      "id": "node/953890053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890062",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883755,
+          41.890985
+        ]
+      },
+      "id": "node/953890062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953909059",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via dei santi Quattro,roma,italy 62022.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968765,
+          41.8889852
+        ]
+      },
+      "id": "node/953909059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1170494282",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942213,
+          41.8900377
+        ]
+      },
+      "id": "node/1170494282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1271573299",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.886573,
+          46.8742269
+        ]
+      },
+      "id": "node/1271573299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1497020826",
+        "name": "Hedelweiss Market",
+        "opening_hours": "Mo-Tu 07:00-12:00,15:00-18:30; We 07:00-12:00; Th-Fr 07:00-12:00,15:00-18:30; Su 07:00-12:00,14:00-17:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4899399,
+          46.2976999
+        ]
+      },
+      "id": "node/1497020826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1525169515",
+        "name": "Vans Thriftway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0426357,
+          46.5991785
+        ]
+      },
+      "id": "node/1525169515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1602331293",
+        "name": "Northern Village Shopping Center",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3404456,
+          48.6405825
+        ]
+      },
+      "id": "node/1602331293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656861982",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883955,
+          41.8907173
+        ]
+      },
+      "id": "node/1656861982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1657593396",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2693989,
+          47.4930637
+        ]
+      },
+      "id": "node/1657593396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686293021",
+        "name": "Hellgate store and gas station",
+        "shop": "convenience",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0832245,
+          46.8851479
+        ]
+      },
+      "id": "node/1686293021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1708574563",
+        "amenity": "marketplace",
+        "name": "Forevergreen Tire & Alignment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2757741,
+          48.2240813
+        ]
+      },
+      "id": "node/1708574563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1708574567",
+        "amenity": "marketplace",
+        "designation": "Copy Center / Saftey Supplies / Blue Prints",
+        "name": "Kalispell Copy Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2754093,
+          48.2293061
+        ]
+      },
+      "id": "node/1708574567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709280191",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-02",
+        "fountain": "bottle_refill",
+        "name:ru": "вода с газом и без. бесплатная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911794,
+          41.891319
+        ]
+      },
+      "id": "node/1709280191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1769182761",
+        "name": "Thriftway",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.184707,
+          45.6705771
+        ]
+      },
+      "id": "node/1769182761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1769182779",
+        "name": "Casey's Corner",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1865391,
+          45.6707072
+        ]
+      },
+      "id": "node/1769182779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1769182805",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1866753,
+          45.6717504
+        ]
+      },
+      "id": "node/1769182805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1860838944",
+        "name": "ConoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4872948,
+          45.8277181
+        ]
+      },
+      "id": "node/1860838944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2024009557",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2186883,
+          46.3283628
+        ]
+      },
+      "id": "node/2024009557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2382575729",
+        "addr:city": "Columbia Falls",
+        "addr:housenumber": "2100",
+        "addr:postcode": "59912",
+        "addr:street": "9th St W",
+        "name": "Super 1 Foods",
+        "opening_hours": "00:00-24:00; PH off",
+        "phone": "+1-406-892-9996",
+        "shop": "supermarket",
+        "website": "https://www.super1foods.net/columbiafalls.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2097973,
+          48.3691705
+        ]
+      },
+      "id": "node/2382575729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2406457769",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3293974,
+          48.1996186
+        ]
+      },
+      "id": "node/2406457769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537299968",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "indoor": "no",
+        "wikimedia_commons": "File:Nasone via mecenate, Roma, Italia Jun 30, 2022 06-19-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4987211,
+          41.8911676
+        ]
+      },
+      "id": "node/2537299968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644189686",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6812452,
+          46.9547938
+        ]
+      },
+      "id": "node/2644189686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644189712",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6795286,
+          46.9546967
+        ]
+      },
+      "id": "node/2644189712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2698819904",
+        "addr:city": "Butte",
+        "addr:housenumber": "310",
+        "addr:postcode": "59701",
+        "addr:street": "West Front Street",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "operator": "Safeway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5373195,
+          45.9977798
+        ]
+      },
+      "id": "node/2698819904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2860717130",
+        "addr:city": "Boulder",
+        "addr:housenumber": "215",
+        "addr:postcode": "59632",
+        "addr:street": "North Main Street",
+        "name": "L & P Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1191971,
+          46.2382419
+        ]
+      },
+      "id": "node/2860717130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2928619001",
+        "name": "Safeway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.336602,
+          48.399217
+        ]
+      },
+      "id": "node/2928619001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2951625835",
+        "addr:city": "Whitefish",
+        "addr:housenumber": "9",
+        "addr:postcode": "59937",
+        "addr:street": "Baker Avenue",
+        "check_date:opening_hours": "2022-07-18",
+        "diet:kosher": "yes",
+        "name": "Markus Foods",
+        "opening_hours:signed": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "(406) 862-7258",
+        "shop": "supermarket",
+        "website": "https://www.facebook.com/pages/Markus-Foods/146775738680544",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3377871,
+          48.4118713
+        ]
+      },
+      "id": "node/2951625835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3005068063",
+        "addr:city": "Whitefish",
+        "addr:housenumber": "6475",
+        "addr:postcode": "59937",
+        "addr:street": "Highway 93 S",
+        "name": "Super 1 Foods",
+        "phone": "406-862-2222",
+        "shop": "supermarket",
+        "website": "https://www.super1foods.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3327372,
+          48.3955844
+        ]
+      },
+      "id": "node/3005068063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3040237475",
+        "addr:housenumber": "204",
+        "addr:street": "East Main Street",
+        "fax": "+1 406 8382164",
+        "name": "Cooke City Exxon",
+        "phone": "+1 406 8382244",
+        "shop": "convenience",
+        "website": "https://cookecityexxon.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9324323,
+          45.0197525
+        ]
+      },
+      "id": "node/3040237475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3081149776",
+        "amenity": "fuel",
+        "brand": "CENEX",
+        "name": "Bear Track Travel Center",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2172871,
+          48.4445196
+        ]
+      },
+      "id": "node/3081149776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3296490989",
+        "amenity": "fuel",
+        "brand": "Sinclair",
+        "name": "Little Ott's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8735892,
+          48.3612549
+        ]
+      },
+      "id": "node/3296490989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3357030390",
+        "addr:city": "Whitefish",
+        "addr:housenumber": "721",
+        "addr:postcode": "59937",
+        "addr:state": "MT",
+        "addr:street": "Wisconsin Avenue",
+        "name": "Alpine Village Market",
+        "phone": "(406) 862-5025",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3404859,
+          48.4237343
+        ]
+      },
+      "id": "node/3357030390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3396226230",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.038577,
+          46.8854614
+        ]
+      },
+      "id": "node/3396226230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3407603770",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7446397,
+          46.9826727
+        ]
+      },
+      "id": "node/3407603770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3409193613",
+        "name": "Picchioni's IGA",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5424087,
+          46.4495968
+        ]
+      },
+      "id": "node/3409193613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3409193645",
+        "name": "McCleary's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5414647,
+          46.4491724
+        ]
+      },
+      "id": "node/3409193645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3409193759",
+        "name": "Van Dyke's Food",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.542481,
+          46.4538272
+        ]
+      },
+      "id": "node/3409193759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3409826925",
+        "name": "Soco express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5524159,
+          46.441935
+        ]
+      },
+      "id": "node/3409826925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3413007900",
+        "name": "Snack Shoppe",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8221298,
+          46.3963383
+        ]
+      },
+      "id": "node/3413007900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3413007978",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.821829,
+          46.3969544
+        ]
+      },
+      "id": "node/3413007978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3414494225",
+        "name": "Short Stop II",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8541976,
+          46.4053702
+        ]
+      },
+      "id": "node/3414494225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3414519356",
+        "name": "M & H",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8450299,
+          46.4083052
+        ]
+      },
+      "id": "node/3414519356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3414530060",
+        "name": "Reynold's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.833647,
+          46.4132707
+        ]
+      },
+      "id": "node/3414530060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3414621293",
+        "name": "Short Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8493573,
+          46.407167
+        ]
+      },
+      "id": "node/3414621293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3420678212",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1173361,
+          46.2440355
+        ]
+      },
+      "id": "node/3420678212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3422085800",
+        "name": "Fic's Food Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.1405732,
+          46.6654195
+        ]
+      },
+      "id": "node/3422085800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3422085838",
+        "name": "Drummond Stage Station",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.1416273,
+          46.6658429
+        ]
+      },
+      "id": "node/3422085838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3422085840",
+        "name": "Front Street Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.1465519,
+          46.6675271
+        ]
+      },
+      "id": "node/3422085840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3423488453",
+        "name": "Thriftway Super Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9332608,
+          46.1267654
+        ]
+      },
+      "id": "node/3423488453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3423505210",
+        "addr:city": "Anaconda",
+        "addr:housenumber": "1300",
+        "addr:postcode": "59711",
+        "addr:street": "East Park Avenue",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.935243,
+          46.1270182
+        ]
+      },
+      "id": "node/3423505210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3423728290",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9637841,
+          46.1308493
+        ]
+      },
+      "id": "node/3423728290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3423773402",
+        "name": "Thriftway Super Stops",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9845739,
+          46.1392989
+        ]
+      },
+      "id": "node/3423773402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3430676896",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1537922,
+          46.2373525
+        ]
+      },
+      "id": "node/3430676896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3430676938",
+        "name": "Lone Pine",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1544708,
+          46.2182796
+        ]
+      },
+      "id": "node/3430676938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3435783172",
+        "addr:city": "Big Timber",
+        "addr:housenumber": "228",
+        "addr:postcode": "59011",
+        "addr:street": "Big Timber Loop Road",
+        "name": "The Fort",
+        "opening_hours": "Mo,Su 06:00-21:00; Tu-Th 06:00-22:00; Fr,Sa 06:00-23:00",
+        "shop": "convenience",
+        "website": "http://fortmt.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9427373,
+          45.8362306
+        ]
+      },
+      "id": "node/3435783172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3436428448",
+        "addr:city": "Big Timber",
+        "addr:housenumber": "113",
+        "addr:postcode": "59011",
+        "addr:street": "West 3rd Avenue",
+        "name": "Big T IGA",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9545867,
+          45.8331687
+        ]
+      },
+      "id": "node/3436428448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3442021731",
+        "name": "Emigrant General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7321856,
+          45.3687713
+        ]
+      },
+      "id": "node/3442021731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3445321855",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5751987,
+          45.6413117
+        ]
+      },
+      "id": "node/3445321855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3447595518",
+        "name": "TJ's Gas & Convenience",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5593468,
+          45.6631376
+        ]
+      },
+      "id": "node/3447595518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3449022815",
+        "name": "Town & Country Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5710002,
+          45.6524301
+        ]
+      },
+      "id": "node/3449022815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452606319",
+        "name": "Schmidt's Mini Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5883302,
+          47.4159915
+        ]
+      },
+      "id": "node/3452606319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3454018958",
+        "addr:city": "Columbia Falls",
+        "addr:housenumber": "1200",
+        "addr:postcode": "59912",
+        "addr:state": "MT",
+        "addr:street": "Windmill Drive",
+        "description:en": "The Flathead Valley's go to printing shop for signs, awards, trophies, clothing, nametags, stationary and marketing materials.",
+        "name": "Successful Signs & Awards",
+        "old_name": "The Engraver",
+        "phone": "+1-406-892-5351",
+        "shop": "convenience",
+        "website": "http://www.successfulsignsandawards.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2364179,
+          48.3452151
+        ]
+      },
+      "id": "node/3454018958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3456078501",
+        "addr:city": "Three Forks",
+        "addr:housenumber": "510",
+        "addr:postcode": "59752",
+        "addr:street": "Montana Highway 2",
+        "name": "Three Forks Market",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "shop": "supermarket",
+        "website": "https://www.threeforksmarketmt.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5575206,
+          45.8901377
+        ]
+      },
+      "id": "node/3456078501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3456166165",
+        "name": "Thriftway",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.551942,
+          45.8947152
+        ]
+      },
+      "id": "node/3456166165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3456166188",
+        "name": "Food Farm",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5521056,
+          45.8927083
+        ]
+      },
+      "id": "node/3456166188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3458151785",
+        "name": "Thriftway Super Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3371868,
+          45.8536313
+        ]
+      },
+      "id": "node/3458151785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3458156101",
+        "name": "L & F Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3327745,
+          45.8561701
+        ]
+      },
+      "id": "node/3458156101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3462364964",
+        "name": "Cardwell Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9487874,
+          45.8690148
+        ]
+      },
+      "id": "node/3462364964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3465697073",
+        "name": "Eagle IGA",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9814548,
+          47.6147916
+        ]
+      },
+      "id": "node/3465697073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3465697119",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9844857,
+          47.6147482
+        ]
+      },
+      "id": "node/3465697119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3468373312",
+        "name": "Mountain Front Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1864984,
+          47.8162193
+        ]
+      },
+      "id": "node/3468373312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3473573485",
+        "name": "Zip Trip",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.667161,
+          48.5515321
+        ]
+      },
+      "id": "node/3473573485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475588629",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2326217,
+          48.5946686
+        ]
+      },
+      "id": "node/3475588629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3476813628",
+        "name": "Albertson's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.7848813,
+          48.5316659
+        ]
+      },
+      "id": "node/3476813628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3479325773",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8734131,
+          48.3571447
+        ]
+      },
+      "id": "node/3479325773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3479872440",
+        "name": "Pay-N-Save Groceries",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.3439687,
+          48.456861
+        ]
+      },
+      "id": "node/3479872440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3491850338",
+        "name": "B & S Qwik Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9172391,
+          48.1488157
+        ]
+      },
+      "id": "node/3491850338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3501511283",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.318605,
+          48.6301157
+        ]
+      },
+      "id": "node/3501511283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3501809248",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.339026,
+          48.6389412
+        ]
+      },
+      "id": "node/3501809248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3504110899",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.87262,
+          48.5130545
+        ]
+      },
+      "id": "node/3504110899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3504110913",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8599978,
+          48.5072831
+        ]
+      },
+      "id": "node/3504110913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3508829325",
+        "name": "Paririe Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9086243,
+          48.8847062
+        ]
+      },
+      "id": "node/3508829325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3509187119",
+        "name": "B & W Farm Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9665398,
+          48.5124149
+        ]
+      },
+      "id": "node/3509187119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3513490287",
+        "name": "Pamida",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5602503,
+          48.7745888
+        ]
+      },
+      "id": "node/3513490287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3513492425",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5563411,
+          48.774087
+        ]
+      },
+      "id": "node/3513492425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3520809583",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.941229,
+          48.1776828
+        ]
+      },
+      "id": "node/3520809583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3685845285",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.009141,
+          48.5536575
+        ]
+      },
+      "id": "node/3685845285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3750051859",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0794082,
+          46.6324211
+        ]
+      },
+      "id": "node/3750051859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3750685430",
+        "name": "Super 1 Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1117263,
+          46.5214029
+        ]
+      },
+      "id": "node/3750685430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3751889118",
+        "name": "Cottonwood market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0938599,
+          46.5043302
+        ]
+      },
+      "id": "node/3751889118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3752060688",
+        "name": "Pit Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1458007,
+          46.4169278
+        ]
+      },
+      "id": "node/3752060688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3753058896",
+        "name": "Victor Merc",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1469191,
+          46.414435
+        ]
+      },
+      "id": "node/3753058896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3753082182",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.157224,
+          46.3122684
+        ]
+      },
+      "id": "node/3753082182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3753250858",
+        "name": "The Merc Fresh Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1150688,
+          46.3134175
+        ]
+      },
+      "id": "node/3753250858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3753644570",
+        "name": "Sula Country Store & resort",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9825252,
+          45.8363061
+        ]
+      },
+      "id": "node/3753644570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785014818",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934389,
+          41.8873381
+        ]
+      },
+      "id": "node/3785014818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3993256987",
+        "addr:city": "Billings",
+        "addr:housenumber": "611",
+        "addr:postcode": "59101",
+        "addr:state": "MT",
+        "addr:street": "North 26th Street",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5084545,
+          45.7879041
+        ]
+      },
+      "id": "node/3993256987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4081417614",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2159219,
+          47.4978414
+        ]
+      },
+      "id": "node/4081417614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4172268290",
+        "name": "Stein's Family Food",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0562548,
+          48.9017282
+        ]
+      },
+      "id": "node/4172268290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4302977190",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0178037,
+          46.8510311
+        ]
+      },
+      "id": "node/4302977190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4317709134",
+        "name": "Reese & Ray's IGA",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.157706,
+          47.7176314
+        ]
+      },
+      "id": "node/4317709134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4317709210",
+        "name": "Reynolds Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.1552185,
+          47.7203678
+        ]
+      },
+      "id": "node/4317709210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4358461950",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4930053,
+          45.7702966
+        ]
+      },
+      "id": "node/4358461950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4358461987",
+        "name": "3G's",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4972395,
+          45.7745184
+        ]
+      },
+      "id": "node/4358461987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4358578193",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5756647,
+          45.7693417
+        ]
+      },
+      "id": "node/4358578193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4358578210",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.514631,
+          45.7921928
+        ]
+      },
+      "id": "node/4358578210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4358578238",
+        "brand": "Conoco",
+        "brand:wikidata": "Q109341187",
+        "name": "Conoco",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "convenience",
+        "source": "mapillary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.509383,
+          45.7870585
+        ]
+      },
+      "id": "node/4358578238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4358578239",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "name": "Holiday",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.508134,
+          45.7869204
+        ]
+      },
+      "id": "node/4358578239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359438548",
+        "name": "Blue Basket",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4665438,
+          45.8413543
+        ]
+      },
+      "id": "node/4359438548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359438562",
+        "name": "Holiday",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4716939,
+          45.817095
+        ]
+      },
+      "id": "node/4359438562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359438565",
+        "name": "Zip Trip",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.470138,
+          45.8270784
+        ]
+      },
+      "id": "node/4359438565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359438577",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4714123,
+          45.8229776
+        ]
+      },
+      "id": "node/4359438577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359438581",
+        "name": "3-G's Convenience Center",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.470253,
+          45.824886
+        ]
+      },
+      "id": "node/4359438581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359438584",
+        "addr:city": "Billings",
+        "addr:housenumber": "670",
+        "addr:postcode": "59105",
+        "addr:state": "MT",
+        "addr:street": "Main Street",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "shop": "supermarket",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4734668,
+          45.810176
+        ]
+      },
+      "id": "node/4359438584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359438588",
+        "name": "Zip Trip",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.478538,
+          45.8035516
+        ]
+      },
+      "id": "node/4359438588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359438990",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4688293,
+          45.8404927
+        ]
+      },
+      "id": "node/4359438990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359438993",
+        "brand": "Conoco",
+        "brand:wikidata": "Q1126518",
+        "brand:wikipedia": "en:Conoco",
+        "name": "Conoco",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.470355,
+          45.8208598
+        ]
+      },
+      "id": "node/4359438993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359449389",
+        "name": "3-G's",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4550675,
+          45.8280405
+        ]
+      },
+      "id": "node/4359449389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359457317",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.515489,
+          45.7695105
+        ]
+      },
+      "id": "node/4359457317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359486413",
+        "addr:city": "Billings",
+        "addr:housenumber": "1544",
+        "addr:postcode": "59102",
+        "addr:state": "MT",
+        "addr:street": "Broadwater Avenue",
+        "name": "Zip Trip #51",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5560064,
+          45.7766122
+        ]
+      },
+      "id": "node/4359486413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359509655",
+        "name": "Zip Trip",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.618475,
+          45.7702476
+        ]
+      },
+      "id": "node/4359509655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4486386601",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.509263,
+          45.9839306
+        ]
+      },
+      "id": "node/4486386601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4486386602",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.611608,
+          46.0051182
+        ]
+      },
+      "id": "node/4486386602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4630434746",
+        "addr:housenumber": "3801",
+        "addr:street": "South Reserve Street",
+        "name": "Missoula Fresh Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0412266,
+          46.8348158
+        ]
+      },
+      "id": "node/4630434746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4630844928",
+        "name": "Roxy's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3026219,
+          45.2607174
+        ]
+      },
+      "id": "node/4630844928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4922741409",
+        "name": "B&J Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4060682,
+          45.0225437
+        ]
+      },
+      "id": "node/4922741409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4932894077",
+        "name": "Broadus IGA",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4075734,
+          45.4426936
+        ]
+      },
+      "id": "node/4932894077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4936088056",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5909298,
+          44.633452
+        ]
+      },
+      "id": "node/4936088056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4938683094",
+        "name": "Home Town Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5172444,
+          48.1447117
+        ]
+      },
+      "id": "node/4938683094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4947159554",
+        "name": "Glacier Gateway",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5443832,
+          47.5586331
+        ]
+      },
+      "id": "node/4947159554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4947367414",
+        "name": "Valley Country Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5513019,
+          47.5571079
+        ]
+      },
+      "id": "node/4947367414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956077289",
+        "name": "Glacier Park- Trading Company",
+        "phone": "+1-406-226-9227",
+        "shop": "convenience",
+        "website": "http://www.seeglacier.com/glacier-park-trading-company/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2181963,
+          48.4418097
+        ]
+      },
+      "id": "node/4956077289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4982860060",
+        "name": "Bob's Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5184578,
+          46.3165528
+        ]
+      },
+      "id": "node/4982860060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4982860086",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5218433,
+          46.3207847
+        ]
+      },
+      "id": "node/4982860086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4991098797",
+        "name": "Halfway House",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.8421884,
+          48.247017
+        ]
+      },
+      "id": "node/4991098797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4998133226",
+        "name": "Liberty Quick Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9635086,
+          48.5136967
+        ]
+      },
+      "id": "node/4998133226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5004050305",
+        "name": "Tribal Express II",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0384685,
+          48.0599142
+        ]
+      },
+      "id": "node/5004050305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5052302021",
+        "addr:housenumber": "701",
+        "addr:postcode": "59801",
+        "addr:street": "Orange Street",
+        "name": "Orange Street Food Farm",
+        "name:en": "Orange Street Food Farm",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "(406) 543-3188",
+        "shop": "supermarket",
+        "website": "http://orangestreetfoodfarm.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0040896,
+          46.8642527
+        ]
+      },
+      "id": "node/5052302021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5168131473",
+        "addr:city": "Bozeman",
+        "addr:housenumber": "1611",
+        "addr:postcode": "59715",
+        "addr:state": "MT",
+        "addr:street": "South 11th Avenue",
+        "name": "Town & Country Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0529132,
+          45.662594
+        ]
+      },
+      "id": "node/5168131473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5240262406",
+        "name": "Rex's Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1830592,
+          47.8130953
+        ]
+      },
+      "id": "node/5240262406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315599575",
+        "addr:city": "Kalispell",
+        "addr:country": "US",
+        "addr:housenumber": "170",
+        "addr:postcode": "59901",
+        "addr:state": "MT",
+        "addr:street": "Hutton Ranch Road",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-406-257-7535",
+        "ref:walmart": "2259",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/2259/kalispell-mt/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.32617,
+          48.23175
+        ]
+      },
+      "id": "node/5315599575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5317528429",
+        "addr:city": "Belfry",
+        "addr:housenumber": "216",
+        "addr:postcode": "59008",
+        "addr:state": "MT",
+        "addr:street": "Broadway Avenue",
+        "name": "Belfry Country Store",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.0080474,
+          45.142755
+        ]
+      },
+      "id": "node/5317528429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5395758032",
+        "name": "Big Sky Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7509337,
+          46.9827684
+        ]
+      },
+      "id": "node/5395758032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5750185428",
+        "name": "Flathead Health Food",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3263991,
+          48.2372216
+        ]
+      },
+      "id": "node/5750185428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5781967953",
+        "addr:city": "Thompson Falls",
+        "addr:housenumber": "5254",
+        "addr:postcode": "59873",
+        "addr:street": "Montana Highway 200",
+        "name": "Harvest Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3144219,
+          47.5855713
+        ]
+      },
+      "id": "node/5781967953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5783063056",
+        "addr:street": "East McGowan Street",
+        "name": "McGowan Grocery",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-19:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8807321,
+          47.4587475
+        ]
+      },
+      "id": "node/5783063056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5813463574",
+        "name": "Aries Gas & Grocery",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2252384,
+          48.0185614
+        ]
+      },
+      "id": "node/5813463574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5813463580",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0999731,
+          47.2977391
+        ]
+      },
+      "id": "node/5813463580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5816706020",
+        "name": "Sinclair",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4298009,
+          48.7429893
+        ]
+      },
+      "id": "node/5816706020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5823789754",
+        "name": "Canyon Creek country store & campground",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2590397,
+          46.8058155
+        ]
+      },
+      "id": "node/5823789754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6005457711",
+        "name": "Wheatgrass Saloon",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5605054,
+          45.6620493
+        ]
+      },
+      "id": "node/6005457711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6008583394",
+        "name": "Zip Trip",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4547113,
+          45.7951124
+        ]
+      },
+      "id": "node/6008583394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6011349853",
+        "name": "Mr. Thrifty Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4894142,
+          45.7916551
+        ]
+      },
+      "id": "node/6011349853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6013664964",
+        "amenity": "marketplace",
+        "name": "Billings Livestock Commission"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4225108,
+          45.8124396
+        ]
+      },
+      "id": "node/6013664964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6020504312",
+        "name": "Town Pump",
+        "operator": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.246102,
+          45.194051
+        ]
+      },
+      "id": "node/6020504312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6030928940",
+        "brand": "IGA",
+        "brand:wikidata": "Q3146662",
+        "brand:wikipedia": "en:IGA (supermarkets)",
+        "name": "IGA",
+        "operator": "IGA",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.549855,
+          45.7854867
+        ]
+      },
+      "id": "node/6030928940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6032129984",
+        "name": "Bonanza",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5412467,
+          45.7838612
+        ]
+      },
+      "id": "node/6032129984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6074961903",
+        "name": "Grocery Outlet",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.1889298,
+          46.9870276
+        ]
+      },
+      "id": "node/6074961903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6138168004",
+        "name": "Poly Food Basket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5829438,
+          45.7948329
+        ]
+      },
+      "id": "node/6138168004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6470838485",
+        "addr:street": "State Highway 83",
+        "name": "Clearwater Stop N Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3706062,
+          47.0036028
+        ]
+      },
+      "id": "node/6470838485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6623147652",
+        "amenity": "restaurant",
+        "name": "Koocanusa Resort And Marina",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.270211,
+          48.4829275
+        ]
+      },
+      "id": "node/6623147652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6641482316",
+        "brand": "Natural Grocers",
+        "brand:wikidata": "Q17146520",
+        "brand:wikipedia": "en:Vitamin Cottage Natural Grocers",
+        "name": "Natural Grocers",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.040291,
+          46.8679485
+        ]
+      },
+      "id": "node/6641482316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6641689944",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1235808,
+          47.6875576
+        ]
+      },
+      "id": "node/6641689944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6644855797",
+        "name": "Papas Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0563033,
+          48.0058731
+        ]
+      },
+      "id": "node/6644855797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6699172988",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6412212,
+          48.2095857
+        ]
+      },
+      "id": "node/6699172988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6699535785",
+        "addr:housenumber": "322",
+        "addr:street": "East Barry Street",
+        "name": "Loaf'N Jug",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7134264,
+          47.0989054
+        ]
+      },
+      "id": "node/6699535785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6700881486",
+        "addr:housenumber": "1014",
+        "addr:street": "West Bell Street",
+        "name": "Reynolds Market",
+        "phone": "+1 406-377-4923",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7269576,
+          47.1060577
+        ]
+      },
+      "id": "node/6700881486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6761916222",
+        "name": "J Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3585296,
+          47.4702062
+        ]
+      },
+      "id": "node/6761916222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6928738908",
+        "amenity": "marketplace",
+        "name": "Front Street Market and Catering"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5349984,
+          45.9978999
+        ]
+      },
+      "id": "node/6928738908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6970008921",
+        "name": "Dinners Done Right",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.019909,
+          46.60701
+        ]
+      },
+      "id": "node/6970008921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6988717806",
+        "name": "Real Food Market & Grill",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0241117,
+          46.5976593
+        ]
+      },
+      "id": "node/6988717806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6988739592",
+        "addr:city": "Bozeman",
+        "addr:housenumber": "7710",
+        "addr:postcode": "59718",
+        "addr:state": "MT",
+        "addr:street": "Shedhorn Drive",
+        "addr:unit": "Unit D",
+        "amenity": "marketplace",
+        "name": "El Mercadito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1825571,
+          45.6718442
+        ]
+      },
+      "id": "node/6988739592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018460979",
+        "name": "Harvest Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0789835,
+          46.7641798
+        ]
+      },
+      "id": "node/7018460979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7124915886",
+        "brand": "Natural Grocers",
+        "brand:wikidata": "Q17146520",
+        "brand:wikipedia": "en:Vitamin Cottage Natural Grocers",
+        "name": "Natural Grocers",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.577007,
+          45.7665552
+        ]
+      },
+      "id": "node/7124915886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7274693761",
+        "addr:city": "Lewistown",
+        "addr:state": "MT",
+        "addr:street": "West Janeaux Street",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.422787,
+          47.0654229
+        ]
+      },
+      "id": "node/7274693761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7304899867",
+        "name": "Dave's E-Z Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0219758,
+          46.6454074
+        ]
+      },
+      "id": "node/7304899867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7442024076",
+        "addr:city": "Absarokee",
+        "addr:housenumber": "2",
+        "addr:postcode": "59001",
+        "addr:state": "MT",
+        "addr:street": "South Woodard Avenue",
+        "name": "Stillwater Market",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4429789,
+          45.5203248
+        ]
+      },
+      "id": "node/7442024076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7469300372",
+        "addr:city": "Denton",
+        "addr:housenumber": "523",
+        "addr:postcode": "59430",
+        "addr:state": "MT",
+        "addr:street": "Broadway Street",
+        "name": "Denton Foods",
+        "opening_hours": "Mo-Sa 08:00-17:00; Su off",
+        "opening_hours:covid19": "same",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9492188,
+          47.319641
+        ]
+      },
+      "id": "node/7469300372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7591102731",
+        "name": "Smart Foodservice",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0215221,
+          46.8479822
+        ]
+      },
+      "id": "node/7591102731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7594465925",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.014153,
+          46.8522807
+        ]
+      },
+      "id": "node/7594465925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7604665722",
+        "name": "Noon's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.019114,
+          46.8557119
+        ]
+      },
+      "id": "node/7604665722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7604665869",
+        "name": "Ole's Country Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0175268,
+          46.8558622
+        ]
+      },
+      "id": "node/7604665869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7624321902",
+        "name": "Fast Trip",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0387806,
+          46.8455004
+        ]
+      },
+      "id": "node/7624321902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7644695397",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.040467,
+          46.8856576
+        ]
+      },
+      "id": "node/7644695397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7678313343",
+        "name": "Lisac’s Tri-Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5086302,
+          45.9887583
+        ]
+      },
+      "id": "node/7678313343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7682099718",
+        "addr:city": "Missoula",
+        "addr:housenumber": "1003",
+        "addr:postcode": "59802",
+        "addr:state": "MT",
+        "addr:street": "East Broadway Street",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "opening_hours": "Mo-Su 06:00-0:00",
+        "opening_hours:covid19": "open",
+        "payment:NFC_mobile_payments": "yes",
+        "payment:cheque": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+14065492351",
+        "shop": "supermarket",
+        "website": "https://local.albertsons.com/mt/missoula/1003-e-broadway-st.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.98122,
+          46.8676222
+        ]
+      },
+      "id": "node/7682099718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7684069664",
+        "name": "Missoula Valley Winter Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.998053,
+          46.864798
+        ]
+      },
+      "id": "node/7684069664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7686654950",
+        "name": "Grizzly Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9980199,
+          46.8571693
+        ]
+      },
+      "id": "node/7686654950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7732491836",
+        "addr:city": "Lewistown",
+        "addr:postcode": "59457",
+        "addr:state": "MT",
+        "name": "Town and Country Foods",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket",
+        "website": "https://www.tncfoods.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4568038,
+          47.056816
+        ]
+      },
+      "id": "node/7732491836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7792004798",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.547852,
+          45.7827174
+        ]
+      },
+      "id": "node/7792004798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7792008002",
+        "addr:city": "Billings",
+        "addr:housenumber": "1212",
+        "addr:state": "MT",
+        "addr:street": "Grand Avenue",
+        "addr:unit": "13",
+        "name": "Abarrote Asuncion Mexican Grocery Store",
+        "phone": "+1-406-702-1228",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.546602,
+          45.783451
+        ]
+      },
+      "id": "node/7792008002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7798799753",
+        "name": "Loves’s",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1336881,
+          46.947535
+        ]
+      },
+      "id": "node/7798799753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7821823468",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2412111,
+          47.5013932
+        ]
+      },
+      "id": "node/7821823468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7851485763",
+        "name": "McFiny's",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5586636,
+          45.7878313
+        ]
+      },
+      "id": "node/7851485763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7851487551",
+        "name": "Montana Harvest",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5596365,
+          45.7837834
+        ]
+      },
+      "id": "node/7851487551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7874564612",
+        "name": "Lil Market Groceries",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5066622,
+          45.7833025
+        ]
+      },
+      "id": "node/7874564612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8083025355",
+        "brand": "Smith's",
+        "brand:wikidata": "Q7544856",
+        "brand:wikipedia": "en:Smith's Food and Drug",
+        "name": "Smith's Food and Drug",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3095285,
+          48.2019699
+        ]
+      },
+      "id": "node/8083025355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8140231374",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.103647,
+          45.670803
+        ]
+      },
+      "id": "node/8140231374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8153252415",
+        "addr:city": "Bridger",
+        "addr:housenumber": "105",
+        "addr:postcode": "59014",
+        "addr:state": "MT",
+        "addr:street": "North Main Street",
+        "name": "Valley Foods",
+        "opening_hours": "Mo-Sa 08:00-20:00, Su 09:00-19:00",
+        "phone": "(406) 662-3591",
+        "shop": "supermarket",
+        "website": "https://valley-foods.edan.io/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.913759,
+          45.2960133
+        ]
+      },
+      "id": "node/8153252415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8181044398",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.327561,
+          48.241319
+        ]
+      },
+      "id": "node/8181044398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8199969230",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.294917,
+          47.493809
+        ]
+      },
+      "id": "node/8199969230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8201278670",
+        "name": "Chef'store",
+        "opening_hours": "Mo-Sa 07:00-19:00; Su 08:00-17:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2948355,
+          48.2084901
+        ]
+      },
+      "id": "node/8201278670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8225155266",
+        "name": "Rocky Mountain Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2468557,
+          45.1866649
+        ]
+      },
+      "id": "node/8225155266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8233132686",
+        "name": "Stokes Fresh Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5216276,
+          46.000602
+        ]
+      },
+      "id": "node/8233132686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8233146749",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.518359,
+          46.0006139
+        ]
+      },
+      "id": "node/8233146749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8245585285",
+        "name": "Rowli's Food Farm",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9704304,
+          45.4840282
+        ]
+      },
+      "id": "node/8245585285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8250797628",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.507507,
+          45.9695207
+        ]
+      },
+      "id": "node/8250797628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8262569550",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6859647,
+          48.5540333
+        ]
+      },
+      "id": "node/8262569550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8262662417",
+        "name": "McLean's Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6749617,
+          48.5519964
+        ]
+      },
+      "id": "node/8262662417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8262810199",
+        "name": "Emporium Food & Fuel Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6627324,
+          48.5522447
+        ]
+      },
+      "id": "node/8262810199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8305054040",
+        "name": "Pizazz Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3006232,
+          47.5054561
+        ]
+      },
+      "id": "node/8305054040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8305054064",
+        "name": "Zip Trip",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2960047,
+          47.5067943
+        ]
+      },
+      "id": "node/8305054064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8305054070",
+        "brand": "Loaf 'N Jug",
+        "brand:wikidata": "Q6663398",
+        "brand:wikipedia": "en:Loaf 'N Jug",
+        "name": "Loaf 'N Jug",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2916425,
+          47.5059618
+        ]
+      },
+      "id": "node/8305054070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8307949196",
+        "name": "Dancing Rainbow Natural Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.539714,
+          46.0123084
+        ]
+      },
+      "id": "node/8307949196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8316726067",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.459628,
+          45.7966207
+        ]
+      },
+      "id": "node/8316726067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8316808957",
+        "name": "3 G's Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4498841,
+          45.7978603
+        ]
+      },
+      "id": "node/8316808957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8317060526",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.415193,
+          45.8129134
+        ]
+      },
+      "id": "node/8317060526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8317060530",
+        "name": "Casey's Corner",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4130698,
+          45.8120677
+        ]
+      },
+      "id": "node/8317060530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8317060593",
+        "name": "Schwan's Home Services",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.419585,
+          45.8109624
+        ]
+      },
+      "id": "node/8317060593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8317080805",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.416662,
+          45.8163482
+        ]
+      },
+      "id": "node/8317080805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8395429045",
+        "name": "The Cornerstone Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6264165,
+          47.6079312
+        ]
+      },
+      "id": "node/8395429045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8428189749",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "brand:wikipedia": "en:Holiday Stationstores",
+        "name": "Holiday",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5659318,
+          45.7555654
+        ]
+      },
+      "id": "node/8428189749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8428338483",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.595973,
+          45.7543153
+        ]
+      },
+      "id": "node/8428338483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8428338499",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "brand:wikipedia": "en:Holiday Stationstores",
+        "name": "Holiday",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5971875,
+          45.7566188
+        ]
+      },
+      "id": "node/8428338499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8431052579",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4751461,
+          45.8073457
+        ]
+      },
+      "id": "node/8431052579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8431052719",
+        "name": "Town Country Supply",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4729495,
+          45.8133941
+        ]
+      },
+      "id": "node/8431052719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8431087099",
+        "name": "Amaya Oriental Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4723345,
+          45.8269525
+        ]
+      },
+      "id": "node/8431087099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8495416811",
+        "brand": "WinCo Foods",
+        "brand:wikidata": "Q8023592",
+        "brand:wikipedia": "en:WinCo Foods",
+        "name": "WinCo Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0710813,
+          45.7087456
+        ]
+      },
+      "id": "node/8495416811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8537930472",
+        "name": "Olney Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.57743,
+          48.5481852
+        ]
+      },
+      "id": "node/8537930472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8566024062",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.18369,
+          45.730037
+        ]
+      },
+      "id": "node/8566024062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8568280276",
+        "name": "Flying J Travel Plaza",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1861179,
+          45.7652617
+        ]
+      },
+      "id": "node/8568280276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8573303991",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "phone": "+1-406-388-0901",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.187175,
+          45.7717275
+        ]
+      },
+      "id": "node/8573303991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8573304012",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.186249,
+          45.7737011
+        ]
+      },
+      "id": "node/8573304012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8573304014",
+        "addr:city": "Belgrade",
+        "addr:housenumber": "205",
+        "addr:postcode": "59714",
+        "addr:state": "MT",
+        "addr:street": "West Madison Avenue",
+        "name": "Town & Country Foods",
+        "phone": "+1-406-388-4116",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1839118,
+          45.7740834
+        ]
+      },
+      "id": "node/8573304014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8573691852",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1989619,
+          45.7738446
+        ]
+      },
+      "id": "node/8573691852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8581408247",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5533867,
+          45.6661626
+        ]
+      },
+      "id": "node/8581408247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8597505266",
+        "name": "Zip Trip",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3075919,
+          48.1854697
+        ]
+      },
+      "id": "node/8597505266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8600414201",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3222427,
+          48.2014454
+        ]
+      },
+      "id": "node/8600414201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8600416459",
+        "amenity": "fuel",
+        "contact:website": "https://www.cenexziptrip.com/",
+        "name": "Cenex Zip Trip",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3101958,
+          48.2031839
+        ]
+      },
+      "id": "node/8600416459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8601052579",
+        "name": "Mabuhay Oriental Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3323551,
+          48.2012879
+        ]
+      },
+      "id": "node/8601052579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8609323174",
+        "name": "Lane's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2740495,
+          48.2154383
+        ]
+      },
+      "id": "node/8609323174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8613574317",
+        "brand": "76",
+        "brand:wikidata": "Q1658320",
+        "brand:wikipedia": "en:76 (gas station)",
+        "name": "76",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2762393,
+          48.2178872
+        ]
+      },
+      "id": "node/8613574317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8613574335",
+        "name": "Evergreen Gas & Deli",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2778698,
+          48.219043
+        ]
+      },
+      "id": "node/8613574335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8615757883",
+        "addr:city": "Marion",
+        "addr:housenumber": "8205",
+        "addr:postcode": "59901",
+        "addr:state": "MT",
+        "addr:street": "United States Route 2",
+        "name": "Bitterroot Quick Stop",
+        "phone": "(406) 854-2992",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.648159,
+          48.099406
+        ]
+      },
+      "id": "node/8615757883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8630653628",
+        "addr:city": "Hardin",
+        "addr:housenumber": "1001",
+        "addr:postcode": "59034",
+        "addr:state": "MT",
+        "addr:street": "North Center Avenue",
+        "name": "Shipton's Big R",
+        "phone": "406-953-5111",
+        "shop": "supermarket",
+        "website": "https://shiptonsbigr.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.604775,
+          45.7392382
+        ]
+      },
+      "id": "node/8630653628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8630683649",
+        "addr:city": "Hardin",
+        "addr:housenumber": "901",
+        "addr:postcode": "59034",
+        "addr:state": "MT",
+        "addr:street": "North Center Avenue",
+        "brand": "IGA",
+        "brand:wikidata": "Q3146662",
+        "brand:wikipedia": "en:IGA (supermarkets)",
+        "name": "Reese and Ray's IGA",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "406-665-1682",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6046304,
+          45.7382153
+        ]
+      },
+      "id": "node/8630683649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8639145715",
+        "name": "Country Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2914781,
+          45.2674824
+        ]
+      },
+      "id": "node/8639145715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8711530807",
+        "brand": "Conoco",
+        "brand:wikidata": "Q109341187",
+        "brand:wikipedia": "en:Conoco",
+        "name": "Conoco",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.538459,
+          45.7548545
+        ]
+      },
+      "id": "node/8711530807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8849306117",
+        "name": "Main Street General Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7816441,
+          47.9956239
+        ]
+      },
+      "id": "node/8849306117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8902319765",
+        "name": "Pump-N-Pak",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0456039,
+          45.6995533
+        ]
+      },
+      "id": "node/8902319765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8906155652",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.066327,
+          45.7045083
+        ]
+      },
+      "id": "node/8906155652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8912239549",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3005042,
+          47.494723
+        ]
+      },
+      "id": "node/8912239549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8912921175",
+        "name": "Noons",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2848181,
+          47.4916741
+        ]
+      },
+      "id": "node/8912921175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8912921193",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2826404,
+          47.4938099
+        ]
+      },
+      "id": "node/8912921193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8936116590",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1057288,
+          44.6555847
+        ]
+      },
+      "id": "node/8936116590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9128092429",
+        "addr:housenumber": "5",
+        "addr:street": "Rue Théodore Stéphani",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo-Sa 07:30-19:00",
+        "phone": "+4127 480 14 59",
+        "shop": "supermarket",
+        "website": "https://www.aldi-suisse.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4810548,
+          46.312361
+        ]
+      },
+      "id": "node/9128092429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9128263178",
+        "name": "Stoney's Kwikstop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3711559,
+          47.0033164
+        ]
+      },
+      "id": "node/9128263178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9214359334",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.877082,
+          47.4548709
+        ]
+      },
+      "id": "node/9214359334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9215370781",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6018147,
+          45.7848805
+        ]
+      },
+      "id": "node/9215370781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9215370796",
+        "name": "Zip Trip",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5896925,
+          45.7846715
+        ]
+      },
+      "id": "node/9215370796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9215420061",
+        "name": "The Produce Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5621966,
+          45.783781
+        ]
+      },
+      "id": "node/9215420061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9215420085",
+        "name": "Town & Country Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5574341,
+          45.7853094
+        ]
+      },
+      "id": "node/9215420085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9239406789",
+        "brand": "Loaf 'N Jug",
+        "brand:wikidata": "Q6663398",
+        "brand:wikipedia": "en:Loaf 'N Jug",
+        "name": "Loaf 'N Jug",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3335414,
+          47.5082265
+        ]
+      },
+      "id": "node/9239406789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9239424969",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "brand:wikipedia": "en:Town Pump",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3230743,
+          47.5166034
+        ]
+      },
+      "id": "node/9239424969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9251468498",
+        "brand": "Loaf 'N Jug",
+        "brand:wikidata": "Q6663398",
+        "brand:wikipedia": "en:Loaf 'N Jug",
+        "name": "Loaf 'N Jug",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2995652,
+          47.5251504
+        ]
+      },
+      "id": "node/9251468498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9251468533",
+        "name": "Mountain View Co-op",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2891994,
+          47.5243901
+        ]
+      },
+      "id": "node/9251468533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9251468553",
+        "name": "Mountain View Co-op",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2883413,
+          47.5254372
+        ]
+      },
+      "id": "node/9251468553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9252046761",
+        "name": "2J's Fresh Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3094222,
+          47.5255247
+        ]
+      },
+      "id": "node/9252046761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9252122306",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "brand:wikipedia": "en:Holiday Stationstores",
+        "name": "Holiday",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2818816,
+          47.5168155
+        ]
+      },
+      "id": "node/9252122306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9252163161",
+        "name": "Not Your Mama's Nutrition",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2911275,
+          47.4904827
+        ]
+      },
+      "id": "node/9252163161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9254778878",
+        "amenity": "marketplace",
+        "name": "Isabela Asian Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5758132,
+          45.7793914
+        ]
+      },
+      "id": "node/9254778878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9254778887",
+        "name": "Well Pared",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.575324,
+          45.7765028
+        ]
+      },
+      "id": "node/9254778887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9254778890",
+        "amenity": "marketplace",
+        "name": "Yellowstone Olive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5754699,
+          45.7760541
+        ]
+      },
+      "id": "node/9254778890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9254796953",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "brand:wikipedia": "en:Holiday Stationstores",
+        "name": "Holiday",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5183669,
+          45.77759
+        ]
+      },
+      "id": "node/9254796953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9269429407",
+        "name": "Cenex",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3289779,
+          47.4888257
+        ]
+      },
+      "id": "node/9269429407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9269429408",
+        "name": "Holiday",
+        "not:brand:wikidata": "Q5880490",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3278956,
+          47.4897245
+        ]
+      },
+      "id": "node/9269429408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9297869863",
+        "name": "Stein's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.8918086,
+          48.458205
+        ]
+      },
+      "id": "node/9297869863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9366269005",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5325366,
+          45.7320339
+        ]
+      },
+      "id": "node/9366269005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9398676609",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "brand:wikipedia": "en:Holiday Stationstores",
+        "name": "Holiday",
+        "ref": "271",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.708675,
+          47.1099537
+        ]
+      },
+      "id": "node/9398676609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9421148938",
+        "name": "Canyon Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.067536,
+          47.0036786
+        ]
+      },
+      "id": "node/9421148938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9442699595",
+        "operator": "Berg's Automotive",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7477198,
+          47.1021783
+        ]
+      },
+      "id": "node/9442699595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9547644952",
+        "name": "Elliston Country Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4302972,
+          46.5607079
+        ]
+      },
+      "id": "node/9547644952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9620972306",
+        "addr:city": "Bozeman",
+        "addr:housenumber": "908",
+        "addr:postcode": "59715",
+        "addr:state": "MT",
+        "addr:street": "West Main Street",
+        "name": "Community Food Co-op",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "opening_hours:covid19": "same",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "406-587-4039",
+        "shop": "supermarket",
+        "website": "https://www.bozo.coop/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0499243,
+          45.679064
+        ]
+      },
+      "id": "node/9620972306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9770722097",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "name": "Holiday",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1618899,
+          45.7623579
+        ]
+      },
+      "id": "node/9770722097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9912573515",
+        "name": "Canyon Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0597283,
+          48.385981
+        ]
+      },
+      "id": "node/9912573515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9916198837",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.7724424,
+          48.7707628
+        ]
+      },
+      "id": "node/9916198837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9919484690",
+        "opening_hours": "Mo-Fr 07:00-21:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4291513,
+          48.7463272
+        ]
+      },
+      "id": "node/9919484690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9969119172",
+        "contact:facebook": "https://www.facebook.com/jtcfamilyfoods",
+        "name": "Glacier Family Foods",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+14063387283",
+        "shop": "supermarket",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0117749,
+          48.5493595
+        ]
+      },
+      "id": "node/9969119172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9970531205",
+        "name": "Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9834372,
+          48.4963809
+        ]
+      },
+      "id": "node/9970531205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10068129401",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "name": "Holiday",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6187651,
+          45.7847779
+        ]
+      },
+      "id": "node/10068129401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10068129403",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6168435,
+          45.7847044
+        ]
+      },
+      "id": "node/10068129403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10068129942",
+        "name": "Zip Trip",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5470222,
+          45.7700266
+        ]
+      },
+      "id": "node/10068129942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10069550366",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6043555,
+          45.770034
+        ]
+      },
+      "id": "node/10069550366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10069550368",
+        "name": "The Hive Nutrition",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6035986,
+          45.7700556
+        ]
+      },
+      "id": "node/10069550368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10093655685",
+        "name": "3 G's Convenience Center",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4767288,
+          45.8115163
+        ]
+      },
+      "id": "node/10093655685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10155617792",
+        "name": "Frae Everyday Goods",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6171024,
+          45.7712164
+        ]
+      },
+      "id": "node/10155617792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10211316200",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "name": "Whole Foods Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0785691,
+          45.6717686
+        ]
+      },
+      "id": "node/10211316200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10281189944",
+        "name": "Fast Lane C-Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.7604194,
+          45.672103
+        ]
+      },
+      "id": "node/10281189944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10281615531",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.7723282,
+          45.6759248
+        ]
+      },
+      "id": "node/10281615531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10281696808",
+        "brand": "Conoco",
+        "brand:wikidata": "Q109341187",
+        "name": "Conoco",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.7787324,
+          45.6686504
+        ]
+      },
+      "id": "node/10281696808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10285231536",
+        "name": "Super 1 Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3110771,
+          48.2007572
+        ]
+      },
+      "id": "node/10285231536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10285530305",
+        "brand": "Town Pump",
+        "brand:wikidata": "Q7830004",
+        "name": "Town Pump",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.7719884,
+          45.6648204
+        ]
+      },
+      "id": "node/10285530305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10285530310",
+        "name": "Reese & Ray's IGA",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.7703376,
+          45.6666679
+        ]
+      },
+      "id": "node/10285530310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10285530320",
+        "brand": "Conoco",
+        "brand:wikidata": "Q109341187",
+        "name": "Conoco",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.7707997,
+          45.6647439
+        ]
+      },
+      "id": "node/10285530320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10294027361",
+        "amenity": "fuel",
+        "contact:phone": "+1 406 257 7867",
+        "name": "Woodland Qwik Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2982106,
+          48.1998875
+        ]
+      },
+      "id": "node/10294027361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10294273891",
+        "amenity": "fuel",
+        "brand": "Conoco",
+        "name": "Town Pump",
+        "self_service": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2928073,
+          48.2084752
+        ]
+      },
+      "id": "node/10294273891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10301565695",
+        "addr:city": "Laurel",
+        "addr:country": "US",
+        "addr:housenumber": "101",
+        "addr:postcode": "59044",
+        "addr:state": "MT",
+        "addr:street": "Bernhardt Road",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-406-628-3000",
+        "ref:walmart": "4412",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/4412/laurel-mt/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.7590922,
+          45.6674743
+        ]
+      },
+      "id": "node/10301565695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10585093959",
+        "contact:phone": "+1 406 257-4305",
+        "contact:website": "https://sykesmt.com/",
+        "name": "Sykes Market",
+        "opening_hours": "Mo-Su 07:00-15:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3163222,
+          48.1961428
+        ]
+      },
+      "id": "node/10585093959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10613531289",
+        "amenity": "marketplace",
+        "name": "Maven's Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0475549,
+          45.6790494
+        ]
+      },
+      "id": "node/10613531289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10655878811",
+        "amenity": "marketplace",
+        "name": "Huckleberry's Natural Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0822328,
+          45.6705295
+        ]
+      },
+      "id": "node/10655878811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340247517",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-51-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978518,
+          41.8912427
+        ]
+      },
+      "id": "node/5340247517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340252322",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-49-50 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4973968,
+          41.8913872
+        ]
+      },
+      "id": "node/5340252322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535092255",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915049,
+          41.8918027
+        ]
+      },
+      "id": "node/5535092255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5801329944",
+        "amenity": "drinking_water",
+        "description:de": "Wasserbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4884569,
+          41.8880861
+        ]
+      },
+      "id": "node/5801329944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6547164641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Via in Miranda, Foro Romano, Roma, Italia Oct 05, 2022 04-55-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870814,
+          41.8924043
+        ]
+      },
+      "id": "node/6547164641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6616168986",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4967144,
+          41.8922741
+        ]
+      },
+      "id": "node/6616168986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6841124063",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926345,
+          41.8906387
+        ]
+      },
+      "id": "node/6841124063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085935353",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941883,
+          41.8915996
+        ]
+      },
+      "id": "node/7085935353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7203154248",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Via Marco Aurelio, Roma, Italia Jun 30, 2022 08-08-32 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4955486,
+          41.8882028
+        ]
+      },
+      "id": "node/7203154248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9108120217",
+        "amenity": "drinking_water",
+        "name": "Acqua",
+        "name:en": "Drinkable water",
+        "name:fr": "Eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4847106,
+          41.8877336
+        ]
+      },
+      "id": "node/9108120217"
+    }
+  ]
+}

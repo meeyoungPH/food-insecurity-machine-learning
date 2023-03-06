@@ -1,0 +1,4060 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-06T00:12:24Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266310881",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934985,
+          41.8923773
+        ]
+      },
+      "id": "node/266310881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/365214853",
+        "addr:city": "Bennington",
+        "name": "Stewart's",
+        "shop": "convenience",
+        "url": "http://stewartsshops.com/LocationFinder/index.cfm?InstanceID=1013&step=show_detail&LocationFinderID=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1875383,
+          42.8782681
+        ]
+      },
+      "id": "node/365214853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/365214867",
+        "addr:city": "Rutland City",
+        "addr:housenumber": "194",
+        "addr:postcode": "05701",
+        "addr:state": "VT",
+        "addr:street": "Woodstock Avenue",
+        "brand": "Stewart's Shops",
+        "brand:wikidata": "Q7615690",
+        "brand:wikipedia": "en:Stewart's Shops",
+        "building": "commercial",
+        "name": "Stewart's Shops",
+        "shop": "convenience",
+        "source": "esri/USA_NAD_Addresses",
+        "url": "http://stewartsshops.com/LocationFinder/index.cfm?InstanceID=1013&step=show_detail&LocationFinderID=313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9575866,
+          43.6174138
+        ]
+      },
+      "id": "node/365214867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388984003",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494519,
+          41.8877413
+        ]
+      },
+      "id": "node/388984003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495113034",
+        "amenity": "drinking_water",
+        "check_date": "2022-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934283,
+          41.8913309
+        ]
+      },
+      "id": "node/495113034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/564519857",
+        "name": "Spear's Corner Store",
+        "operator": "Carrie Spear",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1885722,
+          44.3190203
+        ]
+      },
+      "id": "node/564519857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685457655",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4867108,
+          41.8902623
+        ]
+      },
+      "id": "node/685457655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685461877",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4875779,
+          41.8891234
+        ]
+      },
+      "id": "node/685461877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/702460870",
+        "addr:city": "Milton",
+        "addr:housenumber": "69",
+        "addr:postcode": "05468",
+        "addr:state": "VT",
+        "addr:street": "Middle Road",
+        "building": "commercial",
+        "name": "Middle Road Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1204155,
+          44.6188415
+        ]
+      },
+      "id": "node/702460870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/702463767",
+        "name": "The Dam Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1146606,
+          44.6515293
+        ]
+      },
+      "id": "node/702463767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/907764495",
+        "name": "Avenue Grocery",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5699526,
+          42.8521405
+        ]
+      },
+      "id": "node/907764495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890053",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4879526,
+          41.8887986
+        ]
+      },
+      "id": "node/953890053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890062",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883755,
+          41.890985
+        ]
+      },
+      "id": "node/953890062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953909059",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via dei santi Quattro,roma,italy 62022.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968765,
+          41.8889852
+        ]
+      },
+      "id": "node/953909059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1168884217",
+        "addr:city": "Norwich",
+        "addr:housenumber": "319",
+        "addr:postcode": "05055",
+        "addr:state": "VT",
+        "addr:street": "Main Street",
+        "name": "Dan & Whit's General Store",
+        "phone": "+1-802-649-1602",
+        "shop": "convenience",
+        "website": "http://www.danandwhitsonline.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3089538,
+          43.7147475
+        ]
+      },
+      "id": "node/1168884217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1170494282",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942213,
+          41.8900377
+        ]
+      },
+      "id": "node/1170494282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1255988549",
+        "name": "The Old Brick Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2527259,
+          44.3107541
+        ]
+      },
+      "id": "node/1255988549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1404152994",
+        "name": "M&M Beverage",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5042401,
+          44.1771423
+        ]
+      },
+      "id": "node/1404152994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1556598859",
+        "name": "Shaw's Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7036582,
+          43.396955
+        ]
+      },
+      "id": "node/1556598859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1556605301",
+        "name": "Fair Haven Travel Center",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2749748,
+          43.6033294
+        ]
+      },
+      "id": "node/1556605301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1556605304",
+        "brand": "Shaw's",
+        "brand:wikidata": "Q578387",
+        "brand:wikipedia": "en:Shaw's and Star Market",
+        "name": "Shaw's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2760719,
+          43.6017833
+        ]
+      },
+      "id": "node/1556605304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1556605305",
+        "addr:city": "Fair Haven",
+        "addr:housenumber": "699",
+        "addr:postcode": "05743",
+        "addr:state": "VT",
+        "addr:street": "VT Route 22A",
+        "amenity": "fuel",
+        "brand": "Mobil",
+        "brand:wikidata": "Q3088656",
+        "brand:wikipedia": "en:Mobil",
+        "name": "Mobil",
+        "shop": "convenience",
+        "vcgi:e911-addresses:esiteid": "101657"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2751854,
+          43.6032161
+        ]
+      },
+      "id": "node/1556605305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1592014439",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8750161,
+          43.1445872
+        ]
+      },
+      "id": "node/1592014439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1597624664",
+        "addr:city": "Londonderry",
+        "addr:housenumber": "5700",
+        "addr:postcode": "05148",
+        "addr:state": "VT",
+        "addr:street": "Vermont Route 100",
+        "name": "Londonderry Village Market",
+        "opening_hours": "Mo-Su 07:00-20:00",
+        "phone": "+1 802 824 3144",
+        "shop": "supermarket",
+        "website": "https://www.londonderryvillagemarket.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.814873,
+          43.2285373
+        ]
+      },
+      "id": "node/1597624664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1601848049",
+        "name": "Price Chopper",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2127446,
+          42.8986229
+        ]
+      },
+      "id": "node/1601848049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1602746058",
+        "addr:city": "Essex Junction",
+        "addr:housenumber": "101",
+        "addr:postcode": "05452",
+        "addr:state": "VT",
+        "addr:street": "Pearl Street",
+        "name": "Mac's Market",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1208547,
+          44.4953715
+        ]
+      },
+      "id": "node/1602746058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1607872703",
+        "addr:country": "US",
+        "addr:housenumber": "60",
+        "addr:postcode": "05452",
+        "addr:state": "VT",
+        "addr:street": "Pearl Street",
+        "name": "Asian Market",
+        "name:en": "Asian Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1183055,
+          44.4925743
+        ]
+      },
+      "id": "node/1607872703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1655439703",
+        "name": "Office building",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2452069,
+          44.9650737
+        ]
+      },
+      "id": "node/1655439703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1655451102",
+        "name": "Maplefields",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2774246,
+          44.95973
+        ]
+      },
+      "id": "node/1655451102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1655451277",
+        "name": "Office",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2745717,
+          44.9206621
+        ]
+      },
+      "id": "node/1655451277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656861982",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883955,
+          41.8907173
+        ]
+      },
+      "id": "node/1656861982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1666437645",
+        "addr:city": "Colchester",
+        "addr:country": "US",
+        "addr:housenumber": "865",
+        "addr:postcode": "05446",
+        "addr:state": "VT",
+        "addr:street": "College Parkway",
+        "brand": "Mobil Mart",
+        "brand:wikidata": "Q109676002",
+        "brand:wikipedia": "ja:モービル (ブランド)",
+        "name": "Mobil Mart",
+        "operator": "Mobil",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1573026,
+          44.4984883
+        ]
+      },
+      "id": "node/1666437645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1666528583",
+        "addr:country": "US",
+        "addr:housenumber": "39",
+        "addr:postcode": "05452",
+        "addr:state": "VT",
+        "addr:street": "Park Street",
+        "name": "Five Corners Variety",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1130414,
+          44.4878754
+        ]
+      },
+      "id": "node/1666528583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709280191",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-02",
+        "fountain": "bottle_refill",
+        "name:ru": "вода с газом и без. бесплатная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911794,
+          41.891319
+        ]
+      },
+      "id": "node/1709280191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1718866867",
+        "name": "Wells Village Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.204462,
+          43.4170572
+        ]
+      },
+      "id": "node/1718866867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1751873518",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7601355,
+          44.341795
+        ]
+      },
+      "id": "node/1751873518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1751874712",
+        "addr:city": "Waterbury",
+        "addr:housenumber": "150",
+        "addr:postcode": "05676",
+        "addr:state": "VT",
+        "addr:street": "South Main Street",
+        "building": "commercial",
+        "shop": "convenience",
+        "source": "esri/USA_NAD_Addresses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7478691,
+          44.3302035
+        ]
+      },
+      "id": "node/1751874712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1751874713",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7564582,
+          44.3382327
+        ]
+      },
+      "id": "node/1751874713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1751881729",
+        "addr:city": "Waterbury",
+        "addr:housenumber": "758",
+        "addr:postcode": "05676",
+        "addr:state": "VT",
+        "addr:street": "Waterbury Stowe Road",
+        "shop": "convenience",
+        "source": "esri/USA_NAD_Addresses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7451981,
+          44.34618
+        ]
+      },
+      "id": "node/1751881729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1751881730",
+        "addr:city": "Waterbury",
+        "addr:housenumber": "713",
+        "addr:postcode": "05676",
+        "addr:state": "VT",
+        "addr:street": "Waterbury Stowe Road",
+        "shop": "convenience",
+        "source": "esri/USA_NAD_Addresses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7467752,
+          44.3456788
+        ]
+      },
+      "id": "node/1751881730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1751881732",
+        "brand": "Shaw's",
+        "brand:wikidata": "Q578387",
+        "brand:wikipedia": "en:Shaw's and Star Market",
+        "name": "Shaw's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7437096,
+          44.3475229
+        ]
+      },
+      "id": "node/1751881732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1781666647",
+        "name": "Depot Beverage",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7449674,
+          44.328565
+        ]
+      },
+      "id": "node/1781666647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1929617173",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "brand:wikipedia": "en:Hannaford Brothers Company",
+        "name": "Hannaford",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1555033,
+          44.0010448
+        ]
+      },
+      "id": "node/1929617173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978504036",
+        "name": "Waterville Store",
+        "opening_hours": "Mo-Su 06:00-19:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7694653,
+          44.6899359
+        ]
+      },
+      "id": "node/1978504036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2005907873",
+        "name": "Central Beverage",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1107804,
+          44.4928805
+        ]
+      },
+      "id": "node/2005907873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016937502",
+        "name": "Huggets Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1884262,
+          43.8107665
+        ]
+      },
+      "id": "node/2016937502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2021888386",
+        "name": "A&B Mart - Island Beverage",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2947838,
+          44.7204356
+        ]
+      },
+      "id": "node/2021888386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2030481741",
+        "name": "West Hartford Village Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4175432,
+          43.7132179
+        ]
+      },
+      "id": "node/2030481741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2202917423",
+        "name": "Price Chopper",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0661885,
+          44.511753
+        ]
+      },
+      "id": "node/2202917423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2360464482",
+        "addr:country": "US",
+        "addr:housenumber": "10618",
+        "addr:postcode": "05461",
+        "addr:state": "VT",
+        "addr:street": "Vermont Route 116",
+        "name": "Lantman's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1094657,
+          44.3288857
+        ]
+      },
+      "id": "node/2360464482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2383400375",
+        "name": "C-Village Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3727425,
+          44.6357632
+        ]
+      },
+      "id": "node/2383400375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2383400430",
+        "addr:city": "Craftsbury",
+        "addr:housenumber": "118",
+        "addr:state": "VT",
+        "addr:street": "South Craftsbury Road",
+        "email": "info@craftsburygeneralstore.com",
+        "name": "Craftsbury General Store",
+        "opening_hours": "Su-We 09:00-19:00; Th-Sa 09:00-20:00",
+        "phone": "+1-802-586-2440",
+        "shop": "convenience",
+        "website": "https://craftsburygeneralstore.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3718867,
+          44.6345579
+        ]
+      },
+      "id": "node/2383400430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2448083435",
+        "name": "Mehuron's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8352722,
+          44.1838855
+        ]
+      },
+      "id": "node/2448083435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2473068952",
+        "amenity": "fuel",
+        "name": "Wooden Barrel Country Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9511299,
+          43.7021109
+        ]
+      },
+      "id": "node/2473068952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2486372688",
+        "addr:city": "Johnson",
+        "addr:housenumber": "131",
+        "addr:postcode": "05656",
+        "addr:state": "VT",
+        "addr:street": "Lower Main Street West",
+        "name": "Sterling Market",
+        "opening_hours": "Mo-Sa 07:00-20:00; Sa 07:00-19:00",
+        "phone": "+1-802-635-9000",
+        "shop": "supermarket",
+        "website": "https://www.johnsonssterlingmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.681986,
+          44.6354763
+        ]
+      },
+      "id": "node/2486372688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2504492763",
+        "addr:city": "Montpelier",
+        "addr:housenumber": "350",
+        "addr:postcode": "05602",
+        "addr:street": "E Montpelier Road",
+        "name": "Kurrle Fuels",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5464658,
+          44.2427286
+        ]
+      },
+      "id": "node/2504492763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2509685104",
+        "addr:city": "Montpelier",
+        "addr:housenumber": "56",
+        "addr:postcode": "05602",
+        "addr:street": "River Street",
+        "name": "Montpelier Jolley",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5658164,
+          44.2493608
+        ]
+      },
+      "id": "node/2509685104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2517841958",
+        "addr:city": "Montpelier",
+        "addr:housenumber": "5",
+        "addr:postcode": "05602",
+        "addr:street": "Memorial Drive",
+        "name": "Champlain Farms",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5787377,
+          44.2588368
+        ]
+      },
+      "id": "node/2517841958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537299968",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "indoor": "no",
+        "wikimedia_commons": "File:Nasone via mecenate, Roma, Italia Jun 30, 2022 06-19-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4987211,
+          41.8911676
+        ]
+      },
+      "id": "node/2537299968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2542198048",
+        "name": "Walts",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.189511,
+          44.4916534
+        ]
+      },
+      "id": "node/2542198048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2609587885",
+        "name": "River Valley Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8496621,
+          42.9062515
+        ]
+      },
+      "id": "node/2609587885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2609619176",
+        "brand": "Shaw's",
+        "brand:wikidata": "Q578387",
+        "brand:wikipedia": "en:Shaw's and Star Market",
+        "name": "Shaw's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.863088,
+          42.8645624
+        ]
+      },
+      "id": "node/2609619176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2708047977",
+        "addr:city": "Montpelier",
+        "addr:housenumber": "284",
+        "addr:postcode": "05602",
+        "addr:street": "Elm Street",
+        "name": "Meadow Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5692594,
+          44.2661308
+        ]
+      },
+      "id": "node/2708047977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2844634869",
+        "addr:city": "Montpelier",
+        "addr:housenumber": "4",
+        "addr:postcode": "05602",
+        "addr:street": "Main Street",
+        "brand": "Shaw's",
+        "brand:wikidata": "Q578387",
+        "brand:wikipedia": "en:Shaw's and Star Market",
+        "name": "Shaw's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5775296,
+          44.2589065
+        ]
+      },
+      "id": "node/2844634869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2869522906",
+        "addr:city": "Sharon",
+        "addr:housenumber": "5326",
+        "addr:postcode": "05065",
+        "addr:state": "VT",
+        "addr:street": "VT Route 14",
+        "amenity": "fuel",
+        "brand": "Gulf",
+        "brand:wikidata": "Q5617505",
+        "brand:wikipedia": "en:Gulf Oil LP",
+        "name": "Gulf",
+        "shop": "convenience",
+        "vcgi:e911-addresses:esiteid": "219442"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4600747,
+          43.7829485
+        ]
+      },
+      "id": "node/2869522906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3183956878",
+        "addr:city": "Hardwick",
+        "addr:housenumber": "75",
+        "addr:postcode": "05843",
+        "addr:state": "VT",
+        "addr:street": "Mill Street",
+        "name": "Buffalo Mountain Co-op",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa-Su 09:00-18:00",
+        "organic": "yes",
+        "phone": "+1-802-472-6020",
+        "shop": "supermarket",
+        "website": "https://buffalomountaincoop.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3647211,
+          44.5043383
+        ]
+      },
+      "id": "node/3183956878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3249047659",
+        "addr:city": "St. Johnsbury",
+        "addr:housenumber": "652",
+        "addr:postcode": "05819",
+        "addr:street": "Railroad Street",
+        "name": "Horizons Deli And Convenience",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0145279,
+          44.4218279
+        ]
+      },
+      "id": "node/3249047659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3249053661",
+        "addr:city": "St. Johnsbury",
+        "addr:housenumber": "537",
+        "addr:postcode": "05819",
+        "addr:state": "VT",
+        "addr:street": "Railroad Street",
+        "name": "Natural Provisions",
+        "opening_hours": "Mo-Sa 09:00-17:00; Su 10:00-16:00",
+        "phone": "+1 802 748 3587",
+        "shop": "supermarket",
+        "website": "https://naturalprovisionsvt.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0155497,
+          44.4204257
+        ]
+      },
+      "id": "node/3249053661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3251866601",
+        "addr:city": "Shelburne",
+        "addr:country": "US",
+        "addr:housenumber": "29",
+        "addr:state": "VT",
+        "addr:street": "Falls Rd",
+        "name": "Shelburne Country Store",
+        "shop": "convenience",
+        "website": "https://www.shelburnecountrystore.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2270101,
+          44.3803938
+        ]
+      },
+      "id": "node/3251866601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3252364163",
+        "addr:city": "Richmond",
+        "addr:country": "US",
+        "addr:postcode": "05477",
+        "addr:state": "VT",
+        "name": "Richmond Market and Beverage",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.994645,
+          44.404149
+        ]
+      },
+      "id": "node/3252364163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327191149",
+        "name": "Powers Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2420806,
+          42.9291165
+        ]
+      },
+      "id": "node/3327191149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3457338425",
+        "name": "Bob's Quick Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3000984,
+          44.787792
+        ]
+      },
+      "id": "node/3457338425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3605989672",
+        "addr:city": "Westmore",
+        "addr:housenumber": "2003",
+        "addr:state": "VT",
+        "addr:street": "State Route 5A",
+        "name": "Willoughby Lake Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0524275,
+          44.7657772
+        ]
+      },
+      "id": "node/3605989672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3688755634",
+        "addr:city": "Moretown",
+        "addr:housenumber": "1114",
+        "addr:street": "State Route 100B",
+        "name": "Moretown General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7611447,
+          44.2502203
+        ]
+      },
+      "id": "node/3688755634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3688764390",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4440615,
+          43.0964738
+        ]
+      },
+      "id": "node/3688764390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3716996836",
+        "name": "Barnie's Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.891994,
+          44.42984
+        ]
+      },
+      "id": "node/3716996836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785014818",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934389,
+          41.8873381
+        ]
+      },
+      "id": "node/3785014818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3809970407",
+        "addr:city": "Guilford",
+        "addr:housenumber": "479",
+        "addr:postcode": "05301",
+        "addr:state": "VT",
+        "addr:street": "Calvin Coolidge Memorial Hwy",
+        "name": "Guilford Country Store",
+        "opening_hours": "06:30-18:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5751826,
+          42.8179304
+        ]
+      },
+      "id": "node/3809970407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813320016",
+        "addr:city": "Barre",
+        "addr:housenumber": "275",
+        "addr:postcode": "05641",
+        "addr:state": "VT",
+        "addr:street": "Hill Street",
+        "name": "Trow Hill Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4804475,
+          44.1917975
+        ]
+      },
+      "id": "node/3813320016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3954023100",
+        "name": "Price Chopper",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0167826,
+          44.4446237
+        ]
+      },
+      "id": "node/3954023100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4212629824",
+        "addr:city": "Tunbridge",
+        "addr:housenumber": "304",
+        "addr:postcode": "05077",
+        "addr:state": "VT",
+        "addr:street": "Vermont Route 110",
+        "name": "The Tunbridge General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4913987,
+          43.8904525
+        ]
+      },
+      "id": "node/4212629824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4266853885",
+        "addr:city": "Jericho",
+        "addr:country": "US",
+        "addr:housenumber": "51",
+        "addr:postcode": "05465",
+        "addr:state": "VT",
+        "addr:street": "Vermont Route 15",
+        "name": "Jericho General Store",
+        "ref:vcgi:esiteid": "137282",
+        "shop": "convenience",
+        "source:addr": "esri_Vermont_State"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9976554,
+          44.5045685
+        ]
+      },
+      "id": "node/4266853885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4273580890",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2478739,
+          44.5360117
+        ]
+      },
+      "id": "node/4273580890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4280494371",
+        "addr:city": "Jericho",
+        "addr:country": "US",
+        "addr:housenumber": "25",
+        "addr:postcode": "05465",
+        "addr:state": "VT",
+        "addr:street": "Jericho Center Circle",
+        "cuisine": "sandwich",
+        "name": "Jericho Country Store",
+        "phone": "+1-802-899-3313",
+        "shop": "grocery",
+        "takeaway": "yes",
+        "website": "http://jerichocountrystore.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9731555,
+          44.4699154
+        ]
+      },
+      "id": "node/4280494371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4334046307",
+        "name": "Beaudry's Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9872689,
+          44.3263704
+        ]
+      },
+      "id": "node/4334046307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4437862689",
+        "name": "Troy County Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4015649,
+          44.9044273
+        ]
+      },
+      "id": "node/4437862689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4438340089",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2046337,
+          44.8098244
+        ]
+      },
+      "id": "node/4438340089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4496763794",
+        "addr:city": "Burlington",
+        "addr:country": "US",
+        "addr:housenumber": "457",
+        "addr:state": "VT",
+        "addr:street": "Saint Paul Street",
+        "name": "Neighborhood Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2101178,
+          44.4674667
+        ]
+      },
+      "id": "node/4496763794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4591663734",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4154439,
+          44.4409086
+        ]
+      },
+      "id": "node/4591663734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4591736410",
+        "addr:city": "Calais",
+        "addr:housenumber": "31",
+        "addr:postcode": "05648",
+        "addr:state": "VT",
+        "addr:street": "West County Road",
+        "name": "Maple Corner Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4951896,
+          44.3752978
+        ]
+      },
+      "id": "node/4591736410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4591748710",
+        "addr:city": "Cabot",
+        "addr:housenumber": "3109",
+        "addr:postcode": "05647",
+        "addr:state": "VT",
+        "addr:street": "Main Street",
+        "name": "Cabot Village Store",
+        "phone": "+1-802-563-2438",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3111554,
+          44.402693
+        ]
+      },
+      "id": "node/4591748710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4630063932",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.08913,
+          43.7972417
+        ]
+      },
+      "id": "node/4630063932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4630149139",
+        "name": "Union Street Grocery",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0880592,
+          43.7958429
+        ]
+      },
+      "id": "node/4630149139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4644996596",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9829176,
+          44.9117506
+        ]
+      },
+      "id": "node/4644996596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4687978645",
+        "name": "Troy General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4051626,
+          44.9042042
+        ]
+      },
+      "id": "node/4687978645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4687978652",
+        "name": "Mac's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6730486,
+          44.9963737
+        ]
+      },
+      "id": "node/4687978652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4687990478",
+        "addr:housenumber": "67",
+        "addr:street": "Main Street",
+        "name": "Main Street Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4034819,
+          44.9955991
+        ]
+      },
+      "id": "node/4687990478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4688003736",
+        "addr:housenumber": "5243",
+        "addr:street": "North Sheldon Road",
+        "name": "Franklin General Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9163535,
+          44.9825004
+        ]
+      },
+      "id": "node/4688003736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4694553999",
+        "addr:city": "Montgomery",
+        "addr:housenumber": "1711",
+        "addr:postcode": "05476",
+        "addr:state": "VT",
+        "addr:street": "North Main Street",
+        "name": "T J's Country Store",
+        "shop": "convenience",
+        "source": "esri/USA_NAD_Addresses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6343744,
+          44.8998954
+        ]
+      },
+      "id": "node/4694553999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4694613590",
+        "addr:housenumber": "9",
+        "addr:street": "Saint Armand Road",
+        "name": "Desorcie's Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0457559,
+          44.9384715
+        ]
+      },
+      "id": "node/4694613590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4695475850",
+        "addr:city": "Bakersfield",
+        "addr:housenumber": "31",
+        "addr:postcode": "05441",
+        "addr:state": "VT",
+        "addr:street": "Main Street North",
+        "building": "commercial",
+        "name": "Bakersfield Village Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8016319,
+          44.78263
+        ]
+      },
+      "id": "node/4695475850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4695513641",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "brand:wikipedia": "en:Hannaford Brothers Company",
+        "name": "Hannaford",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0791879,
+          44.8406242
+        ]
+      },
+      "id": "node/4695513641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4696461946",
+        "addr:housenumber": "1155",
+        "addr:street": "State Route 105",
+        "name": "Scampy's Country Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0578168,
+          44.8979549
+        ]
+      },
+      "id": "node/4696461946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4696461947",
+        "addr:housenumber": "8411",
+        "addr:street": "State Route 111",
+        "name": "Morgan Country Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0147447,
+          44.9131824
+        ]
+      },
+      "id": "node/4696461947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4787215836",
+        "addr:city": "Winooski",
+        "addr:country": "US",
+        "addr:housenumber": "65",
+        "addr:postcode": "05404",
+        "addr:state": "VT",
+        "addr:street": "Winooski Falls Way",
+        "email": "winooski@commoditiesnaturalmarket.com",
+        "name": "Commodities Natural Market",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 08:00-19:00",
+        "phone": "+18024970433",
+        "shop": "supermarket",
+        "website": "https://www.commoditiesnaturalmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1835956,
+          44.4903846
+        ]
+      },
+      "id": "node/4787215836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4792568020",
+        "addr:city": "Wolcott",
+        "addr:housenumber": "4076",
+        "addr:postcode": "05680",
+        "addr:state": "VT",
+        "addr:street": "State Route 15",
+        "name": "Wolcott General Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4619716,
+          44.5474962
+        ]
+      },
+      "id": "node/4792568020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4966100623",
+        "addr:city": "Essex",
+        "addr:country": "US",
+        "addr:housenumber": "21",
+        "addr:state": "VT",
+        "addr:street": "Essex Way",
+        "name": "Sweet Clover Market",
+        "opening_hours": "Mo-Su 10:00-19:00",
+        "organic": "yes",
+        "shop": "supermarket",
+        "website": "http://www.sweetclovermarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0800283,
+          44.5080973
+        ]
+      },
+      "id": "node/4966100623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4966393593",
+        "addr:city": "Essex Junction",
+        "addr:country": "US",
+        "addr:housenumber": "62",
+        "addr:postcode": "05452",
+        "addr:state": "VT",
+        "addr:street": "Pearl Street",
+        "name": "Everest Asian Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1179047,
+          44.4927295
+        ]
+      },
+      "id": "node/4966393593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4968514297",
+        "addr:city": "Newport Center",
+        "addr:housenumber": "4167",
+        "addr:street": "West Main Street",
+        "name": "Lucier Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3072075,
+          44.9509797
+        ]
+      },
+      "id": "node/4968514297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4972144032",
+        "addr:city": "Orleans",
+        "addr:housenumber": "52",
+        "addr:street": "Main Street",
+        "name": "Thibault's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.204191,
+          44.8106297
+        ]
+      },
+      "id": "node/4972144032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4972220680",
+        "addr:city": "Barton",
+        "addr:housenumber": "71",
+        "addr:street": "Church Street",
+        "name": "C & C Supermarket",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1798324,
+          44.7499376
+        ]
+      },
+      "id": "node/4972220680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4972421317",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1808156,
+          44.7519764
+        ]
+      },
+      "id": "node/4972421317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4973494531",
+        "addr:housenumber": "2956",
+        "addr:street": "Derby Line Road",
+        "name": "Derby Village Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1308892,
+          44.9541406
+        ]
+      },
+      "id": "node/4973494531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4974247422",
+        "addr:housenumber": "33",
+        "addr:street": "Railroad Square",
+        "name": "Newport Mini Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2052068,
+          44.9365532
+        ]
+      },
+      "id": "node/4974247422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4974247423",
+        "addr:housenumber": "21",
+        "addr:street": "Waterfront Plaza",
+        "name": "Vista Food",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2060542,
+          44.9389973
+        ]
+      },
+      "id": "node/4974247423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4975151891",
+        "addr:city": "Newport",
+        "addr:housenumber": "273",
+        "addr:state": "VT",
+        "addr:street": "Main Street",
+        "name": "Maplefields",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2113896,
+          44.9348508
+        ]
+      },
+      "id": "node/4975151891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4994801350",
+        "addr:city": "Barnet",
+        "addr:housenumber": "90",
+        "addr:street": "Monument Circle",
+        "name": "Barnet Village Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0494772,
+          44.2964315
+        ]
+      },
+      "id": "node/4994801350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5098408283",
+        "addr:city": "Pittsfield",
+        "addr:housenumber": "3932",
+        "addr:postcode": "05762",
+        "addr:state": "VT",
+        "addr:street": "VT 100",
+        "name": "Swiss Farm Market",
+        "opening_hours": "Mo-Th 05:00-20:00; Fr-Sa 05:00-21:00; Su 06:00-19:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8126196,
+          43.7724786
+        ]
+      },
+      "id": "node/5098408283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5220635471",
+        "addr:city": "Newport",
+        "addr:housenumber": "477",
+        "addr:street": "East Main Street",
+        "name": "East Main Mini Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1942365,
+          44.9432404
+        ]
+      },
+      "id": "node/5220635471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324621121",
+        "addr:city": "Highgate Springs",
+        "addr:housenumber": "2934",
+        "addr:postcode": "05460-9998",
+        "addr:state": "VT",
+        "addr:street": "US-7",
+        "amenity": "fuel",
+        "brand": "fuel",
+        "name": "Martin's Convenience Store",
+        "phone": "+1-(802) 868-4459",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1048929,
+          44.9741903
+        ]
+      },
+      "id": "node/5324621121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5431134951",
+        "addr:housenumber": "196",
+        "addr:street": "State Route 5A",
+        "name": "Aldrich's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9807879,
+          44.6441756
+        ]
+      },
+      "id": "node/5431134951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5432477158",
+        "addr:city": "West Wardsboro",
+        "addr:housenumber": "47",
+        "addr:state": "VT",
+        "addr:street": "Cross Road",
+        "name": "West Wardsboro Store",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8543661,
+          43.0293699
+        ]
+      },
+      "id": "node/5432477158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5450864872",
+        "addr:city": "Albany",
+        "addr:housenumber": "842",
+        "addr:street": "Main Street",
+        "name": "Albany General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3800321,
+          44.7309246
+        ]
+      },
+      "id": "node/5450864872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5450931193",
+        "name": "Ray's Meats & Groceries",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.278295,
+          44.8023118
+        ]
+      },
+      "id": "node/5450931193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5478797853",
+        "addr:city": "Brandon",
+        "addr:housenumber": "2265",
+        "addr:postcode": "05733",
+        "addr:state": "VT",
+        "addr:street": "Forest Dale Road",
+        "building": "commercial",
+        "name": "Junction Store & Deli",
+        "ref:vcgi:esiteid": "28045",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0528662,
+          43.8270923
+        ]
+      },
+      "id": "node/5478797853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5478797855",
+        "name": "Forest Dale Grocery & Deli",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0548279,
+          43.8301882
+        ]
+      },
+      "id": "node/5478797855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480037529",
+        "name": "Leicester General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1076672,
+          43.8676864
+        ]
+      },
+      "id": "node/5480037529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480090585",
+        "name": "Mac's Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1057663,
+          43.9735854
+        ]
+      },
+      "id": "node/5480090585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480090598",
+        "addr:housenumber": "51",
+        "addr:street": "Ossie Road",
+        "name": "Down Home Deli & Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1083925,
+          43.9723896
+        ]
+      },
+      "id": "node/5480090598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5480090603",
+        "name": "Maplefields",
+        "operator": "RL Vallee",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1160484,
+          43.9721287
+        ]
+      },
+      "id": "node/5480090603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5733930881",
+        "addr:city": "Elmore",
+        "addr:housenumber": "1208",
+        "addr:state": "VT",
+        "addr:street": "Montpelier Morrisville State Highway",
+        "name": "Elmore Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5233095,
+          44.5404197
+        ]
+      },
+      "id": "node/5733930881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5733975976",
+        "name": "Price Chopper",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5891415,
+          44.57288
+        ]
+      },
+      "id": "node/5733975976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5749900771",
+        "name": "D&L",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3012313,
+          44.5208691
+        ]
+      },
+      "id": "node/5749900771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5750387624",
+        "name": "Wheelock Village Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0861349,
+          44.5880395
+        ]
+      },
+      "id": "node/5750387624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754659090",
+        "name": "Towns Corner Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0014891,
+          44.5197897
+        ]
+      },
+      "id": "node/5754659090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754659098",
+        "name": "The White Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.003454,
+          44.5202889
+        ]
+      },
+      "id": "node/5754659098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5777732386",
+        "addr:housenumber": "1425",
+        "addr:street": "US 2",
+        "name": "Marshfield Village Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3481769,
+          44.3514979
+        ]
+      },
+      "id": "node/5777732386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5779006257",
+        "addr:city": "Stowe",
+        "addr:housenumber": "4968",
+        "addr:street": "Mountain Road",
+        "name": "Notchbrook General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.755893,
+          44.5023602
+        ]
+      },
+      "id": "node/5779006257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5862425624",
+        "addr:city": "Ripton",
+        "addr:country": "US",
+        "addr:housenumber": "1192",
+        "addr:postcode": "05766",
+        "addr:state": "VT",
+        "addr:street": "VT Route 125",
+        "name": "Ripton Country Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0385687,
+          43.9742241
+        ]
+      },
+      "id": "node/5862425624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5863240071",
+        "addr:city": "Waitsfield",
+        "addr:housenumber": "4348",
+        "addr:state": "VT",
+        "addr:street": "Main Street",
+        "name": "Village Grocery",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8241863,
+          44.190793
+        ]
+      },
+      "id": "node/5863240071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5863240076",
+        "addr:city": "Waitsfield",
+        "addr:housenumber": "5134",
+        "addr:street": "Main Street",
+        "name": "Irasville Country Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.836622,
+          44.1845005
+        ]
+      },
+      "id": "node/5863240076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5863240597",
+        "addr:city": "Waitsfield",
+        "addr:housenumber": "27",
+        "addr:street": "Mad River Canoe Road",
+        "brand": "Shaw's",
+        "brand:wikidata": "Q578387",
+        "brand:wikipedia": "en:Shaw's and Star Market",
+        "name": "Shaw's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8382342,
+          44.1854197
+        ]
+      },
+      "id": "node/5863240597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5863323819",
+        "name": "Tops Friendly Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6550833,
+          44.1616121
+        ]
+      },
+      "id": "node/5863323819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5865510113",
+        "name": "Korner Kwik Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0684907,
+          44.4377677
+        ]
+      },
+      "id": "node/5865510113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5866185343",
+        "name": "Falls General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6507787,
+          44.1720972
+        ]
+      },
+      "id": "node/5866185343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5948507855",
+        "name": "Hastings Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1944303,
+          44.408889
+        ]
+      },
+      "id": "node/5948507855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5948641369",
+        "name": "Peacham Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1706774,
+          44.3285573
+        ]
+      },
+      "id": "node/5948641369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5949018481",
+        "name": "Diamond Hill Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1399094,
+          44.4116941
+        ]
+      },
+      "id": "node/5949018481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5949018691",
+        "brand": "Union Bank",
+        "name": "Marty's 1st Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1329133,
+          44.4145492
+        ]
+      },
+      "id": "node/5949018691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6216223396",
+        "addr:city": "Middletown Springs",
+        "addr:housenumber": "8",
+        "addr:postcode": "05757",
+        "addr:state": "VT",
+        "addr:street": "East Street",
+        "name": "Grant's Village Store",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1174478,
+          43.4853599
+        ]
+      },
+      "id": "node/6216223396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6243056063",
+        "brand": "Price Chopper",
+        "brand:wikidata": "Q7242574",
+        "brand:wikipedia": "en:Price Chopper and Market 32 Supermarkets",
+        "name": "Price Chopper",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1719501,
+          44.465772
+        ]
+      },
+      "id": "node/6243056063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6270573911",
+        "name": "Gagan Indian Grocery Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1724741,
+          44.4669629
+        ]
+      },
+      "id": "node/6270573911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6270573912",
+        "name": "Euro Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1723979,
+          44.4669513
+        ]
+      },
+      "id": "node/6270573912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6530531751",
+        "name": "Adamant Co-Op",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5030362,
+          44.3293222
+        ]
+      },
+      "id": "node/6530531751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6530557473",
+        "name": "Jerusalem Country Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.984285,
+          44.1702
+        ]
+      },
+      "id": "node/6530557473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6712977524",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4059736,
+          44.9973161
+        ]
+      },
+      "id": "node/6712977524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6981228397",
+        "addr:city": "Reading",
+        "addr:housenumber": "821",
+        "addr:postcode": "05062",
+        "addr:state": "VT",
+        "addr:street": "State Route 106",
+        "name": "Watrobas",
+        "opening_hours": "08:00-18:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5374248,
+          43.4559478
+        ]
+      },
+      "id": "node/6981228397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6981335202",
+        "brand": "Price Chopper",
+        "brand:wikidata": "Q7242574",
+        "brand:wikipedia": "en:Price Chopper Supermarkets",
+        "name": "Price Chopper",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3846133,
+          43.4862206
+        ]
+      },
+      "id": "node/6981335202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6981362355",
+        "name": "Mike;s store",
+        "operator": "Mike Pearce",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3997927,
+          43.53881
+        ]
+      },
+      "id": "node/6981362355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6981362358",
+        "name": "BG's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.399881,
+          43.5407564
+        ]
+      },
+      "id": "node/6981362358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7164715411",
+        "name": "MiddExpress",
+        "operator": "Middlebury College",
+        "shop": "convenience",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1771448,
+          44.0082806
+        ]
+      },
+      "id": "node/7164715411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7179683205",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4112653,
+          43.4043645
+        ]
+      },
+      "id": "node/7179683205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7179683208",
+        "name": "Jiffy Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4127366,
+          43.4046606
+        ]
+      },
+      "id": "node/7179683208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7496429553",
+        "brand": "Shaw's",
+        "brand:wikidata": "Q578387",
+        "brand:wikipedia": "en:Shaw's and Star Market",
+        "name": "Shaw's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4922751,
+          43.3025544
+        ]
+      },
+      "id": "node/7496429553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7766376165",
+        "addr:city": "Hardwick",
+        "addr:housenumber": "140",
+        "addr:state": "VT",
+        "addr:street": "Granite Street",
+        "amenity": "marketplace",
+        "name": "Hardwick Farmers Market",
+        "opening_hours": "May-Oct: Fr 15:00-18:00",
+        "seasonal": "yes",
+        "website": "https://www.hardwickfarmersmarketvt.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3728936,
+          44.5062368
+        ]
+      },
+      "id": "node/7766376165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7770080520",
+        "addr:city": "Norton",
+        "addr:housenumber": "4531",
+        "addr:postcode": "05407",
+        "addr:state": "VT",
+        "addr:street": "State Route 114",
+        "name": "Lake View Store",
+        "opening_hours": "Mo-Su 06:00-17:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1-802-822-5708",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7097008,
+          44.9989165
+        ]
+      },
+      "id": "node/7770080520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7824330561",
+        "cuisine": "sandwich",
+        "name": "The Big Wheel",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0894156,
+          44.0864912
+        ]
+      },
+      "id": "node/7824330561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7835292619",
+        "addr:city": "Bradford",
+        "addr:postcode": "05033",
+        "addr:state": "VT",
+        "addr:street": "Lower Plain Road",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "brand:wikipedia": "en:Hannaford Brothers Company",
+        "name": "Hannaford",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1227232,
+          43.9841309
+        ]
+      },
+      "id": "node/7835292619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8081923455",
+        "addr:city": "South Strafford",
+        "addr:housenumber": "1",
+        "addr:postcode": "05070",
+        "addr:state": "VT",
+        "addr:street": "Main Street",
+        "name": "Coburn's General Store",
+        "opening_hours": "Mo-Sa 07:00-18:30; Su 08:00-13:00",
+        "phone": "+18027654421",
+        "shop": "convenience",
+        "website": "https://www.coburnsstore.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3605173,
+          43.8341976
+        ]
+      },
+      "id": "node/8081923455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8088532453",
+        "amenity": "marketplace",
+        "name": "Rutland Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9803499,
+          43.606168
+        ]
+      },
+      "id": "node/8088532453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8750863084",
+        "name": "Northwest Family Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0898116,
+          44.8047449
+        ]
+      },
+      "id": "node/8750863084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8770329816",
+        "amenity": "marketplace",
+        "name": "Jericho Farmers' Market",
+        "opening_hours": "Th 15:00-18:30",
+        "seasonal": "yes",
+        "website": "https://www.jerichofarmersmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9480976,
+          44.5167397
+        ]
+      },
+      "id": "node/8770329816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8830538774",
+        "brand": "Minit Mart",
+        "brand:wikidata": "Q18154470",
+        "brand:wikipedia": "en:Minit Mart Foods Inc.",
+        "name": "Minit Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.413697,
+          44.9607107
+        ]
+      },
+      "id": "node/8830538774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8842079467",
+        "addr:housenumber": "222",
+        "addr:street": "Chelsea Street",
+        "name": "South Royalton Market",
+        "operator": "Cooperative",
+        "shop": "supermarket",
+        "website": "https://soromarket.coop/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.522072,
+          43.8201902
+        ]
+      },
+      "id": "node/8842079467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8934437095",
+        "addr:city": "Sheldon",
+        "addr:housenumber": "682",
+        "addr:postcode": "05485",
+        "addr:state": "VT",
+        "addr:street": "Mill Street",
+        "building": "commercial",
+        "name": "Pauline's Quick Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.973969,
+          44.9030572
+        ]
+      },
+      "id": "node/8934437095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8936504554",
+        "addr:city": "White River Junction",
+        "addr:housenumber": "193",
+        "addr:postcode": "05001",
+        "addr:state": "VT",
+        "addr:street": "North Main Street",
+        "ele": "86.0",
+        "name": "Upper Valley Food Co-op",
+        "phone": "+1-802-295-5804",
+        "shop": "supermarket",
+        "website": "https://www.uppervalleyfood.coop/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3219346,
+          43.6503263
+        ]
+      },
+      "id": "node/8936504554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8977372098",
+        "amenity": "marketplace",
+        "name": "Woodstock Farmer's Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5418105,
+          43.6168408
+        ]
+      },
+      "id": "node/8977372098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9035407790",
+        "addr:city": "Springfield",
+        "addr:housenumber": "6",
+        "addr:postcode": "05156",
+        "addr:state": "VT",
+        "addr:street": "Main Street",
+        "name": "Springfield Food Co-Op",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su 09:00-17:00",
+        "organic": "only",
+        "phone": "+1 802 885 3363",
+        "shop": "supermarket",
+        "website": "http://springfieldfood.coop/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4813862,
+          43.2995716
+        ]
+      },
+      "id": "node/9035407790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9057452833",
+        "addr:city": "Fair Haven",
+        "addr:housenumber": "699",
+        "addr:postcode": "05743",
+        "addr:state": "VT",
+        "addr:street": "VT Route 22A",
+        "name": "Maplefields",
+        "phone": "+1-802-265-3009",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2750335,
+          43.6033026
+        ]
+      },
+      "id": "node/9057452833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9061264767",
+        "name": "Country Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7869578,
+          44.5886983
+        ]
+      },
+      "id": "node/9061264767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9068926261",
+        "addr:city": "Rochester",
+        "addr:housenumber": "12",
+        "addr:postcode": "05767",
+        "addr:state": "VT",
+        "addr:street": "North Main Street",
+        "name": "Skip Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8080496,
+          43.8747452
+        ]
+      },
+      "id": "node/9068926261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9075123862",
+        "addr:city": "Eden",
+        "addr:housenumber": "1960",
+        "addr:postcode": "05652",
+        "addr:state": "VT",
+        "addr:street": "VT Route 100",
+        "name": "Eden Mini Mart",
+        "shop": "convenience",
+        "source": "esri/USA_NAD_Addresses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5633381,
+          44.7018528
+        ]
+      },
+      "id": "node/9075123862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9084414895",
+        "addr:city": "Dorset",
+        "addr:housenumber": "69",
+        "addr:postcode": "05251",
+        "addr:state": "VT",
+        "addr:street": "VT Route 30",
+        "amenity": "fuel",
+        "building": "commercial",
+        "name": "Hasgas General Store",
+        "shop": "convenience",
+        "vcgi:e911-addresses:esiteid": "85480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.068181,
+          43.2133881
+        ]
+      },
+      "id": "node/9084414895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9085178144",
+        "addr:city": "Bennington",
+        "addr:housenumber": "301",
+        "addr:postcode": "05201",
+        "addr:state": "VT",
+        "addr:street": "Main Street",
+        "name": "Martin's Mini Mart",
+        "shop": "convenience",
+        "source": "esri/USA_NAD_Addresses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1989722,
+          42.8789611
+        ]
+      },
+      "id": "node/9085178144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9085215634",
+        "addr:city": "Addison",
+        "addr:housenumber": "4934",
+        "addr:postcode": "05491",
+        "addr:state": "VT",
+        "addr:street": "VT Route 22A",
+        "name": "Addison Four Corner Store",
+        "shop": "convenience",
+        "source": "esri/USA_NAD_Addresses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3024913,
+          44.089246
+        ]
+      },
+      "id": "node/9085215634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9089932727",
+        "addr:city": "Barre City",
+        "addr:housenumber": "350",
+        "addr:postcode": "05641",
+        "addr:state": "VT",
+        "addr:street": "North Main Street",
+        "building": "commercial",
+        "name": "Jiffy Mart",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "opening_hours:covid19": "open",
+        "shop": "convenience",
+        "source": "esri/USA_NAD_Addresses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5075335,
+          44.2016283
+        ]
+      },
+      "id": "node/9089932727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9090977614",
+        "addr:city": "Hinesburg",
+        "addr:housenumber": "21",
+        "addr:postcode": "05461",
+        "addr:state": "VT",
+        "addr:street": "Commerce Street",
+        "name": "Mobil",
+        "not:brand:wikidata": "Q109676002",
+        "opening_hours": "Mo-Su 05:00-22:00",
+        "phone": "+1 802 482 4556",
+        "shop": "convenience",
+        "source": "esri/USA_NAD_Addresses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1117448,
+          44.3349609
+        ]
+      },
+      "id": "node/9090977614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9106134137",
+        "addr:city": "Essex Town",
+        "addr:housenumber": "25",
+        "addr:postcode": "05452",
+        "addr:state": "VT",
+        "addr:street": "Jericho Road",
+        "name": "Champlain Farms",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.053965,
+          44.5083122
+        ]
+      },
+      "id": "node/9106134137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9130208808",
+        "addr:city": "Manchester Center",
+        "addr:housenumber": "263",
+        "addr:postcode": "05255",
+        "addr:state": "VT",
+        "addr:street": "Depot Street",
+        "addr:unit": "Suite 1",
+        "brand": "Price Chopper",
+        "brand:wikidata": "Q7242574",
+        "brand:wikipedia": "en:Price Chopper Supermarkets",
+        "name": "Price Chopper",
+        "opening_hours": "06:00-22:00",
+        "phone": "+1-802-362-9896",
+        "shop": "supermarket",
+        "website": "https://www.pricechopper.com/stores/vt/manchester/price-chopper-125.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0521255,
+          43.1757204
+        ]
+      },
+      "id": "node/9130208808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9193595044",
+        "addr:city": "Brattleboro",
+        "addr:housenumber": "141",
+        "addr:postcode": "05301",
+        "addr:state": "VT",
+        "addr:street": "Canal Street",
+        "name": "Food Works Community Foodshelf",
+        "opening_hours": "Foodworks Friday\t12–4PM Saturday\tClosed Sunday\tClosed Monday\t11AM–4PM Tuesday\tClosed Wednesday\t1–6PM Thursday\tClosed",
+        "operator": "Groundworks",
+        "payment:free": "yes",
+        "phone": "+1 802-490-2412",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5619982,
+          42.8478254
+        ]
+      },
+      "id": "node/9193595044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9516785499",
+        "description": "OK shop Onrusriver Onrus store.",
+        "name": "OK shop Onrus",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1645296,
+          -34.4078636
+        ]
+      },
+      "id": "node/9516785499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9556565972",
+        "addr:housenumber": "129",
+        "addr:street": "Market Street",
+        "name": "Healthy Living Market & Cafe",
+        "organic": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1083379,
+          44.4489428
+        ]
+      },
+      "id": "node/9556565972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9560650725",
+        "addr:city": "Groton",
+        "addr:housenumber": "780",
+        "addr:postcode": "05046",
+        "addr:state": "VT",
+        "addr:street": "Boulder Beach Road",
+        "building": "commercial",
+        "name": "Forest Country Store",
+        "ref:vcgi:esiteid": "115639",
+        "shop": "convenience",
+        "source": "esri/Vermont_US_Addresses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2736746,
+          44.2827983
+        ]
+      },
+      "id": "node/9560650725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9773779697",
+        "addr:city": "Burlington",
+        "addr:country": "US",
+        "addr:housenumber": "242",
+        "addr:postcode": "05401",
+        "addr:state": "VT",
+        "addr:street": "North Winooski Avenue",
+        "check_date": "2022-05-26",
+        "name": "Jake's ONE Market",
+        "shop": "supermarket",
+        "website": "https://www.jakesonemarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2091339,
+          44.4864743
+        ]
+      },
+      "id": "node/9773779697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9777627726",
+        "addr:city": "Burlington",
+        "addr:housenumber": "345",
+        "addr:state": "VT",
+        "addr:street": "Pine Street",
+        "amenity": "marketplace",
+        "name": "Burlington Farmers Market",
+        "opening_hours": "Sa 09:00-14:00",
+        "seasonal": "summer",
+        "website": "https://burlingtonfarmersmarket.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2161314,
+          44.4693561
+        ]
+      },
+      "id": "node/9777627726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9786676834",
+        "addr:country": "US",
+        "addr:housenumber": "244",
+        "addr:postcode": "05401",
+        "addr:state": "VT",
+        "addr:street": "North Winooski Avenue",
+        "check_date": "2022-05-26",
+        "name": "Asian Food Mart",
+        "shop": "convenience",
+        "website": "https://www.asianfoodmartllc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2090155,
+          44.4865788
+        ]
+      },
+      "id": "node/9786676834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9795366242",
+        "check_date": "2022-06-04",
+        "name": "Jolly",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1213136,
+          44.6222103
+        ]
+      },
+      "id": "node/9795366242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9810041220",
+        "addr:housenumber": "414",
+        "addr:street": "Roosevelt Highway",
+        "check_date": "2022-06-10",
+        "name": "Maplefields",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1793436,
+          44.5078261
+        ]
+      },
+      "id": "node/9810041220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9814640660",
+        "addr:city": "Waterbury",
+        "addr:housenumber": "1901",
+        "addr:street": "U.S. Route 2",
+        "amenity": "marketplace",
+        "name": "Waterbury Flea Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7951207,
+          44.3567139
+        ]
+      },
+      "id": "node/9814640660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860255273",
+        "addr:city": "Saint Johnsbury",
+        "addr:housenumber": "642",
+        "addr:postcode": "05819",
+        "addr:state": "VT",
+        "addr:street": "Portland Street",
+        "name": "Cole's Discount Beverages and Redemption Center",
+        "phone": "+1 802 748 4866",
+        "shop": "convenience",
+        "website": "https://coles-discount.gaaq.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0027533,
+          44.4210821
+        ]
+      },
+      "id": "node/9860255273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9921038092",
+        "amenity": "marketplace",
+        "name": "Mach's market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1775552,
+          43.3464619
+        ]
+      },
+      "id": "node/9921038092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9921053198",
+        "amenity": "marketplace",
+        "name": "New Morning Natural Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0578711,
+          43.1755033
+        ]
+      },
+      "id": "node/9921053198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9932476223",
+        "addr:city": "Middlebury",
+        "addr:housenumber": "54",
+        "addr:postcode": "05753",
+        "addr:state": "VT",
+        "addr:street": "College Street",
+        "cuisine": "sandwich;ice_cream;american",
+        "name": "ShireTown Marketplace",
+        "opening_hours": "Tu-Sa 07:00-18:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1707973,
+          44.0117515
+        ]
+      },
+      "id": "node/9932476223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10179034652",
+        "addr:city": "Essex Junction",
+        "addr:housenumber": "103",
+        "addr:postcode": "05452",
+        "addr:state": "VT",
+        "addr:street": "Pearl Street",
+        "check_date": "2022-11-12",
+        "name": "Fairgrounds Beverage",
+        "opening_hours": "Mo-Fr 05:00-20:00; Sa-Su 07:00-20:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.120867,
+          44.4952272
+        ]
+      },
+      "id": "node/10179034652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340247517",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-51-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978518,
+          41.8912427
+        ]
+      },
+      "id": "node/5340247517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340252322",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-49-50 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4973968,
+          41.8913872
+        ]
+      },
+      "id": "node/5340252322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535092255",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915049,
+          41.8918027
+        ]
+      },
+      "id": "node/5535092255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5801329944",
+        "amenity": "drinking_water",
+        "description:de": "Wasserbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4884569,
+          41.8880861
+        ]
+      },
+      "id": "node/5801329944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6547164641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Via in Miranda, Foro Romano, Roma, Italia Oct 05, 2022 04-55-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870814,
+          41.8924043
+        ]
+      },
+      "id": "node/6547164641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6616168986",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4967144,
+          41.8922741
+        ]
+      },
+      "id": "node/6616168986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6841124063",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926345,
+          41.8906387
+        ]
+      },
+      "id": "node/6841124063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085935353",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941883,
+          41.8915996
+        ]
+      },
+      "id": "node/7085935353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7203154248",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Via Marco Aurelio, Roma, Italia Jun 30, 2022 08-08-32 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4955486,
+          41.8882028
+        ]
+      },
+      "id": "node/7203154248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9108120217",
+        "amenity": "drinking_water",
+        "name": "Acqua",
+        "name:en": "Drinkable water",
+        "name:fr": "Eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4847106,
+          41.8877336
+        ]
+      },
+      "id": "node/9108120217"
+    }
+  ]
+}

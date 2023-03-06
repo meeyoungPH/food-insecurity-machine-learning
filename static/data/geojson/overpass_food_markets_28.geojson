@@ -1,0 +1,5491 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-05T23:49:24Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266310881",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934985,
+          41.8923773
+        ]
+      },
+      "id": "node/266310881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/365795476",
+        "created_by": "Potlatch 0.10f",
+        "name": "CJ's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.334877,
+          30.3075573
+        ]
+      },
+      "id": "node/365795476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388984003",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494519,
+          41.8877413
+        ]
+      },
+      "id": "node/388984003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/448299252",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6111374,
+          30.2398816
+        ]
+      },
+      "id": "node/448299252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/450283895",
+        "name": "Shoppers Value",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6809067,
+          30.5180516
+        ]
+      },
+      "id": "node/450283895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/450285482",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6530975,
+          30.5443709
+        ]
+      },
+      "id": "node/450285482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/450286191",
+        "name": "Claiborne Hill Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6676029,
+          30.546108
+        ]
+      },
+      "id": "node/450286191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/450287399",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6974205,
+          30.5350564
+        ]
+      },
+      "id": "node/450287399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/450290766",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6821598,
+          30.5176967
+        ]
+      },
+      "id": "node/450290766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/450290842",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6830696,
+          30.5189759
+        ]
+      },
+      "id": "node/450290842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/450290956",
+        "name": "Buddy Hop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6832928,
+          30.518547
+        ]
+      },
+      "id": "node/450290956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/450293590",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6531919,
+          30.5433951
+        ]
+      },
+      "id": "node/450293590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/450296113",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6974806,
+          30.5263474
+        ]
+      },
+      "id": "node/450296113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/450296876",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6975492,
+          30.5148721
+        ]
+      },
+      "id": "node/450296876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/450297404",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6837906,
+          30.5103689
+        ]
+      },
+      "id": "node/450297404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/460480779",
+        "brand": "Winn-Dixie",
+        "brand:wikidata": "Q1264366",
+        "brand:wikipedia": "en:Winn-Dixie",
+        "name": "Winn-Dixie",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8176486,
+          30.4172996
+        ]
+      },
+      "id": "node/460480779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/483206094",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0374279,
+          32.2852421
+        ]
+      },
+      "id": "node/483206094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495113034",
+        "amenity": "drinking_water",
+        "check_date": "2022-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934283,
+          41.8913309
+        ]
+      },
+      "id": "node/495113034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/515116018",
+        "name": "Texaco",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7554387,
+          34.2649881
+        ]
+      },
+      "id": "node/515116018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/515139937",
+        "name": "Shell",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7723302,
+          34.2497146
+        ]
+      },
+      "id": "node/515139937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/515139941",
+        "name": "Exxon",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7730254,
+          34.2501758
+        ]
+      },
+      "id": "node/515139941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685457655",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4867108,
+          41.8902623
+        ]
+      },
+      "id": "node/685457655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685461877",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4875779,
+          41.8891234
+        ]
+      },
+      "id": "node/685461877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/867843191",
+        "name": "Kroger",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8426236,
+          33.4493868
+        ]
+      },
+      "id": "node/867843191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890053",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4879526,
+          41.8887986
+        ]
+      },
+      "id": "node/953890053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890062",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883755,
+          41.890985
+        ]
+      },
+      "id": "node/953890062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953909059",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via dei santi Quattro,roma,italy 62022.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968765,
+          41.8889852
+        ]
+      },
+      "id": "node/953909059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1170494282",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942213,
+          41.8900377
+        ]
+      },
+      "id": "node/1170494282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1315489734",
+        "name": "Allen's Grocery",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0311691,
+          32.2255058
+        ]
+      },
+      "id": "node/1315489734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1506623837",
+        "addr:housenumber": "1804",
+        "name": "Jerry Lee's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5457222,
+          30.3541179
+        ]
+      },
+      "id": "node/1506623837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1537166510",
+        "amenity": "fuel",
+        "brand": "BP",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5263345,
+          30.368799
+        ]
+      },
+      "id": "node/1537166510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1623975375",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5471656,
+          33.7319479
+        ]
+      },
+      "id": "node/1623975375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656861982",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883955,
+          41.8907173
+        ]
+      },
+      "id": "node/1656861982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709280191",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-02",
+        "fountain": "bottle_refill",
+        "name:ru": "вода с газом и без. бесплатная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911794,
+          41.891319
+        ]
+      },
+      "id": "node/1709280191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1751561111",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8653071,
+          31.9747111
+        ]
+      },
+      "id": "node/1751561111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1796014412",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6875157,
+          33.0215285
+        ]
+      },
+      "id": "node/1796014412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1844600225",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "brand:wikipedia": "en:Chevron Corporation",
+        "name": "Chevron",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8106791,
+          33.4548199
+        ]
+      },
+      "id": "node/1844600225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1966288851",
+        "name": "Murphy's USA",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8842357,
+          34.9630631
+        ]
+      },
+      "id": "node/1966288851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1966289426",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8576764,
+          34.9602934
+        ]
+      },
+      "id": "node/1966289426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2024563802",
+        "comment": "Please loking for this supermarket/operator?",
+        "name": "Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4323393,
+          33.5583709
+        ]
+      },
+      "id": "node/2024563802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2171717411",
+        "addr:city": "Madison",
+        "addr:state": "MS",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1419449,
+          32.4749108
+        ]
+      },
+      "id": "node/2171717411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179401950",
+        "name": "P.O.D. Provisions on Demand",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7903719,
+          33.4546844
+        ]
+      },
+      "id": "node/2179401950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179423253",
+        "name": "P.O.D.",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7917941,
+          33.4501471
+        ]
+      },
+      "id": "node/2179423253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2180594312",
+        "amenity": "marketplace",
+        "designation": "MAFES Sales Shop",
+        "name": "MAFES Cheese Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7951248,
+          33.4537555
+        ]
+      },
+      "id": "node/2180594312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2189969680",
+        "name": "Greenwood Market Place",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1959651,
+          33.5314968
+        ]
+      },
+      "id": "node/2189969680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2203331606",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "brand:wikipedia": "en:Save-A-Lot",
+        "name": "Save-A-Lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0731032,
+          30.3843703
+        ]
+      },
+      "id": "node/2203331606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2318593381",
+        "addr:city": "Hattiesburg",
+        "addr:housenumber": "3720",
+        "addr:postcode": "39402",
+        "addr:state": "MS",
+        "addr:street": "Hardy Street",
+        "contact:phone": "+1 (601) 264-3425",
+        "contact:website": "https://www.cornermarketms.com/",
+        "name": "Corner Market",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "payment:apple_pay": "yes",
+        "payment:cash": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:samsung_pay": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 (601) 264-3425",
+        "shop": "supermarket",
+        "website": "https://www.cornermarketms.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3451255,
+          31.3232238
+        ]
+      },
+      "id": "node/2318593381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2345974789",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8826704,
+          34.3221703
+        ]
+      },
+      "id": "node/2345974789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2348069487",
+        "amenity": "marketplace",
+        "name": "Tupelo Furniture Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7761496,
+          34.2838054
+        ]
+      },
+      "id": "node/2348069487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2350001203",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6815481,
+          34.2577323
+        ]
+      },
+      "id": "node/2350001203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2404143869",
+        "amenity": "marketplace",
+        "name": "41 Flea Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6216273,
+          33.9972028
+        ]
+      },
+      "id": "node/2404143869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2439584953",
+        "amenity": "marketplace",
+        "name": "Farmer's Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2116389,
+          33.526076
+        ]
+      },
+      "id": "node/2439584953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2460851855",
+        "name": "Holiday Supply Co.",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2014875,
+          33.5116395
+        ]
+      },
+      "id": "node/2460851855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537299968",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "indoor": "no",
+        "wikimedia_commons": "File:Nasone via mecenate, Roma, Italia Jun 30, 2022 06-19-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4987211,
+          41.8911676
+        ]
+      },
+      "id": "node/2537299968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573916721",
+        "amenity": "marketplace",
+        "name": "Pigot Satsumas",
+        "source": "Personal knowledge."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6129166,
+          30.5218071
+        ]
+      },
+      "id": "node/2573916721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573932537",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5962762,
+          30.5463143
+        ]
+      },
+      "id": "node/2573932537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2620835177",
+        "brand": "Winn-Dixie",
+        "brand:wikidata": "Q1264366",
+        "brand:wikipedia": "en:Winn-Dixie",
+        "name": "Winn-Dixie",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3541038,
+          31.3227067
+        ]
+      },
+      "id": "node/2620835177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2652770769",
+        "name": "Stop N Shop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8996248,
+          33.4044769
+        ]
+      },
+      "id": "node/2652770769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2653829384",
+        "name": "Asian Grocery",
+        "opening_hours": "We,Th,Su,Mo 10:00-20:30; Fr,Sa 10:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8208815,
+          33.4543259
+        ]
+      },
+      "id": "node/2653829384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2659990898",
+        "name": "Double Quick/Churches Chicken",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8972263,
+          33.4064169
+        ]
+      },
+      "id": "node/2659990898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2667888963",
+        "addr:housename": "Andy's 5th Ave QuickStop",
+        "addr:housenumber": "101",
+        "addr:postcode": "38732",
+        "addr:street": "South Fifth Ave",
+        "name": "Andy's 5th Ave QuickStop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7332651,
+          33.7434937
+        ]
+      },
+      "id": "node/2667888963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2711992747",
+        "amenity": "marketplace",
+        "name": "Farmer market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1036391,
+          30.4870303
+        ]
+      },
+      "id": "node/2711992747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2875242334",
+        "addr:city": "Monticello",
+        "addr:housenumber": "138",
+        "addr:postcode": "39654",
+        "addr:state": "MS",
+        "addr:street": "F E Sellers Highway",
+        "name": "Ramey's Marketplace",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1090142,
+          31.5528246
+        ]
+      },
+      "id": "node/2875242334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3136314773",
+        "name": "Shoppers Value Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3138282,
+          32.3486161
+        ]
+      },
+      "id": "node/3136314773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3328405528",
+        "addr:city": "Iuka",
+        "addr:housename": "Eastport Marina Store",
+        "addr:housenumber": "892",
+        "addr:postcode": "38852",
+        "addr:street": "County Road 956",
+        "name": "Eastport Marina Store",
+        "shop": "convenience",
+        "website": "http://www.eastportonpickwick.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1056371,
+          34.883858
+        ]
+      },
+      "id": "node/3328405528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3364316701",
+        "addr:city": "Oxford",
+        "addr:housenumber": "2013",
+        "addr:postcode": "38655",
+        "addr:state": "MS",
+        "addr:street": "University Avenue",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "phone": "+1 662 236 9956",
+        "shop": "supermarket",
+        "website": "https://www.kroger.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5038007,
+          34.3632882
+        ]
+      },
+      "id": "node/3364316701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3367140333",
+        "amenity": "marketplace",
+        "name": "James Quality Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7686342,
+          33.9501517
+        ]
+      },
+      "id": "node/3367140333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3367140336",
+        "name": "Shelby Cash Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7686154,
+          33.950728
+        ]
+      },
+      "id": "node/3367140336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3367140346",
+        "name": "Double Quick",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.767458,
+          33.9466696
+        ]
+      },
+      "id": "node/3367140346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3367140349",
+        "name": "Super Saver",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7676458,
+          33.9461534
+        ]
+      },
+      "id": "node/3367140349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3522905149",
+        "addr:city": "Tupelo",
+        "addr:country": "US",
+        "addr:full": "2270 W Main St",
+        "addr:housenumber": "2270",
+        "addr:postcode": "38801",
+        "addr:state": "MS",
+        "addr:street": "West Main Street",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-662-844-4011",
+        "ref:walmart": "391",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/391/tupelo-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7413175,
+          34.2581883
+        ]
+      },
+      "id": "node/3522905149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3522915922",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7190123,
+          34.2580908
+        ]
+      },
+      "id": "node/3522915922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3522930508",
+        "addr:city": "Tupelo",
+        "addr:country": "US",
+        "addr:full": "3929 N Gloster St",
+        "addr:housenumber": "3929",
+        "addr:postcode": "38804",
+        "addr:state": "MS",
+        "addr:street": "North Gloster Street",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-662-840-8401",
+        "ref:walmart": "258",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/258/tupelo-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.709889,
+          34.308824
+        ]
+      },
+      "id": "node/3522930508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3748288002",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4063559,
+          33.2941042
+        ]
+      },
+      "id": "node/3748288002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785014818",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934389,
+          41.8873381
+        ]
+      },
+      "id": "node/3785014818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3861773783",
+        "addr:city": "Oxford",
+        "addr:housenumber": "2528",
+        "addr:postcode": "38655",
+        "addr:state": "MS",
+        "addr:street": "Jackson Avenue West",
+        "phone": "+1-662-234-2015",
+        "shop": "convenience",
+        "website": "https://www.murphyusa.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.56421,
+          34.3617117
+        ]
+      },
+      "id": "node/3861773783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4274226393",
+        "addr:city": "Madison",
+        "addr:country": "US",
+        "addr:housenumber": "127",
+        "addr:postcode": "39110",
+        "addr:state": "MS",
+        "addr:street": "Grand View Boulevard",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-601-605-9662",
+        "ref:walmart": "2720",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/2720-madison-ms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.134679,
+          32.467307
+        ]
+      },
+      "id": "node/4274226393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4373806540",
+        "addr:city": "Gulfport",
+        "addr:country": "US",
+        "addr:full": "9350 Highway 49",
+        "addr:housenumber": "9350",
+        "addr:postcode": "39503",
+        "addr:state": "MS",
+        "addr:street": "Highway 49",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-228-864-5197",
+        "ref:walmart": "969",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/969/gulfport-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0885963,
+          30.4232403
+        ]
+      },
+      "id": "node/4373806540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4507533619",
+        "addr:city": "Biloxi",
+        "addr:country": "US",
+        "addr:full": "2050 Pass Road",
+        "addr:housenumber": "2050",
+        "addr:postcode": "39531",
+        "addr:state": "MS",
+        "addr:street": "Pass Road",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-228-271-6723",
+        "ref:walmart": "6849",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/6849/biloxi-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9584096,
+          30.4039556
+        ]
+      },
+      "id": "node/4507533619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4578032317",
+        "addr:housenumber": "218",
+        "addr:street": "East Lincoln Road",
+        "name": "Center Grocery",
+        "opening_hours": "Mo-Th 05:00-19:00; Fr, Sa 05:00-20:00; Su 12:00-17:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2264047,
+          31.4900078
+        ]
+      },
+      "id": "node/4578032317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4617567762",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7186701,
+          30.4013485
+        ]
+      },
+      "id": "node/4617567762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4617568260",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7579445,
+          30.4082074
+        ]
+      },
+      "id": "node/4617568260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4619787285",
+        "name": "Jerry Lee",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6497615,
+          30.3900906
+        ]
+      },
+      "id": "node/4619787285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4619787408",
+        "name": "Dirt Cheap",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6544246,
+          30.3904581
+        ]
+      },
+      "id": "node/4619787408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4687977902",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0369778,
+          32.2728987
+        ]
+      },
+      "id": "node/4687977902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4691554184",
+        "addr:city": "Flowood",
+        "addr:state": "MS",
+        "addr:street": "Old Fannin Road",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0637889,
+          32.3423016
+        ]
+      },
+      "id": "node/4691554184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4795063868",
+        "addr:city": "Batesville",
+        "addr:country": "US",
+        "addr:housenumber": "205",
+        "addr:postcode": "38606",
+        "addr:state": "MS",
+        "addr:street": "House-Carlson Drive",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-662-563-3100",
+        "ref:walmart": "1468",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1468/batesville-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.916401,
+          34.307673
+        ]
+      },
+      "id": "node/4795063868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4922424500",
+        "name": "Commissary",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "phone": "228-377-3933",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9081693,
+          30.4065324
+        ]
+      },
+      "id": "node/4922424500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4923117022",
+        "name": "Seafood B&K Int'l",
+        "opening_hours": "Mo-Th 10:00-20:30",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3571461,
+          31.3223311
+        ]
+      },
+      "id": "node/4923117022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5107272786",
+        "addr:city": "Moss Point",
+        "addr:housenumber": "7200",
+        "addr:postcode": "39563",
+        "addr:state": "MS",
+        "addr:street": "MS 63",
+        "brand": "Kangaroo Express",
+        "brand:wikidata": "Q61747408",
+        "name": "Kangaroo Express",
+        "shop": "convenience",
+        "short_name": "Kangaroo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5294179,
+          30.4460297
+        ]
+      },
+      "id": "node/5107272786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5114015512",
+        "addr:city": "Meridian",
+        "addr:housenumber": "5100",
+        "addr:postcode": "39301",
+        "addr:state": "MS",
+        "addr:street": "Highway 39N",
+        "brand": "Winn-Dixie",
+        "brand:wikidata": "Q1264366",
+        "name": "Winn-Dixie",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "1-601-485-0808",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6769262,
+          32.4124082
+        ]
+      },
+      "id": "node/5114015512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5160045926",
+        "addr:city": "Bay Saint Louis",
+        "addr:housenumber": "295",
+        "addr:postcode": "39520",
+        "addr:state": "MS",
+        "addr:street": "US-90",
+        "name": "Froogle's Cost+Foods",
+        "opening_hours": "08:00-21:00",
+        "phone": "+1-228-270-0024",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3360519,
+          30.3215869
+        ]
+      },
+      "id": "node/5160045926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5269513114",
+        "addr:city": "Magee",
+        "addr:housenumber": "1700",
+        "addr:postcode": "39111",
+        "addr:state": "MS",
+        "addr:street": "US 49",
+        "name": "Dirt Cheap",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7499169,
+          31.8727293
+        ]
+      },
+      "id": "node/5269513114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315594645",
+        "addr:city": "Meridian",
+        "addr:country": "US",
+        "addr:full": "1733 2Nd St S",
+        "addr:housenumber": "1733",
+        "addr:postcode": "39301",
+        "addr:state": "MS",
+        "addr:street": "2nd Street South",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-601-485-2250",
+        "ref:walmart": "981",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/981/meridian-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.683123,
+          32.35449
+        ]
+      },
+      "id": "node/5315594645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315594651",
+        "addr:city": "Hazlehurst",
+        "addr:country": "US",
+        "addr:full": "527 Lake St",
+        "addr:housenumber": "527",
+        "addr:postcode": "39083",
+        "addr:state": "MS",
+        "addr:street": "Lake Street",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-601-894-1673",
+        "ref:walmart": "954",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/954/hazlehurst-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.409342,
+          31.871419
+        ]
+      },
+      "id": "node/5315594651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315594666",
+        "addr:city": "Jackson",
+        "addr:country": "US",
+        "addr:full": "2711 Greenway Dr",
+        "addr:housenumber": "2711",
+        "addr:postcode": "39204",
+        "addr:state": "MS",
+        "addr:street": "Greenway Drive",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-601-922-3406",
+        "ref:walmart": "903",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/903/jackson-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.268476,
+          32.287958
+        ]
+      },
+      "id": "node/5315594666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315594680",
+        "addr:city": "Natchez",
+        "addr:country": "US",
+        "addr:full": "314 Sgt. S. Prentiss",
+        "addr:housenumber": "314",
+        "addr:postcode": "39120",
+        "addr:state": "MS",
+        "addr:street": "Sgt. S. Prentiss",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-601-442-2895",
+        "ref:walmart": "874",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/874/natchez-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.371779,
+          31.553404
+        ]
+      },
+      "id": "node/5315594680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315596508",
+        "addr:city": "Greenwood",
+        "addr:country": "US",
+        "addr:full": "2202 Highway 82 W",
+        "addr:housenumber": "2202",
+        "addr:postcode": "38930",
+        "addr:state": "MS",
+        "addr:street": "Highway 82 West",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-662-453-4656",
+        "ref:walmart": "716",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/716/greenwood-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.221433,
+          33.529992
+        ]
+      },
+      "id": "node/5315596508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315596593",
+        "addr:city": "Byram",
+        "addr:country": "US",
+        "addr:full": "131 Handley Boulevard",
+        "addr:housenumber": "131",
+        "addr:postcode": "39272",
+        "addr:state": "MS",
+        "addr:street": "Handley Boulevard",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-769-237-4314",
+        "ref:walmart": "6469",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/6469/byram-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.264498,
+          32.185505
+        ]
+      },
+      "id": "node/5315596593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315596621",
+        "addr:city": "Diberville",
+        "addr:country": "US",
+        "addr:full": "10290 D'Iberville Rd",
+        "addr:housenumber": "10290",
+        "addr:postcode": "39540",
+        "addr:state": "MS",
+        "addr:street": "D'iberville Road",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-228-271-6751",
+        "ref:walmart": "6166",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/6166/diberville-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.891715,
+          30.436819
+        ]
+      },
+      "id": "node/5315596621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315596622",
+        "addr:city": "Gulfport",
+        "addr:country": "US",
+        "addr:full": "1733 East Pass Road",
+        "addr:housenumber": "1733",
+        "addr:postcode": "39507",
+        "addr:state": "MS",
+        "addr:street": "East Pass Road",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-228-284-6991",
+        "ref:walmart": "6165",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/6165/gulfport-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.019442,
+          30.399387
+        ]
+      },
+      "id": "node/5315596622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597976",
+        "addr:city": "Tupelo",
+        "addr:country": "US",
+        "addr:full": "316 S Gloster Street",
+        "addr:housenumber": "316",
+        "addr:postcode": "38801",
+        "addr:state": "MS",
+        "addr:street": "South Gloster Street",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "operator:wikidata": "Q483551",
+        "operator:wikipedia": "en:Walmart",
+        "phone": "+1-662-350-6921",
+        "ref:walmart": "4619",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/4619/tupelo-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7146,
+          34.2542
+        ]
+      },
+      "id": "node/5315597976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597987",
+        "addr:city": "Biloxi",
+        "addr:country": "US",
+        "addr:full": "1820-A Popps Ferry Rd",
+        "addr:housenumber": "1820-A",
+        "addr:postcode": "39532",
+        "addr:state": "MS",
+        "addr:street": "Popps Ferry Road",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-228-271-6082",
+        "ref:walmart": "4586",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/4586/biloxi-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9442119,
+          30.4443264
+        ]
+      },
+      "id": "node/5315597987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598255",
+        "addr:city": "Horn Lake",
+        "addr:country": "US",
+        "addr:full": "2401 Goodman Rd W",
+        "addr:housenumber": "2401",
+        "addr:postcode": "38637",
+        "addr:state": "MS",
+        "addr:street": "Goodman Road West",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-662-342-5929",
+        "ref:walmart": "3593",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3593/horn-lake-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.032598,
+          34.961086
+        ]
+      },
+      "id": "node/5315598255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598288",
+        "addr:city": "Indianola",
+        "addr:country": "US",
+        "addr:full": "633 Highway 82 W",
+        "addr:housenumber": "633",
+        "addr:postcode": "38751",
+        "addr:state": "MS",
+        "addr:street": "Highway 82 West",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-662-887-3320",
+        "ref:walmart": "347",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/347/indianola-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.663215,
+          33.459493
+        ]
+      },
+      "id": "node/5315598288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598933",
+        "addr:city": "Yazoo City",
+        "addr:country": "US",
+        "addr:full": "2129 Grand Avenue",
+        "addr:housenumber": "2129",
+        "addr:postcode": "39194",
+        "addr:state": "MS",
+        "addr:street": "Grand Avenue",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-662-673-4033",
+        "ref:walmart": "3060",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3060/yazoo-city-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3966638,
+          32.8766844
+        ]
+      },
+      "id": "node/5315598933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598935",
+        "addr:city": "Canton",
+        "addr:country": "US",
+        "addr:full": "244 Feather Lane",
+        "addr:housenumber": "244",
+        "addr:postcode": "39046",
+        "addr:state": "MS",
+        "addr:street": "Feather Lane",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-601-761-6000",
+        "ref:walmart": "3059",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3059/canton-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.073021,
+          32.595986
+        ]
+      },
+      "id": "node/5315598935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598938",
+        "addr:city": "Carthage",
+        "addr:country": "US",
+        "addr:full": "905 Highway 16 W",
+        "addr:housenumber": "905",
+        "addr:postcode": "39051",
+        "addr:state": "MS",
+        "addr:street": "Highway 16 West",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-601-267-8374",
+        "ref:walmart": "305",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/305/carthage-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5474174,
+          32.7258051
+        ]
+      },
+      "id": "node/5315598938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315599538",
+        "addr:city": "Kosciusko",
+        "addr:country": "US",
+        "addr:full": "220 Veterans Memorial Dr",
+        "addr:housenumber": "220",
+        "addr:postcode": "39090",
+        "addr:state": "MS",
+        "addr:street": "Veterans Memorial Drive",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-662-289-3422",
+        "ref:walmart": "239",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/239/kosciusko-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5669509,
+          33.0549039
+        ]
+      },
+      "id": "node/5315599538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315600728",
+        "addr:city": "Philadelphia",
+        "addr:country": "US",
+        "addr:full": "1002 W Beacon St",
+        "addr:housenumber": "1002",
+        "addr:postcode": "39350",
+        "addr:state": "MS",
+        "addr:street": "West Beacon Street",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-601-656-4166",
+        "ref:walmart": "205",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/205/philadelphia-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1275641,
+          32.7675247
+        ]
+      },
+      "id": "node/5315600728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315600801",
+        "addr:city": "Louisville",
+        "addr:country": "US",
+        "addr:full": "159 Highway 15 S",
+        "addr:housenumber": "159",
+        "addr:postcode": "39339",
+        "addr:state": "MS",
+        "addr:street": "Highway 15 South",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-662-773-7823",
+        "ref:walmart": "183",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/183/louisville-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.08271,
+          33.122255
+        ]
+      },
+      "id": "node/5315600801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315601359",
+        "addr:city": "Pontotoc",
+        "addr:country": "US",
+        "addr:full": "100 Mccord Rd",
+        "addr:housenumber": "100",
+        "addr:postcode": "38863",
+        "addr:state": "MS",
+        "addr:street": "McCord Road",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-662-489-7451",
+        "ref:walmart": "164",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/164/pontotoc-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.021349,
+          34.285602
+        ]
+      },
+      "id": "node/5315601359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315601398",
+        "addr:city": "Senatobia",
+        "addr:country": "US",
+        "addr:full": "5219 Highway 51 N",
+        "addr:housenumber": "5219",
+        "addr:postcode": "38668",
+        "addr:state": "MS",
+        "addr:street": "Highway 51 North",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-662-562-6202",
+        "ref:walmart": "155",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/155/senatobia-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.971894,
+          34.629368
+        ]
+      },
+      "id": "node/5315601398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315601405",
+        "addr:city": "Cleveland",
+        "addr:country": "US",
+        "addr:full": "710 N Davis Ave",
+        "addr:housenumber": "710",
+        "addr:postcode": "38732",
+        "addr:state": "MS",
+        "addr:street": "North Davis Avenue",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-662-843-6567",
+        "ref:walmart": "1530",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1530/cleveland-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.712128,
+          33.757227
+        ]
+      },
+      "id": "node/5315601405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315601794",
+        "addr:city": "Lucedale",
+        "addr:country": "US",
+        "addr:full": "11228 Old 63 S",
+        "addr:housenumber": "11228",
+        "addr:postcode": "39452",
+        "addr:state": "MS",
+        "addr:street": "Old 63 South",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-601-947-6991",
+        "ref:walmart": "1260",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1260/lucedale-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.595144,
+          30.901828
+        ]
+      },
+      "id": "node/5315601794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602235",
+        "addr:city": "Columbia",
+        "addr:country": "US",
+        "addr:housenumber": "1001",
+        "addr:postcode": "39429",
+        "addr:state": "MS",
+        "addr:street": "Highway 98 Bypass",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-01:00",
+        "operator": "Walmart",
+        "phone": "+1-601-731-1193",
+        "ref:walmart": "1168",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1168/columbia-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8134185,
+          31.2439762
+        ]
+      },
+      "id": "node/5315602235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602243",
+        "addr:city": "West Point",
+        "addr:country": "US",
+        "addr:full": "5509 Highway 45 Alt S",
+        "addr:housenumber": "5509",
+        "addr:postcode": "39773",
+        "addr:state": "MS",
+        "addr:street": "Highway 45 Alt South",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "operator:wikidata": "Q483551",
+        "operator:wikipedia": "en:Walmart",
+        "phone": "+1-662-494-1551",
+        "ref:walmart": "115",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/115/west-point-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.661913,
+          33.586655
+        ]
+      },
+      "id": "node/5315602243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602279",
+        "addr:city": "Biloxi",
+        "addr:country": "US",
+        "addr:full": "2681 Ct Switzer Sr Dr",
+        "addr:housenumber": "2681",
+        "addr:postcode": "39531",
+        "addr:state": "MS",
+        "addr:street": "Ct Switzer Sr Drive",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-228-385-1046",
+        "ref:walmart": "1088",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1088/biloxi-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.995008,
+          30.392334
+        ]
+      },
+      "id": "node/5315602279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602287",
+        "addr:city": "Newton",
+        "addr:country": "US",
+        "addr:full": "231 Eastside Dr",
+        "addr:housenumber": "231",
+        "addr:postcode": "39345",
+        "addr:state": "MS",
+        "addr:street": "Eastside Drive",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-601-683-3393",
+        "ref:walmart": "1069",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1069/newton-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.142103,
+          32.339014
+        ]
+      },
+      "id": "node/5315602287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602293",
+        "addr:city": "Forest",
+        "addr:country": "US",
+        "addr:full": "1309 Highway 35 S",
+        "addr:housenumber": "1309",
+        "addr:postcode": "39074",
+        "addr:state": "MS",
+        "addr:street": "Highway 35 South",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-601-469-2122",
+        "ref:walmart": "1059",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1059/forest-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.486173,
+          32.338638
+        ]
+      },
+      "id": "node/5315602293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602308",
+        "addr:city": "McComb",
+        "addr:country": "US",
+        "addr:full": "1608 Veterans Blvd",
+        "addr:housenumber": "1608",
+        "addr:postcode": "39648",
+        "addr:state": "MS",
+        "addr:street": "Veterans Boulevard",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-601-684-1074",
+        "ref:walmart": "1025",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1025/mccomb-ms/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.473303,
+          31.26364
+        ]
+      },
+      "id": "node/5315602308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5324727124",
+        "name": "Sunflower",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6901205,
+          30.527091
+        ]
+      },
+      "id": "node/5324727124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5377526953",
+        "name": "Oak Leaf General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3306431,
+          31.6185931
+        ]
+      },
+      "id": "node/5377526953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5678483500",
+        "addr:city": "Oxford",
+        "addr:housenumber": "825",
+        "addr:postcode": "38655",
+        "addr:state": "MS",
+        "addr:street": "College Hill Road",
+        "name": "Sky Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5429325,
+          34.3797015
+        ]
+      },
+      "id": "node/5678483500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5680853952",
+        "addr:housenumber": "210",
+        "addr:street": "S Cosby St",
+        "name": "Super II Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.068002,
+          31.0882151
+        ]
+      },
+      "id": "node/5680853952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5697406338",
+        "addr:city": "Oxford",
+        "addr:housenumber": "1438",
+        "addr:postcode": "38655",
+        "addr:state": "MS",
+        "addr:street": "North Lamar Boulevard",
+        "name": "Oxford Spot",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5060033,
+          34.3854729
+        ]
+      },
+      "id": "node/5697406338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5703248785",
+        "addr:city": "Oxford",
+        "addr:housenumber": "550",
+        "addr:postcode": "38655",
+        "addr:state": "MS",
+        "addr:street": "MS 7",
+        "loc_name": "Hilltop Gas Station",
+        "name": "The Junction",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5218009,
+          34.2763863
+        ]
+      },
+      "id": "node/5703248785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5703279629",
+        "addr:city": "Oxford",
+        "addr:postcode": "38655",
+        "addr:state": "MS",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4973941,
+          34.3519299
+        ]
+      },
+      "id": "node/5703279629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5703513797",
+        "addr:city": "Oxford",
+        "addr:housenumber": "1936",
+        "addr:postcode": "38655",
+        "addr:state": "MS",
+        "addr:street": "University Avenue",
+        "name": "Larson's Cash Saver",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5076999,
+          34.3613925
+        ]
+      },
+      "id": "node/5703513797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5703601350",
+        "addr:housenumber": "2946",
+        "addr:street": "Market Street",
+        "name": "Sunshine Health Foods",
+        "shop": "health_food",
+        "website": "https://www.facebook.com/pages/Sunshine-Health-Foods/111593908896013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5477295,
+          30.3635698
+        ]
+      },
+      "id": "node/5703601350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5703601351",
+        "addr:housenumber": "2944",
+        "addr:street": "Market Street",
+        "cuisine": "smoothie",
+        "name": "Seaside Smoothies",
+        "shop": "health_food",
+        "website": "https://www.facebook.com/seasidesmoothiesgoula/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5477348,
+          30.3635154
+        ]
+      },
+      "id": "node/5703601351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5706091802",
+        "addr:city": "Oxford",
+        "addr:housenumber": "505",
+        "addr:postcode": "38655",
+        "addr:state": "MS",
+        "addr:street": "Jackson Avenue East",
+        "name": "James Food Center",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.524438,
+          34.3679816
+        ]
+      },
+      "id": "node/5706091802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5706104619",
+        "addr:city": "Oxford",
+        "addr:housenumber": "725",
+        "addr:postcode": "38655",
+        "addr:state": "MS",
+        "addr:street": "Molly Barr Road",
+        "name": "Rockette's One Stop Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5274082,
+          34.3785793
+        ]
+      },
+      "id": "node/5706104619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5706127630",
+        "addr:city": "Oxford",
+        "addr:housenumber": "809",
+        "addr:postcode": "38655",
+        "addr:state": "MS",
+        "addr:street": "College Hill Road",
+        "amenity": "marketplace",
+        "amenity_1": "restaurant",
+        "name": "Living Foods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5424516,
+          34.37931
+        ]
+      },
+      "id": "node/5706127630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5869470412",
+        "addr:city": "Petal",
+        "addr:housenumber": "1632",
+        "addr:postcode": "39465",
+        "addr:state": "MS",
+        "addr:street": "MS 42",
+        "name": "Dan's Hilltop Food Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1649796,
+          31.3549308
+        ]
+      },
+      "id": "node/5869470412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5869593606",
+        "addr:city": "Runnelstown",
+        "addr:housenumber": "5036",
+        "addr:postcode": "39465",
+        "addr:state": "MS",
+        "addr:street": "MS 29",
+        "amenity": "restaurant",
+        "contact:phone": "+1 (601) 544-4229",
+        "name": "B&B Grocery",
+        "opening_hours": "Mo-Fr 05:00-20:00; Sa-Su 06:00-18:00",
+        "phone": "+1 (601) 544-4229",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1122997,
+          31.3754523
+        ]
+      },
+      "id": "node/5869593606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5893463085",
+        "addr:city": "Oxford",
+        "addr:postcode": "38655",
+        "addr:state": "MS",
+        "amenity": "marketplace",
+        "facebook": "https://www.facebook.com/mtmarket/",
+        "name": "Midtown Farmers' Market",
+        "website": "http://www.mtfarmersmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5163005,
+          34.3741492
+        ]
+      },
+      "id": "node/5893463085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5941153552",
+        "name": "POD Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5387719,
+          34.3675433
+        ]
+      },
+      "id": "node/5941153552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5941153553",
+        "name": "POD Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5430182,
+          34.3661368
+        ]
+      },
+      "id": "node/5941153553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5941153554",
+        "name": "POD Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5313507,
+          34.3668389
+        ]
+      },
+      "id": "node/5941153554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5941153555",
+        "name": "POD Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5309358,
+          34.3685978
+        ]
+      },
+      "id": "node/5941153555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5941153556",
+        "name": "POD Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5371542,
+          34.3707645
+        ]
+      },
+      "id": "node/5941153556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6040365647",
+        "name": "Murphy's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8915658,
+          30.4328141
+        ]
+      },
+      "id": "node/6040365647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6058779270",
+        "addr:city": "Hattiesburg",
+        "addr:housenumber": "100",
+        "addr:postcode": "39401",
+        "addr:state": "MS",
+        "addr:street": "Hall Avenue",
+        "amenity": "cafe",
+        "contact:phone": "+1 (601) 583-0201",
+        "name": "Danny's Grocery & Deli",
+        "phone": "+1 (601) 583-0201",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2975881,
+          31.3177382
+        ]
+      },
+      "id": "node/6058779270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6133673027",
+        "addr:city": "Hattiesburg",
+        "addr:housenumber": "1801",
+        "addr:state": "MS",
+        "addr:street": "Broadway Drive",
+        "contact:phone": "+1 (601) 268-0845",
+        "name": "Fastmart",
+        "phone": "+1 (601) 268-0845",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.324112,
+          31.3005579
+        ]
+      },
+      "id": "node/6133673027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299588667",
+        "name": "Commisary",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6076993,
+          32.5456259
+        ]
+      },
+      "id": "node/6299588667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299588669",
+        "name": "NEX",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6084629,
+          32.5473159
+        ]
+      },
+      "id": "node/6299588669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6329359142",
+        "addr:city": "Purvis",
+        "addr:postcode": "39475",
+        "addr:state": "MS",
+        "addr:street": "MS 589",
+        "contact:website": "http://www.keithsuperstore.com/",
+        "name": "Keith's Superstore",
+        "shop": "convenience",
+        "website": "http://www.keithsuperstore.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3725244,
+          31.1399403
+        ]
+      },
+      "id": "node/6329359142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6557769089",
+        "addr:street": "Route 12",
+        "name": "Mac's Fresh Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8562785,
+          33.0858711
+        ]
+      },
+      "id": "node/6557769089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6557769885",
+        "addr:housenumber": "550",
+        "addr:street": "Union Church Road",
+        "name": "Cranes Grocery",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4593111,
+          31.5854053
+        ]
+      },
+      "id": "node/6557769885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6615540897",
+        "name": "FastMart",
+        "opening_hours": "24/7",
+        "shop": "convenience",
+        "toilets": "yes",
+        "toilets:access": "permissive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5690284,
+          31.6508634
+        ]
+      },
+      "id": "node/6615540897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6649012720",
+        "name": "Sunflower Grocery Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5837242,
+          33.0651192
+        ]
+      },
+      "id": "node/6649012720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6649012723",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5764563,
+          33.0658146
+        ]
+      },
+      "id": "node/6649012723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6649012737",
+        "brand": "Marathon",
+        "brand:wikidata": "Q458363",
+        "brand:wikipedia": "en:Marathon Petroleum",
+        "name": "Marathon",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5728397,
+          33.0615946
+        ]
+      },
+      "id": "node/6649012737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6654339391",
+        "addr:city": "Hattiesburg",
+        "addr:housenumber": "2624",
+        "addr:postcode": "39402",
+        "addr:state": "MS",
+        "addr:street": "Lincoln Road",
+        "contact:phone": "+1 (601) 264-6449",
+        "name": "Food Mart",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1 (601) 264-6449",
+        "ref": "352192",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3300731,
+          31.3035303
+        ]
+      },
+      "id": "node/6654339391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6668273390",
+        "addr:city": "Leakesville",
+        "addr:housenumber": "906",
+        "addr:postcode": "39451",
+        "addr:state": "MS",
+        "addr:street": "Main Street",
+        "name": "Dandy Dan's",
+        "ref": "524",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5605123,
+          31.1576146
+        ]
+      },
+      "id": "node/6668273390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6717375398",
+        "name": "Hathorns Grocery & Hardware",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9634734,
+          31.4388915
+        ]
+      },
+      "id": "node/6717375398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6725017655",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8095458,
+          33.7609081
+        ]
+      },
+      "id": "node/6725017655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6872599304",
+        "addr:city": "New Albany",
+        "addr:housenumber": "400",
+        "addr:postcode": "38652",
+        "addr:state": "MS",
+        "addr:street": "Mississippi Highway 15",
+        "name": "Stokes Super Market",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9941907,
+          34.4921569
+        ]
+      },
+      "id": "node/6872599304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6901210572",
+        "amenity": "marketplace",
+        "name": "Guy's and Gal's Fleamarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6144318,
+          30.8932097
+        ]
+      },
+      "id": "node/6901210572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6924888162",
+        "name": "Big Star",
+        "operator": "Big Star",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2062598,
+          34.5080664
+        ]
+      },
+      "id": "node/6924888162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6924888164",
+        "brand": "Piggly Wiggly",
+        "brand:wikidata": "Q3388303",
+        "brand:wikipedia": "en:Piggly Wiggly",
+        "description": "ACE Hardware in same building",
+        "name": "Piggly Wiggly",
+        "operator": "PigglyWiggly",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2064846,
+          34.5055525
+        ]
+      },
+      "id": "node/6924888164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7076780086",
+        "addr:city": "Hattiesburg",
+        "addr:housenumber": "2601",
+        "addr:postcode": "39402",
+        "addr:state": "MS",
+        "addr:street": "Oak Grove Road",
+        "name": "Oak Grove Pit Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3735008,
+          31.308073
+        ]
+      },
+      "id": "node/7076780086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7196452590",
+        "addr:city": "Southaven",
+        "addr:housenumber": "3095",
+        "addr:postcode": "38672",
+        "addr:state": "MS",
+        "addr:street": "Goodman Road East",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9347129,
+          34.9609009
+        ]
+      },
+      "id": "node/7196452590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7344479866",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "brand:wikipedia": "en:Chevron Corporation",
+        "name": "Chevron",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4625636,
+          32.3591439
+        ]
+      },
+      "id": "node/7344479866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7344479867",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5967708,
+          32.3393576
+        ]
+      },
+      "id": "node/7344479867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7344503216",
+        "brand": "Citgo",
+        "brand:wikidata": "Q2974437",
+        "brand:wikipedia": "en:Citgo",
+        "name": "Citgo",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3206562,
+          32.3332062
+        ]
+      },
+      "id": "node/7344503216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7344503221",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "brand:wikipedia": "en:Texaco",
+        "name": "Texaco",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.337131,
+          32.3350582
+        ]
+      },
+      "id": "node/7344503221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7344503223",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "brand:wikipedia": "en:Chevron Corporation",
+        "name": "Chevron",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3385225,
+          32.3358281
+        ]
+      },
+      "id": "node/7344503223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7606880901",
+        "name": "Superlo Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9735904,
+          34.9610149
+        ]
+      },
+      "id": "node/7606880901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7606880921",
+        "name": "Pop's Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9352006,
+          34.9327152
+        ]
+      },
+      "id": "node/7606880921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7606881021",
+        "name": "Bull Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9889562,
+          34.9341283
+        ]
+      },
+      "id": "node/7606881021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7653219836",
+        "amenity": "marketplace",
+        "name": "Health Nuts",
+        "phone": "228-896-7200",
+        "website": "http://www.healthnutsms.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0303942,
+          30.4145834
+        ]
+      },
+      "id": "node/7653219836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7696262921",
+        "addr:city": "Pascagoula",
+        "addr:housenumber": "1900",
+        "addr:postcode": "39567",
+        "addr:state": "MS",
+        "addr:street": "14th Street",
+        "name": "The Neighborhood Store #2",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5388108,
+          30.3550753
+        ]
+      },
+      "id": "node/7696262921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7887537230",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.992873,
+          31.9338947
+        ]
+      },
+      "id": "node/7887537230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7912318970",
+        "addr:city": "Mantee",
+        "addr:housenumber": "24855",
+        "addr:state": "MS",
+        "addr:street": "Highway 46",
+        "name": "County Line Grocery #2",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0342241,
+          33.732965
+        ]
+      },
+      "id": "node/7912318970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7912339591",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7358451,
+          32.6957159
+        ]
+      },
+      "id": "node/7912339591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7912339594",
+        "name": "Ratliff Ferry Trading Post",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8415848,
+          32.5942149
+        ]
+      },
+      "id": "node/7912339594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7920692728",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2955534,
+          31.2888471
+        ]
+      },
+      "id": "node/7920692728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7920692733",
+        "addr:city": "McComb",
+        "addr:housenumber": "1200",
+        "addr:state": "MS",
+        "addr:street": "Lasalle Street",
+        "name": "Grocery Depot",
+        "shop": "supermarket",
+        "website": "https://grocerydepotms.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4544475,
+          31.2307421
+        ]
+      },
+      "id": "node/7920692733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7921826168",
+        "addr:city": "Crosty",
+        "addr:housenumber": "2042",
+        "addr:state": "MS",
+        "addr:street": "MS-33 N",
+        "name": "Crosby Quick Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0853414,
+          31.2944355
+        ]
+      },
+      "id": "node/7921826168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7981106584",
+        "addr:city": "Biloxi",
+        "addr:country": "US",
+        "addr:housenumber": "990",
+        "addr:postcode": "39532",
+        "addr:state": "MS",
+        "addr:street": "Cedar Lake Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Clark's",
+        "shop": "convenience",
+        "source": "MGC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9340227,
+          30.4473024
+        ]
+      },
+      "id": "node/7981106584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8274770734",
+        "addr:housenumber": "215",
+        "addr:street": "Highway 51 North",
+        "name": "Sullivan's Grocery",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-20:00",
+        "phone": "+1 601 265 1527",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4584918,
+          31.5842789
+        ]
+      },
+      "id": "node/8274770734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8281776563",
+        "name": "Duncan's Corner",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1113141,
+          31.5263581
+        ]
+      },
+      "id": "node/8281776563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8281886473",
+        "addr:housenumber": "126",
+        "addr:street": "F E Sellers Highway",
+        "name": "Blue Sky",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1085799,
+          31.5536435
+        ]
+      },
+      "id": "node/8281886473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8281977332",
+        "name": "S&D's Food Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1116282,
+          31.5546955
+        ]
+      },
+      "id": "node/8281977332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8319143384",
+        "name": "B-Quik Food Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.810585,
+          33.4550213
+        ]
+      },
+      "id": "node/8319143384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8386924110",
+        "addr:city": "Wiggins",
+        "addr:housenumber": "530C",
+        "addr:postcode": "39577",
+        "addr:state": "MS",
+        "addr:street": "West Central Avenue",
+        "brand": "Piggly Wiggly",
+        "brand:wikidata": "Q3388303",
+        "brand:wikipedia": "en:Piggly Wiggly",
+        "name": "Piggly Wiggly",
+        "phone": "+1 601 928 4540",
+        "shop": "supermarket",
+        "website": "http://www.pigglywiggly.com/store/530c-west-central-avenuewigginsms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1432511,
+          30.8506824
+        ]
+      },
+      "id": "node/8386924110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8419533028",
+        "addr:city": "Ellisville",
+        "addr:housenumber": "615",
+        "addr:postcode": "39437",
+        "addr:state": "MS",
+        "addr:street": "Hill Street",
+        "name": "Greer's Cash Saver",
+        "operator": "Greer's",
+        "phone": "+1-601-477-8417",
+        "shop": "supermarket",
+        "website": "https://www.greers.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.201435,
+          31.6087281
+        ]
+      },
+      "id": "node/8419533028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8497701311",
+        "contact:phone": "+1 601-213-5645",
+        "name": "Andy's Discount Tobacco & Beer",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su 09:00-18:00; PH closed",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1056078,
+          31.5524949
+        ]
+      },
+      "id": "node/8497701311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8511722356",
+        "addr:city": "Jayess",
+        "addr:housenumber": "1812",
+        "addr:postcode": "39641",
+        "addr:state": "MS",
+        "addr:street": "Highway 583 North",
+        "name": "Brister's Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2433315,
+          31.3480003
+        ]
+      },
+      "id": "node/8511722356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8518507323",
+        "addr:housenumber": "1702",
+        "addr:street": "Highway 84 East",
+        "name": "A One Stop",
+        "phone": "+1 601 833 7230",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3789309,
+          31.5516399
+        ]
+      },
+      "id": "node/8518507323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8543674397",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1504281,
+          31.7194287
+        ]
+      },
+      "id": "node/8543674397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8580967297",
+        "brand": "Kangaroo Express",
+        "brand:wikidata": "Q61747408",
+        "name": "Kangaroo Express",
+        "shop": "convenience",
+        "short_name": "Kangaroo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.030756,
+          32.2832415
+        ]
+      },
+      "id": "node/8580967297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8607213713",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "brand:wikipedia": "en:Chevron Corporation",
+        "name": "Chevron",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0357708,
+          32.2696165
+        ]
+      },
+      "id": "node/8607213713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8608568352",
+        "addr:city": "Beaumont",
+        "addr:housenumber": "881",
+        "addr:postcode": "39423",
+        "addr:state": "MS",
+        "addr:street": "MS 198",
+        "amenity": "pharmacy",
+        "contact:phone": "+1 (601) 784-2213",
+        "contact:website": "https://www.greers.com/",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Greer's Cash Saver",
+        "opening_hours": "Mo-Su 07:00-20:00",
+        "phone": "+1 (601) 784-2213",
+        "shop": "supermarket",
+        "website": "https://www.greers.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9221768,
+          31.1700773
+        ]
+      },
+      "id": "node/8608568352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8629225193",
+        "name": "Cross Country",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0365605,
+          32.2911497
+        ]
+      },
+      "id": "node/8629225193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8632414329",
+        "addr:city": "Saltillo",
+        "addr:state": "MS",
+        "name": "Jim Bob's Grocery",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6708684,
+          34.377766
+        ]
+      },
+      "id": "node/8632414329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8663463359",
+        "addr:city": "Horn Lake",
+        "addr:country": "US",
+        "addr:county": "Desoto, MS",
+        "addr:housenumber": "4065",
+        "addr:postcode": "38637",
+        "addr:state": "MS",
+        "addr:street": "Goodman Road West",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cheque": "no",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:ebt": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:snap": "yes",
+        "payment:visa": "yes",
+        "payment:wic": "no",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0618115,
+          34.9619158
+        ]
+      },
+      "id": "node/8663463359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8663485594",
+        "addr:city": "Tupelo",
+        "addr:country": "US",
+        "addr:county": "Lee, MS",
+        "addr:housenumber": "3990",
+        "addr:postcode": "38804",
+        "addr:state": "MS",
+        "addr:street": "North Gloster Street",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cheque": "no",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:ebt": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:snap": "yes",
+        "payment:visa": "yes",
+        "payment:wic": "no",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7060447,
+          34.3137217
+        ]
+      },
+      "id": "node/8663485594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8663503106",
+        "addr:city": "Corinth",
+        "addr:country": "US",
+        "addr:county": "Alcorn, MS",
+        "addr:housenumber": "1825",
+        "addr:postcode": "38834",
+        "addr:state": "MS",
+        "addr:street": "South Harper Road",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cheque": "no",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:ebt": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:snap": "yes",
+        "payment:visa": "yes",
+        "payment:wic": "no",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4989446,
+          34.9143877
+        ]
+      },
+      "id": "node/8663503106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8732477313",
+        "addr:city": "Richton",
+        "addr:postcode": "39476",
+        "addr:state": "MS",
+        "addr:street": "North Front Street",
+        "amenity": "fast_food",
+        "cuisine": "deli",
+        "name": "Tim's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9359198,
+          31.351994
+        ]
+      },
+      "id": "node/8732477313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8734625564",
+        "addr:city": "Richton",
+        "addr:housenumber": "701",
+        "addr:postcode": "39476",
+        "addr:state": "MS",
+        "addr:street": "North Front Street",
+        "contact:phone": "+1 (601) 788-9616",
+        "contact:website": "https://www.rameysmarketplace.com/",
+        "name": "Ramey's",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
+        "phone": "+1 (601) 788-9616",
+        "shop": "supermarket",
+        "website": "https://www.rameysmarketplace.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9348186,
+          31.3550506
+        ]
+      },
+      "id": "node/8734625564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8846881161",
+        "addr:housenumber": "5520",
+        "addr:street": "Highway 80 E Pearl, MS",
+        "name": "Walmart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.046889,
+          32.2851115
+        ]
+      },
+      "id": "node/8846881161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8942609729",
+        "addr:housenumber": "758",
+        "addr:street": "Brookway Boulevard",
+        "name": "Blue Sky",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4585603,
+          31.5802079
+        ]
+      },
+      "id": "node/8942609729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8942621417",
+        "addr:housenumber": "840",
+        "addr:street": "Brookway Boulevard",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "name": "Save-A-Lot",
+        "official_name": "Grocery Outlet Bargain Market",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4630113,
+          31.5803152
+        ]
+      },
+      "id": "node/8942621417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8971192368",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1170759,
+          32.2842063
+        ]
+      },
+      "id": "node/8971192368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8971192383",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "brand:wikipedia": "en:Save-A-Lot",
+        "name": "Save-A-Lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1176245,
+          32.2811757
+        ]
+      },
+      "id": "node/8971192383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8998969353",
+        "addr:city": "Port Gibson",
+        "addr:housenumber": "1002",
+        "addr:state": "MS",
+        "addr:street": "Market Street",
+        "brand": "Piggly Wiggly",
+        "brand:wikidata": "Q3388303",
+        "brand:wikipedia": "en:Piggly Wiggly",
+        "name": "Piggly Wiggly",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9864172,
+          31.9577866
+        ]
+      },
+      "id": "node/8998969353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9021202797",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "brand:wikipedia": "en:Texaco",
+        "name": "Texaco",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0861729,
+          32.5121628
+        ]
+      },
+      "id": "node/9021202797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9021202799",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0824556,
+          32.5122766
+        ]
+      },
+      "id": "node/9021202799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9021202801",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.097224,
+          32.5163229
+        ]
+      },
+      "id": "node/9021202801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9021202802",
+        "name": "Sprintmart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1057708,
+          32.5162762
+        ]
+      },
+      "id": "node/9021202802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9021202803",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1119638,
+          32.5175076
+        ]
+      },
+      "id": "node/9021202803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9204951056",
+        "addr:city": "Jackson",
+        "addr:housenumber": "2526",
+        "addr:postcode": "39209",
+        "addr:state": "MS",
+        "addr:street": "Robinson Street",
+        "name": "Grocery Depot",
+        "phone": "+1 (601) 353-0089",
+        "shop": "supermarket",
+        "website": "https://grocerydepotms.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2288401,
+          32.3076116
+        ]
+      },
+      "id": "node/9204951056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9231323335",
+        "brand": "Piggly Wiggly",
+        "brand:wikidata": "Q3388303",
+        "brand:wikipedia": "en:Piggly Wiggly",
+        "name": "Piggly Wiggly",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5336831,
+          32.7348195
+        ]
+      },
+      "id": "node/9231323335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9270530043",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9792834,
+          34.8245203
+        ]
+      },
+      "id": "node/9270530043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9368229175",
+        "addr:city": "Hattiesburg",
+        "addr:housenumber": "3984",
+        "addr:postcode": "39401",
+        "addr:state": "MS",
+        "addr:street": "US 49",
+        "contact:phone": "+1 (601) 544-7527",
+        "name": "Corner Fuel Center",
+        "opening_hours": "24/7",
+        "phone": "+1 (601) 544-7527",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2511202,
+          31.1878038
+        ]
+      },
+      "id": "node/9368229175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9387246952",
+        "addr:city": "Columbia",
+        "addr:housenumber": "1110",
+        "addr:postcode": "39429",
+        "addr:state": "MS",
+        "addr:street": "Mississippi 13",
+        "name": "Pic-N-Sav",
+        "opening_hours": "06:00-22:00",
+        "phone": "+1 601 736 5191",
+        "shop": "supermarket",
+        "website": "https://www.picnsav.com/stores/pic-n-sav-columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8346928,
+          31.2595889
+        ]
+      },
+      "id": "node/9387246952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9387257078",
+        "addr:city": "Columbia",
+        "addr:housenumber": "1674",
+        "addr:postcode": "39429",
+        "addr:state": "MS",
+        "addr:street": "Highway 98 East",
+        "name": "98 One Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7685079,
+          31.2565921
+        ]
+      },
+      "id": "node/9387257078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9392696127",
+        "amenity": "fuel",
+        "name": "Love's",
+        "shop": "convenience",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3438977,
+          32.321829
+        ]
+      },
+      "id": "node/9392696127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9548196354",
+        "addr:city": "Laural",
+        "addr:housenumber": "2339",
+        "addr:postcode": "39440",
+        "addr:state": "MS",
+        "addr:street": "Hwy 15 North",
+        "name": "Grocery Depot",
+        "shop": "supermarket",
+        "website": "https://grocerydepotms.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1474184,
+          31.7192403
+        ]
+      },
+      "id": "node/9548196354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9644659789",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.023506,
+          34.9922068
+        ]
+      },
+      "id": "node/9644659789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9644659791",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0186331,
+          34.9864801
+        ]
+      },
+      "id": "node/9644659791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9644659793",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0162171,
+          34.9815564
+        ]
+      },
+      "id": "node/9644659793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9644659798",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0154403,
+          34.9744755
+        ]
+      },
+      "id": "node/9644659798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9644659808",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0169856,
+          34.9597832
+        ]
+      },
+      "id": "node/9644659808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9644680752",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.017372,
+          34.9488134
+        ]
+      },
+      "id": "node/9644680752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9644680755",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0172202,
+          34.9475894
+        ]
+      },
+      "id": "node/9644680755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9644680779",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9981295,
+          34.9342571
+        ]
+      },
+      "id": "node/9644680779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9644680781",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9893664,
+          34.9723126
+        ]
+      },
+      "id": "node/9644680781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9644680784",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9904715,
+          34.9778898
+        ]
+      },
+      "id": "node/9644680784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9644680785",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9974267,
+          34.9904862
+        ]
+      },
+      "id": "node/9644680785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9668965761",
+        "addr:city": "Gulfport",
+        "addr:housenumber": "12057",
+        "addr:postcode": "39503",
+        "addr:state": "MS",
+        "addr:street": "Highway 49",
+        "name": "Food Giant",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "shop": "supermarket",
+        "website": "https://www.foodgiant.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1025075,
+          30.4582762
+        ]
+      },
+      "id": "node/9668965761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9796366812",
+        "brand": "Piggly Wiggly",
+        "brand:wikidata": "Q3388303",
+        "name": "Piggly Wiggly",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8479047,
+          32.4966503
+        ]
+      },
+      "id": "node/9796366812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9805362559",
+        "amenity": "fuel",
+        "brand": "CEFCO",
+        "brand:wikidata": "Q110209230",
+        "name": "CEFCO",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.743995,
+          32.3769434
+        ]
+      },
+      "id": "node/9805362559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9805392607",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7484339,
+          32.3820564
+        ]
+      },
+      "id": "node/9805392607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9805392614",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.747547,
+          32.3810502
+        ]
+      },
+      "id": "node/9805392614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9807518855",
+        "amenity": "fuel",
+        "brand": "CEFCO",
+        "brand:wikidata": "Q110209230",
+        "name": "CEFCO",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6554974,
+          32.415393
+        ]
+      },
+      "id": "node/9807518855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9807518857",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.655109,
+          32.4140143
+        ]
+      },
+      "id": "node/9807518857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871278074",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2890489,
+          31.9780648
+        ]
+      },
+      "id": "node/9871278074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9871278075",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2880666,
+          31.9779414
+        ]
+      },
+      "id": "node/9871278075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9890841973",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3474208,
+          32.6792731
+        ]
+      },
+      "id": "node/9890841973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899928407",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6377429,
+          31.6819376
+        ]
+      },
+      "id": "node/9899928407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9906213035",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7952491,
+          33.7699368
+        ]
+      },
+      "id": "node/9906213035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9906216167",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8084315,
+          33.7673487
+        ]
+      },
+      "id": "node/9906216167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9906216169",
+        "name": "Sprint Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8084716,
+          33.7667354
+        ]
+      },
+      "id": "node/9906216169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9921363014",
+        "addr:city": "Florence",
+        "addr:housenumber": "132",
+        "addr:postcode": "39073",
+        "addr:state": "MS",
+        "addr:street": "South Church Street",
+        "name": "Ramey's Supermarket, Florence MS",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "1-601-845-8447",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1301168,
+          32.1517679
+        ]
+      },
+      "id": "node/9921363014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9923645201",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1227705,
+          32.1544047
+        ]
+      },
+      "id": "node/9923645201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9923645216",
+        "brand": "Mobil Mart",
+        "brand:wikidata": "Q109676002",
+        "name": "Mobil Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1318741,
+          32.1528896
+        ]
+      },
+      "id": "node/9923645216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9941280769",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1380326,
+          32.3418512
+        ]
+      },
+      "id": "node/9941280769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9941320999",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1486413,
+          32.3324187
+        ]
+      },
+      "id": "node/9941320999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9941321000",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1610291,
+          32.3302278
+        ]
+      },
+      "id": "node/9941321000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9949675918",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5864873,
+          33.0656234
+        ]
+      },
+      "id": "node/9949675918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9951909769",
+        "addr:city": "Tupelo",
+        "addr:housenumber": "1661",
+        "addr:postcode": "38801",
+        "addr:state": "MS",
+        "addr:street": "Coley Road",
+        "name": "Brooks Grocery",
+        "shop": "supermarket",
+        "website": "https://www.brooksgrocery.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7738142,
+          34.2801172
+        ]
+      },
+      "id": "node/9951909769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9953686310",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0857984,
+          32.5094952
+        ]
+      },
+      "id": "node/9953686310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9954034981",
+        "addr:city": "Pontotoc",
+        "addr:housenumber": "237",
+        "addr:postcode": "38863",
+        "addr:state": "MS",
+        "addr:street": "West Oxford Street",
+        "brand": "Piggly Wiggly",
+        "brand:wikidata": "Q3388303",
+        "name": "Piggly Wiggly",
+        "phone": "+16624894282",
+        "shop": "supermarket",
+        "website": "http://www.pigglywiggly.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0119718,
+          34.2531674
+        ]
+      },
+      "id": "node/9954034981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9960240629",
+        "brand": "Piggly Wiggly",
+        "brand:wikidata": "Q3388303",
+        "name": "Piggly Wiggly",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1456665,
+          31.6929025
+        ]
+      },
+      "id": "node/9960240629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9982731704",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9966682,
+          32.6255751
+        ]
+      },
+      "id": "node/9982731704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9991536167",
+        "alt_name": "Pilot Travel Centers",
+        "brand": "Pilot",
+        "brand:wikidata": "Q64128179",
+        "name": "Pilot",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7703083,
+          33.4852804
+        ]
+      },
+      "id": "node/9991536167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10014293305",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5247539,
+          32.0387753
+        ]
+      },
+      "id": "node/10014293305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10160298214",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6385126,
+          33.4591409
+        ]
+      },
+      "id": "node/10160298214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10213676923",
+        "addr:city": "Collins",
+        "addr:country": "US",
+        "addr:housenumber": "801",
+        "addr:postcode": "39428",
+        "addr:state": "MS",
+        "addr:street": "Main Street",
+        "name": "Ramey's Marketplace",
+        "phone": "+1 601 765 0155",
+        "shop": "supermarket",
+        "website": "https://www.rameysmarketplace.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5600132,
+          31.6389275
+        ]
+      },
+      "id": "node/10213676923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10220760123",
+        "addr:city": "Flora",
+        "addr:housenumber": "130",
+        "addr:postcode": "39071",
+        "addr:state": "MS",
+        "addr:street": "Edwards Circle",
+        "name": "Sullivan's Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.323186,
+          32.5518402
+        ]
+      },
+      "id": "node/10220760123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10282999202",
+        "addr:housenumber": "3792",
+        "addr:state": "MS",
+        "addr:street": "Highway 27 North",
+        "contact:phone": "+1 601-587-7123",
+        "name": "Brad's 3 Way One Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1275971,
+          31.6056319
+        ]
+      },
+      "id": "node/10282999202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10589258511",
+        "addr:city": "Gluckstadt",
+        "addr:housenumber": "155",
+        "addr:state": "MS",
+        "addr:street": "Calhoun Station Parkway",
+        "name": "Sullivan's",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "phone": "+1-(601) 521-1202",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.103428,
+          32.5202621
+        ]
+      },
+      "id": "node/10589258511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10647793271",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "name": "ALDI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4778113,
+          31.2622103
+        ]
+      },
+      "id": "node/10647793271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340247517",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-51-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978518,
+          41.8912427
+        ]
+      },
+      "id": "node/5340247517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340252322",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-49-50 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4973968,
+          41.8913872
+        ]
+      },
+      "id": "node/5340252322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535092255",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915049,
+          41.8918027
+        ]
+      },
+      "id": "node/5535092255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5801329944",
+        "amenity": "drinking_water",
+        "description:de": "Wasserbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4884569,
+          41.8880861
+        ]
+      },
+      "id": "node/5801329944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6547164641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Via in Miranda, Foro Romano, Roma, Italia Oct 05, 2022 04-55-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870814,
+          41.8924043
+        ]
+      },
+      "id": "node/6547164641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6616168986",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4967144,
+          41.8922741
+        ]
+      },
+      "id": "node/6616168986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6841124063",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926345,
+          41.8906387
+        ]
+      },
+      "id": "node/6841124063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085935353",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941883,
+          41.8915996
+        ]
+      },
+      "id": "node/7085935353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7203154248",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Via Marco Aurelio, Roma, Italia Jun 30, 2022 08-08-32 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4955486,
+          41.8882028
+        ]
+      },
+      "id": "node/7203154248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9108120217",
+        "amenity": "drinking_water",
+        "name": "Acqua",
+        "name:en": "Drinkable water",
+        "name:fr": "Eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4847106,
+          41.8877336
+        ]
+      },
+      "id": "node/9108120217"
+    }
+  ]
+}

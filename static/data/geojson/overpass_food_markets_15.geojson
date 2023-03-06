@@ -1,0 +1,6018 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-05T23:30:08Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266310881",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934985,
+          41.8923773
+        ]
+      },
+      "id": "node/266310881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388984003",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494519,
+          41.8877413
+        ]
+      },
+      "id": "node/388984003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495113034",
+        "amenity": "drinking_water",
+        "check_date": "2022-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934283,
+          41.8913309
+        ]
+      },
+      "id": "node/495113034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/570438535",
+        "name": "Hana Ranch Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.988054,
+          20.7511224
+        ]
+      },
+      "id": "node/570438535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/571265283",
+        "name": "Kaupō Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.1238139,
+          20.6358313
+        ]
+      },
+      "id": "node/571265283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/673852205",
+        "addr:city": "Honolulu",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "brand:wikipedia": "en:ABC Stores (Hawaii)",
+        "name": "ABC",
+        "name:ja": "ABCストア",
+        "opening_hours": "Mo-Su 06:30-24:00",
+        "shop": "convenience",
+        "toilets:wheelchair": "no",
+        "website": "https://www.abcstores.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.822742,
+          21.2755104
+        ]
+      },
+      "id": "node/673852205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685457655",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4867108,
+          41.8902623
+        ]
+      },
+      "id": "node/685457655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685461877",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4875779,
+          41.8891234
+        ]
+      },
+      "id": "node/685461877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/708321445",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "brand:wikipedia": "en:ABC Stores (Hawaii)",
+        "name": "ABC",
+        "shop": "convenience",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.831237,
+          21.278617
+        ]
+      },
+      "id": "node/708321445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/765387961",
+        "addr:housenumber": "1060",
+        "addr:postcode": "96734",
+        "addr:street": "Keolu Drive",
+        "branch": "0205",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "shop": "supermarket",
+        "website": "https://local.safeway.com/hi/kailua-205.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.729279,
+          21.3773052
+        ]
+      },
+      "id": "node/765387961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/772375521",
+        "brand": "Times Supermarkets",
+        "brand:wikidata": "Q7806566",
+        "brand:wikipedia": "en:Times Supermarkets",
+        "name": "Times Supermarkets",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8079611,
+          21.2870261
+        ]
+      },
+      "id": "node/772375521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/857735220",
+        "brand": "Foodland",
+        "brand:wikidata": "Q5465560",
+        "brand:wikipedia": "en:Foodland Hawaii",
+        "name": "Foodland",
+        "safety:mask:covid19": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.74414,
+          21.3928228
+        ]
+      },
+      "id": "node/857735220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/885686150",
+        "brand": "Foodland",
+        "brand:wikidata": "Q5465560",
+        "brand:wikipedia": "en:Foodland Hawaii",
+        "name": "Foodland",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9225757,
+          21.6472215
+        ]
+      },
+      "id": "node/885686150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/885686206",
+        "name": "BYUH C-Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9243433,
+          21.6412949
+        ]
+      },
+      "id": "node/885686206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890053",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4879526,
+          41.8887986
+        ]
+      },
+      "id": "node/953890053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890062",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883755,
+          41.890985
+        ]
+      },
+      "id": "node/953890062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953909059",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via dei santi Quattro,roma,italy 62022.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968765,
+          41.8889852
+        ]
+      },
+      "id": "node/953909059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1150518695",
+        "addr:city": "Kapaa",
+        "addr:housenumber": "4-350",
+        "addr:postcode": "96746",
+        "addr:state": "HI",
+        "addr:street": "Kuhio Highway",
+        "name": "Rainbow Gas & Mini Mart",
+        "phone": "+1 (808)822-9766",
+        "shop": "convenience",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.3336082,
+          22.0515953
+        ]
+      },
+      "id": "node/1150518695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1170494282",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942213,
+          41.8900377
+        ]
+      },
+      "id": "node/1170494282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1235008094",
+        "name": "ABC Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6939767,
+          20.9218152
+        ]
+      },
+      "id": "node/1235008094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1241037959",
+        "addr:city": "Kihei",
+        "addr:country": "US",
+        "addr:housenumber": "277",
+        "addr:postcode": "96753",
+        "addr:street": "Pi'Ikea Ave.",
+        "branch": "1500",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "shop": "supermarket",
+        "website": "https://local.safeway.com/hi/kihei-1500.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.448529,
+          20.7527419
+        ]
+      },
+      "id": "node/1241037959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1297467950",
+        "addr:city": "Princeville",
+        "addr:housename": "Princeville Center Building G",
+        "addr:housenumber": "5-4280",
+        "addr:postcode": "96722",
+        "addr:state": "HI",
+        "addr:street": "Kuhio Highway",
+        "addr:unit": "G-1",
+        "alt_name": "Foodland Princeville",
+        "name": "Foodland",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "+1-808-826-9880",
+        "shop": "supermarket",
+        "website": "https://www.foodland.com/stores/foodland-princeville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.47462,
+          22.2138968
+        ]
+      },
+      "id": "node/1297467950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1304288780",
+        "addr:city": "Hanalei",
+        "addr:housename": "Ching Young Village Shopping Center",
+        "addr:housenumber": "5-5172",
+        "addr:postcode": "96714",
+        "addr:state": "HI",
+        "addr:street": "Kuhio Highway",
+        "alt_name": "BigSave Market",
+        "name": "Big Save",
+        "opening_hours": "Su-Sa 06:00-22:00",
+        "operator": "Times Supermarkets",
+        "phone": "+1-808-826-6652",
+        "shop": "supermarket",
+        "website": "https://www.timessupermarkets.com/big-save-hanalei/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.497107,
+          22.2032831
+        ]
+      },
+      "id": "node/1304288780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1427597204",
+        "addr:city": "Kailua",
+        "addr:housenumber": "25",
+        "addr:postcode": "96734",
+        "addr:state": "HI",
+        "addr:street": "Kaneohe Bay Drive",
+        "air_conditioning": "yes",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "delivery": "yes",
+        "name": "Safeway",
+        "opening_hours": "Mo-Su 05:00-23:00",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 808 254 2597",
+        "ref": "2208",
+        "shop": "supermarket",
+        "website": "https://local.safeway.com/safeway/hi/kaneohe/46065-kamehameha-hwy.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7480847,
+          21.4232602
+        ]
+      },
+      "id": "node/1427597204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1427599933",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "1234",
+        "addr:postcode": "96814",
+        "addr:state": "HI",
+        "addr:street": "South Beretania Street",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "check_date": "2022-07-06",
+        "level": "1",
+        "name": "Safeway",
+        "opening_hours": "Mo-Su 5:00-23:00",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 808 535 1780",
+        "shop": "supermarket",
+        "website": "https://local.safeway.com/hi/honolulu-2944.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.84208,
+          21.3016561
+        ]
+      },
+      "id": "node/1427599933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1427600742",
+        "addr:housenumber": "848",
+        "addr:postcode": "96818",
+        "addr:street": "Ala Lilikoi Street",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "ref": "0211",
+        "shop": "supermarket",
+        "website": "https://local.safeway.com/hi/honolulu-211.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9139354,
+          21.3443472
+        ]
+      },
+      "id": "node/1427600742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1427603362",
+        "addr:housenumber": "1221",
+        "addr:postcode": "96761",
+        "addr:street": "Honoapiilani Highway",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "name": "Safeway",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "website": "https://local.safeway.com/hi/lahaina-1222.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6840788,
+          20.8867601
+        ]
+      },
+      "id": "node/1427603362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1457049157",
+        "amenity": "marketplace",
+        "designation": "Wharf Cinema Center",
+        "name": "Wharf Cinema Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6771776,
+          20.8724186
+        ]
+      },
+      "id": "node/1457049157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1457226044",
+        "name": "Olowalu General Store",
+        "opening_hours": "Mo-Sa 05:00-19:00, Su 06:00-19:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6220629,
+          20.8114247
+        ]
+      },
+      "id": "node/1457226044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1475508929",
+        "addr:housenumber": "1670",
+        "addr:postcode": "96814",
+        "addr:street": "Makaloa Street",
+        "name": "Palama Korean Supermarket",
+        "phone": "+1-808-447-7777",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.837319,
+          21.293126
+        ]
+      },
+      "id": "node/1475508929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495728303",
+        "name": "Times Market",
+        "opening_hours": "05:00-02:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6877208,
+          20.9472438
+        ]
+      },
+      "id": "node/1495728303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1552159948",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "brand:wikipedia": "en:ABC Stores (Hawaii)",
+        "name": "ABC",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.99717,
+          19.6402744
+        ]
+      },
+      "id": "node/1552159948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1554852464",
+        "branch": "Kapahulu",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "shop": "supermarket",
+        "toilets:wheelchair": "yes",
+        "website": "https://safeway.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.814795,
+          21.2838153
+        ]
+      },
+      "id": "node/1554852464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1587936916",
+        "name": "Foodland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.4881896,
+          20.9060786
+        ]
+      },
+      "id": "node/1587936916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1613798782",
+        "brand": "Foodland",
+        "brand:wikidata": "Q5465560",
+        "brand:wikipedia": "en:Foodland Hawaii",
+        "name": "Foodland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9983938,
+          21.4121654
+        ]
+      },
+      "id": "node/1613798782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1654165524",
+        "addr:floor": "1",
+        "addr:housenumber": "4211",
+        "addr:street": "Waialae Avenue",
+        "branch": "Kahala",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "check_date": "2022-10-08",
+        "level": "0",
+        "name": "Whole Foods Market",
+        "opening_hours": "07:00-22:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7864165,
+          21.2774954
+        ]
+      },
+      "id": "node/1654165524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656861982",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883955,
+          41.8907173
+        ]
+      },
+      "id": "node/1656861982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709280191",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-02",
+        "fountain": "bottle_refill",
+        "name:ru": "вода с газом и без. бесплатная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911794,
+          41.891319
+        ]
+      },
+      "id": "node/1709280191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1739899059",
+        "amenity": "marketplace",
+        "name": "Shirokia - Honolulu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.841606,
+          21.2906877
+        ]
+      },
+      "id": "node/1739899059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1849059870",
+        "name": "Foodland Farms",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6800784,
+          20.8852743
+        ]
+      },
+      "id": "node/1849059870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2090753650",
+        "addr:city": "Kamuela",
+        "addr:housenumber": "65-1158",
+        "addr:postcode": "96743",
+        "addr:state": "HI",
+        "addr:street": "Mamalahoa Highway",
+        "name": "KTA Super Stores",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.6677348,
+          20.02207
+        ]
+      },
+      "id": "node/2090753650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2155637722",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1051413,
+          21.5772893
+        ]
+      },
+      "id": "node/2155637722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2173881491",
+        "addr:city": "Hilo",
+        "addr:postcode": "96720",
+        "addr:state": "HI",
+        "branch": "Puainako",
+        "brand": "KTA Super Stores",
+        "brand:wikidata": "Q44361030",
+        "brand:wikipedia": "en:KTA Super Stores",
+        "name": "KTA Super Stores",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.067087,
+          19.6941556
+        ]
+      },
+      "id": "node/2173881491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2195298424",
+        "name": "Foodland",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0616031,
+          21.6483841
+        ]
+      },
+      "id": "node/2195298424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2283292374",
+        "brand": "Foodland",
+        "brand:wikidata": "Q5465560",
+        "brand:wikipedia": "en:Foodland Hawaii",
+        "name": "Foodland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.6668019,
+          20.0206822
+        ]
+      },
+      "id": "node/2283292374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2431792364",
+        "name": "M's Puako General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.8399336,
+          19.9718791
+        ]
+      },
+      "id": "node/2431792364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537299968",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "indoor": "no",
+        "wikimedia_commons": "File:Nasone via mecenate, Roma, Italia Jun 30, 2022 06-19-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4987211,
+          41.8911676
+        ]
+      },
+      "id": "node/2537299968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2657172975",
+        "amenity": "marketplace",
+        "name": "Flower Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0857476,
+          19.7226861
+        ]
+      },
+      "id": "node/2657172975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2657172976",
+        "addr:city": "Hilo",
+        "addr:housenumber": "321",
+        "addr:postcode": "96720",
+        "addr:state": "HI",
+        "addr:street": "Keawe Street",
+        "atm": "yes",
+        "branch": "Downtown Hilo",
+        "brand": "KTA Super Stores",
+        "fax": "+1 808 969 3611",
+        "name": "KTA Super Stores",
+        "opening_hours:covid19": "Mo-Sa 07:00-20:00; Su 07:00-17:00",
+        "phone": "+1 808 935 3751",
+        "shop": "supermarket",
+        "website": "https://www.ktasuperstores.com/kta-downtown-hilo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0860019,
+          19.7232093
+        ]
+      },
+      "id": "node/2657172976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2657172978",
+        "addr:city": "Hilo",
+        "addr:postcode": "96720",
+        "addr:state": "HI",
+        "addr:street": "Kamehameha Avenue",
+        "name": "Abundant Life Natural Foods",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0854423,
+          19.7239034
+        ]
+      },
+      "id": "node/2657172978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2661744350",
+        "amenity": "marketplace",
+        "name": "Hawi Farmers Market",
+        "opening_hours": "Sa 8:00-14:00,Tu 14:00-18:00",
+        "phone": "+1-808-889-0889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.830194,
+          20.2372686
+        ]
+      },
+      "id": "node/2661744350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2661793991",
+        "name": "Nakahara Grocery Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.8304126,
+          20.2367655
+        ]
+      },
+      "id": "node/2661793991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2666713602",
+        "name": "Down to Earth",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.4549524,
+          20.8826209
+        ]
+      },
+      "id": "node/2666713602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2671349253",
+        "addr:city": "Honolulu",
+        "addr:street": "Kalākaua Avenue",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "name": "ABC",
+        "shop": "convenience",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.822781,
+          21.2719248
+        ]
+      },
+      "id": "node/2671349253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2721777083",
+        "addr:city": "Honolulu",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "brand:wikipedia": "en:ABC Stores (Hawaii)",
+        "name": "ABC",
+        "name:ja": "ABCストア",
+        "shop": "convenience",
+        "toilets:wheelchair": "no",
+        "website": "https://www.abcstores.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.824908,
+          21.2755599
+        ]
+      },
+      "id": "node/2721777083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2889659278",
+        "addr:housenumber": "2863",
+        "addr:street": "Kalakaua Avenue",
+        "name": "Russell's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.82082,
+          21.2634681
+        ]
+      },
+      "id": "node/2889659278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2900135101",
+        "internet_access": "wlan",
+        "name": "Living Foods Market",
+        "opening_hours": "7:00-21:00",
+        "organic": "only",
+        "phone": "+1 808-742-2323",
+        "shop": "supermarket",
+        "website": "https://shoplivingfoods.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.4696769,
+          21.8845521
+        ]
+      },
+      "id": "node/2900135101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2910438233",
+        "brand": "Times Supermarkets",
+        "brand:wikidata": "Q7806566",
+        "name": "Times Supermarkets",
+        "opening_hours": "6:00-23:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.37976,
+          21.969442
+        ]
+      },
+      "id": "node/2910438233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2921236767",
+        "addr:city": "Haleʻiwa",
+        "addr:housenumber": "63-443",
+        "addr:postcode": "96712",
+        "addr:state": "HI",
+        "addr:street": "Kamehameha Highway",
+        "email": "celestialnaturalfoods@gmail.com",
+        "name": "Celestial Natural Foods",
+        "opening_hours:covid19": "Mo-Sa 09:00-18:00; Su 09:00-17:00",
+        "shop": "health_food",
+        "website": "https://www.celestialnaturalfoodshi.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.105051,
+          21.581437
+        ]
+      },
+      "id": "node/2921236767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3064065810",
+        "addr:city": "Kailua",
+        "addr:country": "US",
+        "addr:housenumber": "201",
+        "addr:postcode": "96734",
+        "addr:state": "HI",
+        "addr:street": "Hamakua Drive",
+        "name": "Down to Earth",
+        "opening_hours": "Mo-Su 7:30-22:00 open || Mo-Su 7:30-21:00 open \"deli\"",
+        "organic": "yes",
+        "phone": "+1 808 262 3838",
+        "safety:mask:covid19": "yes",
+        "shop": "supermarket",
+        "website": "https://www.downtoearth.org/our-stores/store-locations/kailua-oahu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.740289,
+          21.3898412
+        ]
+      },
+      "id": "node/3064065810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3351168705",
+        "level": "2",
+        "name": "Choicemart",
+        "opening_hours": "Mo-Su 05:00-22:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.9065844,
+          19.487703
+        ]
+      },
+      "id": "node/3351168705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3466188846",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "brand:wikipedia": "en:ABC Stores (Hawaii)",
+        "name": "ABC",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.826766,
+          21.2798125
+        ]
+      },
+      "id": "node/3466188846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3604255194",
+        "brand": "KTA Super Stores",
+        "brand:wikidata": "Q44361030",
+        "brand:wikipedia": "en:KTA Super Stores",
+        "name": "KTA Super Stores",
+        "opening_hours": "Mo-Su 05:00-23:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.995591,
+          19.6447597
+        ]
+      },
+      "id": "node/3604255194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3614485064",
+        "name": "McCully Pantry",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8307515,
+          21.2930776
+        ]
+      },
+      "id": "node/3614485064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3641605128",
+        "amenity": "marketplace",
+        "name": "The Marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1207143,
+          21.3319956
+        ]
+      },
+      "id": "node/3641605128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3646661452",
+        "amenity": "mini",
+        "name": "The Lava Shack",
+        "shop": "convenience",
+        "website": "http://resorts.disney.go.com/aulani-hawaii-resort/dining/lava-shack/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1240216,
+          21.3388449
+        ]
+      },
+      "id": "node/3646661452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3688705947",
+        "name": "Whalers General Store",
+        "phone": "+1-808-742-9431",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.458699,
+          21.8789175
+        ]
+      },
+      "id": "node/3688705947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3740804348",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8206728,
+          21.2916045
+        ]
+      },
+      "id": "node/3740804348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3743435260",
+        "addr:city": "Hanalei",
+        "addr:postbox": "PO Box 822",
+        "addr:postcode": "96714",
+        "addr:state": "HI",
+        "addr:street": "Malolo Road",
+        "amenity": "marketplace",
+        "email": "farmersmarket@halehalawai.org",
+        "name": "Hanalei Farmer's Market",
+        "opening_hours": "Sa 09:30-12:00",
+        "operator": "Hale Halawai 'Ohana 'O Hanalei",
+        "phone": "+1-808-826-1011",
+        "website": "https://halehalawai.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.498842,
+          22.2014337
+        ]
+      },
+      "id": "node/3743435260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785014818",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934389,
+          41.8873381
+        ]
+      },
+      "id": "node/3785014818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3905699911",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1035335,
+          21.5925169
+        ]
+      },
+      "id": "node/3905699911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3907269457",
+        "name": "Minit Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0647445,
+          19.7096553
+        ]
+      },
+      "id": "node/3907269457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4184377891",
+        "addr:street": "Kipapa Drive",
+        "brand": "Foodland",
+        "brand:wikidata": "Q5465560",
+        "brand:wikipedia": "en:Foodland Hawaii",
+        "name": "Foodland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0162234,
+          21.4575716
+        ]
+      },
+      "id": "node/4184377891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4184413689",
+        "addr:street": "Meheula Parkway",
+        "name": "Times Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.006464,
+          21.454088
+        ]
+      },
+      "id": "node/4184413689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193735494",
+        "amenity": "marketplace",
+        "name": "Hukilau Marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9206684,
+          21.6380718
+        ]
+      },
+      "id": "node/4193735494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4195983994",
+        "addr:street": "Farrington Highway",
+        "name": "Pacific Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.019419,
+          21.381581
+        ]
+      },
+      "id": "node/4195983994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4196016689",
+        "addr:street": "Farrington Highway",
+        "name": "Seafood City",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.02605,
+          21.378204
+        ]
+      },
+      "id": "node/4196016689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4196250391",
+        "addr:street": "Kamehameha Highway",
+        "name": "Palama Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.950223,
+          21.385926
+        ]
+      },
+      "id": "node/4196250391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4198267192",
+        "addr:city": "Honolulu",
+        "addr:postcode": "96815",
+        "addr:street": "Ala Moana Boulevard",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "brand:wikipedia": "en:ABC Stores (Hawaii)",
+        "name": "ABC",
+        "shop": "convenience",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8370763,
+          21.284221
+        ]
+      },
+      "id": "node/4198267192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4198281389",
+        "alt_name": "Holoholo Café and Market",
+        "amenity": "cafe",
+        "amenity:bar": "yes",
+        "name": "Holoholo Café & Market",
+        "old_name": "Starbucks",
+        "opening_hours": "06:00-24:00",
+        "operator": "Food Pantry Ltd",
+        "shop": "convenience",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8254623,
+          21.2790624
+        ]
+      },
+      "id": "node/4198281389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4198289890",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "438",
+        "addr:postcode": "96815",
+        "addr:street": "Hobron Lane",
+        "name": "Food Pantry",
+        "shop": "supermarket",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8358961,
+          21.2869451
+        ]
+      },
+      "id": "node/4198289890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4199088294",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "1860",
+        "addr:postcode": "96815",
+        "addr:street": "Ala Moana Boulevard",
+        "name": "ABC",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8358188,
+          21.2854756
+        ]
+      },
+      "id": "node/4199088294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4211932589",
+        "amenity": "marketplace",
+        "name": "Aloha Stadium Swap Meet",
+        "name:en": "Aloha Stadium Swap Meet",
+        "name:zh": "跳蚤市場"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9296588,
+          21.3716203
+        ]
+      },
+      "id": "node/4211932589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4219903090",
+        "addr:city": "Waipahu",
+        "addr:housenumber": "94-615",
+        "addr:postcode": "96797",
+        "addr:state": "HI",
+        "addr:street": "Kupuohi Street",
+        "brand": "Times Supermarkets",
+        "brand:wikidata": "Q7806566",
+        "brand:wikipedia": "en:Times Supermarkets",
+        "name": "Times Supermarkets",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0342201,
+          21.3897144
+        ]
+      },
+      "id": "node/4219903090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4230702289",
+        "addr:housenumber": "440",
+        "addr:postcode": "96786",
+        "addr:street": "Kilani Avenue",
+        "name": "Tamura's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.030475,
+          21.498243
+        ]
+      },
+      "id": "node/4230702289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231853446",
+        "amenity": "marketplace",
+        "name": "Maui Marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.4550484,
+          20.8807366
+        ]
+      },
+      "id": "node/4231853446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4232113610",
+        "addr:housenumber": "823",
+        "addr:postcode": "96786",
+        "addr:street": "California Avenue",
+        "name": "Foodland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.025513,
+          21.4963
+        ]
+      },
+      "id": "node/4232113610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4232935810",
+        "addr:housenumber": "90",
+        "addr:street": "Amala Place",
+        "name": "Island Grocery Depot",
+        "opening_hours": "Mo-Fr 06:30-19:00; Sa-Su 06:30-18:00",
+        "phone": "+18088712535",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.4600361,
+          20.8946284
+        ]
+      },
+      "id": "node/4232935810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4255639695",
+        "addr:city": "Haleʻiwa",
+        "addr:housenumber": "66-250",
+        "addr:postcode": "96712",
+        "addr:state": "HI",
+        "addr:street": "Kamehameha Highway",
+        "addr:unit": "G130",
+        "name": "Aloha General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1031736,
+          21.5854177
+        ]
+      },
+      "id": "node/4255639695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4257941291",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "brand:wikipedia": "en:ABC Stores (Hawaii)",
+        "name": "ABC",
+        "name:it": "ABC",
+        "opening_hours": "Mo-Su 07:00-00:30",
+        "shop": "convenience",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.824032,
+          21.2743669
+        ]
+      },
+      "id": "node/4257941291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4257951889",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "name": "ABC",
+        "shop": "convenience",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.823171,
+          21.2728223
+        ]
+      },
+      "id": "node/4257951889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261498090",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "name": "ABC",
+        "name:it": "ABC",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.822029,
+          21.2730609
+        ]
+      },
+      "id": "node/4261498090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4265534389",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "brand:wikipedia": "en:ABC Stores (Hawaii)",
+        "level": "0",
+        "name": "ABC",
+        "opening_hours": "Mo-Su 06:30-24:00",
+        "ref": "72",
+        "shop": "convenience",
+        "shop:gift": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.828425,
+          21.2816261
+        ]
+      },
+      "id": "node/4265534389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4289551792",
+        "name": "Mana Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3800627,
+          20.9152892
+        ]
+      },
+      "id": "node/4289551792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4338862894",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "brand:wikipedia": "en:ABC Stores (Hawaii)",
+        "name": "ABC",
+        "shop": "convenience",
+        "shop:gift": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.828019,
+          21.2790836
+        ]
+      },
+      "id": "node/4338862894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4338888190",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "5",
+        "addr:postcode": "96815",
+        "addr:state": "HI",
+        "addr:street": "Dukes Lane",
+        "amenity": "marketplace",
+        "name": "Duke's Marketplace",
+        "opening_hours": "09:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.826985,
+          21.278783
+        ]
+      },
+      "id": "node/4338888190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4339532394",
+        "name": "Whalers General Store",
+        "shop": "convenience",
+        "shop:gift": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8287142,
+          21.2813494
+        ]
+      },
+      "id": "node/4339532394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4370557277",
+        "addr:city": "Kailua Kona",
+        "addr:housenumber": "78-6831",
+        "addr:postcode": "96740",
+        "addr:state": "HI",
+        "addr:street": "Alii Drive",
+        "name": "KTA Super Stores",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.9617929,
+          19.5701146
+        ]
+      },
+      "id": "node/4370557277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4421914590",
+        "amenity": "marketplace",
+        "name": "KCC Saturday Farmers’ Market",
+        "name:en": "KCC Saturday Farmers’ Market",
+        "name:zh": "農夫市集",
+        "opening_hours": "Sa 07:30-11:00",
+        "operator": "The Hawaii Farm Bureau",
+        "tourism": "attraction",
+        "website": "https://hfbf.org/markets/markets/kcc/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8007315,
+          21.2694931
+        ]
+      },
+      "id": "node/4421914590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4423366491",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "98-1264",
+        "addr:postcode": "96782",
+        "addr:state": "HI",
+        "addr:street": "Kaahumanu Street",
+        "brand": "Times Supermarkets",
+        "brand:wikidata": "Q7806566",
+        "brand:wikipedia": "en:Times Supermarkets",
+        "check_date": "2022-07-19",
+        "name": "Times Supermarkets",
+        "name:en": "Times Supermarket",
+        "opening_hours": "05:00-23:00",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:diners_club": "yes",
+        "payment:discover_card": "yes",
+        "payment:jcb": "yes",
+        "payment:mastercard": "yes",
+        "payment:unionpay": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket",
+        "website": "https://www.timessupermarkets.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.95432,
+          21.390008
+        ]
+      },
+      "id": "node/4423366491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4438557490",
+        "addr:postcode": "96746",
+        "addr:street": "Huluili Street",
+        "name": "Hoku Foods Natural Market",
+        "name:en": "Hoku Foods Natural Market",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.3186994,
+          22.0768828
+        ]
+      },
+      "id": "node/4438557490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4451321489",
+        "name": "7-Eleven",
+        "name:en": "7-11",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.051883,
+          19.6013123
+        ]
+      },
+      "id": "node/4451321489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4465415391",
+        "addr:housenumber": "3661",
+        "addr:postcode": "96768",
+        "addr:street": "Baldwin Avenue",
+        "name": "Rodeo General Store",
+        "name:de": "Rodeo General Store",
+        "name:en": "Rodeo General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3107545,
+          20.8546574
+        ]
+      },
+      "id": "node/4465415391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4496304789",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "brand:wikipedia": "en:ABC Stores (Hawaii)",
+        "name": "ABC",
+        "opening_hours": "Mo-Su 07:00-24:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8261364,
+          21.2792122
+        ]
+      },
+      "id": "node/4496304789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4496304989",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "name": "ABC",
+        "opening_hours": "Mo-Su 07:00-24:00",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.830955,
+          21.2834763
+        ]
+      },
+      "id": "node/4496304989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4496305289",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "name": "ABC",
+        "name:en": "ABC",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.833384,
+          21.2861703
+        ]
+      },
+      "id": "node/4496305289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4496954136",
+        "amenity": "marketplace",
+        "name": "Maui Swap Meet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.477525,
+          20.8923094
+        ]
+      },
+      "id": "node/4496954136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4520232690",
+        "addr:unit": "100",
+        "alt_name": "1 2 3 Store",
+        "level": "0",
+        "name": "123 Store",
+        "opening_hours": "Mo-Fr 06:30-24:00; PH,Sa-Su 07:00-24:00",
+        "phone": "+1 808-924-5425",
+        "shop": "convenience",
+        "shop:alcohol": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8279394,
+          21.2821362
+        ]
+      },
+      "id": "node/4520232690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4548590990",
+        "air_conditioning": "yes",
+        "brand": "Island Gourmet Markets",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "IslandGourmetMarketsWifi",
+        "name": "Island Gourmet",
+        "name:en": "Island Gourmet",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.8808914,
+          19.9140641
+        ]
+      },
+      "id": "node/4548590990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558080790",
+        "name": "Island Naturals Market Deli",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa,Su 05:00-17:00",
+        "organic": "only",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.9467378,
+          19.4947166
+        ]
+      },
+      "id": "node/4558080790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4571683398",
+        "addr:housenumber": "2381",
+        "addr:postcode": "96815",
+        "addr:street": "Kuhio Avenue",
+        "level": "0",
+        "name": "Whalers General Store Kuhio",
+        "opening_hours": "Mo-Fr 06:00-22:00;Sa-Su 07:00-22:00",
+        "phone": "+1 808-922-1502",
+        "shop": "convenience",
+        "website": "http://www.shopsofhawaii.com/stores/whalers-general-store-kuhio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.824974,
+          21.2781118
+        ]
+      },
+      "id": "node/4571683398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603040771",
+        "amenity": "marketplace",
+        "fixme": "Please replace with actual closing time if known",
+        "name": "Farmers Market",
+        "opening_hours": "Tu 14:00-15:00+",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.5131337,
+          22.2029394
+        ]
+      },
+      "id": "node/4603040771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4604331784",
+        "addr:city": "Kahului",
+        "addr:housenumber": "1090",
+        "addr:postcode": "96732",
+        "addr:state": "HI",
+        "addr:street": "Ho'okele Street",
+        "name": "Safeway",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "website": "https://local.safeway.com/safeway/hi/kahului/1090-ho-okele-st.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.4445356,
+          20.879094
+        ]
+      },
+      "id": "node/4604331784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4605133834",
+        "addr:city": "Princeville",
+        "addr:housename": "Princeville Center Building H/I",
+        "addr:housenumber": "5-4280",
+        "addr:postcode": "96722",
+        "addr:state": "HI",
+        "addr:street": "Kuhio Highway",
+        "addr:unit": "H",
+        "email": "dwhite@hawaiiantel.net",
+        "fax": "+1-808-826-5598",
+        "name": "North Shore General Store & Cafe",
+        "opening_hours": "Mo-Fr 06:00-20:00, Sa 07:00-20:00, Su 07:00-18:00",
+        "operator": "Darron White",
+        "phone": "+1-808-826-1122",
+        "phone:alternate": "+1-808-826-7992",
+        "shop": "convenience",
+        "source": "Bing",
+        "website": "http://pizzakauai.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.474617,
+          22.2134573
+        ]
+      },
+      "id": "node/4605133834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4643342514",
+        "name": "Big Save Super Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.6676474,
+          21.9554257
+        ]
+      },
+      "id": "node/4643342514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4682627596",
+        "check_date:opening_hours": "2020-12-24",
+        "name": "The Volcano Store",
+        "opening_hours": "Mo-Su 05:00-18:40",
+        "opening_hours:covid19": "same",
+        "phone": "+1-808-967-7210",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.235379,
+          19.4283771
+        ]
+      },
+      "id": "node/4682627596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4700359338",
+        "name": "Matsuyama Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.0274031,
+          19.7000081
+        ]
+      },
+      "id": "node/4700359338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4796026047",
+        "name": "Hawaiian Moons Natural Foods",
+        "shop": "grocery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.4463735,
+          20.7196233
+        ]
+      },
+      "id": "node/4796026047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4842839288",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "1009",
+        "addr:postcode": "96826",
+        "addr:state": "HI",
+        "addr:street": "University Avenue",
+        "name": "Nijiya Supermarket",
+        "operator": "Nijiya Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8212453,
+          21.2922412
+        ]
+      },
+      "id": "node/4842839288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4844724058",
+        "name": "Hula Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8453727,
+          21.3011998
+        ]
+      },
+      "id": "node/4844724058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4868842442",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "1249",
+        "addr:postcode": "96822",
+        "addr:state": "HI",
+        "addr:street": "Wilder Avenue",
+        "name": "Village Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8381017,
+          21.3054109
+        ]
+      },
+      "id": "node/4868842442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4879371832",
+        "addr:city": "Kaunakakai",
+        "addr:country": "US",
+        "addr:housenumber": "90",
+        "addr:street": "Ala Malama Avenue",
+        "name": "Friendly Market Center",
+        "opening_hours": "Mo-Fr 08:30-20:00; Sa 08:30-18:30",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.0203019,
+          21.0906292
+        ]
+      },
+      "id": "node/4879371832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4880674832",
+        "name": "A touch of Molokai",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.2472219,
+          21.187898
+        ]
+      },
+      "id": "node/4880674832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4883071194",
+        "addr:city": "Maunaloa",
+        "addr:country": "US",
+        "addr:housenumber": "200",
+        "addr:postcode": "96770",
+        "addr:state": "HI",
+        "addr:street": "Maunaloa Highway",
+        "contact:phone": "+1 808 552 2346",
+        "name": "Mauna Loa General Store",
+        "opening_hours": "Mo-Sa 09:00-18:00; Su 09:00-12:00",
+        "shop": "convenience",
+        "wheelchair": "no",
+        "wheelchair:note": "Steps to shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.2121732,
+          21.1327459
+        ]
+      },
+      "id": "node/4883071194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4887385764",
+        "name": "Misaki's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.0210926,
+          21.0905309
+        ]
+      },
+      "id": "node/4887385764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4887385765",
+        "addr:city": "Kaunakakai",
+        "addr:country": "US",
+        "addr:housenumber": "35",
+        "addr:postcode": "96748",
+        "addr:state": "HI",
+        "addr:street": "Mohala Street",
+        "contact:phone": "+1 808 553 4447",
+        "name": "Molokai Minimart",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 08:00-23:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.0206693,
+          21.0901559
+        ]
+      },
+      "id": "node/4887385765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4895133794",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "1425",
+        "addr:postcode": "96817",
+        "addr:state": "HI",
+        "addr:street": "Liliha Street",
+        "name": "Times Supermarket",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 808 536 4436",
+        "shop": "supermarket",
+        "website": "https://www.timessupermarkets.com/liliha-times/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8611562,
+          21.3198956
+        ]
+      },
+      "id": "node/4895133794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4896562667",
+        "name": "Longs Drugs",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Trevor Ryan",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.3239049,
+          22.0576929
+        ]
+      },
+      "id": "node/4896562667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4906969312",
+        "addr:city": "Honolulu",
+        "addr:floor": "1",
+        "addr:housenumber": "1450",
+        "addr:postcode": "96814",
+        "addr:state": "HI",
+        "addr:street": "Ala Moana Boulevard",
+        "branch": "Farms",
+        "brand": "Foodland",
+        "brand:wikidata": "Q5465560",
+        "check_date": "2022-06-27",
+        "level": "0",
+        "name": "Foodland",
+        "opening_hours": "Mo-Su 05:00-23:00",
+        "phone": "+1 808 949 5044",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.846089,
+          21.2925529
+        ]
+      },
+      "id": "node/4906969312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4911926971",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.6972453,
+          21.3329725
+        ]
+      },
+      "id": "node/4911926971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4912193692",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "level": "0",
+        "name": "7-Eleven",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8306691,
+          21.2802924
+        ]
+      },
+      "id": "node/4912193692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5020643022",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "level": "0",
+        "name": "7-Eleven",
+        "safety:mask:covid19": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8323475,
+          21.2899208
+        ]
+      },
+      "id": "node/5020643022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5031507622",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven",
+        "name:en": "7-Eleven",
+        "safety:mask:covid19": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.745833,
+          21.3961662
+        ]
+      },
+      "id": "node/5031507622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5036098725",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven",
+        "name:en": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.853089,
+          21.5557966
+        ]
+      },
+      "id": "node/5036098725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5036136324",
+        "addr:city": "Kaneohe",
+        "addr:housenumber": "47-388",
+        "addr:postcode": "96744",
+        "addr:state": "HI",
+        "addr:street": "Hui Iwa Street",
+        "brand": "Times Supermarkets",
+        "brand:wikidata": "Q7806566",
+        "name": "Times Supermarkets",
+        "name:en": "Times",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8260778,
+          21.4363667
+        ]
+      },
+      "id": "node/5036136324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5036182121",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "name:en": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8381086,
+          21.457851
+        ]
+      },
+      "id": "node/5036182121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5040181521",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "name:en": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1534733,
+          21.3893561
+        ]
+      },
+      "id": "node/5040181521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5055013122",
+        "brand": "Foodland",
+        "brand:wikidata": "Q5465560",
+        "brand:wikipedia": "en:Foodland Hawaii",
+        "name": "Sack 'n Save",
+        "name:en": "Sack 'n Save",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.088424,
+          19.7228445
+        ]
+      },
+      "id": "node/5055013122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5119181469",
+        "name": "Diverses Obst, Fruchtsäfte etc.",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.0518108,
+          20.7941369
+        ]
+      },
+      "id": "node/5119181469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5160131989",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7105906,
+          21.2941429
+        ]
+      },
+      "id": "node/5160131989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5205029721",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "267",
+        "addr:postcode": "96819",
+        "addr:state": "HI",
+        "addr:street": "Mokauea Street",
+        "contact:facebook": "https://m.facebook.com/aliciasmarket",
+        "contact:instagram": "aliciasmarket",
+        "cuisine": "hawaiian",
+        "dog": "no",
+        "internet_access": "no",
+        "name": "Alicia's Market",
+        "opening_hours:covid19": "Mo-Sa 10:00-14:00",
+        "reservation": "no",
+        "shop": "convenience",
+        "television": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8819052,
+          21.3273332
+        ]
+      },
+      "id": "node/5205029721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5246346328",
+        "diet:gluten_free": "yes",
+        "name": "Vim 'n Vigor",
+        "organic": "yes",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.3682673,
+          21.9779391
+        ]
+      },
+      "id": "node/5246346328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5276490923",
+        "name": "ABC Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.318705,
+          22.0759149
+        ]
+      },
+      "id": "node/5276490923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5281312324",
+        "amenity": "marketplace",
+        "contact:facebook": "https://www.facebook.com/SouthKonaGreenMarket",
+        "name": "Pure Kona Green Markets",
+        "opening_hours": "Su unknown; Mo-Sa closed",
+        "phone": "+1-808-987-1444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.9110783,
+          19.4900396
+        ]
+      },
+      "id": "node/5281312324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5289006642",
+        "name": "Island Markets",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.5867018,
+          19.0598511
+        ]
+      },
+      "id": "node/5289006642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5303551866",
+        "addr:city": "Aiea",
+        "addr:housenumber": "98-1277",
+        "addr:postcode": "96701",
+        "addr:state": "HI",
+        "addr:street": "Kaahumanu Street",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "opening_hours": "Mo-Su 05:00-02:00",
+        "phone": "+1-808-483-5900",
+        "shop": "supermarket",
+        "website": "https://local.safeway.com/safeway/hi/aiea/98-1277-kaahumanu-st.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.95164,
+          21.3903179
+        ]
+      },
+      "id": "node/5303551866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5335066783",
+        "name": "ABC Stores",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.9937908,
+          19.6389215
+        ]
+      },
+      "id": "node/5335066783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5371660821",
+        "addr:housenumber": "2910",
+        "addr:postcode": "96713",
+        "addr:street": "Hana Highway",
+        "amenity": "marketplace",
+        "name": "Hana Farms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.0203241,
+          20.7821558
+        ]
+      },
+      "id": "node/5371660821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5447245326",
+        "name": "Sack 'n Save",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.9935546,
+          19.6444774
+        ]
+      },
+      "id": "node/5447245326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5447336422",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.9948088,
+          19.6448068
+        ]
+      },
+      "id": "node/5447336422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5452209825",
+        "name": "Ohana Warehouse",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.8806191,
+          19.4590154
+        ]
+      },
+      "id": "node/5452209825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5452372833",
+        "name": "Sea Store & Deli",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.0215609,
+          19.6706496
+        ]
+      },
+      "id": "node/5452372833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5452372925",
+        "name": "Fujihara's Last Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.8794236,
+          19.396881
+        ]
+      },
+      "id": "node/5452372925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5452389845",
+        "brand": "76",
+        "brand:wikidata": "Q1658320",
+        "name": "76",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.5834909,
+          19.0610017
+        ]
+      },
+      "id": "node/5452389845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5452400023",
+        "name": "ABC Stores",
+        "opening_hours": "Mo-Su 07:30-22:30",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.9944322,
+          19.6400897
+        ]
+      },
+      "id": "node/5452400023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5457817647",
+        "name": "Hirano Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.1519671,
+          19.4884869
+        ]
+      },
+      "id": "node/5457817647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5457817652",
+        "name": "Eternal Bonsai",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0626714,
+          19.5794786
+        ]
+      },
+      "id": "node/5457817652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5457818526",
+        "brand": "Foodland",
+        "brand:wikidata": "Q5465560",
+        "brand:wikipedia": "en:Foodland Hawaii",
+        "check_date": "2022-10-11",
+        "name": "Foodland",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "payment:american_express": "yes",
+        "payment:discover_card": "yes",
+        "payment:jcb": "yes",
+        "payment:mastercard": "yes",
+        "payment:unionpay": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0410293,
+          19.6218383
+        ]
+      },
+      "id": "node/5457818526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5457893021",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0835704,
+          19.7228291
+        ]
+      },
+      "id": "node/5457893021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5457893022",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0840941,
+          19.7230512
+        ]
+      },
+      "id": "node/5457893022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5458062631",
+        "name": "X-press Mini Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.1042939,
+          19.8298828
+        ]
+      },
+      "id": "node/5458062631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5458150821",
+        "name": "Banyan Mini Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0665957,
+          19.7276825
+        ]
+      },
+      "id": "node/5458150821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5460596728",
+        "name": "Convenience Plus",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.457441,
+          20.0688282
+        ]
+      },
+      "id": "node/5460596728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5460612824",
+        "name": "Honokaa Filipino Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4678276,
+          20.0789759
+        ]
+      },
+      "id": "node/5460612824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5460612825",
+        "name": "Minit Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2327851,
+          19.9845381
+        ]
+      },
+      "id": "node/5460612825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5460738421",
+        "brand": "Aloha Petroleum",
+        "brand:wikidata": "Q4734197",
+        "brand:wikipedia": "en:Aloha Petroleum",
+        "name": "Aloha Petroleum",
+        "official_name": "Aloha Petroleum Ltd",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.6593481,
+          20.0248927
+        ]
+      },
+      "id": "node/5460738421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464039724",
+        "name": "Kona Island Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.9938464,
+          19.6410982
+        ]
+      },
+      "id": "node/5464039724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5464504721",
+        "addr:city": "Kailua-Kona",
+        "addr:housenumber": "74-5487",
+        "addr:postcode": "96740",
+        "addr:state": "HI",
+        "addr:street": "Kaiwi Street",
+        "brand": "Island Naturals",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Island Naturals Market & Deli",
+        "opening_hours": "Mo-Sa 07:30-20:00; Su 09:00-19:00",
+        "opening_hours:covid19": "open",
+        "organic": "yes",
+        "payment:contactless": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "safety:hand_sanitizer:covid19": "yes",
+        "safety:mask:covid19": "yes",
+        "shop": "supermarket",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:access:covid19": "private",
+        "toilets:unisex": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://islandnaturals.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.999665,
+          19.6470177
+        ]
+      },
+      "id": "node/5464504721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5465899934",
+        "branch": "Queen Kaahumanu",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "brand:wikipedia": "en:Texaco",
+        "name": "Texaco",
+        "shop": "convenience",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.015782,
+          19.6734067
+        ]
+      },
+      "id": "node/5465899934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5483164953",
+        "addr:city": "Lahaina",
+        "addr:housenumber": "3636",
+        "addr:postcode": "96761",
+        "addr:state": "HI",
+        "addr:street": "Lower Honoapi‘ilani Road",
+        "description": "Health food-focused grocery store with salad bar, sandwiches made to order, homemade dips, sauces, and pastries.",
+        "name": "Farmers Market",
+        "opening_hours": "Mo-Su 07:00-20:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6859081,
+          20.9540532
+        ]
+      },
+      "id": "node/5483164953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5519354800",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1588642,
+          21.3942038
+        ]
+      },
+      "id": "node/5519354800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5519354876",
+        "addr:city": "Waianae",
+        "addr:housenumber": "86-032",
+        "addr:postcode": "96792",
+        "addr:state": "HI",
+        "addr:street": "Farrington Highway",
+        "name": "Tamura",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1856637,
+          21.4401623
+        ]
+      },
+      "id": "node/5519354876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5541678480",
+        "name": "Big Save",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.5854871,
+          21.904499
+        ]
+      },
+      "id": "node/5541678480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5567654501",
+        "addr:city": "Hilo",
+        "addr:housenumber": "1221",
+        "addr:postcode": "96720",
+        "addr:state": "HI",
+        "addr:street": "Kilauea Avenue",
+        "air_conditioning": "yes",
+        "branch": "Hilo",
+        "brand": "Island Naturals",
+        "check_date": "2022-10-11",
+        "name": "Island Naturals Market and Deli",
+        "note:covid19": "This place gives hand sanitizer to customers upon arrival.",
+        "opening_hours": "Mo-Sa 07:00-20:00, Su 08:00-19:00",
+        "opening_hours:covid19": "Mo-Sa 07:00-19:00;Su 09:00-17:00",
+        "organic": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "safety:hand_sanitizer:covid19": "yes",
+        "safety:mask:covid19": "yes",
+        "shop": "supermarket",
+        "website": "https://islandnaturals.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0756935,
+          19.7107263
+        ]
+      },
+      "id": "node/5567654501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5574949133",
+        "name": "General Store & Café",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.5116292,
+          20.7922405
+        ]
+      },
+      "id": "node/5574949133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5575066949",
+        "brand": "Foodland",
+        "brand:wikidata": "Q5465560",
+        "brand:wikipedia": "en:Foodland Hawaii",
+        "name": "Foodland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.4725364,
+          20.886742
+        ]
+      },
+      "id": "node/5575066949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5583417323",
+        "name": "Karuho Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.9351289,
+          19.5544795
+        ]
+      },
+      "id": "node/5583417323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5634162621",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.462425,
+          20.8897587
+        ]
+      },
+      "id": "node/5634162621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5729057241",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.800041,
+          21.2836008
+        ]
+      },
+      "id": "node/5729057241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5733570614",
+        "addr:city": "Honolulu",
+        "addr:country": "US",
+        "addr:housenumber": "500",
+        "addr:postcode": "96813",
+        "addr:state": "HI",
+        "addr:street": "Keawe Street",
+        "branch": "Kakaako",
+        "brand": "Down to Earth",
+        "delivery": "no",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Down To Earth",
+        "opening_hours": "Mo-Su 06:30-22:00",
+        "phone": "+1 808 465-2512",
+        "shop": "supermarket",
+        "website": "https://www.downtoearth.org/our-stores/store-locations/kakaako-oahu",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.859889,
+          21.3004413
+        ]
+      },
+      "id": "node/5733570614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5750490921",
+        "addr:housenumber": "1001",
+        "addr:street": "Bishop Street",
+        "name": "‘Umeke Market & Deli",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8602138,
+          21.3090878
+        ]
+      },
+      "id": "node/5750490921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5762588456",
+        "addr:housenumber": "694",
+        "addr:postcode": "96957",
+        "addr:street": "McCornack Road",
+        "internet_access": "wlan",
+        "name": "Schofield Main Exchange",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-20:00",
+        "phone": "+1-808-622-1773",
+        "shop": "supermarket",
+        "website": "https://www.shopmyexchange.com/exchange-stores/United%20States/HI/Schofield%20Barracks/Schofield-Main-Exchange-1721005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.060616,
+          21.4942416
+        ]
+      },
+      "id": "node/5762588456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796389653",
+        "amenity": "marketplace",
+        "name": "Hyatt Regency Waikiki Farmers Market",
+        "name:ja": "ハイアットリージェンシーワイキキファーマーズマーケット",
+        "opening_hours": "Tu, Th 16:00-20:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8251415,
+          21.2761642
+        ]
+      },
+      "id": "node/5796389653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5816678853",
+        "addr:housenumber": "698",
+        "addr:postcode": "96786",
+        "addr:street": "Trimble Road",
+        "internet_access": "wlan",
+        "name": "Schofield Barracks Commissary",
+        "opening_hours": "Mo-Fr 08:30-17:30",
+        "phone": "+1-808-655-6252",
+        "shop": "supermarket",
+        "website": "https://www.commissaries.com/shopping/store-locations/schofield-barracks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.057623,
+          21.4923211
+        ]
+      },
+      "id": "node/5816678853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5821597653",
+        "addr:housenumber": "563",
+        "addr:postcode": "96786",
+        "addr:street": "Kolekole Avenue",
+        "internet_access": "wlan",
+        "name": "Inn at Schofield Barracks Convenience Store",
+        "phone": "+1-808-624-9650",
+        "shop": "convenience",
+        "website": "http://innatschofield.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.058052,
+          21.4890061
+        ]
+      },
+      "id": "node/5821597653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5860373895",
+        "addr:city": "Honolulu",
+        "addr:country": "US",
+        "addr:housenumber": "388",
+        "addr:postcode": "96814",
+        "addr:state": "HI",
+        "addr:street": "Kamakee Street",
+        "addr:unit": "100",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "check_date": "2022-08-20",
+        "contact:instagram": "https://www.instagram.com/wholefoodshawaii",
+        "name": "Whole Foods Market",
+        "official_name": "Whole Foods Market® Queen",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 808 379-1800",
+        "shop": "supermarket",
+        "website": "https://www.wholefoodsmarket.com/stores/queen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8524053,
+          21.2946436
+        ]
+      },
+      "id": "node/5860373895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5860373896",
+        "addr:city": "Honolulu",
+        "addr:country": "US",
+        "addr:floor": "1",
+        "addr:housenumber": "2525",
+        "addr:postcode": "96826",
+        "addr:state": "HI",
+        "addr:street": "South King Street",
+        "check_date": "2022-07-26",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "fax": "+1 808-943-8491",
+        "level": "0",
+        "name": "Down To Earth",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 808-947-7678",
+        "shop": "supermarket",
+        "website": "https://www.downtoearth.org/our-stores/store-locations/honolulu-oahu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8234264,
+          21.2921987
+        ]
+      },
+      "id": "node/5860373896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5893915288",
+        "name": "Fastop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0173404,
+          21.4587121
+        ]
+      },
+      "id": "node/5893915288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5904945547",
+        "addr:city": "Haiku",
+        "addr:housenumber": "810",
+        "addr:postcode": "96708",
+        "addr:state": "HI",
+        "addr:street": "Haiku Road",
+        "amenity": "marketplace",
+        "name": "Haiku Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3224102,
+          20.9134909
+        ]
+      },
+      "id": "node/5904945547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6124521585",
+        "addr:city": "Hilo",
+        "addr:floor": "1",
+        "addr:housenumber": "60",
+        "addr:postcode": "96720",
+        "addr:state": "HI",
+        "addr:street": "Kamehameha Avenue",
+        "air_conditioning": "yes",
+        "capacity:covid19": "4",
+        "check_date": "2022-10-12",
+        "level": "0",
+        "name": "The Locavore Shop",
+        "name:ja": "ロカボア・ストア",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-16:00",
+        "opening_hours:covid19": "same",
+        "payment:american_express": "yes",
+        "payment:contactless": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "safety:mask:covid19": "yes",
+        "second_hand": "no",
+        "shop": "health_food",
+        "website": "https://www.bigislandlocavorestore.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0871243,
+          19.7270338
+        ]
+      },
+      "id": "node/6124521585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6294967685",
+        "addr:housenumber": "4280",
+        "addr:street": "Hookui Road",
+        "name": "Healthy Hut Market & Cafe",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.4076251,
+          22.2030725
+        ]
+      },
+      "id": "node/6294967685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6301747825",
+        "addr:city": "Haleʻiwa",
+        "addr:housenumber": "66-111",
+        "addr:postcode": "96712",
+        "addr:state": "HI",
+        "addr:street": "Kamehameha Highway",
+        "addr:unit": "#602",
+        "name": "Whalers General Store",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "phone": "+1-808-637-1980",
+        "shop": "convenience",
+        "website": "https://www.shopsofhawaii.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.103183,
+          21.5909711
+        ]
+      },
+      "id": "node/6301747825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6328388726",
+        "name": "R & J Bakery, Foods, Etc",
+        "opening_hours:signed": "no",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.3660746,
+          21.9723711
+        ]
+      },
+      "id": "node/6328388726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6357214936",
+        "name": "Foodland",
+        "opening_hours": "Mo-Su 05:00-24:00",
+        "shop": "supermarket",
+        "website": "https://www.foodland.com/stores/foodland-pukalani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3424927,
+          20.837596
+        ]
+      },
+      "id": "node/6357214936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6377215085",
+        "name": "Whalers General Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6780273,
+          20.9721497
+        ]
+      },
+      "id": "node/6377215085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6377287049",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8628178,
+          21.3089453
+        ]
+      },
+      "id": "node/6377287049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6382693139",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "brand:wikipedia": "en:ABC Stores (Hawaii)",
+        "name": "ABC",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8267276,
+          21.2774032
+        ]
+      },
+      "id": "node/6382693139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6389563977",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "brand:wikipedia": "en:ABC Stores (Hawaii)",
+        "name": "ABC",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8244125,
+          21.275029
+        ]
+      },
+      "id": "node/6389563977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6395228989",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "name": "ABC",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8306273,
+          21.2797902
+        ]
+      },
+      "id": "node/6395228989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6395685333",
+        "name": "Ali'i Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.832549,
+          21.2788061
+        ]
+      },
+      "id": "node/6395685333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6397058485",
+        "name": "ABC Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.3280175,
+          22.0548641
+        ]
+      },
+      "id": "node/6397058485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6440762387",
+        "name": "Dukes Lane Market & Eatery",
+        "name:ja": "デュークス･レーン･マーケット＆イータリー",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "phone": "+1 808-923-5689",
+        "shop": "supermarket",
+        "website": "https://www.dukeslanehawaii.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8266621,
+          21.2796028
+        ]
+      },
+      "id": "node/6440762387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6515861770",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.2060896,
+          21.4604037
+        ]
+      },
+      "id": "node/6515861770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6595684894",
+        "name": "Healthways II",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.6678027,
+          20.0194719
+        ]
+      },
+      "id": "node/6595684894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6812967849",
+        "addr:city": "Kaneohe",
+        "addr:housenumber": "45-934",
+        "addr:postcode": "96744",
+        "addr:state": "HI",
+        "addr:street": "Kamehameha Highway",
+        "brand": "Times Supermarkets",
+        "brand:wikidata": "Q7806566",
+        "brand:wikipedia": "en:Times Supermarkets",
+        "name": "Times Supermarkets",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8010567,
+          21.4139072
+        ]
+      },
+      "id": "node/6812967849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6872294685",
+        "addr:housenumber": "8615",
+        "addr:postcode": "96748",
+        "addr:street": "Kamehameha V Highway",
+        "name": "Manae Goods & Grindz",
+        "shop": "convenience",
+        "website": "https://www.facebook.com/pages/category/Grocery-Store/Manae-Goods-Grindz-302587459788047/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.7991967,
+          21.0727885
+        ]
+      },
+      "id": "node/6872294685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7153085385",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.3149603,
+          22.1449323
+        ]
+      },
+      "id": "node/7153085385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7178538385",
+        "name": "Hilo Coffee Mill",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0882686,
+          19.5641549
+        ]
+      },
+      "id": "node/7178538385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7178538485",
+        "amenity": "marketplace",
+        "name": "Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0879442,
+          19.5639571
+        ]
+      },
+      "id": "node/7178538485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7228361111",
+        "brand": "ABC",
+        "brand:wikidata": "Q4650251",
+        "brand:wikipedia": "en:ABC Stores (Hawaii)",
+        "name": "ABC",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.683891,
+          20.8863399
+        ]
+      },
+      "id": "node/7228361111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234558953",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.5108169,
+          20.7954413
+        ]
+      },
+      "id": "node/7234558953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7236181338",
+        "name": "Napili Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.667279,
+          20.9850447
+        ]
+      },
+      "id": "node/7236181338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7238125677",
+        "level": "0",
+        "name": "Whalers General Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.4406325,
+          20.6867629
+        ]
+      },
+      "id": "node/7238125677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7491663883",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "377",
+        "addr:postcode": "96825",
+        "addr:state": "HI",
+        "addr:street": "Keahole Street",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "opening_hours": "Mo-Su 6:00-22:00",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "no",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.706854,
+          21.2852143
+        ]
+      },
+      "id": "node/7491663883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7502127184",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "7192",
+        "addr:postcode": "96825",
+        "addr:state": "HI",
+        "addr:street": "Kalaniana’ole Highway",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "brand:wikipedia": "en:Texaco",
+        "name": "Texaco",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7057314,
+          21.2774628
+        ]
+      },
+      "id": "node/7502127184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7610901887",
+        "addr:city": "Kailua",
+        "addr:housenumber": "573",
+        "addr:postcode": "96734",
+        "addr:state": "HI",
+        "addr:street": "Kailua Road",
+        "name": "Down to Earth",
+        "opening_hours:covid19": "Mo-Su 08:00-21:00",
+        "organic": "yes",
+        "safety:mask:covid19": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.741015,
+          21.3933158
+        ]
+      },
+      "id": "node/7610901887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7613304689",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "550",
+        "addr:postcode": "96819",
+        "addr:state": "HI",
+        "addr:street": "Paiea Street",
+        "brand": "Aloha Petroleum",
+        "brand:wikidata": "Q4734197",
+        "brand:wikipedia": "en:Aloha Petroleum",
+        "name": "Aloha Petroleum",
+        "official_name": "Aloha Petroleum Ltd",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:diners_club": "yes",
+        "payment:discover_card": "yes",
+        "payment:jcb": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 808 839 7616",
+        "shop": "convenience",
+        "website": "https://alohagas.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9144993,
+          21.3355258
+        ]
+      },
+      "id": "node/7613304689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7647949597",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "333",
+        "addr:postcode": "96814",
+        "addr:state": "HI",
+        "addr:street": "Ward Avenue",
+        "amenity": "marketplace",
+        "name": "Ohana Hale Marketplace",
+        "opening_hours": "Mo-Su 07:00 -17:00",
+        "phone": "+1 808 797 2001",
+        "website": "https://www.ohmhawaii.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8550319,
+          21.296087
+        ]
+      },
+      "id": "node/7647949597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7671792269",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "458",
+        "addr:postcode": "96813",
+        "addr:state": "HI",
+        "addr:street": "Keawe Street",
+        "alt_name:ko": "H 마트",
+        "branch": "Kaka’ako",
+        "brand": "H Mart",
+        "brand:wikidata": "Q5636306",
+        "brand:wikipedia": "en:H Mart",
+        "cuisine": "asian",
+        "level": "1;2",
+        "name": "H Mart",
+        "name:en": "H Mart",
+        "name:ko": "한아름",
+        "name:zh-Hans": "韩亚龙",
+        "name:zh-Hant": "韓亞龍",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "opening_hours:covid19": "Mo-Su 9:00-21:00",
+        "phone": "+1 808 219 0924",
+        "shop": "supermarket",
+        "website": "https://www.hmart.com/storelocator/index/index/id/73/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8604361,
+          21.2999984
+        ]
+      },
+      "id": "node/7671792269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7698827377",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8653713,
+          21.3189796
+        ]
+      },
+      "id": "node/7698827377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7706067119",
+        "atm": "yes",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8559198,
+          21.3169429
+        ]
+      },
+      "id": "node/7706067119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7731735649",
+        "addr:city": "Waipahu",
+        "addr:housenumber": "94-766",
+        "addr:postcode": "96797",
+        "addr:state": "HI",
+        "addr:street": "Farrington Highway",
+        "name": "Times",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0055581,
+          21.3844289
+        ]
+      },
+      "id": "node/7731735649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7769065710",
+        "addr:city": "Honolulu",
+        "addr:country": "US",
+        "addr:housenumber": "1755",
+        "addr:postcode": "96817",
+        "addr:state": "HI",
+        "addr:street": "Nuuanu Avenue",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "level": "0",
+        "name": "7-Eleven",
+        "phone": "+1 808 524 1151",
+        "safety:mask:covid19": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.853342,
+          21.3187698
+        ]
+      },
+      "id": "node/7769065710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7785909095",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "801",
+        "addr:postcode": "96813",
+        "addr:state": "HI",
+        "addr:street": "South Beretania Street",
+        "building": "public",
+        "name": "Honolulu Police Department Snack Shop",
+        "opening_hours": "Mo-Fr 06:30-21:30",
+        "operator": "Honolulu Police Department",
+        "operator:type": "public",
+        "operator:wikidata": "Q3140166",
+        "phone": "+1 808 523 0280",
+        "safety:mask:covid19": "yes",
+        "shop": "convenience",
+        "website": "https://honolulupd.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.851294,
+          21.3038596
+        ]
+      },
+      "id": "node/7785909095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7816207222",
+        "addr:city": "Waimea",
+        "addr:housenumber": "65-1224",
+        "addr:postcode": "96743",
+        "addr:state": "HI",
+        "addr:street": "Lindsey Road",
+        "amenity": "marketplace",
+        "name": "Waimea Town Market",
+        "opening_hours": "Sa 07:30-12:00",
+        "safety:mask:covid19": "yes",
+        "website": "https://waimeatownmarket.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.66923,
+          20.0221817
+        ]
+      },
+      "id": "node/7816207222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7830064557",
+        "addr:unit": "330",
+        "name": "Healthways",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0757597,
+          19.7114808
+        ]
+      },
+      "id": "node/7830064557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7844887426",
+        "name": "Ainaola Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.1049702,
+          19.6658387
+        ]
+      },
+      "id": "node/7844887426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7903283677",
+        "brand": "Aloha Petroleum",
+        "brand:wikidata": "Q4734197",
+        "brand:wikipedia": "en:Aloha Petroleum",
+        "name": "Aloha Petroleum",
+        "official_name": "Aloha Petroleum Ltd",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0696982,
+          19.6842438
+        ]
+      },
+      "id": "node/7903283677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7903283680",
+        "addr:housenumber": "2170",
+        "addr:street": "Kinoʻole Street",
+        "check_date": "2022-10-01",
+        "name": "Kagimoto’s",
+        "opening_hours": "Mo-Th 05:00-20:00; Fr 05:00-21:00; Sa 06:00-21:00; Su 06:00-18:00",
+        "payment:american_express": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 808-959-7414",
+        "safety:mask:covid19": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0690731,
+          19.6850862
+        ]
+      },
+      "id": "node/7903283680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8173112298",
+        "addr:city": "Kailua-Kona",
+        "addr:housenumber": "74-5444",
+        "addr:postcode": "96740",
+        "addr:state": "HI",
+        "addr:street": "Makala Boulevard",
+        "addr:unit": "1",
+        "name": "Island Naturals",
+        "opening_hours": "Mo-Fr 08:00-18:00, Sa-Su 09:00-17:00",
+        "phone": "808-326-1122",
+        "shop": "supermarket",
+        "website": "https://islandnaturals.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.003716,
+          19.6510891
+        ]
+      },
+      "id": "node/8173112298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8197600952",
+        "addr:city": "Hilo",
+        "addr:housenumber": "578",
+        "addr:postcode": "96720",
+        "addr:state": "HI",
+        "addr:street": "Manono Street",
+        "name": "Lani’s Island Snack Shack",
+        "opening_hours:covid19": "open",
+        "safety:mask:covid19": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0710577,
+          19.7124685
+        ]
+      },
+      "id": "node/8197600952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8197649307",
+        "amenity": "marketplace",
+        "name": "King Kamehameha Marketplace",
+        "opening_hours:covid19": "open",
+        "safety:hand_sanitizer:covid19": "yes",
+        "safety:mask:covid19": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.086582,
+          19.7256464
+        ]
+      },
+      "id": "node/8197649307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204052158",
+        "amenity": "marketplace",
+        "name": "Food Trucks",
+        "opening_hours": "Fr 16:00-19:00",
+        "operator": "Pizza Rover",
+        "safety:mask:covid19": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.0033491,
+          19.6495385
+        ]
+      },
+      "id": "node/8204052158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204052159",
+        "amenity": "marketplace",
+        "name": "Food Trucks",
+        "opening_hours:covid19": "Fr 16:00-19:00",
+        "safety:mask:covid19": "yes",
+        "tents": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.0033491,
+          19.6495385
+        ]
+      },
+      "id": "node/8204052159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8218138420",
+        "name": "nomnom Express",
+        "opening_hours:covid19": "open",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "safety:mask:covid19": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0822896,
+          19.6834097
+        ]
+      },
+      "id": "node/8218138420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8218138421",
+        "check_date": "2021-02-20",
+        "name": "Ohana Foods",
+        "opening_hours:covid19": "open",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "safety:hand_sanitizer:covid19": "yes",
+        "safety:mask:covid19": "yes",
+        "shop": "convenience",
+        "toilets": "yes",
+        "toilets:access": "yes",
+        "toilets:unisex": "no",
+        "toilets:wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0825306,
+          19.6833958
+        ]
+      },
+      "id": "node/8218138421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8307558646",
+        "amenity": "marketplace",
+        "name": "Kona Farmer's Market",
+        "website": "http://www.konafarmersmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.9919005,
+          19.6372125
+        ]
+      },
+      "id": "node/8307558646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8308136207",
+        "amenity": "marketplace",
+        "name": "Rufus Poets Corner Market",
+        "website": "http://rufuspoetscornermarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.9414371,
+          19.4847143
+        ]
+      },
+      "id": "node/8308136207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8335787312",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "1360",
+        "addr:postcode": "96813",
+        "addr:state": "HI",
+        "addr:street": "Pali Highway",
+        "air_conditioning": "yes",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "opening_hours": "Mo-Su 5:00-23:00",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 808 566 6811",
+        "ref": "0203",
+        "shop": "supermarket",
+        "website": "https://local.safeway.com/hi/honolulu-203.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8578155,
+          21.3133373
+        ]
+      },
+      "id": "node/8335787312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8362947342",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "brand:wikipedia": "en:Texaco",
+        "name": "Texaco",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.4550423,
+          20.7488161
+        ]
+      },
+      "id": "node/8362947342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8363249354",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0293165,
+          21.4983322
+        ]
+      },
+      "id": "node/8363249354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8369760671",
+        "name": "ABC Stores",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.4625993,
+          20.7819674
+        ]
+      },
+      "id": "node/8369760671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8372470855",
+        "name": "Express Exchange",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.190181,
+          21.4464316
+        ]
+      },
+      "id": "node/8372470855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8374204186",
+        "name": "Island Gourmet",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.439895,
+          20.6876882
+        ]
+      },
+      "id": "node/8374204186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8396631371",
+        "addr:housenumber": "87-2020",
+        "addr:street": "Farrington Highway",
+        "addr:unit": "F",
+        "name": "Sack N Save",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1507495,
+          21.3874466
+        ]
+      },
+      "id": "node/8396631371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8403806261",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.187137,
+          21.4417309
+        ]
+      },
+      "id": "node/8403806261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8413454829",
+        "name": "TJ’s Warehouse",
+        "opening_hours": "Mo-Fr 07:00-18:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.4891832,
+          20.9029852
+        ]
+      },
+      "id": "node/8413454829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8416775182",
+        "name": "Henry Fong Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3565557,
+          20.7054185
+        ]
+      },
+      "id": "node/8416775182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8464983845",
+        "name": "Kawaihae Marketplace",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.8298346,
+          20.03887
+        ]
+      },
+      "id": "node/8464983845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8652550522",
+        "name": "Kaneohe Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8009399,
+          21.4165442
+        ]
+      },
+      "id": "node/8652550522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8656400720",
+        "addr:city": "Kaneohe",
+        "addr:housenumber": "45-480",
+        "addr:postcode": "96744",
+        "addr:state": "HI",
+        "addr:street": "Kaneohe Bay Drive",
+        "name": "Tamura's Fine Wine & Liquors Kaneohe",
+        "opening_hours": "Su-We 11:00-19:00; Th-Sa 11:00-20:00",
+        "phone": "+1-808-773-8800",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.798154,
+          21.4014176
+        ]
+      },
+      "id": "node/8656400720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8695592029",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0009622,
+          21.3842874
+        ]
+      },
+      "id": "node/8695592029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8695592033",
+        "name": "Waipahu Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.002362,
+          21.3838892
+        ]
+      },
+      "id": "node/8695592033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8695592034",
+        "name": "Tammy's Polynesian Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0030264,
+          21.3840225
+        ]
+      },
+      "id": "node/8695592034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8807570228",
+        "addr:housenumber": "47-528",
+        "addr:street": "Kamehameha Highway",
+        "name": "Hygienic Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8386894,
+          21.4575935
+        ]
+      },
+      "id": "node/8807570228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809586591",
+        "addr:unit": "A1",
+        "name": "Malama Market",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "phone": "+1-808-965-2105",
+        "shop": "supermarket",
+        "website": "https://malamamarketpahoa.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.95658,
+          19.5023259
+        ]
+      },
+      "id": "node/8809586591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8952844811",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "brand:wikipedia": "en:Texaco",
+        "name": "Texaco",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8896683,
+          21.3245151
+        ]
+      },
+      "id": "node/8952844811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8955563307",
+        "addr:housenumber": "87-1988",
+        "addr:street": "Pakeke Street",
+        "name": "Sea Country General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1640492,
+          21.4066311
+        ]
+      },
+      "id": "node/8955563307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9104127889",
+        "amenity": "marketplace",
+        "email": "infokinoolefarmersmarket@gmail.com",
+        "name": "Kinoole Farmers Market",
+        "opening_hours": "Sa 6:30-11:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0699302,
+          19.6904784
+        ]
+      },
+      "id": "node/9104127889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141015710",
+        "level": "0",
+        "name": "The Market",
+        "operator": "Mauna Lani Resort",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.8666964,
+          19.9460154
+        ]
+      },
+      "id": "node/9141015710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177586211",
+        "name": "Lynn’s",
+        "opening_hours:covid19": "Mo-Fr 8:00-17:00; Sa-Su 9:00-17:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.9903619,
+          19.631979
+        ]
+      },
+      "id": "node/9177586211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9179088767",
+        "addr:city": "Hawi",
+        "addr:housenumber": "55-3419",
+        "addr:postcode": "96719",
+        "addr:state": "HI",
+        "addr:street": "Akoni Pule Highway",
+        "email": "kohalagrownmarket@gmail.com",
+        "facebook": "kohalagrownmarket",
+        "instagram": "@kohalagrownmarket",
+        "name": "Kohala Grown Market",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.8309784,
+          20.2381319
+        ]
+      },
+      "id": "node/9179088767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244618717",
+        "addr:housenumber": "142 Kupuohi St, F-7, Lahaina, HI",
+        "addr:postcode": "96761",
+        "addr:street": "Kupuohi Street",
+        "name": "Maui Prime Fine Foods",
+        "opening_hours": "Tu-Sa 11:00-17:00; Su-Mo 00:00-00:00",
+        "phone": "(808) 661-4912",
+        "shop": "supermarket",
+        "website": "https://www.mauiprime.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6764424,
+          20.8837945
+        ]
+      },
+      "id": "node/9244618717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9284235945",
+        "access": "permit",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "300",
+        "addr:postcode": "96819",
+        "addr:state": "HI",
+        "addr:street": "Rodgers Boulevard",
+        "level": "1",
+        "name": "Pages and Pages",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9240589,
+          21.3331417
+        ]
+      },
+      "id": "node/9284235945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9289182773",
+        "brand": "Texaco",
+        "brand:wikidata": "Q775060",
+        "brand:wikipedia": "en:Texaco",
+        "name": "Texaco",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8518041,
+          21.3204111
+        ]
+      },
+      "id": "node/9289182773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9328613287",
+        "name": "Shima's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.722609,
+          21.3477675
+        ]
+      },
+      "id": "node/9328613287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9349688723",
+        "access": "permit",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "300",
+        "addr:postcode": "96819",
+        "addr:state": "HI",
+        "addr:street": "Rodgers Boulevard",
+        "level": "1",
+        "name": "Pages and Pages",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9243618,
+          21.3362741
+        ]
+      },
+      "id": "node/9349688723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9386968326",
+        "access": "permit",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "300",
+        "addr:postcode": "96819",
+        "addr:state": "HI",
+        "addr:street": "Rodgers Boulevard",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "1",
+        "name": "Pages & Pages",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9177118,
+          21.3314942
+        ]
+      },
+      "id": "node/9386968326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9431838479",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.722056,
+          21.3476914
+        ]
+      },
+      "id": "node/9431838479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9488346188",
+        "name": "Marcy’s Variety Store",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0660049,
+          19.6991088
+        ]
+      },
+      "id": "node/9488346188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9571479402",
+        "addr:housename": "94",
+        "addr:housenumber": "780B",
+        "addr:postcode": "96789",
+        "addr:street": "Meheula Parkway",
+        "branch": "2218",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "brand:wikipedia": "en:Safeway Inc.",
+        "name": "Safeway",
+        "shop": "supermarket",
+        "website": "https://local.safeway.com/hi/mililani-2218.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0225805,
+          21.4420098
+        ]
+      },
+      "id": "node/9571479402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9573846208",
+        "amenity": "marketplace",
+        "name": "Kakaako Farmers Marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8587423,
+          21.2946171
+        ]
+      },
+      "id": "node/9573846208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9719572717",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.623751,
+          20.8124308
+        ]
+      },
+      "id": "node/9719572717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9725280725",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8332409,
+          21.2866244
+        ]
+      },
+      "id": "node/9725280725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9735902847",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8581772,
+          21.3028066
+        ]
+      },
+      "id": "node/9735902847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9760734102",
+        "name": "Ke’eau Natural Foods",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0405147,
+          19.6227059
+        ]
+      },
+      "id": "node/9760734102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9807662973",
+        "addr:city": "Honomu",
+        "addr:housenumber": "28-1692",
+        "addr:postcode": "96728",
+        "addr:state": "HI",
+        "addr:street": "Old Mamalahoa Highway",
+        "addr:unit": "3",
+        "name": "Pohina Products LLC",
+        "opening_hours": "Tu-Sa 10:00-16:00, Mo,Su closed",
+        "phone": "+1 808 731 7993",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.1141874,
+          19.87037
+        ]
+      },
+      "id": "node/9807662973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9818661648",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.5005559,
+          21.923399
+        ]
+      },
+      "id": "node/9818661648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843261447",
+        "delivery": "yes",
+        "name": "Kalihi Super Meat",
+        "payment:cheque": "no",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8790239,
+          21.3342835
+        ]
+      },
+      "id": "node/9843261447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9851844975",
+        "brand": "Aloha Petroleum",
+        "brand:wikidata": "Q4734197",
+        "check_date": "2022-06-27",
+        "name": "Aloha Island Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.784167,
+          21.2778137
+        ]
+      },
+      "id": "node/9851844975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9861412463",
+        "addr:floor": "1",
+        "check_date": "2022-07-01",
+        "level": "0",
+        "name": "Diamond Head Market",
+        "opening_hours": "7:30-21:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8115978,
+          21.2698166
+        ]
+      },
+      "id": "node/9861412463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9970855498",
+        "addr:city": "Pearl City",
+        "addr:housenumber": "850",
+        "addr:postcode": "96782",
+        "addr:state": "HI",
+        "addr:street": "Kamehameha Highway",
+        "brand": "H Mart",
+        "brand:wikidata": "Q5636306",
+        "cuisine": "asian",
+        "name": "Super H Mart",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.968867,
+          21.3951817
+        ]
+      },
+      "id": "node/9970855498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10088169831",
+        "addr:city": "Honolulu",
+        "addr:housenumber": "300",
+        "addr:postcode": "96819",
+        "addr:state": "HI",
+        "addr:street": "Rodgers Boulevard",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "noname": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9239929,
+          21.3341917
+        ]
+      },
+      "id": "node/10088169831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10102333247",
+        "addr:city": "Aiea",
+        "addr:housenumber": "95-115",
+        "addr:postcode": "96701",
+        "addr:state": "HI",
+        "addr:street": "Aiea Heights Drive",
+        "brand": "Times Supermarkets",
+        "brand:wikidata": "Q7806566",
+        "name": "Times Supermarkets",
+        "opening_hours": "Mo-Su 05:00-23:00",
+        "phone": "+1-808-483-5088",
+        "shop": "supermarket",
+        "website": "https://www.timessupermarkets.com/store/aiea-times"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9299814,
+          21.3788843
+        ]
+      },
+      "id": "node/10102333247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10174735273",
+        "name": "Wiki Wiki Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8374336,
+          21.2817317
+        ]
+      },
+      "id": "node/10174735273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10178751208",
+        "amenity": "marketplace",
+        "name": "Marketplace At Koloa Landing",
+        "opening_hours": "0600-1900 Staffed, 1900-0600 Front Desk",
+        "operator": "Koloa Landing Resort at Poipu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.4657388,
+          21.8801588
+        ]
+      },
+      "id": "node/10178751208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10195531966",
+        "amenity": "marketplace",
+        "name": "Pualeilani Atrium Shops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8252177,
+          21.2761394
+        ]
+      },
+      "id": "node/10195531966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10208335793",
+        "name": "Post Exchange",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8350924,
+          21.2818964
+        ]
+      },
+      "id": "node/10208335793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10210461435",
+        "name": "Ala Wai Pantry",
+        "shop": "convenience",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8266398,
+          21.2814785
+        ]
+      },
+      "id": "node/10210461435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10243483665",
+        "addr:city": "Waimea",
+        "addr:housenumber": "2345",
+        "addr:state": "HI",
+        "addr:street": "Mana Road",
+        "name": "Waimea Farmers Market",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.6158359,
+          20.0182575
+        ]
+      },
+      "id": "node/10243483665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10688046115",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8610425,
+          21.3090356
+        ]
+      },
+      "id": "node/10688046115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340247517",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-51-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978518,
+          41.8912427
+        ]
+      },
+      "id": "node/5340247517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340252322",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-49-50 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4973968,
+          41.8913872
+        ]
+      },
+      "id": "node/5340252322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535092255",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915049,
+          41.8918027
+        ]
+      },
+      "id": "node/5535092255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5801329944",
+        "amenity": "drinking_water",
+        "description:de": "Wasserbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4884569,
+          41.8880861
+        ]
+      },
+      "id": "node/5801329944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6547164641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Via in Miranda, Foro Romano, Roma, Italia Oct 05, 2022 04-55-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870814,
+          41.8924043
+        ]
+      },
+      "id": "node/6547164641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6616168986",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4967144,
+          41.8922741
+        ]
+      },
+      "id": "node/6616168986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6841124063",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926345,
+          41.8906387
+        ]
+      },
+      "id": "node/6841124063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085935353",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941883,
+          41.8915996
+        ]
+      },
+      "id": "node/7085935353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7203154248",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Via Marco Aurelio, Roma, Italia Jun 30, 2022 08-08-32 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4955486,
+          41.8882028
+        ]
+      },
+      "id": "node/7203154248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9108120217",
+        "amenity": "drinking_water",
+        "name": "Acqua",
+        "name:en": "Drinkable water",
+        "name:fr": "Eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4847106,
+          41.8877336
+        ]
+      },
+      "id": "node/9108120217"
+    }
+  ]
+}
