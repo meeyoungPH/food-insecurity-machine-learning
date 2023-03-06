@@ -102,7 +102,7 @@ def state_data(fips):
 # route for food access geojson data by state
 @app.route('/api/food-access/<fips>.geojson')
 def access_map(fips):            
-    filepath = f'static/data/geojson/tl_2021_{fips}_tract.geojson'
+    filepath = f'static/data/geojson/tl_2021_{fips}_tract_food_access.geojson'
     with open(filepath, 'r', encoding='utf-8') as f:
         data = f.read()
     return data
