@@ -1,0 +1,5208 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-05T23:35:24Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266310881",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934985,
+          41.8923773
+        ]
+      },
+      "id": "node/266310881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388984003",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494519,
+          41.8877413
+        ]
+      },
+      "id": "node/388984003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/460967064",
+        "name": "Robinson Community Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4102116,
+          39.8163373
+        ]
+      },
+      "id": "node/460967064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/477116935",
+        "brand": "Dillons",
+        "brand:wikidata": "Q5276954",
+        "name": "Dillons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2460878,
+          37.692163
+        ]
+      },
+      "id": "node/477116935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/494614237",
+        "name": "empty building",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2109783,
+          38.3619358
+        ]
+      },
+      "id": "node/494614237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495113034",
+        "amenity": "drinking_water",
+        "check_date": "2022-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934283,
+          41.8913309
+        ]
+      },
+      "id": "node/495113034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/496296414",
+        "addr:city": "Moundridge",
+        "addr:housenumber": "101",
+        "addr:postcode": "67107",
+        "addr:street": "Avenue A",
+        "contact:website": "http://moundridgefoodmarket.com/",
+        "name": "IGA Moundridge Food Market",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-17:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5092898,
+          38.2020556
+        ]
+      },
+      "id": "node/496296414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/497420337",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3300853,
+          37.7942785
+        ]
+      },
+      "id": "node/497420337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/505202919",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3611309,
+          37.7235307
+        ]
+      },
+      "id": "node/505202919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/579931637",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2441051,
+          37.7234713
+        ]
+      },
+      "id": "node/579931637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/579931640",
+        "name": "PrestoPhillips 66",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2437934,
+          37.7225664
+        ]
+      },
+      "id": "node/579931640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/632720850",
+        "addr:city": "Lawrence",
+        "addr:housenumber": "1420",
+        "addr:postcode": "66049",
+        "addr:state": "KS",
+        "addr:street": "Kasold Drive",
+        "addr:unit": "A",
+        "brand": "Kwik Shop",
+        "brand:wikidata": "Q6450417",
+        "brand:wikipedia": "en:Kwik Shop",
+        "name": "Kwik Shop",
+        "phone": "+17858410782",
+        "shop": "convenience",
+        "website": "https://www.kwikshop.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2783506,
+          38.9578331
+        ]
+      },
+      "id": "node/632720850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685457655",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4867108,
+          41.8902623
+        ]
+      },
+      "id": "node/685457655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685461877",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4875779,
+          41.8891234
+        ]
+      },
+      "id": "node/685461877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/696098093",
+        "addr:city": "Wichita",
+        "addr:housenumber": "3820",
+        "addr:postcode": "67226",
+        "addr:state": "KS",
+        "addr:street": "North Rock Road",
+        "brand": "QuikTrip",
+        "brand:wikidata": "Q7271953",
+        "name": "QuikTrip",
+        "operator": "QuikTrip",
+        "shop": "convenience",
+        "short_name": "QT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2439146,
+          37.7529279
+        ]
+      },
+      "id": "node/696098093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/696117025",
+        "addr:city": "Wichita",
+        "addr:housenumber": "3707",
+        "addr:postcode": "67220",
+        "addr:state": "KS",
+        "addr:street": "N Woodlawn Ave",
+        "brand": "Dillons",
+        "brand:wikidata": "Q5276954",
+        "name": "Dillons",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "(316) 691-9130",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2639694,
+          37.7507859
+        ]
+      },
+      "id": "node/696117025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/761250420",
+        "operator": "Presto",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1358447,
+          37.7227451
+        ]
+      },
+      "id": "node/761250420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/761253598",
+        "name": "Dillons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2273391,
+          37.6658735
+        ]
+      },
+      "id": "node/761253598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/761254087",
+        "name": "Quik Trip",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2251033,
+          37.6641271
+        ]
+      },
+      "id": "node/761254087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/767582811",
+        "addr:city": "Manhattan",
+        "addr:housenumber": "3108",
+        "addr:street": "Anderson Avenue",
+        "name": "Shop Quick",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6151762,
+          39.1896034
+        ]
+      },
+      "id": "node/767582811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/778788580",
+        "name": "Shop Quick",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5629054,
+          39.1745102
+        ]
+      },
+      "id": "node/778788580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/792088969",
+        "name": "Hop n Skip",
+        "shop": "convenience",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5717246,
+          39.2071554
+        ]
+      },
+      "id": "node/792088969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/812722413",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7854525,
+          39.7855574
+        ]
+      },
+      "id": "node/812722413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/812722416",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7848302,
+          39.7848319
+        ]
+      },
+      "id": "node/812722416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/815116962",
+        "addr:city": "Lyons",
+        "addr:housenumber": "1121",
+        "addr:postcode": "67554",
+        "addr:street": "West Main Street",
+        "name": "Alco",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2188876,
+          38.3487289
+        ]
+      },
+      "id": "node/815116962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/815116967",
+        "name": "Quick Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2012373,
+          38.3474299
+        ]
+      },
+      "id": "node/815116967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/824084859",
+        "shop": "convenience",
+        "source": "knowledge;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5087236,
+          39.0195528
+        ]
+      },
+      "id": "node/824084859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/833661632",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6256512,
+          37.7909979
+        ]
+      },
+      "id": "node/833661632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/838291825",
+        "brand": "Kwik Shop",
+        "brand:wikidata": "Q6450417",
+        "brand:wikipedia": "en:Kwik Shop",
+        "name": "Kwik Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2135697,
+          38.9301475
+        ]
+      },
+      "id": "node/838291825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/838291855",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4662456,
+          37.6641613
+        ]
+      },
+      "id": "node/838291855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/838291952",
+        "name": "24/7 Travel Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2150305,
+          38.9386798
+        ]
+      },
+      "id": "node/838291952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890053",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4879526,
+          41.8887986
+        ]
+      },
+      "id": "node/953890053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890062",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883755,
+          41.890985
+        ]
+      },
+      "id": "node/953890062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953909059",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via dei santi Quattro,roma,italy 62022.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968765,
+          41.8889852
+        ]
+      },
+      "id": "node/953909059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/986943472",
+        "name": "Corner Cupboard",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6944104,
+          39.4365108
+        ]
+      },
+      "id": "node/986943472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/994305168",
+        "addr:city": "Hesston",
+        "addr:state": "KS",
+        "is_in:city": "Hesston",
+        "is_in:state": "Kansas",
+        "name": "Hesston Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4324563,
+          38.1381675
+        ]
+      },
+      "id": "node/994305168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1014789610",
+        "name": "Keith's Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3470535,
+          38.2467289
+        ]
+      },
+      "id": "node/1014789610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1028304817",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6307949,
+          38.9571262
+        ]
+      },
+      "id": "node/1028304817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1154217569",
+        "name": "Nancy's Grocery Store",
+        "operator": "locally owned",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.883798,
+          38.0979881
+        ]
+      },
+      "id": "node/1154217569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1154257958",
+        "amenity": "university",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8837216,
+          38.0981137
+        ]
+      },
+      "id": "node/1154257958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1170494282",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942213,
+          41.8900377
+        ]
+      },
+      "id": "node/1170494282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1251735230",
+        "brand": "Dillons",
+        "brand:wikidata": "Q5276954",
+        "name": "Dillons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.920457,
+          37.053505
+        ]
+      },
+      "id": "node/1251735230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1251754307",
+        "name": "The Best Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9241373,
+          37.0246099
+        ]
+      },
+      "id": "node/1251754307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1328175221",
+        "name": "Presto Travel Center",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3541017,
+          38.481775
+        ]
+      },
+      "id": "node/1328175221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1328175481",
+        "name": "K Stores",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3577946,
+          38.4812116
+        ]
+      },
+      "id": "node/1328175481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1329824299",
+        "amenity": "marketplace",
+        "email": "emporiaFM@gmail.com",
+        "name": "Emporia Farmers Market",
+        "phone": "+1 620-343-6555",
+        "website": "https://www.emporiafarmersmarket.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1810923,
+          38.406749
+        ]
+      },
+      "id": "node/1329824299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346098130",
+        "name": "Kwik Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.371042,
+          37.752643
+        ]
+      },
+      "id": "node/1346098130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1349776269",
+        "name": "Quick Trip",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2437854,
+          37.655494
+        ]
+      },
+      "id": "node/1349776269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1357323417",
+        "name": "Presto",
+        "shop": "convenience",
+        "source": "building signage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2440359,
+          37.6650557
+        ]
+      },
+      "id": "node/1357323417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1437205213",
+        "addr:city": "Clay Center",
+        "addr:housenumber": "722",
+        "addr:postcode": "67432",
+        "addr:street": "West Crawford Street",
+        "name": "Ray's Apple Market",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "supermarket",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1469149,
+          39.3803193
+        ]
+      },
+      "id": "node/1437205213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1482564089",
+        "addr:city": "Garden City",
+        "addr:housenumber": "1305",
+        "addr:postcode": "67846",
+        "addr:street": "East Kansas Avenue",
+        "name": "Dillons East",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8578818,
+          37.9764396
+        ]
+      },
+      "id": "node/1482564089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1482648435",
+        "name": "Kwick Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8467613,
+          37.976059
+        ]
+      },
+      "id": "node/1482648435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1482648471",
+        "name": "Dillons West",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8845751,
+          37.9766764
+        ]
+      },
+      "id": "node/1482648471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1482678597",
+        "name": "Country Corner",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8463966,
+          37.9623867
+        ]
+      },
+      "id": "node/1482678597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1500954575",
+        "name": "Asian Market",
+        "origin": "asian",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5959963,
+          39.1679954
+        ]
+      },
+      "id": "node/1500954575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1585038779",
+        "brand": "Dillons",
+        "brand:wikidata": "Q5276954",
+        "name": "Dillons",
+        "shop": "supermarket",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7271236,
+          39.0502765
+        ]
+      },
+      "id": "node/1585038779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1589051340",
+        "name": "Dillons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4969485,
+          37.6770593
+        ]
+      },
+      "id": "node/1589051340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656861982",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883955,
+          41.8907173
+        ]
+      },
+      "id": "node/1656861982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1658598314",
+        "addr:housenumber": "2001",
+        "addr:postcode": "67218",
+        "addr:street": "S. Oliver St.",
+        "designation": "Presto #1638",
+        "name": "Presto",
+        "shop": "convenience",
+        "source": "Building signage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.280804,
+          37.6570463
+        ]
+      },
+      "id": "node/1658598314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1658598334",
+        "addr:housenumber": "2750",
+        "addr:postcode": "67218",
+        "addr:street": "S. Oliver St.",
+        "brand": "Kwik Shop",
+        "brand:wikidata": "Q6450417",
+        "designation": "Kwik Shop #772",
+        "name": "Kwik Shop",
+        "shop": "convenience",
+        "source": "Building signage",
+        "website": "http://KwikShop.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2799376,
+          37.6425544
+        ]
+      },
+      "id": "node/1658598334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1659554654",
+        "name": "Country Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2669006,
+          37.3399212
+        ]
+      },
+      "id": "node/1659554654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1671373835",
+        "name": "Pump 'N Pete's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.259464,
+          37.3323223
+        ]
+      },
+      "id": "node/1671373835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1671589629",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2596027,
+          37.7516308
+        ]
+      },
+      "id": "node/1671589629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685045271",
+        "name": "Shop Quik",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5745676,
+          39.1864608
+        ]
+      },
+      "id": "node/1685045271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1685045282",
+        "name": "Shop Quik",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5741077,
+          39.1863797
+        ]
+      },
+      "id": "node/1685045282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1707557216",
+        "brand": "Price Chopper",
+        "brand:wikidata": "Q7242572",
+        "brand:wikipedia": "en:Price Chopper (supermarket)",
+        "name": "Price Chopper",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6697048,
+          38.853248
+        ]
+      },
+      "id": "node/1707557216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709280191",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-02",
+        "fountain": "bottle_refill",
+        "name:ru": "вода с газом и без. бесплатная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911794,
+          41.891319
+        ]
+      },
+      "id": "node/1709280191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1734882254",
+        "addr:city": "Wichita",
+        "addr:housenumber": "1715",
+        "addr:postcode": "66206",
+        "addr:street": "North Rock Road",
+        "brand": "Natural Grocers",
+        "brand:wikidata": "Q17146520",
+        "name": "Natural Grocers",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2458764,
+          37.7143924
+        ]
+      },
+      "id": "node/1734882254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1798886703",
+        "name": "Pump 'N Pete's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2849749,
+          37.3394761
+        ]
+      },
+      "id": "node/1798886703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1798890268",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2802387,
+          37.3407326
+        ]
+      },
+      "id": "node/1798890268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1798893079",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2710791,
+          37.3409055
+        ]
+      },
+      "id": "node/1798893079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1798909744",
+        "name": "Pump 'N Pete's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2572624,
+          37.340107
+        ]
+      },
+      "id": "node/1798909744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1799538331",
+        "name": "Kabredlo's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2423802,
+          37.339916
+        ]
+      },
+      "id": "node/1799538331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1799573540",
+        "name": "Stockyards Travel Plaza",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2575991,
+          37.3646701
+        ]
+      },
+      "id": "node/1799573540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1853390199",
+        "addr:postcode": "66102",
+        "name": "SunFresh",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6477591,
+          39.0978415
+        ]
+      },
+      "id": "node/1853390199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1890951489",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "brand:wikipedia": "en:Save-A-Lot",
+        "name": "Save-A-Lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7687746,
+          39.1154669
+        ]
+      },
+      "id": "node/1890951489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1890970866",
+        "name": "Price Chopper",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7567551,
+          39.1175925
+        ]
+      },
+      "id": "node/1890970866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1971026127",
+        "name": "Quick Cats",
+        "opening_hours": "Mo-Fr 07:30-23:00; Sa-Su 09:00-24:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5894221,
+          39.1976345
+        ]
+      },
+      "id": "node/1971026127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2002114141",
+        "addr:city": "Manhattan",
+        "addr:housenumber": "1108",
+        "addr:street": "Laramie Street",
+        "name": "Los 3 Amigos",
+        "opening_hours": "Mo-Sa 11:15-19:00; Su 12:15-17:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5737037,
+          39.1849907
+        ]
+      },
+      "id": "node/2002114141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2052941063",
+        "amenity": "marketplace",
+        "name": "Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6976528,
+          39.0508312
+        ]
+      },
+      "id": "node/2052941063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2078774104",
+        "addr:city": "Topeka",
+        "addr:housenumber": "1100",
+        "addr:postcode": "66606",
+        "addr:street": "Southwest 6th Avenue",
+        "building": "commercial",
+        "lbcs:activity:code": "2000",
+        "lbcs:activity:name": "Shopping, business, trade activities",
+        "lbcs:function:code": "2151",
+        "lbcs:function:name": "Grocery store / supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6878731,
+          39.0559289
+        ]
+      },
+      "id": "node/2078774104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2078774341",
+        "addr:city": "Topeka",
+        "addr:housenumber": "1320",
+        "addr:postcode": "66606",
+        "addr:state": "KS",
+        "addr:street": "Southwest 6th Avenue",
+        "building": "commercial",
+        "shop": "convenience",
+        "source": "esri_USDOT_Kansas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6913038,
+          39.0568356
+        ]
+      },
+      "id": "node/2078774341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2081326473",
+        "addr:city": "Topeka",
+        "addr:housenumber": "102",
+        "addr:postcode": "66605",
+        "addr:street": "Southeast 37th Street",
+        "building": "commercial",
+        "lbcs:activity:code": "2110",
+        "lbcs:activity:name": "Goods",
+        "lbcs:function:code": "2152",
+        "lbcs:function:name": "Convenience store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6796811,
+          39.0010283
+        ]
+      },
+      "id": "node/2081326473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2081328680",
+        "addr:city": "Topeka",
+        "addr:housenumber": "1245",
+        "addr:postcode": "66605",
+        "addr:street": "Southeast 29th Street",
+        "building": "commercial",
+        "lbcs:activity:code": "2110",
+        "lbcs:activity:name": "Goods",
+        "lbcs:function:code": "2152",
+        "lbcs:function:name": "Convenience store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6613665,
+          39.0150383
+        ]
+      },
+      "id": "node/2081328680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2081330566",
+        "addr:city": "Topeka",
+        "addr:housenumber": "1611",
+        "addr:postcode": "66605",
+        "addr:street": "Southeast 29th Street",
+        "building": "commercial",
+        "lbcs:activity:code": "2110",
+        "lbcs:activity:name": "Goods",
+        "lbcs:function:code": "2152",
+        "lbcs:function:name": "Convenience store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6566619,
+          39.0147487
+        ]
+      },
+      "id": "node/2081330566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2081354236",
+        "addr:city": "Topeka",
+        "addr:housenumber": "5977",
+        "addr:postcode": "66614",
+        "addr:street": "Southwest 29th Street",
+        "building": "commercial",
+        "lbcs:activity:code": "2110",
+        "lbcs:activity:name": "Goods",
+        "lbcs:function:code": "2152",
+        "lbcs:function:name": "Convenience store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7618004,
+          39.0142429
+        ]
+      },
+      "id": "node/2081354236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2081747436",
+        "addr:city": "Topeka",
+        "addr:housenumber": "2024",
+        "addr:postcode": "66607",
+        "addr:street": "Southeast California Avenue",
+        "building": "commercial",
+        "lbcs:activity:code": "2110",
+        "lbcs:activity:name": "Goods",
+        "lbcs:function:code": "2152",
+        "lbcs:function:name": "Convenience store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6506022,
+          39.0312269
+        ]
+      },
+      "id": "node/2081747436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2081748604",
+        "addr:city": "Topeka",
+        "addr:housenumber": "2701",
+        "addr:postcode": "66605",
+        "addr:street": "Southeast California Avenue",
+        "building": "commercial",
+        "lbcs:activity:code": "2110",
+        "lbcs:activity:name": "Goods",
+        "lbcs:function:code": "2152",
+        "lbcs:function:name": "Convenience store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6518344,
+          39.01865
+        ]
+      },
+      "id": "node/2081748604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2081748842",
+        "addr:city": "Topeka",
+        "addr:housenumber": "4431",
+        "addr:postcode": "66609",
+        "addr:street": "Southeast California Avenue",
+        "building": "commercial",
+        "lbcs:activity:code": "2110",
+        "lbcs:activity:name": "Goods",
+        "lbcs:function:code": "2152",
+        "lbcs:function:name": "Convenience store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6521397,
+          38.986592
+        ]
+      },
+      "id": "node/2081748842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2081835809",
+        "addr:city": "Topeka",
+        "addr:housenumber": "1905",
+        "addr:postcode": "66616",
+        "addr:street": "Northeast Seward Avenue",
+        "building": "commercial",
+        "lbcs:activity:code": "2110",
+        "lbcs:activity:name": "Goods",
+        "lbcs:function:code": "2151",
+        "lbcs:function:name": "Grocery store / supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.645526,
+          39.0585344
+        ]
+      },
+      "id": "node/2081835809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2081844723",
+        "addr:city": "Topeka",
+        "addr:housenumber": "2518",
+        "addr:postcode": "66616",
+        "addr:street": "Northeast Seward Avenue",
+        "building": "commercial",
+        "lbcs:activity:code": "2110",
+        "lbcs:activity:name": "Goods",
+        "lbcs:function:code": "2152",
+        "lbcs:function:name": "Convenience store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6391865,
+          39.0590849
+        ]
+      },
+      "id": "node/2081844723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2081846153",
+        "addr:city": "Topeka",
+        "addr:housenumber": "2620",
+        "addr:postcode": "66616",
+        "addr:street": "Northeast Sardou Avenue",
+        "building": "commercial",
+        "lbcs:activity:code": "2110",
+        "lbcs:activity:name": "Goods",
+        "lbcs:function:code": "2151",
+        "lbcs:function:name": "Grocery store / supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6381832,
+          39.0664638
+        ]
+      },
+      "id": "node/2081846153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2081846154",
+        "addr:city": "Topeka",
+        "addr:housenumber": "2620",
+        "addr:postcode": "66616",
+        "addr:street": "Northeast Sardou Avenue",
+        "building": "commercial",
+        "lbcs:activity:code": "2110",
+        "lbcs:activity:name": "Goods",
+        "lbcs:function:code": "2151",
+        "lbcs:function:name": "Grocery store / supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6376754,
+          39.0664648
+        ]
+      },
+      "id": "node/2081846154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2081848852",
+        "addr:city": "Topeka",
+        "addr:housenumber": "2901",
+        "addr:postcode": "66605",
+        "addr:street": "Southeast Fremont Street",
+        "building": "commercial",
+        "lbcs:activity:code": "2110",
+        "lbcs:activity:name": "Goods",
+        "lbcs:function:code": "2152",
+        "lbcs:function:name": "Convenience store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6753219,
+          39.0149239
+        ]
+      },
+      "id": "node/2081848852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2081862276",
+        "addr:city": "Topeka",
+        "addr:housenumber": "3824",
+        "addr:postcode": "66609",
+        "addr:street": "Southwest Topeka Boulevard",
+        "building": "commercial",
+        "lbcs:activity:code": "2110",
+        "lbcs:activity:name": "Goods",
+        "lbcs:function:code": "2152",
+        "lbcs:function:name": "Convenience store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6871315,
+          38.996591
+        ]
+      },
+      "id": "node/2081862276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2081868670",
+        "addr:city": "Topeka",
+        "addr:housenumber": "4700",
+        "addr:postcode": "66618",
+        "addr:street": "Northwest Hunters Ridge Circle",
+        "building": "commercial",
+        "lbcs:activity:code": "2110",
+        "lbcs:activity:name": "Goods",
+        "lbcs:function:code": "2152",
+        "lbcs:function:name": "Convenience store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7172013,
+          39.1314438
+        ]
+      },
+      "id": "node/2081868670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2081874022",
+        "addr:city": "Topeka",
+        "addr:housenumber": "600",
+        "addr:postcode": "66607",
+        "addr:street": "Southeast Rice Road",
+        "building": "commercial",
+        "lbcs:activity:code": "2110",
+        "lbcs:activity:name": "Goods",
+        "lbcs:function:code": "2152",
+        "lbcs:function:name": "Convenience store",
+        "name": "Casey's",
+        "name:en": "Casey's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6218538,
+          39.0432786
+        ]
+      },
+      "id": "node/2081874022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2086389462",
+        "addr:city": "Leawood",
+        "addr:housenumber": "4201",
+        "addr:postcode": "66209",
+        "addr:state": "KS",
+        "addr:street": "West 119th Street",
+        "brand": "Trader Joe's",
+        "brand:wikidata": "Q688825",
+        "brand:wikipedia": "en:Trader Joe's",
+        "name": "Trader Joe's",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "phone": "+1- 913-327-7209",
+        "shop": "supermarket",
+        "source": "survey;website",
+        "website": "https://locations.traderjoes.com/ks/leawood/723/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6359163,
+          38.9124389
+        ]
+      },
+      "id": "node/2086389462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2088375582",
+        "addr:city": "Topeka",
+        "addr:housenumber": "1507",
+        "addr:postcode": "66604",
+        "addr:state": "KS",
+        "addr:street": "Southwest 21st Street",
+        "contact:phone": "+1 785 235-9710",
+        "name": "The Health Food Mart",
+        "office": "commercial",
+        "shop": "supermarket",
+        "supermarket": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.695918,
+          39.0283458
+        ]
+      },
+      "id": "node/2088375582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2096347186",
+        "atm": "yes",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's General Stores",
+        "car_wash": "no",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7391,
+          38.204301
+        ]
+      },
+      "id": "node/2096347186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2096349773",
+        "addr:postcode": "66839",
+        "name": "Hoover's Grocery Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.737626,
+          38.20696
+        ]
+      },
+      "id": "node/2096349773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2099117537",
+        "name": "JB's One Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7371327,
+          38.9570543
+        ]
+      },
+      "id": "node/2099117537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2110012278",
+        "name": "Presto",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4434197,
+          37.671754
+        ]
+      },
+      "id": "node/2110012278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2147179959",
+        "brand": "Dillons",
+        "brand:wikidata": "Q5276954",
+        "name": "Dillons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7447505,
+          39.026673
+        ]
+      },
+      "id": "node/2147179959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2155605113",
+        "addr:housenumber": "1906",
+        "addr:postcode": "67156",
+        "addr:street": "East 9th Avenue",
+        "name": "Apple Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9737709,
+          37.2425861
+        ]
+      },
+      "id": "node/2155605113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2166196311",
+        "addr:city": "Lenexa",
+        "addr:housenumber": "13400",
+        "addr:postcode": "66215",
+        "addr:street": "West 87th Street",
+        "name": "Hy-Vee",
+        "phone": "(913) 438-8308",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7411988,
+          38.9721817
+        ]
+      },
+      "id": "node/2166196311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2188034343",
+        "addr:city": "Rossville",
+        "addr:housenumber": "215",
+        "addr:postcode": "66533",
+        "addr:state": "KS",
+        "addr:street": "East Highway 24 Trafficway",
+        "name": "Casey's General Store",
+        "shop": "convenience",
+        "source": "esri_USDOT_Kansas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9501467,
+          39.1343385
+        ]
+      },
+      "id": "node/2188034343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2193730427",
+        "addr:housenumber": "11350",
+        "addr:postcode": "66213",
+        "addr:street": "W 135th Street",
+        "name": "7 11",
+        "shop": "convenience",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7180927,
+          38.8843416
+        ]
+      },
+      "id": "node/2193730427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2195091130",
+        "addr:postcode": "66213",
+        "addr:street": "W 133rd St",
+        "name": "KC India Mart",
+        "shop": "convenience",
+        "source": "local-knowledge",
+        "website": "kcimart.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6848435,
+          38.8870735
+        ]
+      },
+      "id": "node/2195091130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2274591178",
+        "name": "The End Zone Mini Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0780782,
+          38.6934858
+        ]
+      },
+      "id": "node/2274591178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2295088884",
+        "addr:city": "Overland Park",
+        "addr:housename": "8686",
+        "addr:housenumber": "8686",
+        "addr:postcode": "66212",
+        "addr:state": "KS",
+        "addr:street": "Antioch Road",
+        "brand": "Price Chopper",
+        "brand:wikidata": "Q7242572",
+        "brand:wikipedia": "en:Price Chopper (supermarket)",
+        "name": "Price Chopper",
+        "shop": "supermarket",
+        "website": "http://www.mypricechopper.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6873258,
+          38.9717683
+        ]
+      },
+      "id": "node/2295088884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2336107177",
+        "addr:city": "Ulysses",
+        "addr:state": "KS",
+        "is_in:city": "Ulysses",
+        "is_in:state": "Kansas",
+        "is_in:state_code": "KS",
+        "name": "Alco",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3524282,
+          37.5756882
+        ]
+      },
+      "id": "node/2336107177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2338822204",
+        "addr:housenumber": "205",
+        "addr:street": "North Aztec Street",
+        "name": "Harvest Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.44258,
+          37.5975551
+        ]
+      },
+      "id": "node/2338822204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2341494240",
+        "name": "Larry's Hometown Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0299169,
+          37.1524584
+        ]
+      },
+      "id": "node/2341494240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2348609714",
+        "name": "Karl's Apple Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6071149,
+          37.0326552
+        ]
+      },
+      "id": "node/2348609714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363922951",
+        "addr:city": "Lincoln",
+        "addr:housenumber": "123",
+        "addr:postcode": "67455",
+        "addr:street": "South 4th Street",
+        "name": "Lincoln Grocery",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1474902,
+          39.0395738
+        ]
+      },
+      "id": "node/2363922951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2366902928",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1193659,
+          39.4807536
+        ]
+      },
+      "id": "node/2366902928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2371733986",
+        "amenity": "marketplace",
+        "designation": "Farm Market",
+        "name": "Meadowlark Farm Fresh Fruit & Vegetables",
+        "source": "Tom Brown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0477272,
+          37.5900101
+        ]
+      },
+      "id": "node/2371733986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2448990065",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2412561,
+          37.5636255
+        ]
+      },
+      "id": "node/2448990065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2474859101",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6209079,
+          39.0443915
+        ]
+      },
+      "id": "node/2474859101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2476134521",
+        "name": "Dillons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6235281,
+          38.8259596
+        ]
+      },
+      "id": "node/2476134521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537299968",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "indoor": "no",
+        "wikimedia_commons": "File:Nasone via mecenate, Roma, Italia Jun 30, 2022 06-19-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4987211,
+          41.8911676
+        ]
+      },
+      "id": "node/2537299968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2554834897",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "name": "Whole Foods Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6621811,
+          38.9116227
+        ]
+      },
+      "id": "node/2554834897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2554870965",
+        "name": "Hen House",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6376854,
+          38.9149992
+        ]
+      },
+      "id": "node/2554870965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2572580183",
+        "brand": "Price Chopper",
+        "brand:wikidata": "Q7242572",
+        "brand:wikipedia": "en:Price Chopper (supermarket)",
+        "name": "Price Chopper",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2152881,
+          38.4063836
+        ]
+      },
+      "id": "node/2572580183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2572722456",
+        "name": "Reebles Country Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1811234,
+          38.4106711
+        ]
+      },
+      "id": "node/2572722456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2580505381",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8207197,
+          38.638106
+        ]
+      },
+      "id": "node/2580505381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2582050923",
+        "amenity": "health_food_store",
+        "name": "Nature's Paradise",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1993743,
+          38.4047259
+        ]
+      },
+      "id": "node/2582050923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2588738188",
+        "name": "Dillons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1675946,
+          38.4130021
+        ]
+      },
+      "id": "node/2588738188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2631982418",
+        "addr:city": "Westmoreland",
+        "addr:housenumber": "314",
+        "addr:postcode": "66549",
+        "addr:street": "Main Street",
+        "name": "Westy Country Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4127985,
+          39.3931192
+        ]
+      },
+      "id": "node/2631982418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2637684412",
+        "name": "Natural Grocers",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.668701,
+          38.9625191
+        ]
+      },
+      "id": "node/2637684412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2645060189",
+        "addr:city": "Herington",
+        "addr:housenumber": "327",
+        "addr:postcode": "67449",
+        "addr:state": "KS",
+        "addr:street": "West Walnut Street",
+        "name": "West Walnut Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9483214,
+          38.6703405
+        ]
+      },
+      "id": "node/2645060189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2645069430",
+        "addr:city": "Herington",
+        "addr:housename": "Ampride",
+        "addr:housenumber": "301",
+        "addr:postcode": "67449",
+        "addr:state": "KS",
+        "addr:street": "West Walnut Street",
+        "name": "Ampride",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9472461,
+          38.6702805
+        ]
+      },
+      "id": "node/2645069430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2645072179",
+        "addr:city": "Herington",
+        "addr:housenumber": "119",
+        "addr:postcode": "67449",
+        "addr:street": "North Broadway Street",
+        "name": "Barnes Food Center",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.944408,
+          38.6721175
+        ]
+      },
+      "id": "node/2645072179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2679823973",
+        "level": "1",
+        "name": "Cat's Den",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 11:00-22:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5825573,
+          39.1882306
+        ]
+      },
+      "id": "node/2679823973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2708102515",
+        "addr:housenumber": "4746",
+        "name": "Speedway Super Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6896528,
+          39.1287125
+        ]
+      },
+      "id": "node/2708102515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2741362620",
+        "addr:city": "Lawrence",
+        "addr:housenumber": "2220",
+        "addr:postcode": "66046",
+        "addr:state": "KS",
+        "addr:street": "Harper Street",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2135195,
+          38.9432508
+        ]
+      },
+      "id": "node/2741362620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2786419071",
+        "addr:city": "Overland Park",
+        "addr:country": "US",
+        "addr:housenumber": "6821",
+        "addr:postcode": "66223",
+        "addr:street": "West 135th Street",
+        "brand": "Sprouts Farmers Market",
+        "brand:wikidata": "Q7581369",
+        "name": "Sprouts Farmers Market",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "organic": "yes",
+        "phone": "+1 913-643-4190",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6654514,
+          38.8821989
+        ]
+      },
+      "id": "node/2786419071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2802694550",
+        "name": "Road Runners",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7383005,
+          39.1164578
+        ]
+      },
+      "id": "node/2802694550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2829819921",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6371823,
+          38.8745096
+        ]
+      },
+      "id": "node/2829819921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864344829",
+        "amenity": "restaurant",
+        "contact:phone": "785-856-0080",
+        "cuisine": "indian",
+        "name": "Cosmos Indian Store",
+        "shop": "convenience",
+        "website": "http://www.cosmosks.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.235714,
+          38.9699472
+        ]
+      },
+      "id": "node/2864344829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864935123",
+        "addr:city": "Lawrence",
+        "addr:housenumber": "14",
+        "addr:postcode": "66044",
+        "addr:state": "KS",
+        "addr:street": "East 8th Street",
+        "facebook": "https://www.facebook.com/pages/Tobacco-Bazaar-Gifts/478079558900665?fref=ts",
+        "name": "Tobacco Bazaar & Gifts",
+        "phone": "(785) 856-0038",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2351629,
+          38.9695139
+        ]
+      },
+      "id": "node/2864935123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2903008901",
+        "name": "Flying J",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5924683,
+          38.879021
+        ]
+      },
+      "id": "node/2903008901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2906572796",
+        "name": "Presto",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4489948,
+          37.596822
+        ]
+      },
+      "id": "node/2906572796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2906575206",
+        "name": "Rolla's Corner Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6351364,
+          37.1204506
+        ]
+      },
+      "id": "node/2906575206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2906575812",
+        "name": "Alco",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3554396,
+          37.1690039
+        ]
+      },
+      "id": "node/2906575812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2957958635",
+        "name": "KwikShop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7505761,
+          37.6452031
+        ]
+      },
+      "id": "node/2957958635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2981294111",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6869479,
+          39.1281058
+        ]
+      },
+      "id": "node/2981294111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3119792333",
+        "name": "Short Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5254118,
+          39.1944859
+        ]
+      },
+      "id": "node/3119792333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3207009645",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9815735,
+          37.7662228
+        ]
+      },
+      "id": "node/3207009645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3258205205",
+        "addr:housenumber": "10118",
+        "addr:street": "West 119th Street",
+        "bulk_purchase": "yes",
+        "email": "customerservice@888intlmarket.com",
+        "name": "888 Int'l Market",
+        "opening_hours": "Mo-Su 10:00-20:00; Fr 09:00-20:00; Sa 09:00-21:00",
+        "phone": "+1 913 341 8700",
+        "shop": "supermarket",
+        "website": "http://888intlmarket.com/888/index.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7027833,
+          38.9149184
+        ]
+      },
+      "id": "node/3258205205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3260069635",
+        "addr:city": "Paola",
+        "addr:postcode": "66071",
+        "addr:state": "KS",
+        "name": "Queen's Price Chopper",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8630442,
+          38.5731791
+        ]
+      },
+      "id": "node/3260069635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3388080609",
+        "name": "Hen House Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.725898,
+          38.9287082
+        ]
+      },
+      "id": "node/3388080609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3679481072",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.275725,
+          37.8180989
+        ]
+      },
+      "id": "node/3679481072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3679489300",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2937886,
+          37.8219302
+        ]
+      },
+      "id": "node/3679489300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3679489303",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2959743,
+          37.8175733
+        ]
+      },
+      "id": "node/3679489303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3709961173",
+        "addr:city": "Lenexa",
+        "addr:housenumber": "15000",
+        "addr:postcode": "66215",
+        "addr:state": "KS",
+        "addr:street": "West 86th Street",
+        "name": "Hen House Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7597848,
+          38.9724705
+        ]
+      },
+      "id": "node/3709961173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785014818",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934389,
+          41.8873381
+        ]
+      },
+      "id": "node/3785014818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3789269124",
+        "addr:city": "Olathe",
+        "addr:housenumber": "14615",
+        "addr:postcode": "66062",
+        "addr:state": "KS",
+        "addr:street": "West 119th Street",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "name": "Whole Foods Market",
+        "opening_hours": "07:30-22:00",
+        "shop": "supermarket",
+        "website": "https://www.wholefoodsmarket.com/stores/olathe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7565642,
+          38.9114558
+        ]
+      },
+      "id": "node/3789269124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3811721657",
+        "addr:housenumber": "1100",
+        "addr:street": "East Santa Fe Street",
+        "name": "Santa Fe Fuel",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8003636,
+          38.8840699
+        ]
+      },
+      "id": "node/3811721657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3818179759",
+        "name": "Presto",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2326048,
+          38.9903092
+        ]
+      },
+      "id": "node/3818179759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3835279093",
+        "addr:city": "Paola",
+        "addr:housenumber": "202",
+        "addr:postcode": "66071",
+        "addr:state": "KS",
+        "addr:street": "Angela Street",
+        "name": "Park Plaza 66",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8602656,
+          38.5723117
+        ]
+      },
+      "id": "node/3835279093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3835279098",
+        "addr:city": "Paola",
+        "addr:country": "US",
+        "addr:housenumber": "310",
+        "addr:postcode": "66071",
+        "addr:state": "KS",
+        "addr:street": "Hedge Lane",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-01:00",
+        "operator": "Walmart",
+        "phone": "+1-913-294-5400",
+        "ref:walmart": "242",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/242/paola-ks/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.857295,
+          38.573605
+        ]
+      },
+      "id": "node/3835279098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3950530852",
+        "name": "QuickTrip",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4270746,
+          37.7571236
+        ]
+      },
+      "id": "node/3950530852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3981193258",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's General Stores",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7470336,
+          39.4635387
+        ]
+      },
+      "id": "node/3981193258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4113154990",
+        "name": "Strong City Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5388887,
+          38.3952837
+        ]
+      },
+      "id": "node/4113154990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4230922589",
+        "name": "Kiers Thriftway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2110635,
+          39.7865924
+        ]
+      },
+      "id": "node/4230922589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4232609532",
+        "name": "Cuba Cash Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4579944,
+          39.8005241
+        ]
+      },
+      "id": "node/4232609532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4285564189",
+        "name": "Bonito Michocan",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6463216,
+          39.1156694
+        ]
+      },
+      "id": "node/4285564189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4326830690",
+        "addr:street": "Seneca",
+        "name": "Dillon's",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3536846,
+          37.6359639
+        ]
+      },
+      "id": "node/4326830690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4332601892",
+        "addr:city": "Wichita",
+        "addr:country": "US",
+        "addr:county": "Sedgwick, KS",
+        "addr:housenumber": "2826",
+        "addr:postcode": "67217",
+        "addr:state": "KS",
+        "addr:street": "South Seneca Street",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3516558,
+          37.6432487
+        ]
+      },
+      "id": "node/4332601892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4373115497",
+        "addr:city": "Wilson",
+        "addr:housenumber": "2546",
+        "addr:postcode": "67490",
+        "addr:street": "Avenue E",
+        "name": "Wilson Family Foods",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-16:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4740691,
+          38.8257412
+        ]
+      },
+      "id": "node/4373115497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405248920",
+        "addr:city": "Kansas City",
+        "addr:housenumber": "1710",
+        "addr:state": "KS",
+        "addr:street": "Minnesota Avenue",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6484599,
+          39.1158982
+        ]
+      },
+      "id": "node/4405248920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4408842695",
+        "brand": "QuikTrip",
+        "brand:wikidata": "Q7271953",
+        "brand:wikipedia": "en:QuikTrip",
+        "name": "QuikTrip",
+        "name:en": "QuikTrip",
+        "shop": "convenience",
+        "short_name": "QT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2600367,
+          38.9671969
+        ]
+      },
+      "id": "node/4408842695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4435302130",
+        "addr:city": "Fort Riley",
+        "addr:housenumber": "2310",
+        "addr:postcode": "66442",
+        "addr:state": "KS",
+        "addr:street": "Trooper Drive",
+        "email": "FortRiley.commissary@deca.mil",
+        "name": "Fort Riley Commissary",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+        "operator": "DeCA",
+        "phone": "+1 785 239 3737",
+        "shop": "supermarket",
+        "website": "https://www.commissaries.com/shopping/store-locations/fort-riley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8261437,
+          39.0641621
+        ]
+      },
+      "id": "node/4435302130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4435302360",
+        "addr:city": "Fort Riley",
+        "addr:housenumber": "2210",
+        "addr:postcode": "66442",
+        "addr:state": "KS",
+        "addr:street": "Trooper Drive",
+        "name": "Fort Riley Main Exchange",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+        "operator": "AAFES",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8261866,
+          39.0622211
+        ]
+      },
+      "id": "node/4435302360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4451016913",
+        "name": "Sapp Bros",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8638224,
+          39.001299
+        ]
+      },
+      "id": "node/4451016913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4462618407",
+        "name": "Price Chopper",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8132913,
+          38.9431498
+        ]
+      },
+      "id": "node/4462618407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4470320690",
+        "brand": "Kwik Shop",
+        "brand:wikidata": "Q6450417",
+        "brand:wikipedia": "en:Kwik Shop",
+        "name": "Kwik Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6138926,
+          38.783004
+        ]
+      },
+      "id": "node/4470320690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4484849068",
+        "name": "Comercial Mexicana",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9752283,
+          38.9726759
+        ]
+      },
+      "id": "node/4484849068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4497332427",
+        "addr:city": "McPherson",
+        "addr:housenumber": "2400",
+        "addr:postcode": "67460",
+        "addr:street": "East Kansas Avenue",
+        "brand": "Love's",
+        "brand:wikidata": "Q1872496",
+        "brand:wikipedia": "en:Love's",
+        "name": "Love's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6151475,
+          38.3700949
+        ]
+      },
+      "id": "node/4497332427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4497333289",
+        "name": "Dillons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.388425,
+          37.6935107
+        ]
+      },
+      "id": "node/4497333289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4534846854",
+        "amenity": "cafe",
+        "name": "Old Riverton Store",
+        "phone": "+1 620 848 3330",
+        "shop": "convenience",
+        "website": "http://www.eislerbros.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7027359,
+          37.0751491
+        ]
+      },
+      "id": "node/4534846854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537503836",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1114921,
+          38.8570014
+        ]
+      },
+      "id": "node/4537503836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4627671001",
+        "addr:city": "Cheney",
+        "addr:housenumber": "412",
+        "addr:postcode": "67025",
+        "addr:state": "KS",
+        "addr:street": "North Main Street",
+        "name": "Jim's Apple Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7812282,
+          37.6304546
+        ]
+      },
+      "id": "node/4627671001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4629397184",
+        "addr:city": "Stafford",
+        "addr:housenumber": "309",
+        "addr:postcode": "67578",
+        "addr:street": "South Main Street",
+        "name": "Paul's Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6005628,
+          37.9590065
+        ]
+      },
+      "id": "node/4629397184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4630256208",
+        "addr:city": "Kingman",
+        "addr:housenumber": "858",
+        "addr:postcode": "67068",
+        "addr:street": "East D Avenue",
+        "name": "White's Food Liner",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1000041,
+          37.6471194
+        ]
+      },
+      "id": "node/4630256208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4670340389",
+        "addr:postcode": "66612",
+        "name": "Ginny's Gift Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6759483,
+          39.0464065
+        ]
+      },
+      "id": "node/4670340389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4723304200",
+        "name": "Dillons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2064856,
+          38.2080052
+        ]
+      },
+      "id": "node/4723304200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4773312719",
+        "brand": "Dillons",
+        "brand:wikidata": "Q5276954",
+        "brand:wikipedia": "en:Dillons",
+        "name": "Dillons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7941016,
+          38.359971
+        ]
+      },
+      "id": "node/4773312719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4790788064",
+        "name": "Hometown Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5334197,
+          39.7498283
+        ]
+      },
+      "id": "node/4790788064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4799418367",
+        "name": "Valley Supply & Rental",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6965089,
+          38.3696357
+        ]
+      },
+      "id": "node/4799418367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4949316863",
+        "brand": "Sprouts Farmers Market",
+        "brand:wikidata": "Q7581369",
+        "brand:wikipedia": "en:Sprouts Farmers Market",
+        "name": "Sprouts Farmers Market",
+        "shop": "supermarket",
+        "short_name": "Sprouts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6495106,
+          38.9548373
+        ]
+      },
+      "id": "node/4949316863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4972950736",
+        "name": "Pan-Asia Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6697329,
+          38.9117162
+        ]
+      },
+      "id": "node/4972950736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5078043670",
+        "addr:city": "Marysville",
+        "name": "CJ Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6525237,
+          39.8419367
+        ]
+      },
+      "id": "node/5078043670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5212044288",
+        "addr:city": "Lebanon",
+        "addr:housenumber": "415",
+        "addr:postcode": "66952",
+        "addr:state": "KS",
+        "addr:street": "Main Street",
+        "name": "Ladow's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5555647,
+          39.8089813
+        ]
+      },
+      "id": "node/5212044288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5228410109",
+        "name": "Wood's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8793936,
+          39.0577986
+        ]
+      },
+      "id": "node/5228410109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5487143199",
+        "name": "Rod's 66",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6110675,
+          38.7985583
+        ]
+      },
+      "id": "node/5487143199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5615439853",
+        "name": "Love's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7220147,
+          37.6462873
+        ]
+      },
+      "id": "node/5615439853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5615840983",
+        "name": "KwikShop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9393575,
+          38.0148625
+        ]
+      },
+      "id": "node/5615840983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5644399867",
+        "brand": "Kwik Shop",
+        "brand:wikidata": "Q6450417",
+        "brand:wikipedia": "en:Kwik Shop",
+        "name": "Kwik Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7919008,
+          38.3659407
+        ]
+      },
+      "id": "node/5644399867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5692191608",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8630527,
+          39.3641604
+        ]
+      },
+      "id": "node/5692191608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5758964484",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's General Stores",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0917333,
+          39.4592759
+        ]
+      },
+      "id": "node/5758964484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5767015190",
+        "level": "1",
+        "name": "AAFES Bookstore",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9164204,
+          39.3442598
+        ]
+      },
+      "id": "node/5767015190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5854125650",
+        "name": "J.R. Surefine",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4172455,
+          39.7019806
+        ]
+      },
+      "id": "node/5854125650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5912481683",
+        "description": "European Grocery",
+        "name": "European Delights",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6889379,
+          38.9559253
+        ]
+      },
+      "id": "node/5912481683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6109289571",
+        "addr:city": "Wichita",
+        "addr:housenumber": "5612",
+        "addr:postcode": "67218",
+        "addr:state": "KS",
+        "addr:street": "E Lincoln St",
+        "name": "N & J Global Market",
+        "opening_hours": "Mo-Th 11:00-19:00; Fr,Sa 10:30-20:00",
+        "phone": "+1 316-765-7707",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2706539,
+          37.6722811
+        ]
+      },
+      "id": "node/6109289571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6209217135",
+        "name": "Shop Quick",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.63931,
+          39.1913587
+        ]
+      },
+      "id": "node/6209217135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6268072848",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3534828,
+          37.6902916
+        ]
+      },
+      "id": "node/6268072848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6311561481",
+        "name": "Kirkland's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7629619,
+          38.9103461
+        ]
+      },
+      "id": "node/6311561481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6318870857",
+        "name": "People's Grocery",
+        "opening_hours": "Su-Fr 10:00-20:00; Su 09:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5824928,
+          39.1746828
+        ]
+      },
+      "id": "node/6318870857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6357826867",
+        "addr:city": "Kansas City",
+        "addr:housenumber": "10950",
+        "addr:state": "KS",
+        "addr:street": "Parallel Parkway",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8343438,
+          39.1292559
+        ]
+      },
+      "id": "node/6357826867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6401050708",
+        "addr:city": "Overland Park",
+        "addr:housenumber": "9974",
+        "addr:postcode": "66212",
+        "addr:state": "KS",
+        "addr:street": "West 87th Street",
+        "amenity": "marketplace",
+        "name": "Carniceria Lupita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7029404,
+          38.9716416
+        ]
+      },
+      "id": "node/6401050708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6401063157",
+        "addr:city": "Shawnee",
+        "addr:housenumber": "10912",
+        "addr:postcode": "66203",
+        "addr:state": "KS",
+        "addr:street": "West 74th Terrace",
+        "amenity": "marketplace",
+        "name": "El Paisano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7122113,
+          38.9942719
+        ]
+      },
+      "id": "node/6401063157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6468458049",
+        "name": "Circle N",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7822402,
+          36.2048269
+        ]
+      },
+      "id": "node/6468458049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6875769347",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3347732,
+          37.6970183
+        ]
+      },
+      "id": "node/6875769347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6881824050",
+        "branch": "grocery store",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6099543,
+          38.9901402
+        ]
+      },
+      "id": "node/6881824050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7468130158",
+        "addr:city": "Liberal",
+        "addr:housenumber": "8",
+        "addr:postcode": "67901",
+        "addr:state": "KS",
+        "addr:street": "South Lincoln Avenue",
+        "brand": "Moneygram, Viamericas, Intermex, Sigue, Boss Revolution",
+        "fax": "+1-620-604-5014",
+        "name": "Tienda Los Catrachos",
+        "opening_hours": "Mo-Su 10:00-20:30",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "phone": "620604514",
+        "shop": "convenience",
+        "start_date": "2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.923789,
+          37.0394078
+        ]
+      },
+      "id": "node/7468130158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7598431652",
+        "addr:city": "Wakefield",
+        "addr:country": "US",
+        "addr:housenumber": "701",
+        "addr:postcode": "67487",
+        "addr:state": "KS",
+        "addr:street": "Elm Street",
+        "amenity": "fuel",
+        "brand": "Short Stop",
+        "cuisine": "pizza",
+        "food": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "name": "Short Stop #3",
+        "operator": "Leiszler Oil",
+        "phone": "+1 785 461 5785",
+        "shop": "convenience",
+        "takeaway": "yes",
+        "website": "https://shortstop.leiszler.com/locations/location/short-stop-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0152748,
+          39.2170226
+        ]
+      },
+      "id": "node/7598431652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7616120877",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's General Stores",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5265412,
+          39.8433082
+        ]
+      },
+      "id": "node/7616120877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7616219086",
+        "amenity": "marketplace",
+        "name": "Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5266302,
+          39.84731
+        ]
+      },
+      "id": "node/7616219086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7633736675",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7293863,
+          39.7033607
+        ]
+      },
+      "id": "node/7633736675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7769770882",
+        "addr:city": "Wichita",
+        "addr:housenumber": "3137",
+        "addr:postcode": "67217",
+        "addr:state": "KS",
+        "addr:street": "South Seneca Street",
+        "air_conditioning": "yes",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "07:00-20:30",
+        "opening_hours:covid19": "same",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3542217,
+          37.6380625
+        ]
+      },
+      "id": "node/7769770882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7906539998",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3351126,
+          37.8058606
+        ]
+      },
+      "id": "node/7906539998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7914977551",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7705233,
+          37.3097251
+        ]
+      },
+      "id": "node/7914977551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7935137175",
+        "name": "Grace Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2797152,
+          37.6684212
+        ]
+      },
+      "id": "node/7935137175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7960151802",
+        "addr:city": "Wichita",
+        "addr:country": "US",
+        "addr:county": "Sedgwick, KS",
+        "addr:housenumber": "6835",
+        "addr:postcode": "67206",
+        "addr:state": "KS",
+        "addr:street": "East 21st Street",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "phone": "+18559552534",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2583091,
+          37.7221382
+        ]
+      },
+      "id": "node/7960151802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8270453292",
+        "name": "Natural Grocers",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6648575,
+          39.0219047
+        ]
+      },
+      "id": "node/8270453292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8638460966",
+        "addr:city": "Wichita",
+        "addr:country": "US",
+        "addr:county": "Sedgwick, KS",
+        "addr:housenumber": "8011",
+        "addr:postcode": "67207",
+        "addr:state": "KS",
+        "addr:street": "East Kellogg Avenue",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2431815,
+          37.6780618
+        ]
+      },
+      "id": "node/8638460966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8638460978",
+        "name": "Auburn Wine and Spirits",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.243735,
+          37.6912959
+        ]
+      },
+      "id": "node/8638460978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8663463398",
+        "addr:city": "Wichita",
+        "addr:country": "US",
+        "addr:county": "Sedgwick, KS",
+        "addr:housenumber": "765",
+        "addr:postcode": "67212",
+        "addr:state": "KS",
+        "addr:street": "North Maize Road",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4635141,
+          37.6961352
+        ]
+      },
+      "id": "node/8663463398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8663467214",
+        "addr:city": "Derby",
+        "addr:country": "US",
+        "addr:county": "Sedgwick, KS",
+        "addr:housenumber": "1719",
+        "addr:postcode": "67037",
+        "addr:state": "KS",
+        "addr:street": "North Rock Road",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2451481,
+          37.5646716
+        ]
+      },
+      "id": "node/8663467214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8663478838",
+        "addr:city": "Hutchinson",
+        "addr:country": "US",
+        "addr:county": "Reno, KS",
+        "addr:housenumber": "1711",
+        "addr:postcode": "67502",
+        "addr:state": "KS",
+        "addr:street": "Waldron Street",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8978489,
+          38.074032
+        ]
+      },
+      "id": "node/8663478838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8663501193",
+        "addr:city": "Wichita",
+        "addr:country": "US",
+        "addr:county": "Sedgwick, KS",
+        "addr:housenumber": "2323",
+        "addr:postcode": "67204",
+        "addr:state": "KS",
+        "addr:street": "North Amidon Avenue",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3638211,
+          37.7254505
+        ]
+      },
+      "id": "node/8663501193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8663505861",
+        "addr:city": "Salina",
+        "addr:country": "US",
+        "addr:county": "Salina, KS",
+        "addr:housenumber": "2403",
+        "addr:postcode": "67401",
+        "addr:state": "KS",
+        "addr:street": "South 9th Street",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6119475,
+          38.7972614
+        ]
+      },
+      "id": "node/8663505861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8663527996",
+        "addr:city": "Junction City",
+        "addr:country": "US",
+        "addr:county": "Geary, KS",
+        "addr:housenumber": "520",
+        "addr:postcode": "66441",
+        "addr:state": "KS",
+        "addr:street": "East Chestnut Street",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8213564,
+          39.0224678
+        ]
+      },
+      "id": "node/8663527996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8663576891",
+        "addr:city": "Topeka",
+        "addr:country": "US",
+        "addr:county": "Shawnee, KS",
+        "addr:housenumber": "105",
+        "addr:postcode": "66611",
+        "addr:state": "KS",
+        "addr:street": "Southwest 29th Street",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6826715,
+          39.0141842
+        ]
+      },
+      "id": "node/8663576891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8663577528",
+        "addr:city": "Emporia",
+        "addr:country": "US",
+        "addr:county": "Lyon, KS",
+        "addr:housenumber": "2331",
+        "addr:postcode": "66801",
+        "addr:state": "KS",
+        "addr:street": "Industrial Road",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2182269,
+          38.4264812
+        ]
+      },
+      "id": "node/8663577528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8670258031",
+        "addr:city": "Topeka",
+        "addr:country": "US",
+        "addr:county": "Shawnee, KS",
+        "addr:housenumber": "2320",
+        "addr:postcode": "66618",
+        "addr:state": "KS",
+        "addr:street": "Northwest Clay Street",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6779386,
+          39.0918253
+        ]
+      },
+      "id": "node/8670258031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8670294142",
+        "addr:city": "Kansas City",
+        "addr:country": "US",
+        "addr:county": "Wyandotte, KS",
+        "addr:housenumber": "4805",
+        "addr:postcode": "66102",
+        "addr:state": "KS",
+        "addr:street": "State Avenue",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6898588,
+          39.1158755
+        ]
+      },
+      "id": "node/8670294142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8670300328",
+        "addr:city": "Kansas City",
+        "addr:country": "US",
+        "addr:county": "Wyandotte, KS",
+        "addr:housenumber": "1945",
+        "addr:postcode": "66111",
+        "addr:state": "KS",
+        "addr:street": "North 110th Street",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8345499,
+          39.1274843
+        ]
+      },
+      "id": "node/8670300328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8681669163",
+        "addr:city": "Overland Park",
+        "addr:country": "US",
+        "addr:county": "Johnson, KS",
+        "addr:housenumber": "15891",
+        "addr:postcode": "66223",
+        "addr:state": "KS",
+        "addr:street": "Metcalf Avenue",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.666001,
+          38.8405595
+        ]
+      },
+      "id": "node/8681669163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8823402314",
+        "addr:city": "Lawrence",
+        "addr:housenumber": "711",
+        "addr:postcode": "66046",
+        "addr:state": "KS",
+        "addr:street": "West 23rd Street",
+        "name": "Casa Azteca Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2436449,
+          38.9407512
+        ]
+      },
+      "id": "node/8823402314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8823402322",
+        "addr:city": "Lawrence",
+        "addr:housenumber": "711",
+        "addr:postcode": "66046",
+        "addr:state": "KS",
+        "addr:street": "West 23rd Street",
+        "addr:unit": "29",
+        "facebook": "https://www.facebook.com/jvmarket2013/",
+        "name": "J&V Oriental Market",
+        "opening_hours": "Su 09:30-19:00; Mo 09:30-20:00; Tu-Sa 09:00-20:00",
+        "phone": "+1-785-865-3767",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2430584,
+          38.9421753
+        ]
+      },
+      "id": "node/8823402322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9069050765",
+        "addr:city": "Lawrence",
+        "addr:housenumber": "1414",
+        "addr:postcode": "66044",
+        "addr:state": "KS",
+        "addr:street": "West 6th Street",
+        "name": "Fast Lane",
+        "phone": "+1-785-749-2319",
+        "shop": "convenience",
+        "website": "https://www.conoco.com/station/CON-FAST-LANE-0000870126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2518898,
+          38.9734898
+        ]
+      },
+      "id": "node/9069050765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9144261671",
+        "amenity": "fuel",
+        "name": "STOP&SHOP",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3613936,
+          37.7082969
+        ]
+      },
+      "id": "node/9144261671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9289245757",
+        "addr:city": "Lenexa",
+        "addr:housenumber": "13444",
+        "addr:postcode": "66215",
+        "addr:state": "KS",
+        "addr:street": "Santa Fe Trail Drive",
+        "name": "Bulk It",
+        "phone": "+1-913-955-2855",
+        "shop": "health_food",
+        "website": "http://www.bulkitfoods.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7419901,
+          38.9606829
+        ]
+      },
+      "id": "node/9289245757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9339054220",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2072029,
+          37.6932543
+        ]
+      },
+      "id": "node/9339054220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9342138245",
+        "addr:city": "Topeka",
+        "addr:housenumber": "2121",
+        "addr:postcode": "66614",
+        "addr:state": "KS",
+        "addr:street": "Southwest Wanamaker Road",
+        "addr:unit": "107",
+        "email": "Topeka@LeanKitchenCo.com",
+        "name": "Lean Kitchen",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00",
+        "phone": "+1-785-783-3952",
+        "shop": "health_food",
+        "website": "https://leankitchenco.com/topeka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7628454,
+          39.0285489
+        ]
+      },
+      "id": "node/9342138245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9342284817",
+        "name": "Dollar General",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5701563,
+          39.1805779
+        ]
+      },
+      "id": "node/9342284817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9356013483",
+        "brand": "Price Chopper",
+        "brand:wikidata": "Q7242572",
+        "brand:wikipedia": "en:Price Chopper (supermarket)",
+        "name": "Price Chopper",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.642411,
+          39.0396536
+        ]
+      },
+      "id": "node/9356013483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9380734169",
+        "addr:city": "Lenexa",
+        "addr:housenumber": "23450",
+        "addr:postcode": "66227",
+        "addr:state": "KS",
+        "addr:street": "Prairie Star Parkway",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1-913-324-1596",
+        "shop": "convenience",
+        "website": "https://www.caseys.com/general-store/ks-lenexa/23450-prairie-star-pkwy/3947",
+        "year_of_construction": "2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8578984,
+          38.957418
+        ]
+      },
+      "id": "node/9380734169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9387319194",
+        "addr:city": "Toronto",
+        "addr:housenumber": "153",
+        "addr:postcode": "66777",
+        "addr:state": "KS",
+        "addr:street": "Highway 54",
+        "name": "Lizard Lips Grill & Deli",
+        "opening_hours": "Mo-Su 07:00-19:00",
+        "phone": "+1-620-637-2384",
+        "shop": "convenience",
+        "website": "https://www.lizardlipsks.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9485093,
+          37.8358819
+        ]
+      },
+      "id": "node/9387319194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9427114507",
+        "addr:city": "Topeka",
+        "addr:housenumber": "2831",
+        "addr:postcode": "66614",
+        "addr:state": "KS",
+        "addr:street": "Southwest Wanamaker Road",
+        "facebook": "https://www.facebook.com/ttasiangrocerytopeka",
+        "name": "TT Asian Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7641462,
+          39.0155883
+        ]
+      },
+      "id": "node/9427114507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9494504515",
+        "addr:city": "Topeka",
+        "addr:housenumber": "1414",
+        "addr:postcode": "66604",
+        "addr:state": "KS",
+        "addr:street": "Southwest 17th Street",
+        "brand": "Kwik Shop",
+        "brand:wikidata": "Q6450417",
+        "brand:wikipedia": "en:Kwik Shop",
+        "name": "Kwik Shop",
+        "phone": "+17852342228",
+        "shop": "convenience",
+        "website": "https://www.kwikshop.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6963568,
+          39.037249
+        ]
+      },
+      "id": "node/9494504515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9607868371",
+        "addr:city": "Lawrence",
+        "addr:housenumber": "6300",
+        "addr:postcode": "66049",
+        "addr:state": "KS",
+        "addr:street": "Bob Billings Parkway",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "opening_hours": "04:00-24:00",
+        "phone": "+1-785-312-9291",
+        "shop": "convenience",
+        "website": "https://www.caseys.com/general-store/ks-lawrence/6300-bob-billings-pkwy/3939"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3302207,
+          38.9600427
+        ]
+      },
+      "id": "node/9607868371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9689470969",
+        "name": "Ron's Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7012067,
+          37.3808225
+        ]
+      },
+      "id": "node/9689470969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9875382157",
+        "addr:city": "Mission",
+        "addr:housenumber": "5813",
+        "addr:postcode": "66202",
+        "addr:state": "KS",
+        "addr:street": "Johnson Drive",
+        "name": "Energizing Mission",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6532702,
+          39.0219449
+        ]
+      },
+      "id": "node/9875382157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9951550550",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8354645,
+          39.0096564
+        ]
+      },
+      "id": "node/9951550550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10001453465",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8892603,
+          39.0129401
+        ]
+      },
+      "id": "node/10001453465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10085812541",
+        "addr:city": "Kansas City",
+        "addr:housenumber": "50",
+        "addr:postcode": "66102",
+        "addr:state": "KS",
+        "addr:street": "South 10th Street",
+        "name": "Citgo Food Corp",
+        "not:brand:wikidata": "Q2974437",
+        "payment:apple_pay": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1 (913) 342-1056",
+        "shop": "convenience",
+        "source": "esri/USA_NAD_Addresses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6358618,
+          39.0990002
+        ]
+      },
+      "id": "node/10085812541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10087850425",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0965319,
+          38.9353874
+        ]
+      },
+      "id": "node/10087850425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340247517",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-51-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978518,
+          41.8912427
+        ]
+      },
+      "id": "node/5340247517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340252322",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-49-50 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4973968,
+          41.8913872
+        ]
+      },
+      "id": "node/5340252322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535092255",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915049,
+          41.8918027
+        ]
+      },
+      "id": "node/5535092255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5801329944",
+        "amenity": "drinking_water",
+        "description:de": "Wasserbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4884569,
+          41.8880861
+        ]
+      },
+      "id": "node/5801329944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6547164641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Via in Miranda, Foro Romano, Roma, Italia Oct 05, 2022 04-55-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870814,
+          41.8924043
+        ]
+      },
+      "id": "node/6547164641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6616168986",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4967144,
+          41.8922741
+        ]
+      },
+      "id": "node/6616168986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6841124063",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926345,
+          41.8906387
+        ]
+      },
+      "id": "node/6841124063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085935353",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941883,
+          41.8915996
+        ]
+      },
+      "id": "node/7085935353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7203154248",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Via Marco Aurelio, Roma, Italia Jun 30, 2022 08-08-32 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4955486,
+          41.8882028
+        ]
+      },
+      "id": "node/7203154248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9108120217",
+        "amenity": "drinking_water",
+        "name": "Acqua",
+        "name:en": "Drinkable water",
+        "name:fr": "Eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4847106,
+          41.8877336
+        ]
+      },
+      "id": "node/9108120217"
+    }
+  ]
+}

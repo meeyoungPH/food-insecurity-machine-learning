@@ -1,0 +1,6137 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-06T00:01:24Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266310881",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934985,
+          41.8923773
+        ]
+      },
+      "id": "node/266310881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329767998",
+        "created_by": "Potlatch 0.10f",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3172191,
+          34.3624208
+        ]
+      },
+      "id": "node/329767998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388984003",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494519,
+          41.8877413
+        ]
+      },
+      "id": "node/388984003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495113034",
+        "amenity": "drinking_water",
+        "check_date": "2022-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934283,
+          41.8913309
+        ]
+      },
+      "id": "node/495113034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685457655",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4867108,
+          41.8902623
+        ]
+      },
+      "id": "node/685457655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685461877",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4875779,
+          41.8891234
+        ]
+      },
+      "id": "node/685461877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890053",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4879526,
+          41.8887986
+        ]
+      },
+      "id": "node/953890053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890062",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883755,
+          41.890985
+        ]
+      },
+      "id": "node/953890062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953909059",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via dei santi Quattro,roma,italy 62022.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968765,
+          41.8889852
+        ]
+      },
+      "id": "node/953909059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1033654005",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0331744,
+          36.3015915
+        ]
+      },
+      "id": "node/1033654005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1170494282",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942213,
+          41.8900377
+        ]
+      },
+      "id": "node/1170494282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1172532115",
+        "name": "Phillips 66",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.980043,
+          36.7473063
+        ]
+      },
+      "id": "node/1172532115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1246463907",
+        "name": "Pinpoint Staffing",
+        "office": "employment_agency",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8694596,
+          36.0894445
+        ]
+      },
+      "id": "node/1246463907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1251732986",
+        "description": "Lower Level",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8189183,
+          36.1314594
+        ]
+      },
+      "id": "node/1251732986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1259448645",
+        "addr:city": "Broken Arrow",
+        "addr:country": "US",
+        "addr:housenumber": "3900",
+        "addr:postcode": "74014",
+        "addr:state": "OK",
+        "addr:street": "East Hillside Drive",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-918-355-1024",
+        "ref:walmart": "4637",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/4637/broken-arrow-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7420838,
+          36.0669879
+        ]
+      },
+      "id": "node/1259448645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1275224702",
+        "addr:city": "Norman",
+        "addr:country": "US",
+        "addr:full": "601 12Th Ave Ne",
+        "addr:housenumber": "601",
+        "addr:postcode": "73071",
+        "addr:state": "OK",
+        "addr:street": "12th Avenue Northeast",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-405-579-5203",
+        "ref:walmart": "2734",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/2734/norman-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.420449,
+          35.2266787
+        ]
+      },
+      "id": "node/1275224702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1319841650",
+        "name": "Big B",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9542158,
+          35.9149841
+        ]
+      },
+      "id": "node/1319841650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1324470686",
+        "addr:housenumber": "117",
+        "addr:postcode": "73530",
+        "addr:street": "South Locust Street",
+        "name": "Hop & Sack",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0754569,
+          34.2411288
+        ]
+      },
+      "id": "node/1324470686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1393369558",
+        "name": "Pilot Travel Centers",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5216999,
+          35.4043872
+        ]
+      },
+      "id": "node/1393369558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1395546466",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3421008,
+          36.6511178
+        ]
+      },
+      "id": "node/1395546466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1572165361",
+        "addr:city": "Owasso",
+        "addr:country": "US",
+        "addr:full": "12912 E 86Th St N",
+        "addr:housenumber": "12912",
+        "addr:postcode": "74055",
+        "addr:state": "OK",
+        "addr:street": "East 86th Street North",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-918-274-0030",
+        "ref:walmart": "5840",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/5840/owasso-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8288322,
+          36.2766628
+        ]
+      },
+      "id": "node/1572165361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1590645722",
+        "addr:city": "Arkoma",
+        "addr:state": "OK",
+        "name": "J-Sacs",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4412691,
+          35.3471517
+        ]
+      },
+      "id": "node/1590645722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1603095833",
+        "brand": "Love's",
+        "brand:wikidata": "Q1872496",
+        "brand:wikipedia": "en:Love's Travel Stops & Country Stores",
+        "name": "Love's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2420392,
+          34.7085213
+        ]
+      },
+      "id": "node/1603095833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656861982",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883955,
+          41.8907173
+        ]
+      },
+      "id": "node/1656861982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1669432450",
+        "name": "Newport Grocery",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2734053,
+          34.2457565
+        ]
+      },
+      "id": "node/1669432450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1704879331",
+        "addr:housenumber": "10750",
+        "addr:postcode": "73026",
+        "addr:street": "East State Highway 9",
+        "name": "Thunderbird Shell Food Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.283566,
+          35.1888881
+        ]
+      },
+      "id": "node/1704879331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709280191",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-02",
+        "fountain": "bottle_refill",
+        "name:ru": "вода с газом и без. бесплатная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911794,
+          41.891319
+        ]
+      },
+      "id": "node/1709280191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1813863795",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0633742,
+          35.9450108
+        ]
+      },
+      "id": "node/1813863795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1887616845",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "entrance": "main",
+        "name": "7-Eleven",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5294129,
+          35.5187643
+        ]
+      },
+      "id": "node/1887616845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1887635459",
+        "entrance": "main",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.52124,
+          35.4988417
+        ]
+      },
+      "id": "node/1887635459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1887683777",
+        "entrance": "main",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5484603,
+          35.4928994
+        ]
+      },
+      "id": "node/1887683777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1888587233",
+        "addr:housename": "ZR Food Mart & Discount Cigarettes",
+        "addr:street": "Northwest 10th Street",
+        "entrance": "main",
+        "name": "ZR Food Mart & Discount Cigarettes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5390539,
+          35.4785459
+        ]
+      },
+      "id": "node/1888587233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1888588288",
+        "entrance": "main",
+        "name": "Indiana Food Mart",
+        "shop": "convenience",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.540965,
+          35.4783351
+        ]
+      },
+      "id": "node/1888588288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1888588851",
+        "entrance": "main",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.547206,
+          35.4783869
+        ]
+      },
+      "id": "node/1888588851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1888589528",
+        "entrance": "main",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5481072,
+          35.4805296
+        ]
+      },
+      "id": "node/1888589528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1888633070",
+        "addr:housename": "7-Eleven",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "entrance": "main",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5306601,
+          35.4790416
+        ]
+      },
+      "id": "node/1888633070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1913396845",
+        "entrance": "main",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4948674,
+          35.4926994
+        ]
+      },
+      "id": "node/1913396845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1917400100",
+        "name": "Seven Eleven Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7242789,
+          35.4784308
+        ]
+      },
+      "id": "node/1917400100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1922113499",
+        "name": "Homeland Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7448827,
+          35.4798068
+        ]
+      },
+      "id": "node/1922113499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1922113658",
+        "name": "Homeland Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7226418,
+          35.4650666
+        ]
+      },
+      "id": "node/1922113658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1930957277",
+        "entrance": "main",
+        "name": "City Stop",
+        "shop": "convenience",
+        "source": "Bing;local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7449054,
+          35.6424144
+        ]
+      },
+      "id": "node/1930957277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1930957333",
+        "entrance": "main",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7454994,
+          35.6423859
+        ]
+      },
+      "id": "node/1930957333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1932750134",
+        "addr:street": "North Classen Boulevard",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "entrance": "main",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5338141,
+          35.5020803
+        ]
+      },
+      "id": "node/1932750134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1932754559",
+        "addr:housenumber": "4500",
+        "addr:postcode": "73118",
+        "addr:street": "North Western Avenue",
+        "entrance": "main",
+        "name": "QC Grocery",
+        "shop": "convenience",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5295555,
+          35.5167664
+        ]
+      },
+      "id": "node/1932754559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1935528229",
+        "addr:housename": "WALMART MARKETPLACE",
+        "addr:postcode": "73013",
+        "addr:street": "NW 164TH STREET",
+        "name": "WALMART MARKETPLACE",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5325287,
+          35.6395587
+        ]
+      },
+      "id": "node/1935528229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1935528242",
+        "addr:postcode": "73013",
+        "addr:street": "NW 164TH STREET",
+        "name": "BRAUMS",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5479568,
+          35.6389484
+        ]
+      },
+      "id": "node/1935528242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1954143789",
+        "addr:street": "North May Avenue",
+        "entrance": "main",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.566554,
+          35.6390124
+        ]
+      },
+      "id": "node/1954143789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1962202751",
+        "entrance": "main",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7420598,
+          35.4929068
+        ]
+      },
+      "id": "node/1962202751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1962207288",
+        "entrance": "main",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.759809,
+          35.5076036
+        ]
+      },
+      "id": "node/1962207288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1962673446",
+        "entrance": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7064119,
+          35.5155751
+        ]
+      },
+      "id": "node/1962673446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1963731256",
+        "entrance": "main",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7368811,
+          35.5082356
+        ]
+      },
+      "id": "node/1963731256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1963731287",
+        "entrance": "main",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7392307,
+          35.5083544
+        ]
+      },
+      "id": "node/1963731287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1970384155",
+        "entrance": "main",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5473957,
+          35.4819531
+        ]
+      },
+      "id": "node/1970384155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1973946797",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7610906,
+          35.4895292
+        ]
+      },
+      "id": "node/1973946797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978702337",
+        "entrance": "main",
+        "name": "T & B Food Mart",
+        "shop": "convenience",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5296382,
+          35.5016463
+        ]
+      },
+      "id": "node/1978702337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1987182594",
+        "entrance": "main",
+        "foot": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7444921,
+          35.6346496
+        ]
+      },
+      "id": "node/1987182594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2020632925",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4333521,
+          35.4935441
+        ]
+      },
+      "id": "node/2020632925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2024923003",
+        "name": "Peep's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6906013,
+          36.0612459
+        ]
+      },
+      "id": "node/2024923003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2036034080",
+        "entrance": "main",
+        "name": "7-Eleven",
+        "shop": "convenience",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5488024,
+          35.5653095
+        ]
+      },
+      "id": "node/2036034080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2036036462",
+        "int_name": "ss",
+        "shop": "supermarket",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5478409,
+          35.5648688
+        ]
+      },
+      "id": "node/2036036462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2036065400",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5161744,
+          35.5659328
+        ]
+      },
+      "id": "node/2036065400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2153862010",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "name": "Kum & Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5973517,
+          36.3068071
+        ]
+      },
+      "id": "node/2153862010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2202675803",
+        "addr:city": "Oklahoma City",
+        "atm": "yes",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "delivery": "no",
+        "internet_access": "no",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.512668,
+          35.319262
+        ]
+      },
+      "id": "node/2202675803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2367619143",
+        "entrance": "main",
+        "name": "Express",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6185737,
+          35.5499691
+        ]
+      },
+      "id": "node/2367619143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2368016952",
+        "name": "Homeland",
+        "shop": "supermarket",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6175147,
+          35.549849
+        ]
+      },
+      "id": "node/2368016952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2385919523",
+        "name": "Batman's Good Food",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8693493,
+          36.176666
+        ]
+      },
+      "id": "node/2385919523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2388628051",
+        "entrance": "main",
+        "name": "7-Eleven",
+        "shop": "convenience",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5650615,
+          35.4789738
+        ]
+      },
+      "id": "node/2388628051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2460046432",
+        "amenity": "fuel",
+        "building": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4966324,
+          35.6389306
+        ]
+      },
+      "id": "node/2460046432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2494598438",
+        "entrance": "main",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4872646,
+          35.4203435
+        ]
+      },
+      "id": "node/2494598438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2509048497",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5302093,
+          35.4866486
+        ]
+      },
+      "id": "node/2509048497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2529998019",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6007352,
+          35.5219676
+        ]
+      },
+      "id": "node/2529998019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537299968",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "indoor": "no",
+        "wikimedia_commons": "File:Nasone via mecenate, Roma, Italia Jun 30, 2022 06-19-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4987211,
+          41.8911676
+        ]
+      },
+      "id": "node/2537299968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2551679091",
+        "name": "Jobi's One Stop",
+        "opening_hours": "Mo-Sa 06:30-20:00; Su 07:30-20:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8588201,
+          36.7667486
+        ]
+      },
+      "id": "node/2551679091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2554956617",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5217896,
+          35.4211131
+        ]
+      },
+      "id": "node/2554956617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2555053469",
+        "name": "Pilot",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.40154,
+          35.7843817
+        ]
+      },
+      "id": "node/2555053469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2560118308",
+        "shop": "convenience",
+        "source": "Bing;local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5209276,
+          35.4737812
+        ]
+      },
+      "id": "node/2560118308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2562374819",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7254608,
+          35.4647655
+        ]
+      },
+      "id": "node/2562374819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2592877985",
+        "addr:city": "Tulsa",
+        "addr:housenumber": "7911",
+        "addr:postcode": "74131",
+        "addr:state": "OK",
+        "addr:street": "New Sapulpa Road",
+        "name": "J&J Superette",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0762651,
+          36.0491225
+        ]
+      },
+      "id": "node/2592877985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2596222234",
+        "amenity": "marketplace",
+        "name": "Swick's Auction, Swick's Flea Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0574818,
+          36.0894768
+        ]
+      },
+      "id": "node/2596222234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2609989454",
+        "name": "Snackers",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4022069,
+          35.7563222
+        ]
+      },
+      "id": "node/2609989454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644803406",
+        "addr:city": "Muskogee",
+        "addr:housenumber": "702",
+        "addr:street": "South 32nd Street",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "name": "Casey's General Store",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4018597,
+          35.7473207
+        ]
+      },
+      "id": "node/2644803406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2727582235",
+        "designation": "supermarket",
+        "name": "Homeland Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6375235,
+          35.5960899
+        ]
+      },
+      "id": "node/2727582235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2743503559",
+        "building": "retail",
+        "name": "OnCue Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4646271,
+          36.3117666
+        ]
+      },
+      "id": "node/2743503559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2783574077",
+        "addr:housenumber": "506",
+        "addr:postcode": "73102",
+        "addr:street": "North Hudson Avenue",
+        "name": "The Bus Stop",
+        "shop": "convenience",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5193096,
+          35.4722825
+        ]
+      },
+      "id": "node/2783574077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2810283276",
+        "name": "Pops",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5958895,
+          35.395075
+        ]
+      },
+      "id": "node/2810283276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2828003135",
+        "name": "Kum & Go",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3731076,
+          35.7403651
+        ]
+      },
+      "id": "node/2828003135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2875458212",
+        "amenity": "pub",
+        "name": "Water Hole #2",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9956965,
+          35.2194512
+        ]
+      },
+      "id": "node/2875458212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2957958564",
+        "name": "Lil' Country Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0147066,
+          36.2941657
+        ]
+      },
+      "id": "node/2957958564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2957958639",
+        "name": "Fort Quick Stoo",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.240518,
+          35.7848509
+        ]
+      },
+      "id": "node/2957958639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3009561477",
+        "name": "QT",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5894763,
+          36.3059075
+        ]
+      },
+      "id": "node/3009561477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3014617605",
+        "name": "Phillips 66",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4432376,
+          35.652262
+        ]
+      },
+      "id": "node/3014617605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3014619573",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4421404,
+          35.6487106
+        ]
+      },
+      "id": "node/3014619573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3151830007",
+        "addr:city": "Edmond",
+        "addr:housenumber": "1151",
+        "addr:street": "North Bryant Avenue",
+        "name": "Homeland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4622156,
+          35.6665507
+        ]
+      },
+      "id": "node/3151830007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3154914387",
+        "addr:city": "Tulsa",
+        "addr:country": "US",
+        "addr:full": "2019 E 81St St",
+        "addr:housenumber": "2019",
+        "addr:postcode": "74137",
+        "addr:state": "OK",
+        "addr:street": "East 81st Street",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-918-488-8791",
+        "ref:walmart": "992",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/992/tulsa-ok/whats-new",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9610315,
+          36.0472013
+        ]
+      },
+      "id": "node/3154914387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3183956695",
+        "brand": "Valero",
+        "brand:wikidata": "Q1283291",
+        "brand:wikipedia": "en:Valero Energy",
+        "name": "Valero",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0510163,
+          36.1481529
+        ]
+      },
+      "id": "node/3183956695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3183956949",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0502432,
+          36.1249851
+        ]
+      },
+      "id": "node/3183956949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3211640902",
+        "addr:housenumber": "404",
+        "addr:street": "South Main Street",
+        "name": "Treat's",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-17:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9906215,
+          36.1521629
+        ]
+      },
+      "id": "node/3211640902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3213498565",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0509641,
+          36.1357649
+        ]
+      },
+      "id": "node/3213498565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3234565224",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4786184,
+          35.6379821
+        ]
+      },
+      "id": "node/3234565224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3234565225",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4827449,
+          35.63801
+        ]
+      },
+      "id": "node/3234565225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3234567072",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4965188,
+          35.6524405
+        ]
+      },
+      "id": "node/3234567072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3234567261",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4520654,
+          35.652227
+        ]
+      },
+      "id": "node/3234567261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3253828289",
+        "addr:city": "Edmond",
+        "addr:country": "US",
+        "addr:full": "2200 W Danforth Rd",
+        "addr:housenumber": "2200",
+        "addr:postcode": "73003",
+        "addr:state": "OK",
+        "addr:street": "West Danforth Road",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-405-216-0520",
+        "ref:walmart": "2803",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/2803/edmond-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5120795,
+          35.6656209
+        ]
+      },
+      "id": "node/3253828289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3293551933",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7525825,
+          35.9847093
+        ]
+      },
+      "id": "node/3293551933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3306226962",
+        "name": "Shack & Shop",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8982626,
+          36.1766159
+        ]
+      },
+      "id": "node/3306226962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3352347999",
+        "addr:city": "Owasso",
+        "addr:country": "US",
+        "addr:county": "Tulsa, OK",
+        "addr:housenumber": "9259",
+        "addr:postcode": "74055",
+        "addr:state": "OK",
+        "addr:street": "North Owasso Expressway",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8395552,
+          36.2877404
+        ]
+      },
+      "id": "node/3352347999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3396251165",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3295931,
+          36.2902029
+        ]
+      },
+      "id": "node/3396251165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3396251564",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2819992,
+          35.9507517
+        ]
+      },
+      "id": "node/3396251564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3396251620",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3294735,
+          36.2757174
+        ]
+      },
+      "id": "node/3396251620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3408987913",
+        "brand": "Love's",
+        "brand:wikidata": "Q1872496",
+        "brand:wikipedia": "en:Love's",
+        "name": "Love's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8710037,
+          35.5182438
+        ]
+      },
+      "id": "node/3408987913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3411423181",
+        "addr:city": "Norman",
+        "addr:country": "US",
+        "addr:full": "2551 Classen Blvd",
+        "addr:housenumber": "2551",
+        "addr:postcode": "73071",
+        "addr:state": "OK",
+        "addr:street": "Classen Boulevard",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-405-515-7418",
+        "ref:walmart": "7308",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/7308/norman-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4223494,
+          35.193447
+        ]
+      },
+      "id": "node/3411423181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3412060097",
+        "name": "Jumbo Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8348263,
+          36.3956628
+        ]
+      },
+      "id": "node/3412060097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3418258171",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7032242,
+          36.1157167
+        ]
+      },
+      "id": "node/3418258171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3418763384",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7704643,
+          35.9854066
+        ]
+      },
+      "id": "node/3418763384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3418763387",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7561164,
+          35.9846381
+        ]
+      },
+      "id": "node/3418763387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3418766051",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7502164,
+          35.9853653
+        ]
+      },
+      "id": "node/3418766051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3418766236",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7660515,
+          35.9846748
+        ]
+      },
+      "id": "node/3418766236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3418766237",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7568109,
+          35.9853689
+        ]
+      },
+      "id": "node/3418766237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3418769594",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7401594,
+          35.9851877
+        ]
+      },
+      "id": "node/3418769594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3432372840",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5950045,
+          35.9564083
+        ]
+      },
+      "id": "node/3432372840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3432374921",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5953922,
+          35.8980945
+        ]
+      },
+      "id": "node/3432374921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3432375208",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5960319,
+          35.9513512
+        ]
+      },
+      "id": "node/3432375208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3432375326",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5945575,
+          35.9464142
+        ]
+      },
+      "id": "node/3432375326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3432375328",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5860712,
+          35.6536688
+        ]
+      },
+      "id": "node/3432375328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3432387895",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0665906,
+          36.7431515
+        ]
+      },
+      "id": "node/3432387895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3438450619",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0185763,
+          35.8092046
+        ]
+      },
+      "id": "node/3438450619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3438455430",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0185038,
+          35.8014876
+        ]
+      },
+      "id": "node/3438455430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3438455431",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0545703,
+          35.6813724
+        ]
+      },
+      "id": "node/3438455431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3441067999",
+        "addr:housenumber": "10601",
+        "addr:postcode": "73131",
+        "addr:street": "North I-35 Service Road",
+        "name": "Conoco Gas Station",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4452968,
+          35.5778815
+        ]
+      },
+      "id": "node/3441067999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3441069100",
+        "name": "Shell",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4147307,
+          35.7974069
+        ]
+      },
+      "id": "node/3441069100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3441096572",
+        "name": "Pops",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5985097,
+          35.3953195
+        ]
+      },
+      "id": "node/3441096572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3441097931",
+        "name": "News Oklahoma City",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5967715,
+          35.3952634
+        ]
+      },
+      "id": "node/3441097931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3442183185",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8644278,
+          36.3958693
+        ]
+      },
+      "id": "node/3442183185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3442189807",
+        "addr:city": "Enid",
+        "addr:country": "US",
+        "addr:county": "Garfield, OK",
+        "addr:housenumber": "5001",
+        "addr:postcode": "73703",
+        "addr:state": "OK",
+        "addr:street": "West Garriott Road",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00",
+        "phone": "+1 844 475 1012",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.939704,
+          36.3901114
+        ]
+      },
+      "id": "node/3442189807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3524628766",
+        "name": "Daisy Store/Gas",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7452233,
+          34.5325375
+        ]
+      },
+      "id": "node/3524628766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3524687614",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4815494,
+          35.6460368
+        ]
+      },
+      "id": "node/3524687614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3548960760",
+        "name": "E-Z Mart",
+        "phone": "(918) 567-2577",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0430525,
+          34.7446219
+        ]
+      },
+      "id": "node/3548960760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3554958385",
+        "addr:city": "Chandler",
+        "addr:country": "US",
+        "addr:housenumber": "3100",
+        "addr:postcode": "74834",
+        "addr:state": "OK",
+        "addr:street": "East 1st Street",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-405-258-0541",
+        "ref:walmart": "387",
+        "shop": "supermarket",
+        "source": "http://www.walmart.com/store/387/details",
+        "website": "https://www.walmart.com/store/387/chandler-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8420318,
+          35.7117543
+        ]
+      },
+      "id": "node/3554958385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3559964267",
+        "name": "Pruett's Food",
+        "shop": "supermarket",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6086872,
+          34.2315608
+        ]
+      },
+      "id": "node/3559964267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3569896480",
+        "name": "Snake Creek Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9606716,
+          35.6443675
+        ]
+      },
+      "id": "node/3569896480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3570781493",
+        "addr:city": "Webbers Falls",
+        "addr:housenumber": "214",
+        "addr:postcode": "74470",
+        "addr:state": "OK",
+        "addr:street": "South Highway 100",
+        "name": "Love's Country Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1489747,
+          35.4860916
+        ]
+      },
+      "id": "node/3570781493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3577605546",
+        "name": "Pruett's Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0821186,
+          34.0003017
+        ]
+      },
+      "id": "node/3577605546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3651965872",
+        "addr:city": "Oklahoma City",
+        "addr:housenumber": "1648",
+        "addr:postcode": "73159",
+        "addr:street": "Southwest 89th Street",
+        "name": "Saigon Taipei",
+        "phone": "(405) 691-8888",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5468454,
+          35.3760966
+        ]
+      },
+      "id": "node/3651965872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3692641272",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4284968,
+          35.4645361
+        ]
+      },
+      "id": "node/3692641272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3692641274",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4420159,
+          35.4500582
+        ]
+      },
+      "id": "node/3692641274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3692641388",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4265299,
+          35.4645948
+        ]
+      },
+      "id": "node/3692641388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3698040086",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8752163,
+          35.7101971
+        ]
+      },
+      "id": "node/3698040086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3699311564",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3544953,
+          36.1266512
+        ]
+      },
+      "id": "node/3699311564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3699311565",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4661057,
+          36.3053851
+        ]
+      },
+      "id": "node/3699311565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3711586705",
+        "addr:city": "Norman",
+        "addr:housenumber": "3205",
+        "addr:postcode": "73072",
+        "addr:state": "OK",
+        "addr:street": "West Robinson Street",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4888945,
+          35.2334516
+        ]
+      },
+      "id": "node/3711586705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3726910857",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5468931,
+          35.3636961
+        ]
+      },
+      "id": "node/3726910857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3731173263",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9116373,
+          35.3278007
+        ]
+      },
+      "id": "node/3731173263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3731173264",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9244479,
+          35.3221658
+        ]
+      },
+      "id": "node/3731173264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3731173433",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9114614,
+          35.3856713
+        ]
+      },
+      "id": "node/3731173433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3731173435",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9126441,
+          35.3860616
+        ]
+      },
+      "id": "node/3731173435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3766593793",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3877173,
+          35.8280392
+        ]
+      },
+      "id": "node/3766593793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3767572985",
+        "name": "Walmart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1197538,
+          36.1140449
+        ]
+      },
+      "id": "node/3767572985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785014818",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934389,
+          41.8873381
+        ]
+      },
+      "id": "node/3785014818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3821419241",
+        "name": "Norman Food Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4593022,
+          35.2276336
+        ]
+      },
+      "id": "node/3821419241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3859063361",
+        "name": "K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4231798,
+          35.4459801
+        ]
+      },
+      "id": "node/3859063361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3874990477",
+        "name": "Union Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.068812,
+          36.1214158
+        ]
+      },
+      "id": "node/3874990477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3956084095",
+        "name": "Love's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1708909,
+          34.1882405
+        ]
+      },
+      "id": "node/3956084095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3956130948",
+        "name": "Phillips 66",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1716682,
+          34.5056153
+        ]
+      },
+      "id": "node/3956130948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3978162507",
+        "addr:city": "Oklahoma City",
+        "addr:housenumber": "900",
+        "addr:street": "North Portland Avenue",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "OSU-OKC Famers Market",
+        "opening_hours": "Sa 09:00-13:00",
+        "operator": "OSU-OKC",
+        "website": "https://osuokc.edu/farmersmarket/find.aspx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5817896,
+          35.4699984
+        ]
+      },
+      "id": "node/3978162507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4006752682",
+        "addr:housenumber": "108",
+        "addr:street": "North Broadway",
+        "name": "El Tio Botas",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1253662,
+          35.2544907
+        ]
+      },
+      "id": "node/4006752682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4006757217",
+        "name": "Market Square Thriftway",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1274039,
+          35.2544461
+        ]
+      },
+      "id": "node/4006757217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4006764374",
+        "name": "EZ Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1322427,
+          35.2561652
+        ]
+      },
+      "id": "node/4006764374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4044967119",
+        "addr:city": "Pryor Creek",
+        "addr:housenumber": "925",
+        "addr:postcode": "74361",
+        "addr:state": "OK",
+        "addr:street": "South Mill Street",
+        "name": "Homeland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3227345,
+          36.291936
+        ]
+      },
+      "id": "node/4044967119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4152176352",
+        "addr:city": "Oklahoma City",
+        "addr:housenumber": "131",
+        "addr:postcode": "73104",
+        "addr:state": "OK",
+        "addr:street": "Northeast 2nd Street",
+        "name": "Native Roots Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5091957,
+          35.4698176
+        ]
+      },
+      "id": "node/4152176352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4194191163",
+        "addr:city": "Oklahoma City",
+        "addr:country": "US",
+        "addr:housenumber": "911",
+        "addr:postcode": "73139",
+        "addr:state": "OK",
+        "addr:street": "Southwest 104th Street",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "operator:wikidata": "Q483551",
+        "operator:wikipedia": "en:Walmart",
+        "phone": "+1-405-692-3860",
+        "ref:walmart": "2878",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/2878/oklahoma-city-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.531272,
+          35.3643781
+        ]
+      },
+      "id": "node/4194191163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4289542321",
+        "name": "Super C Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2421004,
+          35.2315708
+        ]
+      },
+      "id": "node/4289542321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4350166221",
+        "addr:city": "Norman",
+        "addr:housenumber": "1429",
+        "addr:postcode": "73072",
+        "addr:state": "OK",
+        "addr:street": "George Avenue",
+        "name": "Sooner Food and Gas",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4365436,
+          35.2006792
+        ]
+      },
+      "id": "node/4350166221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4365699493",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0733289,
+          36.1278058
+        ]
+      },
+      "id": "node/4365699493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4441429082",
+        "addr:city": "Okmulgee",
+        "addr:housenumber": "2800",
+        "addr:postcode": "74447",
+        "addr:state": "OK",
+        "addr:street": "North Wood Drive",
+        "name": "Creek Nation Travel Plaza",
+        "phone": "+1-918-752-0090",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9628406,
+          35.6476287
+        ]
+      },
+      "id": "node/4441429082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4441429085",
+        "name": "Shop-N-Hop Market & Deli",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2182627,
+          34.5370094
+        ]
+      },
+      "id": "node/4441429085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4484082291",
+        "level": "0",
+        "name": "Market Square",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6723833,
+          35.6116042
+        ]
+      },
+      "id": "node/4484082291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4562043373",
+        "addr:housenumber": "2218",
+        "addr:street": "North Harvard Avenue",
+        "name": "MaxMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9408252,
+          36.1858763
+        ]
+      },
+      "id": "node/4562043373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4584324893",
+        "name": "Chinatown Supermarket",
+        "name:en": "Chinatown Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5338377,
+          35.4979472
+        ]
+      },
+      "id": "node/4584324893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4610562293",
+        "name": "OnCue",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5087521,
+          35.4212732
+        ]
+      },
+      "id": "node/4610562293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612331186",
+        "addr:city": "Nichols Hills",
+        "addr:housenumber": "6409",
+        "addr:postcode": "73116",
+        "addr:state": "OK",
+        "addr:street": "Avondale Drive",
+        "name": "Trader Joe's",
+        "phone": "+1-405-843-5655",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5310906,
+          35.537825
+        ]
+      },
+      "id": "node/4612331186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4618604821",
+        "addr:housenumber": "7282",
+        "addr:street": "South Lewis Avenue",
+        "name": "Hornbill Oriental Grocery",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9599762,
+          36.0583982
+        ]
+      },
+      "id": "node/4618604821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4619771758",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4065478,
+          35.218816
+        ]
+      },
+      "id": "node/4619771758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4642003905",
+        "name": "CHHOOKER Travel Center",
+        "phone": "+1 580 928 2500",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5942295,
+          35.3403169
+        ]
+      },
+      "id": "node/4642003905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4654632493",
+        "addr:city": "Del City",
+        "addr:country": "US",
+        "addr:housenumber": "4900",
+        "addr:postcode": "73135",
+        "addr:state": "OK",
+        "addr:street": "South Sooner Rd",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "Walmart",
+        "phone": "+1-405-458-6255",
+        "ref:walmart": "3202",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3202/oklahoma-city-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4219275,
+          35.4150524
+        ]
+      },
+      "id": "node/4654632493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4664798249",
+        "addr:city": "Purcell",
+        "addr:country": "US",
+        "addr:full": "2015 S Green Ave",
+        "addr:housenumber": "2015",
+        "addr:postcode": "73080",
+        "addr:state": "OK",
+        "addr:street": "South Green Avenue",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-01:00",
+        "operator": "Walmart",
+        "phone": "+1-405-527-5621",
+        "ref:walmart": "139",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/139/purcell-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3702158,
+          34.9875394
+        ]
+      },
+      "id": "node/4664798249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4670399813",
+        "addr:city": "Norman",
+        "addr:housenumber": "1205",
+        "addr:postcode": "73071",
+        "addr:state": "OK",
+        "addr:street": "East Lindsey Street",
+        "name": "Smart Saver",
+        "opening_hours": "07:00-23:00",
+        "phone": "+1-405-928-2687",
+        "shop": "supermarket",
+        "website": "https://smartsaverok.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4226887,
+          35.2046181
+        ]
+      },
+      "id": "node/4670399813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4679083501",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "brand:wikipedia": "en:Save-A-Lot",
+        "name": "Save-A-Lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9619197,
+          35.9151628
+        ]
+      },
+      "id": "node/4679083501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4679083505",
+        "name": "Reasor's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9749235,
+          35.8886927
+        ]
+      },
+      "id": "node/4679083505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4758686427",
+        "addr:housenumber": "9529",
+        "addr:street": "East 51st Street",
+        "brand": "QuikTrip",
+        "brand:wikidata": "Q7271953",
+        "brand:wikipedia": "en:QuikTrip",
+        "name": "QuikTrip",
+        "shop": "convenience",
+        "short_name": "QT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8692624,
+          36.0904783
+        ]
+      },
+      "id": "node/4758686427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4784578383",
+        "addr:city": "Tulsa",
+        "addr:country": "US",
+        "addr:county": "Tulsa, OK",
+        "addr:housenumber": "8221",
+        "addr:postcode": "74133",
+        "addr:state": "OK",
+        "addr:street": "East 61st Street",
+        "addr:unit": "S",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8850804,
+          36.076339
+        ]
+      },
+      "id": "node/4784578383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4800029326",
+        "addr:city": "Antlers",
+        "addr:housenumber": "321",
+        "addr:postcode": "74523",
+        "addr:state": "OK",
+        "addr:street": "West Main Street",
+        "name": "Gardener's Grocery",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "phone": "580-298-2246",
+        "shop": "supermarket",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.625623,
+          34.2300493
+        ]
+      },
+      "id": "node/4800029326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4810676344",
+        "addr:city": "Midwest City",
+        "addr:housenumber": "249",
+        "addr:postcode": "73130",
+        "addr:state": "OK",
+        "addr:street": "North Douglas Boulevard",
+        "name": "Crest Foods",
+        "opening_hours": "24/7",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.37251,
+          35.4670796
+        ]
+      },
+      "id": "node/4810676344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4904740406",
+        "addr:city": "Tulsa",
+        "addr:country": "US",
+        "addr:housenumber": "1532",
+        "addr:state": "OK",
+        "addr:street": "East Apache Street",
+        "name": "Dash Inn",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9708657,
+          36.1912214
+        ]
+      },
+      "id": "node/4904740406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4959401737",
+        "name": "Jacktown Country Market",
+        "opening_hours": "Mo-Fr 05:00-21:00; Sa, Su 06:00-21:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9990146,
+          35.5063786
+        ]
+      },
+      "id": "node/4959401737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5039777376",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "name": "Kum & Go",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1481582,
+          36.6235457
+        ]
+      },
+      "id": "node/5039777376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5039777377",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "name": "Kum & Go",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1477022,
+          36.6229052
+        ]
+      },
+      "id": "node/5039777377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5143463808",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7732034,
+          36.0605475
+        ]
+      },
+      "id": "node/5143463808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5259100996",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5473469,
+          35.5075711
+        ]
+      },
+      "id": "node/5259100996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5262887617",
+        "name": "Sooner Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6743243,
+          34.2320382
+        ]
+      },
+      "id": "node/5262887617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315596620",
+        "addr:city": "Tulsa",
+        "addr:country": "US",
+        "addr:full": "3139 S Harvard Ave E",
+        "addr:housenumber": "3139",
+        "addr:postcode": "74135",
+        "addr:state": "OK",
+        "addr:street": "South Harvard Avenue",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "operator:wikidata": "Q483551",
+        "operator:wikipedia": "en:Walmart",
+        "phone": "+1-918-984-6290",
+        "ref:walmart": "6170",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/6170/tulsa-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.938605,
+          36.117453
+        ]
+      },
+      "id": "node/5315596620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315596626",
+        "addr:city": "Hobart",
+        "addr:country": "US",
+        "addr:full": "923 W 11Th St",
+        "addr:housenumber": "923",
+        "addr:postcode": "73651",
+        "addr:state": "OK",
+        "addr:street": "West 11th Street",
+        "name": "Walmart",
+        "opening_hours": "Mo-Sa 07:00-21:00;Su 09:00-21:00",
+        "operator": "Walmart",
+        "phone": "+1-580-726-5693",
+        "ref:walmart": "607",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/607/hobart-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.10422,
+          35.017074
+        ]
+      },
+      "id": "node/5315596626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597619",
+        "addr:city": "Oklahoma City",
+        "addr:country": "US",
+        "addr:full": "13503 S. Santa Fe Avenue",
+        "addr:housenumber": "13503",
+        "addr:postcode": "73170",
+        "addr:state": "OK",
+        "addr:street": "South Santa Fe Avenue",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-405-300-6419",
+        "ref:walmart": "5323",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/5323/oklahoma-city-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.51295,
+          35.332783
+        ]
+      },
+      "id": "node/5315597619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597783",
+        "addr:city": "Mustang",
+        "addr:country": "US",
+        "addr:full": "951 E State Highway 152",
+        "addr:housenumber": "951",
+        "addr:postcode": "73064",
+        "addr:state": "OK",
+        "addr:street": "East State Highway 152",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-405-376-4549",
+        "ref:walmart": "517",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/517/mustang-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.705208,
+          35.393703
+        ]
+      },
+      "id": "node/5315597783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597944",
+        "addr:city": "Altus",
+        "addr:country": "US",
+        "addr:full": "2500 N Main St",
+        "addr:housenumber": "2500",
+        "addr:postcode": "73521",
+        "addr:state": "OK",
+        "addr:street": "North Main Street",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-580-482-8189",
+        "ref:walmart": "479",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/479/altus-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.331291,
+          34.664235
+        ]
+      },
+      "id": "node/5315597944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315597950",
+        "addr:city": "Sallisaw",
+        "addr:country": "US",
+        "addr:full": "1101 W Ruth Ave",
+        "addr:housenumber": "1101",
+        "addr:postcode": "74955",
+        "addr:state": "OK",
+        "addr:street": "West Ruth Avenue",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-918-775-4492",
+        "ref:walmart": "47",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/47/sallisaw-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.80181,
+          35.451011
+        ]
+      },
+      "id": "node/5315597950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598207",
+        "addr:city": "Locust Grove",
+        "addr:country": "US",
+        "addr:full": "800 E Main",
+        "addr:housenumber": "800",
+        "addr:postcode": "74352",
+        "addr:state": "OK",
+        "addr:street": "East Main",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-918-479-4810",
+        "ref:walmart": "3723",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3723/locust-grove-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.158237,
+          36.198695
+        ]
+      },
+      "id": "node/5315598207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598226",
+        "addr:city": "Yukon",
+        "addr:country": "US",
+        "addr:full": "1001 E Main Street",
+        "addr:housenumber": "1001",
+        "addr:postcode": "73099",
+        "addr:state": "OK",
+        "addr:street": "East Main Street",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-405-577-0049",
+        "ref:walmart": "3637",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3637/yukon-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7256424,
+          35.5091166
+        ]
+      },
+      "id": "node/5315598226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598846",
+        "addr:city": "Oklahoma City",
+        "addr:country": "US",
+        "addr:full": "2900 Sw 134Th Street",
+        "addr:housenumber": "2900",
+        "addr:postcode": "73170",
+        "addr:state": "OK",
+        "addr:street": "Southwest 134th Street",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-405-300-6446",
+        "ref:walmart": "3327",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3327/oklahoma-city-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5663,
+          35.3329
+        ]
+      },
+      "id": "node/5315598846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598863",
+        "addr:city": "Edmond",
+        "addr:country": "US",
+        "addr:full": "1101 Nw 164Th St",
+        "addr:housenumber": "1101",
+        "addr:postcode": "73013",
+        "addr:state": "OK",
+        "addr:street": "Northwest 164th Street",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-405-216-8478",
+        "ref:walmart": "3275",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/3275/edmond-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.53257,
+          35.639668
+        ]
+      },
+      "id": "node/5315598863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598870",
+        "addr:city": "Bristow",
+        "addr:country": "US",
+        "addr:full": "105 W Highway 16",
+        "addr:housenumber": "105",
+        "addr:postcode": "74010",
+        "addr:state": "OK",
+        "addr:street": "West Highway 16",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-918-367-3335",
+        "ref:walmart": "324",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/324/bristow-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.394808,
+          35.844007
+        ]
+      },
+      "id": "node/5315598870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598954",
+        "addr:city": "Lawton",
+        "addr:country": "US",
+        "addr:full": "3745 SW Lee Blvd",
+        "addr:housenumber": "3745",
+        "addr:postcode": "73505",
+        "addr:state": "OK",
+        "addr:street": "Southwest Lee Boulevard",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "operator:wikidata": "Q483551",
+        "operator:wikipedia": "en:Walmart",
+        "phone": "+1-580-713-7702",
+        "ref:walmart": "2984",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/2984/lawton-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.438776,
+          34.595819
+        ]
+      },
+      "id": "node/5315598954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598993",
+        "addr:city": "Oklahoma City",
+        "addr:country": "US",
+        "addr:full": "11101 N Rockwell Ave",
+        "addr:housenumber": "11101",
+        "addr:postcode": "73162",
+        "addr:state": "OK",
+        "addr:street": "North Rockwell Avenue",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-405-773-3555",
+        "ref:walmart": "2877",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/2877/oklahoma-city-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.64,
+          35.5825
+        ]
+      },
+      "id": "node/5315598993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315598994",
+        "addr:city": "Warr Acres",
+        "addr:country": "US",
+        "addr:full": "6437 N. Macarthur Blvd",
+        "addr:housenumber": "6437",
+        "addr:postcode": "73132",
+        "addr:state": "OK",
+        "addr:street": "North Macarthur Boulevard",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-405-495-1001",
+        "ref:walmart": "2875",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/2875/warr-acres-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.62107,
+          35.538043
+        ]
+      },
+      "id": "node/5315598994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315599455",
+        "addr:city": "Lawton",
+        "addr:country": "US",
+        "addr:full": "1002 Nw Sheridan Rd",
+        "addr:housenumber": "1002",
+        "addr:postcode": "73505",
+        "addr:state": "OK",
+        "addr:street": "Northwest Sheridan Road",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "operator:wikidata": "Q483551",
+        "operator:wikipedia": "en:Walmart",
+        "phone": "+1-580-355-9070",
+        "ref:walmart": "269",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/269/lawton-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.42438,
+          34.618772
+        ]
+      },
+      "id": "node/5315599455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315599535",
+        "addr:city": "Moore",
+        "addr:country": "US",
+        "addr:full": "640 Se 4Th St",
+        "addr:housenumber": "640",
+        "addr:postcode": "73160",
+        "addr:state": "OK",
+        "addr:street": "Southeast 4th Street",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Neighborhood Market",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Walmart",
+        "phone": "+1-405-794-2724",
+        "ref:walmart": "2393",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/2393/moore-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.478135,
+          35.3331
+        ]
+      },
+      "id": "node/5315599535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315599559",
+        "addr:city": "Ada",
+        "addr:country": "US",
+        "addr:full": "1419 N Country Club Rd",
+        "addr:housenumber": "1419",
+        "addr:postcode": "74820",
+        "addr:state": "OK",
+        "addr:street": "North Country Club Road",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-580-332-2232",
+        "ref:walmart": "231",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/231/ada-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.65614,
+          34.789127
+        ]
+      },
+      "id": "node/5315599559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315599592",
+        "addr:city": "Yukon",
+        "addr:country": "US",
+        "addr:full": "1200 Garth Brooks Blvd",
+        "addr:housenumber": "1200",
+        "addr:postcode": "73099",
+        "addr:state": "OK",
+        "addr:street": "Garth Brooks Boulevard",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-405-350-1900",
+        "ref:walmart": "221",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/221/yukon-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7636666,
+          35.4903985
+        ]
+      },
+      "id": "node/5315599592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315601773",
+        "addr:city": "Kingfisher",
+        "addr:country": "US",
+        "addr:full": "200 Starlite Dr",
+        "addr:housenumber": "200",
+        "addr:postcode": "73750",
+        "addr:state": "OK",
+        "addr:street": "Starlite Drive",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-405-375-5743",
+        "ref:walmart": "132",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/132/kingfisher-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9367127,
+          35.8287229
+        ]
+      },
+      "id": "node/5315601773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315601782",
+        "addr:city": "Madill",
+        "addr:country": "US",
+        "addr:full": "1100 S 1St St",
+        "addr:housenumber": "1100",
+        "addr:postcode": "73446",
+        "addr:state": "OK",
+        "addr:street": "South 1st Street",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-01:00",
+        "operator": "Walmart",
+        "phone": "+1-580-795-7383",
+        "ref:walmart": "1295",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1295/madill-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.76555,
+          34.069993
+        ]
+      },
+      "id": "node/5315601782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315601805",
+        "addr:city": "Seminole",
+        "addr:country": "US",
+        "addr:full": "1500 E Wrangler Blvd",
+        "addr:housenumber": "1500",
+        "addr:postcode": "74868",
+        "addr:state": "OK",
+        "addr:street": "East Wrangler Boulevard",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-405-382-5290",
+        "ref:walmart": "123",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/123/seminole-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.654501,
+          35.248317
+        ]
+      },
+      "id": "node/5315601805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602257",
+        "addr:city": "Chickasha",
+        "addr:country": "US",
+        "addr:full": "2001 S 1St St",
+        "addr:housenumber": "2001",
+        "addr:postcode": "73018",
+        "addr:state": "OK",
+        "addr:street": "South 1st Street",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "operator:wikidata": "Q483551",
+        "operator:wikipedia": "en:Walmart",
+        "phone": "+1-405-224-1867",
+        "ref:walmart": "113",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/113/chickasha-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.931081,
+          35.031027
+        ]
+      },
+      "id": "node/5315602257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602300",
+        "addr:city": "Pauls Valley",
+        "addr:country": "US",
+        "addr:full": "2008 W Grant Ave",
+        "addr:housenumber": "2008",
+        "addr:postcode": "73075",
+        "addr:state": "OK",
+        "addr:street": "West Grant Avenue",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-01:00",
+        "operator": "Walmart",
+        "phone": "+1-405-238-7353",
+        "ref:walmart": "1043",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1043/pauls-valley-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.248862,
+          34.736602
+        ]
+      },
+      "id": "node/5315602300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315602305",
+        "addr:city": "Shawnee",
+        "addr:country": "US",
+        "addr:full": "196 Shawnee Mall Dr",
+        "addr:housenumber": "196",
+        "addr:postcode": "74804",
+        "addr:state": "OK",
+        "addr:street": "Shawnee Mall Drive",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-405-275-1030",
+        "ref:walmart": "103",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/103/shawnee-ok/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.921788,
+          35.386877
+        ]
+      },
+      "id": "node/5315602305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5345965801",
+        "addr:city": "Bethany",
+        "addr:housenumber": "7957",
+        "addr:state": "OK",
+        "addr:street": "Northwest 23rd Street",
+        "name": "Buy For Less",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "operator": "Buy For Less",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6537451,
+          35.4946735
+        ]
+      },
+      "id": "node/5345965801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5376643355",
+        "addr:city": "Tahlequah",
+        "addr:housenumber": "1753",
+        "addr:postcode": "74464",
+        "addr:state": "OK",
+        "addr:street": "South Muskogee Avenue",
+        "name": "Chicken Depot",
+        "opening_hours": "Mo-Fr 10:00-18:00, Sa 09:00-17:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:ebt": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9757569,
+          35.8930046
+        ]
+      },
+      "id": "node/5376643355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5542853444",
+        "addr:housenumber": "123",
+        "addr:street": "Highway 54 West",
+        "name": "Cefco",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.782608,
+          36.5013579
+        ]
+      },
+      "id": "node/5542853444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5627814256",
+        "addr:city": "Edmond",
+        "addr:country": "US",
+        "addr:county": "Oklahoma, OK",
+        "addr:housenumber": "1001",
+        "addr:postcode": "73003",
+        "addr:state": "OK",
+        "addr:street": "West Edmond Road",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo, Th-Su 09:00-21:00, Tu 08:30-21:00, We 09:00-16:00",
+        "operator": "Aldi",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 855 475 7033",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.497607,
+          35.6536608
+        ]
+      },
+      "id": "node/5627814256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5736417086",
+        "addr:city": "Elk City",
+        "addr:country": "US",
+        "addr:housenumber": "1032",
+        "addr:postcode": "73644",
+        "addr:state": "OK",
+        "addr:street": "West 3rd Street",
+        "name": "The Dugout C-Store",
+        "phone": "+1-580-225-2005",
+        "shop": "convenience",
+        "website": "http://thedugoutc-store.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4190485,
+          35.4113941
+        ]
+      },
+      "id": "node/5736417086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5766350226",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "brand:wikipedia": "en:Save-A-Lot",
+        "name": "Save-A-Lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.387075,
+          33.9924547
+        ]
+      },
+      "id": "node/5766350226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5828217178",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4421646,
+          35.6521684
+        ]
+      },
+      "id": "node/5828217178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5828217180",
+        "name": "Conoco",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4292593,
+          35.6519575
+        ]
+      },
+      "id": "node/5828217180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5863203914",
+        "addr:city": "El Reno",
+        "addr:country": "US",
+        "addr:housenumber": "1510",
+        "addr:postcode": "73036",
+        "addr:state": "OK",
+        "addr:street": "Sunset Drive",
+        "name": "Vickie's Drive Thru C-store",
+        "opening_hours": "Mo-Th 05:30-22:00; Fr,Su 06:00-22:00; Sa 06:00-11:00",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1-405-262-7865",
+        "shop": "convenience",
+        "website": "https://www.vickiesdrivethrucstore.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9714132,
+          35.5325912
+        ]
+      },
+      "id": "node/5863203914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5885856485",
+        "name": "Ed’s Truck Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.762923,
+          35.4532993
+        ]
+      },
+      "id": "node/5885856485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5885856885",
+        "name": "Mr. Jiff",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7605013,
+          35.4518023
+        ]
+      },
+      "id": "node/5885856885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5943220548",
+        "addr:city": "Newcastle",
+        "addr:housenumber": "1019",
+        "addr:postcode": "73065",
+        "addr:state": "OK",
+        "addr:street": "North Main Street",
+        "amenity": "marketplace",
+        "building": "retail",
+        "name": "Newcastle Marketplace",
+        "opening_hours": "Tu-Sa 10:30-17:30",
+        "phone": "+1-405-414-4411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6006284,
+          35.2570192
+        ]
+      },
+      "id": "node/5943220548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6034835705",
+        "name": "Domino",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9302199,
+          35.3445834
+        ]
+      },
+      "id": "node/6034835705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6064150017",
+        "brand": "Love's",
+        "brand:wikidata": "Q1872496",
+        "brand:wikipedia": "en:Love's",
+        "name": "Love's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.5190746,
+          36.8099705
+        ]
+      },
+      "id": "node/6064150017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6436048685",
+        "addr:housenumber": "1319",
+        "addr:postcode": "74523",
+        "addr:street": "West Main Street",
+        "name": "Choctaw Travel Plaza",
+        "opening_hours": "24/7",
+        "operator": "Choctaw Nation of Oklahoma",
+        "phone": "5809248280",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6393931,
+          34.2337595
+        ]
+      },
+      "id": "node/6436048685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6468458049",
+        "name": "Circle N",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7822402,
+          36.2048269
+        ]
+      },
+      "id": "node/6468458049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6473415440",
+        "addr:city": "Edmond",
+        "addr:housenumber": "1",
+        "addr:postcode": "73034",
+        "addr:state": "OK",
+        "addr:street": "East Main Street",
+        "name": "Urban Agrarian",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4809953,
+          35.6554491
+        ]
+      },
+      "id": "node/6473415440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6496997186",
+        "name": "Tiger Paw",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1761049,
+          34.7497948
+        ]
+      },
+      "id": "node/6496997186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6663040855",
+        "addr:city": "Oklahoma City",
+        "addr:housenumber": "21",
+        "addr:postcode": "73116",
+        "addr:state": "OK",
+        "addr:street": "Northwest 63rd Street",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5129869,
+          35.5372878
+        ]
+      },
+      "id": "node/6663040855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6781336686",
+        "name": "Gans Git-n-Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6734733,
+          35.3979979
+        ]
+      },
+      "id": "node/6781336686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6803015185",
+        "name": "Valero",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8066243,
+          35.381853
+        ]
+      },
+      "id": "node/6803015185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6814599366",
+        "name": "On Cue Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6632737,
+          35.7536676
+        ]
+      },
+      "id": "node/6814599366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6964795549",
+        "brand": "Sprouts Farmers Market",
+        "brand:wikidata": "Q7581369",
+        "brand:wikipedia": "en:Sprouts Farmers Market",
+        "name": "Sprouts Farmers Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8260225,
+          36.2944097
+        ]
+      },
+      "id": "node/6964795549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6988027188",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "brand:wikidata": "Q244457",
+        "brand:wikipedia": "en:Subway (restaurant)",
+        "cuisine": "sandwich",
+        "name": "Subway",
+        "name:de": "Subway",
+        "shop": "supermarket",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.630073,
+          36.8414062
+        ]
+      },
+      "id": "node/6988027188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7063920734",
+        "addr:city": "Eufaula",
+        "addr:housenumber": "200",
+        "addr:postcode": "74432",
+        "addr:state": "OK",
+        "addr:street": "S 2nd Sreet",
+        "name": "Nichols",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5842071,
+          35.2888472
+        ]
+      },
+      "id": "node/7063920734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7140570304",
+        "addr:city": "Hugo",
+        "addr:housenumber": "1623",
+        "addr:postcode": "74743",
+        "addr:state": "OK",
+        "addr:street": "East Jackson Street",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "brand:wikipedia": "en:Save-A-Lot",
+        "name": "Save-A-Lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4920038,
+          34.0083954
+        ]
+      },
+      "id": "node/7140570304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7264778411",
+        "name": "Casey’s",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6305134,
+          35.2414735
+        ]
+      },
+      "id": "node/7264778411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7797879712",
+        "name": "Stone Creek",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4396218,
+          36.1711982
+        ]
+      },
+      "id": "node/7797879712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7956026122",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Reasor's Foods",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+1-918-610-0610",
+        "shop": "grocery",
+        "website": "https://www.reasors.com/stores/garnett"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8544561,
+          36.1058301
+        ]
+      },
+      "id": "node/7956026122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8125082310",
+        "addr:city": "Pocola",
+        "addr:housenumber": "601",
+        "addr:postcode": "74902",
+        "addr:state": "OK",
+        "addr:street": "South Pocola Boulevard",
+        "name": "Tote-A-Poke",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4776977,
+          35.2540531
+        ]
+      },
+      "id": "node/8125082310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8177044398",
+        "brand": "QuikTrip",
+        "brand:wikidata": "Q7271953",
+        "brand:wikipedia": "en:QuikTrip",
+        "name": "QuikTrip",
+        "shop": "convenience",
+        "short_name": "QT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3959313,
+          35.958523
+        ]
+      },
+      "id": "node/8177044398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8310193823",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6306729,
+          35.0922979
+        ]
+      },
+      "id": "node/8310193823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8423496277",
+        "addr:city": "McAlester",
+        "addr:housenumber": "526",
+        "addr:postcode": "74501",
+        "addr:state": "OK",
+        "addr:street": "East Wyandotte Avenue",
+        "amenity": "fuel",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "ref": "2704016",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7633571,
+          34.9272908
+        ]
+      },
+      "id": "node/8423496277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8423496278",
+        "addr:city": "McAlester",
+        "addr:housenumber": "526",
+        "addr:postcode": "74501",
+        "addr:state": "OK",
+        "addr:street": "East Wyandotte Avenue",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "ref": "2704016",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7635294,
+          34.927111
+        ]
+      },
+      "id": "node/8423496278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8423496279",
+        "addr:city": "McAlester",
+        "addr:housenumber": "1400",
+        "addr:postcode": "74501",
+        "addr:state": "OK",
+        "addr:street": "East Carl Albert Parkway",
+        "name": "Quik Mart",
+        "ref": "84",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7501787,
+          34.9277856
+        ]
+      },
+      "id": "node/8423496279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8423496300",
+        "addr:city": "Mcalester",
+        "addr:housenumber": "526",
+        "addr:postcode": "74501",
+        "addr:state": "OK",
+        "addr:street": "East Carl Albert Parkway",
+        "name": "The Filling Station",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7615627,
+          34.930773
+        ]
+      },
+      "id": "node/8423496300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8627238065",
+        "addr:city": "Bartlesville",
+        "addr:country": "US",
+        "addr:county": "Washington, OK",
+        "addr:housenumber": "2553",
+        "addr:postcode": "74006",
+        "addr:state": "OK",
+        "addr:street": "Southeast Washington Boulevard",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9361175,
+          36.7114083
+        ]
+      },
+      "id": "node/8627238065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8627272236",
+        "addr:city": "Tulsa",
+        "addr:country": "US",
+        "addr:county": "Tulsa, OK",
+        "addr:housenumber": "12572",
+        "addr:postcode": "74129",
+        "addr:state": "OK",
+        "addr:street": "East 21st Street",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8342767,
+          36.1325545
+        ]
+      },
+      "id": "node/8627272236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8627294296",
+        "addr:city": "Shawnee",
+        "addr:country": "US",
+        "addr:county": "Pottawatomie, OK",
+        "addr:housenumber": "4640",
+        "addr:postcode": "74804",
+        "addr:state": "OK",
+        "addr:street": "North Kickapoo Street",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00",
+        "phone": "+1 844 475 1007",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9304526,
+          35.378946
+        ]
+      },
+      "id": "node/8627294296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8627311527",
+        "addr:city": "Chickasha",
+        "addr:country": "US",
+        "addr:county": "Grady, OK",
+        "addr:housenumber": "2318",
+        "addr:postcode": "73018",
+        "addr:state": "OK",
+        "addr:street": "South 4th Street",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00",
+        "phone": "+1 888 475 1126",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9364211,
+          35.0266205
+        ]
+      },
+      "id": "node/8627311527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8627322858",
+        "addr:city": "Oklahoma City",
+        "addr:country": "US",
+        "addr:county": "Oklahoma, OK",
+        "addr:housenumber": "6965",
+        "addr:postcode": "73132",
+        "addr:state": "OK",
+        "addr:street": "Northwest Expressway",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00",
+        "phone": "+1 844 475 1011",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6372294,
+          35.5589288
+        ]
+      },
+      "id": "node/8627322858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8627328713",
+        "addr:city": "Ada",
+        "addr:country": "US",
+        "addr:county": "Pontotoc, OK",
+        "addr:housenumber": "1320",
+        "addr:postcode": "74820",
+        "addr:state": "OK",
+        "addr:street": "Lonnie Abbott Boulevard",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00",
+        "phone": "+1 833 747 5019",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6587046,
+          34.79118
+        ]
+      },
+      "id": "node/8627328713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8627337526",
+        "addr:city": "Lawton",
+        "addr:country": "US",
+        "addr:county": "Comanche, OK",
+        "addr:housenumber": "935",
+        "addr:postcode": "73505",
+        "addr:state": "OK",
+        "addr:street": "Northwest Sheridan Road",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00",
+        "phone": "+1 844 475 1077",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4211459,
+          34.6195072
+        ]
+      },
+      "id": "node/8627337526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8627337691",
+        "addr:city": "Midwest City",
+        "addr:country": "US",
+        "addr:county": "Oklahoma, OK",
+        "addr:housenumber": "601",
+        "addr:postcode": "73110",
+        "addr:state": "OK",
+        "addr:street": "South Air Depot Boulevard",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00",
+        "phone": "+1 888 475 1009",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4067412,
+          35.4597567
+        ]
+      },
+      "id": "node/8627337691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8627347019",
+        "addr:city": "Norman",
+        "addr:country": "US",
+        "addr:county": "Cleveland, OK",
+        "addr:housenumber": "3101",
+        "addr:postcode": "73071",
+        "addr:state": "OK",
+        "addr:street": "Classen Boulevard",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00",
+        "phone": "+1 844 475 1083",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4156253,
+          35.1808787
+        ]
+      },
+      "id": "node/8627347019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8627358214",
+        "addr:city": "Oklahoma City",
+        "addr:country": "US",
+        "addr:county": "Oklahoma, OK",
+        "addr:housenumber": "4805",
+        "addr:postcode": "73112",
+        "addr:state": "OK",
+        "addr:street": "North May Avenue",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00",
+        "phone": "+1 833 747 5095",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5665763,
+          35.5198745
+        ]
+      },
+      "id": "node/8627358214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8627367404",
+        "addr:city": "Oklahoma City",
+        "addr:country": "US",
+        "addr:county": "Oklahoma, OK",
+        "addr:housenumber": "6010",
+        "addr:postcode": "73127",
+        "addr:state": "OK",
+        "addr:street": "Northwest 23rd Street",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00",
+        "phone": "+1 844 475 1017",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6226912,
+          35.4926901
+        ]
+      },
+      "id": "node/8627367404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8627377711",
+        "addr:city": "Oklahoma City",
+        "addr:country": "US",
+        "addr:county": "Canadian, OK",
+        "addr:housenumber": "935",
+        "addr:postcode": "73099",
+        "addr:state": "OK",
+        "addr:street": "North Cemetery Road",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00",
+        "phone": "+1 844 475 1006",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7607854,
+          35.4783105
+        ]
+      },
+      "id": "node/8627377711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8790746265",
+        "addr:city": "Stilwell",
+        "addr:housenumber": "106",
+        "addr:postcode": "74960",
+        "addr:state": "OK",
+        "addr:street": "West Locust Street",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "ref:shop:num": "3869",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6286398,
+          35.8080122
+        ]
+      },
+      "id": "node/8790746265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8997186295",
+        "addr:city": "Arcadia",
+        "addr:housenumber": "210",
+        "addr:postcode": "73007",
+        "addr:state": "OK",
+        "addr:street": "North Odor Street",
+        "amenity": "marketplace",
+        "name": "Arcadia Farmer's Market General Store",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3235228,
+          35.663463
+        ]
+      },
+      "id": "node/8997186295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9085135375",
+        "name": "Tropical Choice Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9217254,
+          36.0906232
+        ]
+      },
+      "id": "node/9085135375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9146874892",
+        "name": "Supermercado Morelos",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.974322,
+          36.087669
+        ]
+      },
+      "id": "node/9146874892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9351775117",
+        "addr:housenumber": "1700",
+        "addr:postcode": "74017",
+        "addr:street": "Scissortail ave",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "name": "Aldi",
+        "phone": "1-855-955-2534",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6280702,
+          36.292533
+        ]
+      },
+      "id": "node/9351775117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9385731541",
+        "name": "United Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9710028,
+          35.5041434
+        ]
+      },
+      "id": "node/9385731541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9421849649",
+        "name": "EZ Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2459073,
+          35.7990128
+        ]
+      },
+      "id": "node/9421849649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9435159277",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5019143,
+          35.4648733
+        ]
+      },
+      "id": "node/9435159277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9659594684",
+        "name": "Homeland Grocery Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8138499,
+          36.4144743
+        ]
+      },
+      "id": "node/9659594684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9698300406",
+        "addr:city": "Duncan",
+        "addr:housenumber": "1401",
+        "addr:postcode": "73533",
+        "addr:state": "OK",
+        "addr:street": "West Beech Avenue",
+        "name": "Homeland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9661692,
+          34.5076352
+        ]
+      },
+      "id": "node/9698300406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709510634",
+        "name": "Dave's Cave",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9666218,
+          34.5104655
+        ]
+      },
+      "id": "node/9709510634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9710028983",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3968051,
+          35.150672
+        ]
+      },
+      "id": "node/9710028983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9711571294",
+        "addr:city": "Vian",
+        "addr:housenumber": "706",
+        "addr:postcode": "74962",
+        "addr:state": "OK",
+        "addr:street": "Thornton Street",
+        "brand": "Love's",
+        "brand:wikidata": "Q1872496",
+        "name": "Love's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9715137,
+          35.4910535
+        ]
+      },
+      "id": "node/9711571294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9743769128",
+        "addr:housenumber": "12770",
+        "addr:street": "Oktaha Road",
+        "fuel:diesel": "yes",
+        "fuel:unleaded": "yes",
+        "name": "Phillips 66 / Easy Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4924126,
+          35.574429
+        ]
+      },
+      "id": "node/9743769128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9817958244",
+        "name": "La Tienda Del Pueblo",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7372944,
+          34.0272354
+        ]
+      },
+      "id": "node/9817958244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9874308044",
+        "addr:city": "Tulsa",
+        "addr:housenumber": "5459",
+        "addr:postcode": "74146",
+        "addr:state": "OK",
+        "addr:street": "South Mingo Road",
+        "addr:unit": "D",
+        "name": "Middle East Market",
+        "opening_hours": "Mon-Sun: 10:00-20:00",
+        "payment:cash": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 918 665 0979",
+        "shop": "convenience",
+        "website": "https://middleeastmarket-tulsa.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8677759,
+          36.0840123
+        ]
+      },
+      "id": "node/9874308044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9876979781",
+        "addr:city": "Erick",
+        "addr:housenumber": "123",
+        "addr:postcode": "73645",
+        "addr:state": "OK",
+        "addr:street": "North Sheb Wooley Avenue",
+        "name": "Puckett's Food Stores",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8670188,
+          35.2141206
+        ]
+      },
+      "id": "node/9876979781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9949023136",
+        "amenity": "drinks",
+        "cuisine": "juice",
+        "name": "Lit Nutrition Tulsa",
+        "shop": "health_food",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9051266,
+          36.1254565
+        ]
+      },
+      "id": "node/9949023136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9984349638",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3801247,
+          35.408101
+        ]
+      },
+      "id": "node/9984349638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10016085306",
+        "addr:city": "Tulsa",
+        "addr:country": "US",
+        "addr:housenumber": "1",
+        "addr:state": "OK",
+        "addr:street": "South Lewis Avenue",
+        "amenity": "marketplace",
+        "name": "Tulsa Farmer's Market",
+        "opening_hours": "Apr-Oct Sa 07:00-11:00; Nov-Dec,Jan-Mar Sa 08:30-12:00; Su[2] 10:00-13:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.957781,
+          36.1595213
+        ]
+      },
+      "id": "node/10016085306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10022163217",
+        "addr:housenumber": "3",
+        "addr:postcode": "74129",
+        "addr:street": "East 21st Street",
+        "name:es": "Las Americas",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "shop": "supermarket",
+        "website": "http://supermercadoslasamericas.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8493469,
+          36.1331478
+        ]
+      },
+      "id": "node/10022163217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10024768117",
+        "addr:housenumber": "2119",
+        "addr:postcode": "74129",
+        "addr:street": "South Garnett Road",
+        "name:es": "Morelos",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+1539 235 0319",
+        "shop": "supermarket",
+        "website": "https://supermercadosmorelos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.850272,
+          36.1320438
+        ]
+      },
+      "id": "node/10024768117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10030590917",
+        "addr:housenumber": "7130",
+        "addr:postcode": "74133",
+        "addr:street": "South Memorial Drive",
+        "name": "Winco Foods",
+        "name:en": "WincCo Foods",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "website": "https://www.wincofoods.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8891777,
+          36.059665
+        ]
+      },
+      "id": "node/10030590917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096355295",
+        "addr:housenumber": "6334",
+        "addr:street": "South Peoria Avenue",
+        "name": "Re Stock Smoke and Snack Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9762309,
+          36.0713828
+        ]
+      },
+      "id": "node/10096355295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10139529572",
+        "name": "H & E Farms",
+        "organic": "only",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3341807,
+          34.7226204
+        ]
+      },
+      "id": "node/10139529572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10154901207",
+        "name": "Main Street Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5675673,
+          35.5075713
+        ]
+      },
+      "id": "node/10154901207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10228600222",
+        "addr:housenumber": "8015",
+        "addr:postcode": "74136",
+        "addr:street": "South Yale Avenue",
+        "brand": "The Fresh Market",
+        "brand:wikidata": "Q7735265",
+        "name": "The Fresh Market",
+        "name:en": "The Fresh Market",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9205965,
+          36.0477164
+        ]
+      },
+      "id": "node/10228600222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10228613818",
+        "addr:housenumber": "7807",
+        "addr:postcode": "74145",
+        "addr:street": "East 51st Street",
+        "name": "Atkins",
+        "name:en": "Atkin's Natural Food",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 10:00-20:00",
+        "phone": "(918) 663-4137",
+        "shop": "health_food",
+        "website": "http://akins.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8899285,
+          36.0912453
+        ]
+      },
+      "id": "node/10228613818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10229660877",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8344939,
+          35.7270462
+        ]
+      },
+      "id": "node/10229660877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10247195042",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9331947,
+          36.7276771
+        ]
+      },
+      "id": "node/10247195042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10297703168",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9933917,
+          35.9733339
+        ]
+      },
+      "id": "node/10297703168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10313547409",
+        "addr:housenumber": "2425",
+        "addr:postcode": "73106",
+        "addr:street": "North Classen Boulevard",
+        "internet_access": "wlan",
+        "name": "Makola #1 Market",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "phone": "4056010463",
+        "shop": "grocery",
+        "website": "http://makolaonemarket.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5327671,
+          35.4939558
+        ]
+      },
+      "id": "node/10313547409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340247517",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-51-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978518,
+          41.8912427
+        ]
+      },
+      "id": "node/5340247517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340252322",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-49-50 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4973968,
+          41.8913872
+        ]
+      },
+      "id": "node/5340252322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535092255",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915049,
+          41.8918027
+        ]
+      },
+      "id": "node/5535092255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5801329944",
+        "amenity": "drinking_water",
+        "description:de": "Wasserbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4884569,
+          41.8880861
+        ]
+      },
+      "id": "node/5801329944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6547164641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Via in Miranda, Foro Romano, Roma, Italia Oct 05, 2022 04-55-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870814,
+          41.8924043
+        ]
+      },
+      "id": "node/6547164641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6616168986",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4967144,
+          41.8922741
+        ]
+      },
+      "id": "node/6616168986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6841124063",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926345,
+          41.8906387
+        ]
+      },
+      "id": "node/6841124063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085935353",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941883,
+          41.8915996
+        ]
+      },
+      "id": "node/7085935353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7203154248",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Via Marco Aurelio, Roma, Italia Jun 30, 2022 08-08-32 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4955486,
+          41.8882028
+        ]
+      },
+      "id": "node/7203154248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9108120217",
+        "amenity": "drinking_water",
+        "name": "Acqua",
+        "name:en": "Drinkable water",
+        "name:fr": "Eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4847106,
+          41.8877336
+        ]
+      },
+      "id": "node/9108120217"
+    }
+  ]
+}

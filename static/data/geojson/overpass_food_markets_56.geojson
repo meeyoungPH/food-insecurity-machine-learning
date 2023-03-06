@@ -1,0 +1,2859 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-06T00:18:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262531180",
+        "name": "Yellowstone General Store",
+        "name:en": "Yellowstone Mammoth Hot Springs General Stores",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7034152,
+          44.9755563
+        ]
+      },
+      "id": "node/262531180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266310881",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934985,
+          41.8923773
+        ]
+      },
+      "id": "node/266310881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/370098851",
+        "brand": "Loaf 'N Jug",
+        "brand:wikidata": "Q6663398",
+        "brand:wikipedia": "en:Loaf 'N Jug",
+        "name": "Loaf 'N Jug",
+        "operator": "Loaf N Jug",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.270943,
+          42.8342519
+        ]
+      },
+      "id": "node/370098851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388984003",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494519,
+          41.8877413
+        ]
+      },
+      "id": "node/388984003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495113034",
+        "amenity": "drinking_water",
+        "check_date": "2022-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934283,
+          41.8913309
+        ]
+      },
+      "id": "node/495113034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/623810973",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Fr-We 08:30-20:00; Th 08:30-21:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3513627,
+          -33.4073499
+        ]
+      },
+      "id": "node/623810973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/623810974",
+        "brand": "Coles",
+        "brand:wikidata": "Q1108172",
+        "brand:wikipedia": "en:Coles Supermarkets",
+        "full_name": "Coles Wyoming",
+        "name": "Coles",
+        "shop": "supermarket",
+        "website": "https://www.coles.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3513842,
+          -33.40486
+        ]
+      },
+      "id": "node/623810974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685457655",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4867108,
+          41.8902623
+        ]
+      },
+      "id": "node/685457655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685461877",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4875779,
+          41.8891234
+        ]
+      },
+      "id": "node/685461877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/886677380",
+        "name": "Holiday",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0079564,
+          45.3360987
+        ]
+      },
+      "id": "node/886677380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890053",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4879526,
+          41.8887986
+        ]
+      },
+      "id": "node/953890053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890062",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883755,
+          41.890985
+        ]
+      },
+      "id": "node/953890062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953909059",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via dei santi Quattro,roma,italy 62022.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968765,
+          41.8889852
+        ]
+      },
+      "id": "node/953909059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1122293442",
+        "name": "Mr. D's Food Center",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.7400799,
+          42.83424
+        ]
+      },
+      "id": "node/1122293442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1170494282",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942213,
+          41.8900377
+        ]
+      },
+      "id": "node/1170494282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1183475715",
+        "amenity": "fuel",
+        "brand": "Phillips 66",
+        "ele": "1975",
+        "name": "Elkhorn Trading Post",
+        "name:en": "Elkhorn Trading Post",
+        "note": "Highway 191, 189 on Dell Creek Road",
+        "shop": "convenience",
+        "source": "collected by Volker Bartheld, converted and imported by malenki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.4388582,
+          43.2321185
+        ]
+      },
+      "id": "node/1183475715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1183478384",
+        "branch": "Jackson",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "brand:wikipedia": "en:Chevron Corporation",
+        "ele": "1908",
+        "name": "Chevron",
+        "shop": "convenience",
+        "source": "collected by Volker Bartheld, converted and imported by malenki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.762953,
+          43.4851876
+        ]
+      },
+      "id": "node/1183478384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1224831774",
+        "amenity": "fuel",
+        "name": "Colter Bay Convenience Store",
+        "note": "Groceries, Ice, Coffee and Gifts",
+        "opening_hours": "6:30-9:30",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6301757,
+          43.9112733
+        ]
+      },
+      "id": "node/1224831774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1361562645",
+        "brand": "Price Chopper",
+        "brand:wikidata": "Q7242574",
+        "brand:wikipedia": "en:Price Chopper and Market 32 Supermarkets",
+        "name": "Price Chopper",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8519402,
+          41.3001165
+        ]
+      },
+      "id": "node/1361562645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1435896320",
+        "amenity": "marketplace",
+        "name": "Lincare, Absolute Acrylic nails, Don Stinson engineer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5904623,
+          41.3246076
+        ]
+      },
+      "id": "node/1435896320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1435896323",
+        "amenity": "marketplace",
+        "name": "Ideal business center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5897497,
+          41.3266294
+        ]
+      },
+      "id": "node/1435896323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1435896334",
+        "amenity": "marketplace",
+        "name": "Northgate businesses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5903496,
+          41.325518
+        ]
+      },
+      "id": "node/1435896334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1435908102",
+        "amenity": "marketplace",
+        "name": "Laramie Farmer's Market",
+        "note": "Fridays in the summer",
+        "opening_hours": "Jul-Sep:Sa 15:00-19:00",
+        "website": "http://www.laramiefarmersmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5961413,
+          41.3097955
+        ]
+      },
+      "id": "node/1435908102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656861982",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883955,
+          41.8907173
+        ]
+      },
+      "id": "node/1656861982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709280191",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-02",
+        "fountain": "bottle_refill",
+        "name:ru": "вода с газом и без. бесплатная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911794,
+          41.891319
+        ]
+      },
+      "id": "node/1709280191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1769226520",
+        "name": "Pahaska Tepee Gift Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.963891,
+          44.5023908
+        ]
+      },
+      "id": "node/1769226520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1882522079",
+        "brand": "Smith's",
+        "brand:wikidata": "Q7544856",
+        "brand:wikipedia": "en:Smith's Food and Drug",
+        "name": "Smith's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7956493,
+          43.4587989
+        ]
+      },
+      "id": "node/1882522079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2295983996",
+        "name": "Alpine Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0172957,
+          43.1628829
+        ]
+      },
+      "id": "node/2295983996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2408526064",
+        "name": "Common Cents",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.959961,
+          44.8276174
+        ]
+      },
+      "id": "node/2408526064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2487522825",
+        "name": "Hoback Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7292675,
+          43.323563
+        ]
+      },
+      "id": "node/2487522825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537299968",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "indoor": "no",
+        "wikimedia_commons": "File:Nasone via mecenate, Roma, Italia Jun 30, 2022 06-19-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4987211,
+          41.8911676
+        ]
+      },
+      "id": "node/2537299968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2882070754",
+        "addr:city": "Riverton",
+        "addr:postcode": "82501",
+        "addr:street": "East Main Street",
+        "name": "Wind River Mercantile",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.3881306,
+          43.0244613
+        ]
+      },
+      "id": "node/2882070754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2952977623",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "5500",
+        "addr:postcode": "49509",
+        "addr:state": "MI",
+        "addr:street": "Clyde Park Avenue Southwest",
+        "brand": "Meijer",
+        "brand:wikidata": "Q1917753",
+        "brand:wikipedia": "en:Meijer",
+        "name": "Meijer",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6830594,
+          42.8649865
+        ]
+      },
+      "id": "node/2952977623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2970524510",
+        "name": "UniMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8375647,
+          41.3109935
+        ]
+      },
+      "id": "node/2970524510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2971738074",
+        "addr:housenumber": "901",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8521121,
+          41.3018658
+        ]
+      },
+      "id": "node/2971738074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3114608787",
+        "name": "Blair's Supermarket",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "+1-307-347-8500",
+        "phone2": "+1-307-347-2281",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.944618,
+          44.0174229
+        ]
+      },
+      "id": "node/3114608787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3486922490",
+        "name": "clear creek stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3795486,
+          44.6416686
+        ]
+      },
+      "id": "node/3486922490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3497124640",
+        "name": "General Store",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.gtlc.com/dining/colter-bay-village-grocery.aspx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6413304,
+          43.9049853
+        ]
+      },
+      "id": "node/3497124640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3705501660",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3451373,
+          44.416359
+        ]
+      },
+      "id": "node/3705501660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3744964748",
+        "addr:city": "Pinedale",
+        "addr:housenumber": "341",
+        "addr:postcode": "82941",
+        "addr:state": "WY",
+        "addr:street": "East Pine Street",
+        "name": "Ridley's Family Market",
+        "opening_hours": "Su-Sa 07:00-21:00",
+        "phone": "+1 307 367 2131",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8562789,
+          42.8672634
+        ]
+      },
+      "id": "node/3744964748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3761033041",
+        "amenity": "fuel",
+        "name": "Trading Post",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7826318,
+          41.2165458
+        ]
+      },
+      "id": "node/3761033041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3761033045",
+        "amenity": "fuel",
+        "name": "Riverside Garage & Cabins",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7787426,
+          41.2174376
+        ]
+      },
+      "id": "node/3761033045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785014818",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934389,
+          41.8873381
+        ]
+      },
+      "id": "node/3785014818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3786956472",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8080076,
+          41.1359148
+        ]
+      },
+      "id": "node/3786956472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3786968512",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.769351,
+          41.1393873
+        ]
+      },
+      "id": "node/3786968512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3786968524",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7790371,
+          41.1389105
+        ]
+      },
+      "id": "node/3786968524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3786968552",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7616912,
+          41.1370157
+        ]
+      },
+      "id": "node/3786968552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3786977841",
+        "name": "USA",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7689332,
+          41.145138
+        ]
+      },
+      "id": "node/3786977841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3786979479",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7982014,
+          41.1420758
+        ]
+      },
+      "id": "node/3786979479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3786979525",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7558252,
+          41.144223
+        ]
+      },
+      "id": "node/3786979525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3786985226",
+        "brand": "Loaf 'N Jug",
+        "brand:wikidata": "Q6663398",
+        "brand:wikipedia": "en:Loaf 'N Jug",
+        "name": "Loaf 'N Jug",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.782537,
+          41.160505
+        ]
+      },
+      "id": "node/3786985226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3786985238",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8227206,
+          41.164351
+        ]
+      },
+      "id": "node/3786985238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3786985246",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.767753,
+          41.1597619
+        ]
+      },
+      "id": "node/3786985246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3787098379",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8048152,
+          41.1172332
+        ]
+      },
+      "id": "node/3787098379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3787098380",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8011566,
+          41.1099664
+        ]
+      },
+      "id": "node/3787098380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3787117412",
+        "brand": "Loaf 'N Jug",
+        "brand:wikidata": "Q6663398",
+        "brand:wikipedia": "en:Loaf 'N Jug",
+        "name": "Loaf 'N Jug",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.828306,
+          41.1710139
+        ]
+      },
+      "id": "node/3787117412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3787117436",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8400943,
+          41.1840333
+        ]
+      },
+      "id": "node/3787117436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3787117446",
+        "brand": "Loaf 'N Jug",
+        "brand:wikidata": "Q6663398",
+        "brand:wikipedia": "en:Loaf 'N Jug",
+        "name": "Loaf 'N Jug",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.828032,
+          41.1710502
+        ]
+      },
+      "id": "node/3787117446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3789874673",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3751718,
+          42.8477098
+        ]
+      },
+      "id": "node/3789874673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3789874738",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.298128,
+          42.8546708
+        ]
+      },
+      "id": "node/3789874738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3789874760",
+        "shop": "convenience",
+        "source": "Bing",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3537463,
+          42.8295839
+        ]
+      },
+      "id": "node/3789874760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3789874820",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3750645,
+          42.848697
+        ]
+      },
+      "id": "node/3789874820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3789874839",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3373527,
+          42.8353432
+        ]
+      },
+      "id": "node/3789874839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3898756465",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.720574,
+          42.7466001
+        ]
+      },
+      "id": "node/3898756465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3931958957",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.236217,
+          41.5758968
+        ]
+      },
+      "id": "node/3931958957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4052142280",
+        "shop": "convenience",
+        "source": "Mapbox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5625301,
+          41.3089218
+        ]
+      },
+      "id": "node/4052142280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4154707849",
+        "name": "Big Horn Junction",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9619099,
+          44.720581
+        ]
+      },
+      "id": "node/4154707849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4172875278",
+        "name": "Buckhorn Iga",
+        "operator": "Buckhorn Grocery",
+        "phone": "+1 307 655 97 66",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.1699965,
+          44.9086373
+        ]
+      },
+      "id": "node/4172875278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4221664502",
+        "brand": "Conoco",
+        "brand:wikidata": "Q109341187",
+        "name": "Conoco",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.055887,
+          44.4942543
+        ]
+      },
+      "id": "node/4221664502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4221664504",
+        "name": "Overland Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.0558824,
+          44.4947136
+        ]
+      },
+      "id": "node/4221664504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4357861440",
+        "addr:city": "Pinedale",
+        "addr:housenumber": "219",
+        "addr:postcode": "82941",
+        "addr:state": "WY",
+        "addr:street": "East Pine Street",
+        "addr:unit": "118",
+        "contact:email": "blueplanetfoods@centurytel.net",
+        "contact:facebook": "https://www.facebook.com/Blue-Planet-Foods-1418548401734387/",
+        "name": "Blue Planet Foods",
+        "opening_hours": "Su-Mo off; Tu-Sa 09:00-17:00",
+        "phone": "+1 307 367 3833",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8574585,
+          42.8672438
+        ]
+      },
+      "id": "node/4357861440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4370689376",
+        "addr:city": "Wilson",
+        "addr:country": "US",
+        "addr:housenumber": "4015",
+        "addr:postcode": "83014",
+        "addr:state": "WY",
+        "addr:street": "West Lake Creek Drive",
+        "addr:unit": "Suite 29",
+        "email": "info@aspensmarketjh.com",
+        "name": "Aspens Market",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "phone": "+1-307-200-6140",
+        "shop": "supermarket",
+        "website": "https://aspensmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.842407,
+          43.5318489
+        ]
+      },
+      "id": "node/4370689376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4428188783",
+        "addr:city": "Saratoga",
+        "addr:housenumber": "303",
+        "addr:postcode": "82331",
+        "addr:state": "WY",
+        "addr:street": "South 1st Street",
+        "name": "Conoco/Country Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8073201,
+          41.4527136
+        ]
+      },
+      "id": "node/4428188783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4772016824",
+        "amenity": "cafe",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8581291,
+          41.5444279
+        ]
+      },
+      "id": "node/4772016824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4795446172",
+        "name": "Flying J",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2306004,
+          41.6090908
+        ]
+      },
+      "id": "node/4795446172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4856920080",
+        "addr:city": "Gillette",
+        "addr:housenumber": "405",
+        "addr:postcode": "82718",
+        "addr:state": "WY",
+        "addr:street": "West Lakeway Road",
+        "name": "Big D Kwik Shop",
+        "shop": "convenience",
+        "website": "http://www.bigdoil.com/405-lakeway-rd-gillette/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.509192,
+          44.2686422
+        ]
+      },
+      "id": "node/4856920080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4917226279",
+        "name": "Stateline Station",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.0827942,
+          44.5441574
+        ]
+      },
+      "id": "node/4917226279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4935640622",
+        "addr:housenumber": "40",
+        "addr:street": "West Pearl Avenue",
+        "amenity": "marketplace",
+        "name": "Pearl Street Market and Delicatessen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7626887,
+          43.478769
+        ]
+      },
+      "id": "node/4935640622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4971016694",
+        "addr:city": "Gillette",
+        "addr:housenumber": "2610",
+        "addr:postcode": "82718",
+        "addr:state": "WY",
+        "addr:street": "South Douglas Highway",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "fixme": "Needs unit number.",
+        "name": "Albertsons",
+        "note": "No visible number outside",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket",
+        "source": "survey;local knowledge",
+        "website": "https://local.albertsons.com/wy/gillette/2610-s-douglas-hwy.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.49493,
+          44.2705914
+        ]
+      },
+      "id": "node/4971016694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5023014721",
+        "addr:housenumber": "600",
+        "addr:postcode": "82443",
+        "addr:street": "South 6th Street",
+        "name": "Blair's Market",
+        "name:ru": "Блэйрс Маркет",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.2133413,
+          43.6402202
+        ]
+      },
+      "id": "node/5023014721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5658817492",
+        "name": "Candy's Taqueria",
+        "shop": "grocery",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4930109,
+          44.2812994
+        ]
+      },
+      "id": "node/5658817492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5658817496",
+        "addr:city": "Gillette",
+        "addr:housenumber": "900",
+        "addr:postcode": "82716",
+        "addr:state": "WY",
+        "addr:street": "Camel Drive",
+        "addr:unit": "B",
+        "name": "La Casita",
+        "shop": "grocery",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4924696,
+          44.2813076
+        ]
+      },
+      "id": "node/5658817496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5771670142",
+        "name": "Jubilee Foods Neighborhood Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.1151466,
+          42.5386229
+        ]
+      },
+      "id": "node/5771670142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5777960859",
+        "name": "Old Faithful Basin General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.833904,
+          44.4608788
+        ]
+      },
+      "id": "node/5777960859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5780321001",
+        "name": "Flat Creek Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.757449,
+          43.5064174
+        ]
+      },
+      "id": "node/5780321001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6049765770",
+        "name": "Bear Mountain Stage Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.2413428,
+          41.6441446
+        ]
+      },
+      "id": "node/6049765770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6571319118",
+        "name": "Red Apple",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.3930136,
+          44.8386043
+        ]
+      },
+      "id": "node/6571319118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6681830444",
+        "name": "Dornans Trading Post and Deli",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "phone": "+1-307-733-2415",
+        "shop": "convenience",
+        "website": "https://dornans.com/BIM/BIM.php?p=shopping"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7104758,
+          43.657307
+        ]
+      },
+      "id": "node/6681830444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6831704688",
+        "name": "Pahaska Tepee Groceries",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9643336,
+          44.5022858
+        ]
+      },
+      "id": "node/6831704688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6831862490",
+        "name": "Coffee Cup - Fuel Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9443801,
+          44.2639657
+        ]
+      },
+      "id": "node/6831862490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7048076119",
+        "addr:city": "Kinnear",
+        "addr:housenumber": "11519",
+        "addr:postcode": "82516",
+        "addr:state": "WY",
+        "addr:street": "US-26",
+        "name": "Kinnear Store",
+        "opening_hours": "Mo-Su 07:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6781498,
+          43.1515163
+        ]
+      },
+      "id": "node/7048076119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7439971945",
+        "shop": "convenience",
+        "source": "EsriWorldImageryClarity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6985282,
+          44.3489632
+        ]
+      },
+      "id": "node/7439971945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7683080297",
+        "name": "Jackalope Travel Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6373276,
+          43.5342895
+        ]
+      },
+      "id": "node/7683080297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7717781148",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4484083,
+          42.108153
+        ]
+      },
+      "id": "node/7717781148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7805381200",
+        "fixme": "confirm there's a c-store here along with the fuel station",
+        "name": "Tower Valley Ag",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6017662,
+          44.6801514
+        ]
+      },
+      "id": "node/7805381200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7967318075",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6599688,
+          44.356803
+        ]
+      },
+      "id": "node/7967318075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8018670220",
+        "addr:city": "Afton",
+        "addr:housenumber": "1014",
+        "addr:postcode": "83110",
+        "addr:state": "WY",
+        "addr:street": "Washington Street",
+        "brand": "Maverik",
+        "brand:wikidata": "Q64149010",
+        "brand:wikipedia": "en:Maverik, Inc.",
+        "name": "Maverik",
+        "phone": "+1 885 3861",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9340464,
+          42.7125303
+        ]
+      },
+      "id": "node/8018670220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8042834362",
+        "addr:city": "Afton",
+        "addr:housenumber": "571",
+        "addr:postcode": "83110",
+        "addr:state": "WY",
+        "addr:street": "Washington Street",
+        "name": "Food For Thought",
+        "phone": "+1 307 886 9242",
+        "shop": "health_food",
+        "website": "https://www.facebook.com/aftonfoodforthought/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9333821,
+          42.7220732
+        ]
+      },
+      "id": "node/8042834362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8093154721",
+        "addr:city": "Afton",
+        "addr:housenumber": "141",
+        "addr:postcode": "83110",
+        "addr:state": "WY",
+        "addr:street": "North Washington Street",
+        "name": "Broulim's",
+        "phone": "+1 307 885 5550",
+        "shop": "supermarket",
+        "website": "https://broulims.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9317901,
+          42.7347083
+        ]
+      },
+      "id": "node/8093154721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8133263438",
+        "addr:city": "Sheridan",
+        "addr:housenumber": "625",
+        "addr:postcode": "82801",
+        "addr:state": "WY",
+        "addr:street": "East 5th Street",
+        "name": "Health Nut and Wellness",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9454026,
+          44.8072231
+        ]
+      },
+      "id": "node/8133263438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8195232587",
+        "addr:city": "Grand Rapids",
+        "addr:housenumber": "5381",
+        "addr:postcode": "49548",
+        "addr:state": "MI",
+        "addr:street": "Division Avenue South",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6647858,
+          42.8664145
+        ]
+      },
+      "id": "node/8195232587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8198413019",
+        "addr:city": "Afton",
+        "addr:housenumber": "391",
+        "addr:postcode": "83110",
+        "addr:state": "WY",
+        "addr:street": "Washington Street",
+        "brand": "Maverik",
+        "brand:wikidata": "Q64149010",
+        "brand:wikipedia": "en:Maverik, Inc.",
+        "name": "Maverik Adventure's First Stop",
+        "phone": "+1 307 392 4841",
+        "shop": "convenience",
+        "website": "https://maverik.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9327301,
+          42.7256566
+        ]
+      },
+      "id": "node/8198413019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8200167728",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "4390",
+        "addr:postcode": "49519",
+        "addr:state": "MI",
+        "addr:street": "Byron Center Avenue Southwest",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "2243",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.72366,
+          42.885188
+        ]
+      },
+      "id": "node/8200167728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204016041",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "1045",
+        "addr:postcode": "49509",
+        "addr:state": "MI",
+        "addr:street": "Chicago Drive Southwest",
+        "name": "4STAR",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6933272,
+          42.9356992
+        ]
+      },
+      "id": "node/8204016041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204016058",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "2257",
+        "addr:postcode": "49519",
+        "addr:state": "MI",
+        "addr:street": "Chicago Drive Southwest",
+        "brand": "J&H Family Stores",
+        "name": "J&H Family Stores",
+        "phone": "+1 616 532 6010",
+        "shop": "convenience",
+        "website": "http://www.myjhfamilystores.com/locations/pit-stop-mobil/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7220778,
+          42.9317481
+        ]
+      },
+      "id": "node/8204016058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204016072",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "1300",
+        "addr:postcode": "49509",
+        "addr:state": "MI",
+        "addr:street": "Burton Street Southwest",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "3587",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.699106,
+          42.9278184
+        ]
+      },
+      "id": "node/8204016072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204023744",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "5568",
+        "addr:postcode": "49519",
+        "addr:state": "MI",
+        "addr:street": "Byron Center Avenue Southwest",
+        "brand": "J&H Family Stores",
+        "name": "J&H Family Stores",
+        "phone": "+1 616 257 1591",
+        "shop": "convenience",
+        "website": "http://www.myjhfamilystores.com/locations/gezon-mobil/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7225282,
+          42.8634191
+        ]
+      },
+      "id": "node/8204023744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204023748",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "2260",
+        "addr:postcode": "49519",
+        "addr:state": "MI",
+        "addr:street": "Gezon Parkway Southwest",
+        "name": "Family Fare Quick Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7195062,
+          42.8611968
+        ]
+      },
+      "id": "node/8204023748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204023787",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "4405",
+        "addr:postcode": "49548",
+        "addr:state": "MI",
+        "addr:street": "Division Avenue South",
+        "name": "AGO",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6652002,
+          42.88365
+        ]
+      },
+      "id": "node/8204023787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204023798",
+        "addr:city": "Grand Rapids",
+        "addr:housenumber": "3155",
+        "addr:postcode": "49548",
+        "addr:state": "MI",
+        "addr:street": "Division Avenue South",
+        "name": "Rich Oil",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6661309,
+          42.906168
+        ]
+      },
+      "id": "node/8204023798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204023814",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "3221",
+        "addr:postcode": "49548",
+        "addr:state": "MI",
+        "addr:street": "Division Avenue South",
+        "brand": "Admiral",
+        "name": "Admiral",
+        "ref": "5823",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6661148,
+          42.9054401
+        ]
+      },
+      "id": "node/8204023814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204023824",
+        "addr:city": "Grand Rapids",
+        "addr:housenumber": "3315",
+        "addr:postcode": "49548",
+        "addr:state": "MI",
+        "addr:street": "Division Avenue South",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "3571",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6660518,
+          42.9036876
+        ]
+      },
+      "id": "node/8204023824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204023834",
+        "addr:city": "Grand Rapids",
+        "addr:housenumber": "150",
+        "addr:postcode": "49548",
+        "addr:state": "MI",
+        "addr:street": "36th Street Southwest",
+        "name": "AGO",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6698136,
+          42.8983649
+        ]
+      },
+      "id": "node/8204023834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204023903",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "800",
+        "addr:postcode": "49509",
+        "addr:state": "MI",
+        "addr:street": "Burton Street Southwest",
+        "name": "AGO",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6867585,
+          42.9275699
+        ]
+      },
+      "id": "node/8204023903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204023912",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "205",
+        "addr:postcode": "49509",
+        "addr:state": "MI",
+        "addr:street": "28th Street Southwest",
+        "brand": "Marathon",
+        "brand:wikidata": "Q458363",
+        "brand:wikipedia": "en:Marathon Petroleum",
+        "name": "Marathon",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6714444,
+          42.9135226
+        ]
+      },
+      "id": "node/8204023912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204023930",
+        "addr:city": "Grand Rapids",
+        "addr:housenumber": "5",
+        "addr:postcode": "49548",
+        "addr:state": "MI",
+        "addr:street": "28th Street Southwest",
+        "brand": "Admiral",
+        "name": "Admiral",
+        "ref": "5877",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6665078,
+          42.9135025
+        ]
+      },
+      "id": "node/8204023930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204023957",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "1600",
+        "addr:postcode": "49519",
+        "addr:state": "MI",
+        "addr:street": "28th Street Southwest",
+        "name": "Family Fare Quick Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7060248,
+          42.9126529
+        ]
+      },
+      "id": "node/8204023957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204023969",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "2667",
+        "addr:postcode": "49509",
+        "addr:state": "MI",
+        "addr:street": "28th Street Southwest",
+        "brand": "Tiger Mart",
+        "brand:wikidata": "Q57643977",
+        "name": "Tiger Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7310216,
+          42.9142416
+        ]
+      },
+      "id": "node/8204023969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204024027",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "2360",
+        "addr:postcode": "49519",
+        "addr:state": "MI",
+        "addr:street": "28th Street Southwest",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "2231",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7243313,
+          42.9134422
+        ]
+      },
+      "id": "node/8204024027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204024079",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "800",
+        "addr:postcode": "49509",
+        "addr:state": "MI",
+        "addr:street": "28th Street Southwest",
+        "name": "Mobil Plaza",
+        "not:brand:wikidata": "Q109676002",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6861952,
+          42.9127825
+        ]
+      },
+      "id": "node/8204024079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204024089",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "3600",
+        "addr:postcode": "49509",
+        "addr:state": "MI",
+        "addr:street": "Clyde Park Avenue Southwest",
+        "brand": "Admiral",
+        "name": "Admiral",
+        "ref": "5884",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6846194,
+          42.8984366
+        ]
+      },
+      "id": "node/8204024089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204024130",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "4404",
+        "addr:postcode": "49509",
+        "addr:state": "MI",
+        "addr:street": "Clyde Park Avenue Southwest",
+        "brand": "J&H Family Stores",
+        "name": "J&H Family Stores",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6835452,
+          42.8836239
+        ]
+      },
+      "id": "node/8204024130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204024131",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "808",
+        "addr:postcode": "49509",
+        "addr:state": "MI",
+        "addr:street": "44th Street Southwest",
+        "name": "Johnny's",
+        "opening_hours": "24/7",
+        "phone": "+1 616 719 2095",
+        "shop": "convenience",
+        "website": "https://johnnysmarkets.com/store/44th-street/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6853637,
+          42.8836724
+        ]
+      },
+      "id": "node/8204024131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8204024174",
+        "addr:city": "Wyoming",
+        "addr:housenumber": "3605",
+        "addr:postcode": "49509",
+        "addr:state": "MI",
+        "addr:street": "Burlingame Avenue Southwest",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "2289",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7052684,
+          42.898358
+        ]
+      },
+      "id": "node/8204024174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8221287743",
+        "addr:city": "Grand Rapids",
+        "addr:housenumber": "791",
+        "addr:postcode": "49548",
+        "addr:state": "MI",
+        "addr:street": "32nd Street Southeast",
+        "name": "Harry's Corner",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6472231,
+          42.9059034
+        ]
+      },
+      "id": "node/8221287743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8690827247",
+        "addr:city": "Wyoming",
+        "addr:country": "US",
+        "addr:county": "Kent, MI",
+        "addr:housenumber": "289",
+        "addr:postcode": "49548",
+        "addr:state": "MI",
+        "addr:street": "54th Street Southwest",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00",
+        "payment:american_express": "yes",
+        "payment:coins": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6712244,
+          42.8663879
+        ]
+      },
+      "id": "node/8690827247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8690830849",
+        "addr:city": "Wyoming",
+        "addr:country": "US",
+        "addr:county": "Kent, MI",
+        "addr:housenumber": "2840",
+        "addr:postcode": "49509",
+        "addr:state": "MI",
+        "addr:street": "Clyde Park Avenue Southwest",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00",
+        "payment:american_express": "yes",
+        "payment:coins": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6847642,
+          42.9124938
+        ]
+      },
+      "id": "node/8690830849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8763420726",
+        "addr:city": "Thayne",
+        "addr:housenumber": "118",
+        "addr:postcode": "83127",
+        "addr:state": "WY",
+        "addr:street": "Petersen Parkway",
+        "name": "Valley Market",
+        "opening_hours": "Mo - Sa; 07:00 - 20:00",
+        "phone": "+1 307 883 6337",
+        "shop": "supermarket",
+        "website": "https://thaynevalleymarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9994121,
+          42.9151494
+        ]
+      },
+      "id": "node/8763420726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8777957055",
+        "addr:city": "Thayne",
+        "addr:housenumber": "160",
+        "addr:postcode": "83127",
+        "addr:state": "WY",
+        "addr:street": "North Main Street",
+        "brand": "Maverik",
+        "brand:wikidata": "Q64149010",
+        "brand:wikipedia": "en:Maverik, Inc.",
+        "name": "Maverik Adventure's First Stop",
+        "phone": "+1 307 200 2974",
+        "shop": "convenience",
+        "website": "https://www.maverik.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0016512,
+          42.9175527
+        ]
+      },
+      "id": "node/8777957055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8806348224",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9721436,
+          42.967078
+        ]
+      },
+      "id": "node/8806348224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8840438401",
+        "name": "CBHCO-OP",
+        "shop": "convenience",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4951642,
+          44.2835773
+        ]
+      },
+      "id": "node/8840438401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8864936459",
+        "name": "Chug Chug Gas and Go",
+        "opening_hours": "06:00-20:00",
+        "operator": "Chug Chug Gas and Go LLC",
+        "phone": "+1 (307) 222-3237",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8293069,
+          41.7559083
+        ]
+      },
+      "id": "node/8864936459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9007621802",
+        "name": "Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9320435,
+          42.6907952
+        ]
+      },
+      "id": "node/9007621802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9566393206",
+        "addr:city": "Grand Rapids",
+        "addr:housenumber": "2691",
+        "addr:postcode": "49507",
+        "addr:state": "MI",
+        "addr:street": "Division Avenue South",
+        "name": "GR Nutrition",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6662895,
+          42.9146162
+        ]
+      },
+      "id": "node/9566393206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9753000683",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.786065,
+          41.6800097
+        ]
+      },
+      "id": "node/9753000683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9854195503",
+        "name": "Broulim's",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 09:00-18:00",
+        "phone": "+1-307-887-7779",
+        "shop": "supermarket",
+        "website": "https://www.broulims.com/locations/alpine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.01662,
+          43.171512
+        ]
+      },
+      "id": "node/9854195503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9854195528",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "brand:wikipedia": "en:Chevron Corporation",
+        "name": "Chevron",
+        "operator": "Chevron",
+        "shop": "convenience",
+        "source": "Bing 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0174253,
+          43.1730022
+        ]
+      },
+      "id": "node/9854195528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9860639318",
+        "name": "Pilot",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6105944,
+          41.3271863
+        ]
+      },
+      "id": "node/9860639318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9982698563",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.0925548,
+          44.5169327
+        ]
+      },
+      "id": "node/9982698563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10628442505",
+        "addr:city": "Sheridan",
+        "addr:housenumber": "1865",
+        "addr:postcode": "82801",
+        "addr:state": "WY",
+        "addr:street": "Coffeen Avenue",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "name": "Albertsons",
+        "phone": "+1 307-672-8908",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9414369,
+          44.7778899
+        ]
+      },
+      "id": "node/10628442505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340247517",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-51-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978518,
+          41.8912427
+        ]
+      },
+      "id": "node/5340247517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340252322",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-49-50 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4973968,
+          41.8913872
+        ]
+      },
+      "id": "node/5340252322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535092255",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915049,
+          41.8918027
+        ]
+      },
+      "id": "node/5535092255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5801329944",
+        "amenity": "drinking_water",
+        "description:de": "Wasserbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4884569,
+          41.8880861
+        ]
+      },
+      "id": "node/5801329944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6547164641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Via in Miranda, Foro Romano, Roma, Italia Oct 05, 2022 04-55-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870814,
+          41.8924043
+        ]
+      },
+      "id": "node/6547164641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6616168986",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4967144,
+          41.8922741
+        ]
+      },
+      "id": "node/6616168986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6841124063",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926345,
+          41.8906387
+        ]
+      },
+      "id": "node/6841124063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085935353",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941883,
+          41.8915996
+        ]
+      },
+      "id": "node/7085935353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7203154248",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Via Marco Aurelio, Roma, Italia Jun 30, 2022 08-08-32 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4955486,
+          41.8882028
+        ]
+      },
+      "id": "node/7203154248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9108120217",
+        "amenity": "drinking_water",
+        "name": "Acqua",
+        "name:en": "Drinkable water",
+        "name:fr": "Eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4847106,
+          41.8877336
+        ]
+      },
+      "id": "node/9108120217"
+    }
+  ]
+}

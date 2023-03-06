@@ -1,0 +1,2738 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-06T00:05:31Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266310881",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934985,
+          41.8923773
+        ]
+      },
+      "id": "node/266310881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/316087553",
+        "name": "Four Seasons Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.524887,
+          41.4855558
+        ]
+      },
+      "id": "node/316087553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/322552428",
+        "created_by": "osm2go v0.6-8",
+        "name": "The Postal Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5004528,
+          41.5811246
+        ]
+      },
+      "id": "node/322552428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/322552433",
+        "created_by": "osm2go v0.6-8",
+        "name": "Verizon Wireless Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5004528,
+          41.581212
+        ]
+      },
+      "id": "node/322552433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388984003",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494519,
+          41.8877413
+        ]
+      },
+      "id": "node/388984003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495113034",
+        "amenity": "drinking_water",
+        "check_date": "2022-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934283,
+          41.8913309
+        ]
+      },
+      "id": "node/495113034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685457655",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4867108,
+          41.8902623
+        ]
+      },
+      "id": "node/685457655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685461877",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4875779,
+          41.8891234
+        ]
+      },
+      "id": "node/685461877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/714489105",
+        "brand": "Cumberland Farms",
+        "brand:wikidata": "Q1143685",
+        "brand:wikipedia": "en:Cumberland Farms",
+        "name": "Cumberland Farms",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8251918,
+          41.383517
+        ]
+      },
+      "id": "node/714489105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/714489132",
+        "brand": "Cumberland Farms",
+        "brand:wikidata": "Q1143685",
+        "brand:wikipedia": "en:Cumberland Farms",
+        "name": "Cumberland Farms",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8202923,
+          41.368852
+        ]
+      },
+      "id": "node/714489132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890053",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4879526,
+          41.8887986
+        ]
+      },
+      "id": "node/953890053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890062",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883755,
+          41.890985
+        ]
+      },
+      "id": "node/953890062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953909059",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via dei santi Quattro,roma,italy 62022.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968765,
+          41.8889852
+        ]
+      },
+      "id": "node/953909059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1170494282",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942213,
+          41.8900377
+        ]
+      },
+      "id": "node/1170494282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1280112585",
+        "addr:city": "Wakefield",
+        "addr:housenumber": "160 A",
+        "addr:postcode": "02879",
+        "addr:state": "RI",
+        "addr:street": "Old Tower Hill Road",
+        "name": "Shaw's",
+        "opening_hours": "Mo-Sa 06:00-23:00, Su 07:00-21:00",
+        "operator": "Shaw's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4819128,
+          41.4440241
+        ]
+      },
+      "id": "node/1280112585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1602372362",
+        "name": "Dave's Marketplace",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4960561,
+          41.6605604
+        ]
+      },
+      "id": "node/1602372362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1602511155",
+        "brand": "Price Rite",
+        "brand:wikidata": "Q7242560",
+        "brand:wikipedia": "en:Price Rite",
+        "name": "Price Rite",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4910731,
+          41.7129283
+        ]
+      },
+      "id": "node/1602511155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1606087888",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "fuel:diesel": "yes",
+        "name": "Shell Gas station",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4711794,
+          41.8247205
+        ]
+      },
+      "id": "node/1606087888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1606093329",
+        "amenity": "fuel",
+        "brand": "Cumberland Farms",
+        "fuel:diesel": "no",
+        "name": "Cumberland Farms",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4721828,
+          41.8276728
+        ]
+      },
+      "id": "node/1606093329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656861982",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883955,
+          41.8907173
+        ]
+      },
+      "id": "node/1656861982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709280191",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-02",
+        "fountain": "bottle_refill",
+        "name:ru": "вода с газом и без. бесплатная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911794,
+          41.891319
+        ]
+      },
+      "id": "node/1709280191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1748962198",
+        "name": "Shaw's Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4472252,
+          41.8562499
+        ]
+      },
+      "id": "node/1748962198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1748962200",
+        "addr:city": "Providence",
+        "addr:country": "US",
+        "addr:county": "Providence, RI",
+        "addr:housenumber": "539",
+        "addr:postcode": "02908-4362",
+        "addr:state": "RI",
+        "addr:street": "Smith Street",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "delivery": "yes",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cheque": "no",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:ebt": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:snap": "yes",
+        "payment:visa": "yes",
+        "payment:wic": "no",
+        "phone": "+1 833 473 7041",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4288542,
+          41.8364122
+        ]
+      },
+      "id": "node/1748962200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1753863987",
+        "name": "Stop and Shop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4668846,
+          41.8323697
+        ]
+      },
+      "id": "node/1753863987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759081386",
+        "brand": "Stop & Shop",
+        "brand:wikidata": "Q3658429",
+        "brand:wikipedia": "en:Stop & Shop",
+        "name": "Stop & Shop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4121232,
+          41.8454268
+        ]
+      },
+      "id": "node/1759081386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1774103359",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4239494,
+          41.8346715
+        ]
+      },
+      "id": "node/1774103359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1984998126",
+        "name": "Price Rite",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4242753,
+          41.7718302
+        ]
+      },
+      "id": "node/1984998126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2118593038",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4584994,
+          42.0134614
+        ]
+      },
+      "id": "node/2118593038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2378144227",
+        "name": "Sunrise Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4518905,
+          41.8459282
+        ]
+      },
+      "id": "node/2378144227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2379477134",
+        "brand": "Cumberland Farms",
+        "brand:wikidata": "Q1143685",
+        "brand:wikipedia": "en:Cumberland Farms",
+        "name": "Cumberland Farms",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4693343,
+          41.8604526
+        ]
+      },
+      "id": "node/2379477134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2392292705",
+        "brand": "Stop & Shop",
+        "brand:wikidata": "Q3658429",
+        "brand:wikipedia": "en:Stop & Shop",
+        "name": "Stop & Shop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.532819,
+          41.8684638
+        ]
+      },
+      "id": "node/2392292705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2408811781",
+        "name": "Capital Gulf",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4184659,
+          41.8325875
+        ]
+      },
+      "id": "node/2408811781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2417264225",
+        "name": "Dave's Marketplace",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5192843,
+          41.872266
+        ]
+      },
+      "id": "node/2417264225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537299968",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "indoor": "no",
+        "wikimedia_commons": "File:Nasone via mecenate, Roma, Italia Jun 30, 2022 06-19-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4987211,
+          41.8911676
+        ]
+      },
+      "id": "node/2537299968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2629299333",
+        "addr:city": "Jamestown",
+        "addr:postcode": "02835",
+        "name": "McQuaid's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3748033,
+          41.495089
+        ]
+      },
+      "id": "node/2629299333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2822070217",
+        "name": "Not Just Spices South Asian Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3947497,
+          41.8499169
+        ]
+      },
+      "id": "node/2822070217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3042128806",
+        "addr:city": "Warwick",
+        "addr:housenumber": "1000",
+        "addr:postcode": "02886",
+        "addr:state": "RI",
+        "addr:street": "Bald Hill Road",
+        "brand": "Trader Joe's",
+        "brand:wikidata": "Q688825",
+        "brand:wikipedia": "en:Trader Joe's",
+        "name": "Trader Joe's",
+        "phone": "+1-401-821-5368",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4873393,
+          41.7124488
+        ]
+      },
+      "id": "node/3042128806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3072372529",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "internet_access": "wlan",
+        "name": "Whole Foods Market",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4085328,
+          41.8373789
+        ]
+      },
+      "id": "node/3072372529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3131333409",
+        "name": "Clement's Marketplace",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2486883,
+          41.600004
+        ]
+      },
+      "id": "node/3131333409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3222918962",
+        "addr:housenumber": "261",
+        "addr:postcode": "02906",
+        "addr:street": "Waterman Street",
+        "amenity": "retail",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "bus": "yes",
+        "fair_trade": "yes",
+        "internet_access": "yes",
+        "name": "Whole Foods Market",
+        "opening_hours": "08:00-21:00",
+        "phone": "1-401-272-1690",
+        "shop": "supermarket",
+        "website": "https://www.wholefoodsmarket.com/stores/providence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3861781,
+          41.8278073
+        ]
+      },
+      "id": "node/3222918962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3383442561",
+        "name": "Food Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4546381,
+          41.9515925
+        ]
+      },
+      "id": "node/3383442561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3503682908",
+        "name": "Dave's Marketplace",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4526204,
+          41.6070753
+        ]
+      },
+      "id": "node/3503682908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3534417054",
+        "addr:city": "Providence",
+        "addr:housenumber": "243",
+        "addr:postcode": "02907",
+        "addr:state": "RI",
+        "addr:street": "Reservoir Avenue",
+        "name": "Sunny Market",
+        "note": "Asian Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4293231,
+          41.7902779
+        ]
+      },
+      "id": "node/3534417054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3687483862",
+        "addr:city": "Newport",
+        "addr:housenumber": "250",
+        "addr:postcode": "02840",
+        "addr:state": "RI",
+        "addr:street": "Bellevue Avenue",
+        "brand": "Stop & Shop",
+        "brand:wikidata": "Q3658429",
+        "brand:wikipedia": "en:Stop & Shop",
+        "name": "Stop & Shop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3070553,
+          41.4814354
+        ]
+      },
+      "id": "node/3687483862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785014818",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934389,
+          41.8873381
+        ]
+      },
+      "id": "node/3785014818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3803610115",
+        "name": "Shop & Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4439804,
+          41.8076391
+        ]
+      },
+      "id": "node/3803610115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3803656263",
+        "amenity": "marketplace",
+        "name": "Simply Seasonal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4732949,
+          41.8548416
+        ]
+      },
+      "id": "node/3803656263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3806806592",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4688321,
+          41.6410243
+        ]
+      },
+      "id": "node/3806806592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3827049307",
+        "addr:city": "Providence",
+        "addr:housenumber": "270",
+        "addr:postcode": "02907",
+        "addr:state": "RI",
+        "addr:street": "Broad Street",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4199915,
+          41.8153099
+        ]
+      },
+      "id": "node/3827049307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3827052311",
+        "addr:city": "Providence",
+        "addr:housenumber": "339",
+        "addr:postcode": "02907",
+        "addr:state": "RI",
+        "addr:street": "Broad Street",
+        "name": "New Asian Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4219549,
+          41.8142384
+        ]
+      },
+      "id": "node/3827052311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3827057057",
+        "addr:city": "Providence",
+        "addr:housenumber": "220",
+        "addr:postcode": "02907",
+        "addr:state": "RI",
+        "addr:street": "Broad Street",
+        "name": "Oasis Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4188006,
+          41.8162695
+        ]
+      },
+      "id": "node/3827057057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4120637869",
+        "addr:city": "Newport",
+        "addr:housenumber": "199",
+        "addr:postcode": "02840",
+        "addr:state": "RI",
+        "addr:street": "Connell Highway",
+        "brand": "Stop & Shop",
+        "brand:wikidata": "Q3658429",
+        "name": "Stop & Shop",
+        "opening_hours": "Mo-Sa 06:00-24:00; Su 07:00-21:00",
+        "ref": "731",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3160431,
+          41.5088726
+        ]
+      },
+      "id": "node/4120637869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4120951974",
+        "amenity": "fuel",
+        "brand": "Mobil",
+        "brand:wikidata": "Q109676002",
+        "name": "Mobil",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3014204,
+          41.5152821
+        ]
+      },
+      "id": "node/4120951974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4134951335",
+        "brand": "Stop & Shop",
+        "brand:wikidata": "Q3658429",
+        "brand:wikipedia": "en:Stop & Shop",
+        "name": "Stop & Shop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2937996,
+          41.5370207
+        ]
+      },
+      "id": "node/4134951335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270830172",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4120794,
+          41.8241239
+        ]
+      },
+      "id": "node/4270830172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384786665",
+        "brand": "Citgo",
+        "brand:wikidata": "Q2974437",
+        "brand:wikipedia": "en:Citgo",
+        "name": "Citgo",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3173816,
+          41.4992447
+        ]
+      },
+      "id": "node/4384786665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384786795",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3171187,
+          41.5061609
+        ]
+      },
+      "id": "node/4384786795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4386643070",
+        "addr:postcode": "02871",
+        "addr:street": "East Main Road",
+        "amenity": "fuel",
+        "brand": "Cumberland Farms",
+        "name": "Cumberland Farms",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2528235,
+          41.5805392
+        ]
+      },
+      "id": "node/4386643070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4386643603",
+        "addr:city": "Middletown",
+        "addr:housenumber": "71",
+        "addr:postcode": "02842",
+        "addr:state": "RI",
+        "addr:street": "East Main Road",
+        "brand": "Shaw's",
+        "brand:wikidata": "Q578387",
+        "name": "Shaw's",
+        "phone": "+14018487560",
+        "shop": "supermarket",
+        "website": "https://local.shaws.com/ri/middletown/71-e-main-rd.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2964604,
+          41.5169596
+        ]
+      },
+      "id": "node/4386643603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4432809384",
+        "name": "CVS",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4684584,
+          41.8342145
+        ]
+      },
+      "id": "node/4432809384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4658229298",
+        "addr:city": "Johnston",
+        "addr:housenumber": "11",
+        "addr:postcode": "02919",
+        "addr:state": "RI",
+        "addr:street": "Commerce Way",
+        "brand": "Stop & Shop",
+        "brand:wikidata": "Q3658429",
+        "brand:wikipedia": "en:Stop & Shop",
+        "name": "Stop & Shop",
+        "opening_hours": "06:00-23:00",
+        "operator": "Stop & Shop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5003328,
+          41.8209116
+        ]
+      },
+      "id": "node/4658229298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4769729724",
+        "name": "Campus Market",
+        "operator": "Brown University",
+        "shop": "convenience",
+        "website": "https://brown.cafebonappetit.com/cafe/campus-market/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4033489,
+          41.8268349
+        ]
+      },
+      "id": "node/4769729724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5100671711",
+        "addr:city": "Cumberland",
+        "addr:housenumber": "2000",
+        "addr:postcode": "02864",
+        "addr:state": "RI",
+        "addr:street": "Mendon Road",
+        "name": "Seabra Foods",
+        "operator": "Seabra Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4420763,
+          41.9495964
+        ]
+      },
+      "id": "node/5100671711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5124904322",
+        "name": "Shaws",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3589087,
+          41.8208407
+        ]
+      },
+      "id": "node/5124904322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5179273976",
+        "name": "Stop & Shop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.35623,
+          41.8232969
+        ]
+      },
+      "id": "node/5179273976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5260484670",
+        "name": "6 11 Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4027285,
+          41.8421916
+        ]
+      },
+      "id": "node/5260484670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5302439845",
+        "name": "Back to Basics Natural Foods",
+        "organic": "yes",
+        "shop": "grocery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4512459,
+          41.6572131
+        ]
+      },
+      "id": "node/5302439845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5317362529",
+        "addr:city": "Newport",
+        "addr:postcode": "02840",
+        "addr:state": "RI",
+        "name": "C. H. Charles 5 & Dime",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3087301,
+          41.4961818
+        ]
+      },
+      "id": "node/5317362529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5546510349",
+        "name": "Kingston Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5243669,
+          41.4849445
+        ]
+      },
+      "id": "node/5546510349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5650145509",
+        "addr:city": "Cranston",
+        "addr:housenumber": "435",
+        "addr:postcode": "02920",
+        "addr:state": "RI",
+        "addr:street": "Atwood Avenue",
+        "name": "Shore's Fresh Food Market",
+        "phone": "+14019429050",
+        "shop": "supermarket",
+        "website": "http://www.shoresmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4718976,
+          41.7879299
+        ]
+      },
+      "id": "node/5650145509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5745674464",
+        "name": "Gulf Express",
+        "operator": "Gulf",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.39079,
+          41.8582925
+        ]
+      },
+      "id": "node/5745674464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5745687820",
+        "name": "Food Mart",
+        "operator": "Shell",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3915192,
+          41.8569535
+        ]
+      },
+      "id": "node/5745687820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5862658562",
+        "name": "Green Grocer",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2555877,
+          41.5602508
+        ]
+      },
+      "id": "node/5862658562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5977551672",
+        "addr:city": "Glocester",
+        "addr:housenumber": "365",
+        "addr:postcode": "02857",
+        "addr:state": "RI",
+        "addr:street": "Snake Hill Road",
+        "name": "Harmony Corner Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6026926,
+          41.874146
+        ]
+      },
+      "id": "node/5977551672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6433975136",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "brand:wikipedia": "en:Save-A-Lot",
+        "name": "Save-A-Lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4330609,
+          41.7883985
+        ]
+      },
+      "id": "node/6433975136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6499422037",
+        "name": "Pawtucket Food Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4135791,
+          41.8715794
+        ]
+      },
+      "id": "node/6499422037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6743370785",
+        "addr:housenumber": "93",
+        "addr:postcode": "02907",
+        "addr:street": "Cranston Street",
+        "email": "info@urbangreens.com",
+        "name": "Urban Greens Co-op",
+        "name:en": "Urban Greens Co-op Market",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "phone": "1-401-273-0362",
+        "shop": "supermarket",
+        "website": "https://urbangreens.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4241106,
+          41.8161013
+        ]
+      },
+      "id": "node/6743370785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6809949464",
+        "name": "The Corner Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2696066,
+          41.7293073
+        ]
+      },
+      "id": "node/6809949464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6959245917",
+        "name": "The Scoop",
+        "payment:Bulldog_Bucks": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5369285,
+          41.9198804
+        ]
+      },
+      "id": "node/6959245917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7080735929",
+        "brand": "Stop & Shop",
+        "brand:wikidata": "Q3658429",
+        "brand:wikipedia": "en:Stop & Shop",
+        "name": "Stop & Shop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4751778,
+          41.9374587
+        ]
+      },
+      "id": "node/7080735929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7348654812",
+        "name": "A Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3096359,
+          41.4831229
+        ]
+      },
+      "id": "node/7348654812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7942074807",
+        "name": "Block Island Grocery",
+        "phone": "+1 (401) 466-2949",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5625361,
+          41.174284
+        ]
+      },
+      "id": "node/7942074807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8347414898",
+        "addr:city": "Warwick",
+        "addr:housenumber": "87",
+        "addr:postcode": "02886",
+        "addr:state": "RI",
+        "addr:street": "West Natick Road",
+        "brand": "Cumberland Farms",
+        "brand:wikidata": "Q1143685",
+        "brand:wikipedia": "en:Cumberland Farms",
+        "name": "Cumberland Farms",
+        "opening_hours": "24/7",
+        "phone": "+14017371906",
+        "shop": "convenience",
+        "website": "https://www.cumberlandfarms.com/stores/ri/warwick-1298"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4770577,
+          41.7277003
+        ]
+      },
+      "id": "node/8347414898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8369853133",
+        "addr:city": "Warren",
+        "addr:housenumber": "137",
+        "addr:postcode": "02885",
+        "addr:state": "RI",
+        "addr:street": "Child Street",
+        "name": "Tom's Market",
+        "phone": "401-289-2852",
+        "shop": "supermarket",
+        "website": "https://tomsmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.278056,
+          41.7296859
+        ]
+      },
+      "id": "node/8369853133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8369853141",
+        "addr:city": "Warren",
+        "addr:housenumber": "2",
+        "addr:postcode": "02885",
+        "addr:state": "RI",
+        "addr:street": "Market Street",
+        "name": "Prica Farina",
+        "phone": "+1 401 245 1680",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2825887,
+          41.7309139
+        ]
+      },
+      "id": "node/8369853141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8369853161",
+        "addr:city": "Warren",
+        "addr:housenumber": "406",
+        "addr:postcode": "02885",
+        "addr:state": "RI",
+        "addr:street": "Water Street",
+        "name": "Blount Clamshack & Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2846521,
+          41.7267083
+        ]
+      },
+      "id": "node/8369853161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8577255081",
+        "name": "Seasons",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.462755,
+          41.7164255
+        ]
+      },
+      "id": "node/8577255081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8787358428",
+        "addr:city": "Middletown",
+        "addr:country": "US",
+        "addr:county": "Newport, RI",
+        "addr:housenumber": "872",
+        "addr:postcode": "02842-6315",
+        "addr:state": "RI",
+        "addr:street": "West Main Road",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "delivery": "yes",
+        "name": "Aldi",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cheque": "no",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:ebt": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:snap": "yes",
+        "payment:visa": "yes",
+        "payment:wic": "no",
+        "phone": "+1 844 473 1046",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2978853,
+          41.5271162
+        ]
+      },
+      "id": "node/8787358428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8787384470",
+        "addr:city": "Westerly",
+        "addr:country": "US",
+        "addr:county": "Washington, RI",
+        "addr:housenumber": "100",
+        "addr:postcode": "02891-3175",
+        "addr:state": "RI",
+        "addr:street": "Franklin Street",
+        "addr:unit": "A",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "delivery": "yes",
+        "drive_through": "yes",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cheque": "no",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:ebt": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:snap": "yes",
+        "payment:visa": "yes",
+        "payment:wic": "no",
+        "phone": "+1 833 473 7042",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8117449,
+          41.3620115
+        ]
+      },
+      "id": "node/8787384470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8787427941",
+        "addr:city": "Rumford",
+        "addr:country": "US",
+        "addr:county": "Providence, RI",
+        "addr:housenumber": "70",
+        "addr:postcode": "02916-2068",
+        "addr:state": "RI",
+        "addr:street": "Newport Avenue",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "delivery": "yes",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cheque": "no",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:ebt": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:snap": "yes",
+        "payment:visa": "yes",
+        "payment:wic": "no",
+        "phone": "+1 833 473 7040",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3525227,
+          41.8562594
+        ]
+      },
+      "id": "node/8787427941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8787601598",
+        "addr:city": "Warwick",
+        "addr:country": "US",
+        "addr:county": "Kent, RI",
+        "addr:housenumber": "444",
+        "addr:postcode": "02886-0185",
+        "addr:state": "RI",
+        "addr:street": "Quaker Lane",
+        "addr:unit": "6",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "delivery": "yes",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cheque": "no",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:ebt": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:snap": "yes",
+        "payment:visa": "yes",
+        "payment:wic": "no",
+        "phone": "+1 833 473 7038",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4990229,
+          41.6833078
+        ]
+      },
+      "id": "node/8787601598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8787622640",
+        "addr:city": "Johnston",
+        "addr:country": "US",
+        "addr:county": "Providence, RI",
+        "addr:housenumber": "1386",
+        "addr:postcode": "02919-4911",
+        "addr:state": "RI",
+        "addr:street": "Atwood Avenue",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "delivery": "yes",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cheque": "no",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:ebt": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:snap": "yes",
+        "payment:visa": "yes",
+        "payment:wic": "no",
+        "phone": "+1 844 473 1025",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4983128,
+          41.8156096
+        ]
+      },
+      "id": "node/8787622640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8992620118",
+        "addr:city": "Middletown",
+        "addr:housenumber": "864",
+        "addr:postcode": "02842",
+        "addr:state": "RI",
+        "addr:street": "West Main Road",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Joe's Kwik Mart",
+        "opening_hours": "05:00-23:00",
+        "phone": "+1 401 399 6625",
+        "ref": "5011",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2973893,
+          41.5267064
+        ]
+      },
+      "id": "node/8992620118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8992690058",
+        "addr:city": "North Kingstown",
+        "addr:housenumber": "1820",
+        "addr:postcode": "02852",
+        "addr:state": "RI",
+        "addr:street": "Boston Neck Road",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "2823",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.424361,
+          41.5258033
+        ]
+      },
+      "id": "node/8992690058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8994559772",
+        "addr:city": "Coventry",
+        "addr:housenumber": "785",
+        "addr:postcode": "02816",
+        "addr:state": "RI",
+        "addr:street": "Tiogue Avenue",
+        "brand": "Cumberland Farms",
+        "brand:wikidata": "Q1143685",
+        "brand:wikipedia": "en:Cumberland Farms",
+        "name": "Cumberland Farms",
+        "ref": "1247",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5639617,
+          41.6822153
+        ]
+      },
+      "id": "node/8994559772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8994559787",
+        "addr:city": "Coventry",
+        "addr:housenumber": "764",
+        "addr:postcode": "02816",
+        "addr:state": "RI",
+        "addr:street": "Tiogue Avenue",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "2825",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5622986,
+          41.6817767
+        ]
+      },
+      "id": "node/8994559787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8994596062",
+        "addr:city": "Tiverton",
+        "addr:housenumber": "1308",
+        "addr:postcode": "02878",
+        "addr:state": "RI",
+        "addr:street": "Stafford Road",
+        "name": "Joe's Kwik Mart",
+        "ref": "5014",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1461261,
+          41.6268402
+        ]
+      },
+      "id": "node/8994596062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8997200771",
+        "addr:city": "Providence",
+        "addr:housenumber": "1215",
+        "addr:postcode": "02904",
+        "addr:state": "RI",
+        "addr:street": "North Main Street",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "2831",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4005664,
+          41.8532233
+        ]
+      },
+      "id": "node/8997200771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8997224756",
+        "addr:city": "Warwick",
+        "addr:housenumber": "1112",
+        "addr:postcode": "02888",
+        "addr:state": "RI",
+        "addr:street": "Post Road",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "2834",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4231067,
+          41.7477604
+        ]
+      },
+      "id": "node/8997224756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8997242454",
+        "addr:city": "North Providence",
+        "addr:housenumber": "1394",
+        "addr:postcode": "02904",
+        "addr:state": "RI",
+        "addr:street": "Mineral Spring Avenue",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "2829",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4404617,
+          41.8663523
+        ]
+      },
+      "id": "node/8997242454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8997242464",
+        "addr:city": "Providence",
+        "addr:housenumber": "440",
+        "addr:postcode": "02904",
+        "addr:state": "RI",
+        "addr:street": "Smithfield Avenue",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "2824",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4113827,
+          41.8577682
+        ]
+      },
+      "id": "node/8997242464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8997246229",
+        "addr:city": "Providence",
+        "addr:housenumber": "442",
+        "addr:postcode": "02909",
+        "addr:state": "RI",
+        "addr:street": "Manton Avenue",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "2828",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4547447,
+          41.824985
+        ]
+      },
+      "id": "node/8997246229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8997247551",
+        "addr:city": "Warwick",
+        "addr:housenumber": "61",
+        "addr:postcode": "02889",
+        "addr:state": "RI",
+        "addr:street": "Airport Road",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "2816",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.40895,
+          41.7338047
+        ]
+      },
+      "id": "node/8997247551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8997257363",
+        "addr:city": "Johnston",
+        "addr:housenumber": "1783",
+        "addr:postcode": "02919",
+        "addr:state": "RI",
+        "addr:street": "Plainfield Pike",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "2817",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5016293,
+          41.7900343
+        ]
+      },
+      "id": "node/8997257363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8997257752",
+        "addr:city": "Cranston",
+        "addr:housenumber": "305",
+        "addr:postcode": "02920",
+        "addr:state": "RI",
+        "addr:street": "Phenix Avenue",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "2820",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.477349,
+          41.7788594
+        ]
+      },
+      "id": "node/8997257752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8997307603",
+        "addr:city": "Warwick",
+        "addr:housenumber": "2400",
+        "addr:postcode": "02889",
+        "addr:state": "RI",
+        "addr:street": "West Shore Road",
+        "name": "Joe's Kwik Mart",
+        "ref": "5015",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4097659,
+          41.7033221
+        ]
+      },
+      "id": "node/8997307603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8997314122",
+        "addr:city": "West Warwick",
+        "addr:housenumber": "346",
+        "addr:postcode": "02893",
+        "addr:state": "RI",
+        "addr:street": "Providence Street",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "2819",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5013668,
+          41.711877
+        ]
+      },
+      "id": "node/8997314122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9237110436",
+        "name": "Seasons",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3136798,
+          41.477392
+        ]
+      },
+      "id": "node/9237110436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9611841064",
+        "branch": "Travel Center",
+        "brand": "TA",
+        "brand:wikidata": "Q7835892",
+        "brand:wikipedia": "en:TravelCenters of America",
+        "name": "TA",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6640989,
+          41.608803
+        ]
+      },
+      "id": "node/9611841064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9625360140",
+        "level": "1",
+        "name": "Exit 5 Mini Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6655187,
+          41.6123385
+        ]
+      },
+      "id": "node/9625360140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709550117",
+        "addr:housenumber": "470",
+        "addr:postcode": "02860",
+        "addr:street": "Pawtucket Avenue",
+        "name": "Vi",
+        "name:en": "Vicente's",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-19:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3941497,
+          41.8614978
+        ]
+      },
+      "id": "node/9709550117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9732959955",
+        "addr:housenumber": "12",
+        "addr:state": "RI",
+        "addr:street": "East Main Road",
+        "name": "Newport Mart",
+        "opening_hours": "Mo-Th 07:30-22:30; Fr-Sa 07:30-23:00; Su 07:30-22:00",
+        "shop": "convenience",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2992599,
+          41.5175058
+        ]
+      },
+      "id": "node/9732959955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9735878804",
+        "brand": "Cumberland Farms",
+        "brand:wikidata": "Q1143685",
+        "check_date": "2022-05-12",
+        "name": "Cumberland Farms",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3092743,
+          41.4935761
+        ]
+      },
+      "id": "node/9735878804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9750258672",
+        "check_date": "2022-05-17",
+        "name": "The Market on Thames",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3153565,
+          41.4889443
+        ]
+      },
+      "id": "node/9750258672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9750258685",
+        "check_date": "2022-05-17",
+        "name": "Dripbar",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3156111,
+          41.4886947
+        ]
+      },
+      "id": "node/9750258685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9750274118",
+        "check_date": "2022-05-17",
+        "name": "JD Convenience",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3150028,
+          41.4880026
+        ]
+      },
+      "id": "node/9750274118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9908600296",
+        "addr:city": "Charlestown",
+        "addr:housenumber": "4139",
+        "addr:postcode": "02813",
+        "addr:state": "RI",
+        "addr:street": "Old Post Road",
+        "brand": "Cumberland Farms",
+        "brand:wikidata": "Q1143685",
+        "name": "Cumberland Farms",
+        "ref": "1262",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6318397,
+          41.3839049
+        ]
+      },
+      "id": "node/9908600296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9918225834",
+        "addr:city": "Woonsocket",
+        "addr:housenumber": "261",
+        "addr:postcode": "02895",
+        "addr:state": "RI",
+        "addr:street": "South Main Street",
+        "brand": "Cumberland Farms",
+        "brand:wikidata": "Q1143685",
+        "name": "Cumberland Farms",
+        "opening_hours": "05:00-24:00",
+        "phone": "+1 401 767 3904",
+        "ref": "1120",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5206601,
+          41.9977309
+        ]
+      },
+      "id": "node/9918225834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9948027269",
+        "addr:city": "Cumberland",
+        "addr:housenumber": "2077",
+        "addr:postcode": "02864",
+        "addr:state": "RI",
+        "addr:street": "Diamond Hill Road",
+        "name": "Dave's Fresh Marketplace",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1 401 333 7979",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4020564,
+          41.945294
+        ]
+      },
+      "id": "node/9948027269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10028628584",
+        "addr:city": "Providence",
+        "addr:housenumber": "71",
+        "addr:postcode": "02906",
+        "addr:state": "RI",
+        "addr:street": "Hope Street",
+        "atm": "yes",
+        "cuisine": "indian",
+        "name": "MILK Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3957599,
+          41.8206918
+        ]
+      },
+      "id": "node/10028628584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10242936061",
+        "name": "Metro Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.400373,
+          41.8276495
+        ]
+      },
+      "id": "node/10242936061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10246724406",
+        "name": "Brigido's IGA",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5846222,
+          42.005519
+        ]
+      },
+      "id": "node/10246724406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10253147309",
+        "name": "McQuades market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8305105,
+          41.3746816
+        ]
+      },
+      "id": "node/10253147309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10713192050",
+        "addr:housenumber": "989",
+        "addr:street": "Main Street",
+        "name": "Family Dollar",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "dollar tree",
+        "payment:debit_cards": "yes",
+        "phone": "401) 262-5070",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5240614,
+          41.7150634
+        ]
+      },
+      "id": "node/10713192050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340247517",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-51-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978518,
+          41.8912427
+        ]
+      },
+      "id": "node/5340247517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340252322",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-49-50 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4973968,
+          41.8913872
+        ]
+      },
+      "id": "node/5340252322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535092255",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915049,
+          41.8918027
+        ]
+      },
+      "id": "node/5535092255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5801329944",
+        "amenity": "drinking_water",
+        "description:de": "Wasserbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4884569,
+          41.8880861
+        ]
+      },
+      "id": "node/5801329944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6547164641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Via in Miranda, Foro Romano, Roma, Italia Oct 05, 2022 04-55-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870814,
+          41.8924043
+        ]
+      },
+      "id": "node/6547164641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6616168986",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4967144,
+          41.8922741
+        ]
+      },
+      "id": "node/6616168986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6841124063",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926345,
+          41.8906387
+        ]
+      },
+      "id": "node/6841124063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085935353",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941883,
+          41.8915996
+        ]
+      },
+      "id": "node/7085935353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7203154248",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Via Marco Aurelio, Roma, Italia Jun 30, 2022 08-08-32 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4955486,
+          41.8882028
+        ]
+      },
+      "id": "node/7203154248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9108120217",
+        "amenity": "drinking_water",
+        "name": "Acqua",
+        "name:en": "Drinkable water",
+        "name:fr": "Eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4847106,
+          41.8877336
+        ]
+      },
+      "id": "node/9108120217"
+    }
+  ]
+}

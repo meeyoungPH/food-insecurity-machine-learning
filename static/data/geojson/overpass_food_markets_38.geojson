@@ -1,0 +1,1471 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-05T23:59:36Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266310881",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934985,
+          41.8923773
+        ]
+      },
+      "id": "node/266310881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388984003",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494519,
+          41.8877413
+        ]
+      },
+      "id": "node/388984003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495113034",
+        "amenity": "drinking_water",
+        "check_date": "2022-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934283,
+          41.8913309
+        ]
+      },
+      "id": "node/495113034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685457655",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4867108,
+          41.8902623
+        ]
+      },
+      "id": "node/685457655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685461877",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4875779,
+          41.8891234
+        ]
+      },
+      "id": "node/685461877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/845141435",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hornbacher's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8638755,
+          46.817465
+        ]
+      },
+      "id": "node/845141435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/845177949",
+        "name": "Hornbacher's at Osgood Fuel Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8620512,
+          46.8151965
+        ]
+      },
+      "id": "node/845177949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/939830291",
+        "name": "Hugo's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.05303,
+          47.8906618
+        ]
+      },
+      "id": "node/939830291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/939830296",
+        "name": "Hugo's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0640754,
+          47.9083314
+        ]
+      },
+      "id": "node/939830296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/940958770",
+        "name": "Hugo's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0439945,
+          47.9045448
+        ]
+      },
+      "id": "node/940958770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890053",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4879526,
+          41.8887986
+        ]
+      },
+      "id": "node/953890053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890062",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883755,
+          41.890985
+        ]
+      },
+      "id": "node/953890062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953909059",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via dei santi Quattro,roma,italy 62022.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968765,
+          41.8889852
+        ]
+      },
+      "id": "node/953909059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/960934551",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "name": "Valley Dairy",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0875303,
+          47.9109197
+        ]
+      },
+      "id": "node/960934551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1170494282",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942213,
+          41.8900377
+        ]
+      },
+      "id": "node/1170494282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346376890",
+        "name": "Hugo's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0546614,
+          47.9316214
+        ]
+      },
+      "id": "node/1346376890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346376893",
+        "amenity": "fuel",
+        "name": "Loaf 'N Jug",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0912886,
+          47.9337858
+        ]
+      },
+      "id": "node/1346376893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1391578502",
+        "addr:housenumber": "1131",
+        "name": "Healthy Blast",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.796283,
+          46.90557
+        ]
+      },
+      "id": "node/1391578502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1412904525",
+        "addr:housenumber": "105",
+        "name": "Total Balance",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7864298,
+          46.8972035
+        ]
+      },
+      "id": "node/1412904525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1424099588",
+        "addr:housenumber": "2510",
+        "amenity": "atm",
+        "name": "Hornbacher's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7891833,
+          46.9103933
+        ]
+      },
+      "id": "node/1424099588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656861982",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883955,
+          41.8907173
+        ]
+      },
+      "id": "node/1656861982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709280191",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-02",
+        "fountain": "bottle_refill",
+        "name:ru": "вода с газом и без. бесплатная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911794,
+          41.891319
+        ]
+      },
+      "id": "node/1709280191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1932604683",
+        "addr:city": "Fargo",
+        "addr:housenumber": "1433",
+        "addr:postcode": "58103",
+        "addr:state": "ND",
+        "addr:street": "S University Drive",
+        "name": "Hornbacher's Express",
+        "shop": "supermarket",
+        "source": "local_knowledge",
+        "website": "https://www.hornbachers.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7994739,
+          46.8585117
+        ]
+      },
+      "id": "node/1932604683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537299968",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "indoor": "no",
+        "wikimedia_commons": "File:Nasone via mecenate, Roma, Italia Jun 30, 2022 06-19-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4987211,
+          41.8911676
+        ]
+      },
+      "id": "node/2537299968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2727920450",
+        "name": "Leevers Foods South",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8663149,
+          48.1017768
+        ]
+      },
+      "id": "node/2727920450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785014818",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934389,
+          41.8873381
+        ]
+      },
+      "id": "node/3785014818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4017420689",
+        "addr:housenumber": "1300",
+        "addr:street": "Ralph Englestad Arena Dr",
+        "amenity": "fuel",
+        "car_wash": "yes",
+        "description": "Filling Station with carwash and convenience store.",
+        "fuel": "yes",
+        "name": "LePier Oil Co. - University Station",
+        "opening_hours": "Su 07:00-22:00; Mo-Sa 06:00-23:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1-701-738-8380",
+        "self_service": "yes",
+        "shop": "convenience",
+        "toilets:access": "yes",
+        "website": "http://www.universitystation.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0700112,
+          47.9320372
+        ]
+      },
+      "id": "node/4017420689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4611336197",
+        "name": "T &V grocery store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5192209,
+          47.1184445
+        ]
+      },
+      "id": "node/4611336197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4921453522",
+        "name": "Supervalu Foods",
+        "name:en": "Supervalu Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.915524,
+          46.8539079
+        ]
+      },
+      "id": "node/4921453522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5015161722",
+        "name": "Del's Super Value",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7724358,
+          46.5024172
+        ]
+      },
+      "id": "node/5015161722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5289166473",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7890971,
+          46.8974348
+        ]
+      },
+      "id": "node/5289166473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5289166489",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7908674,
+          46.8993812
+        ]
+      },
+      "id": "node/5289166489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5289166494",
+        "name": "Cash Wise Food & Liquor",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7924043,
+          46.9020349
+        ]
+      },
+      "id": "node/5289166494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6515803713",
+        "name": "Cashwise",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.32013,
+          48.2029688
+        ]
+      },
+      "id": "node/6515803713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6515803716",
+        "name": "Gordmans",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3201181,
+          48.2014762
+        ]
+      },
+      "id": "node/6515803716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6525344242",
+        "name": "Bronson's Supervalue",
+        "opening_hours": "Mo-Fr 07:00-20:00",
+        "payment:cash": "yes",
+        "payment:cheque": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7804058,
+          47.2630228
+        ]
+      },
+      "id": "node/6525344242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6713559241",
+        "shop": "convenience",
+        "source": "EsriWorldImageryClarity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2955188,
+          48.2463722
+        ]
+      },
+      "id": "node/6713559241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6713559274",
+        "name": "On the Run",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2969201,
+          48.2567764
+        ]
+      },
+      "id": "node/6713559274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6713559275",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2970959,
+          48.2652578
+        ]
+      },
+      "id": "node/6713559275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6717379126",
+        "shop": "convenience",
+        "source": "EsriWorldImageryClarity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2532216,
+          48.2284934
+        ]
+      },
+      "id": "node/6717379126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6717379159",
+        "shop": "convenience",
+        "source": "EsriWorldImageryClarity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2520308,
+          48.2296569
+        ]
+      },
+      "id": "node/6717379159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6717402316",
+        "shop": "convenience",
+        "source": "EsriWorldImageryClarity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3007655,
+          48.2320639
+        ]
+      },
+      "id": "node/6717402316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6717817491",
+        "shop": "convenience",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7736717,
+          46.844818
+        ]
+      },
+      "id": "node/6717817491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721948536",
+        "shop": "convenience",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7296514,
+          46.8338477
+        ]
+      },
+      "id": "node/6721948536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721948548",
+        "name": "Stamart",
+        "shop": "convenience",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.729172,
+          46.8294189
+        ]
+      },
+      "id": "node/6721948548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6722566591",
+        "fixme": "check name",
+        "name": "Tesoro",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7316752,
+          46.8103497
+        ]
+      },
+      "id": "node/6722566591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6725302523",
+        "alt_name": "Tesoro Food Mart",
+        "name": "Food Mart",
+        "shop": "convenience",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7632839,
+          46.8048174
+        ]
+      },
+      "id": "node/6725302523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6725853996",
+        "alt_name": "Tesoro Food Mart",
+        "name": "Food Mart",
+        "operator": "Tesoro",
+        "shop": "convenience",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7673775,
+          46.7841657
+        ]
+      },
+      "id": "node/6725853996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6974555851",
+        "name": "CashWise",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6276208,
+          48.1551945
+        ]
+      },
+      "id": "node/6974555851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6974555858",
+        "brand": "Albertsons",
+        "brand:wikidata": "Q2831861",
+        "brand:wikipedia": "en:Albertsons",
+        "name": "Albertsons",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.622469,
+          48.1676962
+        ]
+      },
+      "id": "node/6974555858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6994272205",
+        "addr:city": "Bismarck",
+        "addr:housenumber": "835",
+        "addr:postcode": "58504",
+        "addr:state": "ND",
+        "addr:street": "South Washington Street",
+        "name": "Dan's Supermarket",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "phone": "1-701-255-3517",
+        "shop": "supermarket",
+        "website": "https://www.shopdanssupermarket.com/locations/bismarck/3126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.792464,
+          46.7968057
+        ]
+      },
+      "id": "node/6994272205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7368219226",
+        "name": "Michigan Home Town Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1219583,
+          48.0242915
+        ]
+      },
+      "id": "node/7368219226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7530638054",
+        "addr:city": "Bismarck",
+        "addr:housenumber": "840",
+        "addr:postcode": "58504",
+        "addr:state": "ND",
+        "addr:street": "South Washington Street",
+        "brand": "Natural Grocers",
+        "brand:wikidata": "Q17146520",
+        "brand:wikipedia": "en:Vitamin Cottage Natural Grocers",
+        "name": "Natural Grocers",
+        "opening_hours:covid19": "Mo-Sa 08:30-20:05; We 08:00-20:05; Su 09:00-19:35",
+        "phone": "+1-701-712-5444",
+        "shop": "supermarket",
+        "website": "https://www.naturalgrocers.com/store/bismarck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.795809,
+          46.7968578
+        ]
+      },
+      "id": "node/7530638054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7533906659",
+        "addr:city": "Bismarck",
+        "addr:housenumber": "1144",
+        "addr:postcode": "58504",
+        "addr:state": "ND",
+        "addr:street": "East Bismarck Expressway",
+        "name": "Cash Wise",
+        "opening_hours:covid19": "07:00-22:00",
+        "phone": "+1-701-223-8771",
+        "shop": "supermarket",
+        "website": "https://www.cashwise.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7742133,
+          46.7955284
+        ]
+      },
+      "id": "node/7533906659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7707273778",
+        "name": "Marketplace Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3186463,
+          48.2355674
+        ]
+      },
+      "id": "node/7707273778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7735288292",
+        "brand": "Loaf 'N Jug",
+        "brand:wikidata": "Q6663398",
+        "brand:wikipedia": "en:Loaf 'N Jug",
+        "name": "Loaf 'N Jug",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.286243,
+          48.232836
+        ]
+      },
+      "id": "node/7735288292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7970978786",
+        "name": "Co-Op Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1415144,
+          46.6302373
+        ]
+      },
+      "id": "node/7970978786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7985710785",
+        "name": "Super Value Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8300411,
+          46.8156631
+        ]
+      },
+      "id": "node/7985710785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8307089722",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3170083,
+          48.2082038
+        ]
+      },
+      "id": "node/8307089722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8395377164",
+        "brand": "Family Fare",
+        "brand:wikidata": "Q19868045",
+        "brand:wikipedia": "en:Family Fare",
+        "name": "Family Fare",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8223944,
+          46.8335659
+        ]
+      },
+      "id": "node/8395377164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8410416513",
+        "name": "Simonson",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2965442,
+          48.2232496
+        ]
+      },
+      "id": "node/8410416513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8410416721",
+        "name": "M & H",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2920105,
+          48.2330017
+        ]
+      },
+      "id": "node/8410416721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8410503432",
+        "brand": "Loaf 'N Jug",
+        "brand:wikidata": "Q6663398",
+        "brand:wikipedia": "en:Loaf 'N Jug",
+        "name": "Loaf 'N Jug",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.31734,
+          48.2404324
+        ]
+      },
+      "id": "node/8410503432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8440953693",
+        "addr:city": "Minot",
+        "addr:housenumber": "3800",
+        "addr:postcode": "58701",
+        "addr:state": "ND",
+        "addr:street": "US 2 West",
+        "name": "Flying J",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3507008,
+          48.2241119
+        ]
+      },
+      "id": "node/8440953693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8662729576",
+        "addr:city": "Fargo",
+        "addr:country": "US",
+        "addr:county": "Cass, ND",
+        "addr:housenumber": "3760",
+        "addr:postcode": "58104-7203",
+        "addr:state": "ND",
+        "addr:street": "51st Avenue South",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "building": "retail",
+        "drive_through": "yes",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cheque": "no",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:ebt": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:snap": "yes",
+        "payment:visa": "yes",
+        "payment:wic": "no",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8451503,
+          46.8061164
+        ]
+      },
+      "id": "node/8662729576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9128278825",
+        "name": "Gordy's Tesoro",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2100086,
+          46.8757626
+        ]
+      },
+      "id": "node/9128278825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9190335324",
+        "addr:city": "Bismarck",
+        "addr:housenumber": "2941",
+        "addr:postcode": "58503",
+        "addr:state": "ND",
+        "addr:street": "North 11th Street",
+        "cuisine": "health_food;nutrition",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Patriot Nutrition",
+        "opening_hours": "Mo-Th 07:00-16:00; Fr 07:00-14:00",
+        "outdoor_seating": "no",
+        "phone": "701-226-1378",
+        "shop": "health_food",
+        "website": "https://www.facebook.com/PatriotNutritionBis/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.775223,
+          46.839253
+        ]
+      },
+      "id": "node/9190335324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9190335325",
+        "addr:city": "Bismarck",
+        "addr:housenumber": "1035",
+        "addr:postcode": "58503",
+        "addr:state": "ND",
+        "addr:street": "East Interstate Ave",
+        "name": "Luna Fusion",
+        "opening_hours": "Mo-Fr 07:00-14:00",
+        "phone": "701-751-2132",
+        "shop": "health_food",
+        "website": "https://www.facebook.com/LunaFusion/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7750682,
+          46.8325692
+        ]
+      },
+      "id": "node/9190335325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9286971170",
+        "name": "2B Fit Nutrition",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8641646,
+          46.8528858
+        ]
+      },
+      "id": "node/9286971170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9354553618",
+        "brand": "Holiday",
+        "brand:wikidata": "Q5880490",
+        "name": "Holiday",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.778202,
+          46.7945867
+        ]
+      },
+      "id": "node/9354553618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9703389862",
+        "name": "MVP Stores",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.793494,
+          46.8266954
+        ]
+      },
+      "id": "node/9703389862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900264724",
+        "name": "Mary's Market & Quilt Shop",
+        "opening_hours": "Mo-Fr 8:00-18:00, Sa 8:00-15:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2176253,
+          47.1037207
+        ]
+      },
+      "id": "node/9900264724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340247517",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-51-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978518,
+          41.8912427
+        ]
+      },
+      "id": "node/5340247517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340252322",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-49-50 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4973968,
+          41.8913872
+        ]
+      },
+      "id": "node/5340252322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535092255",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915049,
+          41.8918027
+        ]
+      },
+      "id": "node/5535092255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5801329944",
+        "amenity": "drinking_water",
+        "description:de": "Wasserbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4884569,
+          41.8880861
+        ]
+      },
+      "id": "node/5801329944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6547164641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Via in Miranda, Foro Romano, Roma, Italia Oct 05, 2022 04-55-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870814,
+          41.8924043
+        ]
+      },
+      "id": "node/6547164641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6616168986",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4967144,
+          41.8922741
+        ]
+      },
+      "id": "node/6616168986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6841124063",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926345,
+          41.8906387
+        ]
+      },
+      "id": "node/6841124063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085935353",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941883,
+          41.8915996
+        ]
+      },
+      "id": "node/7085935353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7203154248",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Via Marco Aurelio, Roma, Italia Jun 30, 2022 08-08-32 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4955486,
+          41.8882028
+        ]
+      },
+      "id": "node/7203154248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9108120217",
+        "amenity": "drinking_water",
+        "name": "Acqua",
+        "name:en": "Drinkable water",
+        "name:fr": "Eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4847106,
+          41.8877336
+        ]
+      },
+      "id": "node/9108120217"
+    }
+  ]
+}

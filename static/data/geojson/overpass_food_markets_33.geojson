@@ -1,0 +1,4560 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-05T23:52:36Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/74320099",
+        "brand": "Shaw's",
+        "brand:wikidata": "Q578387",
+        "brand:wikipedia": "en:Shaw's and Star Market",
+        "name": "Shaw's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5307556,
+          43.2107581
+        ]
+      },
+      "id": "node/74320099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/74320746",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "brand:wikipedia": "en:Hannaford Brothers Company",
+        "name": "Hannaford",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5328584,
+          43.2128662
+        ]
+      },
+      "id": "node/74320746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/95334483",
+        "name": "106 Beanstalk",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.478184,
+          43.3262365
+        ]
+      },
+      "id": "node/95334483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266310881",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934985,
+          41.8923773
+        ]
+      },
+      "id": "node/266310881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388984003",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494519,
+          41.8877413
+        ]
+      },
+      "id": "node/388984003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495113034",
+        "amenity": "drinking_water",
+        "check_date": "2022-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934283,
+          41.8913309
+        ]
+      },
+      "id": "node/495113034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/562214312",
+        "amenity": "fuel",
+        "name": "Mr. MIkes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1398831,
+          42.7812202
+        ]
+      },
+      "id": "node/562214312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/581959949",
+        "addr:postcode": "03768",
+        "name": "Lyme Country Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1565501,
+          43.8108271
+        ]
+      },
+      "id": "node/581959949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/615057122",
+        "name": "Asian Super Store",
+        "phone": "+1-603-448-6550",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.253669,
+          43.6428128
+        ]
+      },
+      "id": "node/615057122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616545794",
+        "name": "Page's Corner Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6321985,
+          43.1499546
+        ]
+      },
+      "id": "node/616545794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616545796",
+        "name": "Weare Center Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.730323,
+          43.0945066
+        ]
+      },
+      "id": "node/616545796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/647171866",
+        "brand": "Market Basket",
+        "brand:wikidata": "Q2079198",
+        "brand:wikipedia": "en:Market Basket (New England)",
+        "name": "Market Basket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9240786,
+          42.9992678
+        ]
+      },
+      "id": "node/647171866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/658840471",
+        "brand": "Citgo",
+        "brand:wikidata": "Q2974437",
+        "brand:wikipedia": "en:Citgo",
+        "description": "Gas station, market, butcher, sandwich shop ",
+        "name": "Citgo",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.686813,
+          44.0340876
+        ]
+      },
+      "id": "node/658840471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685457655",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4867108,
+          41.8902623
+        ]
+      },
+      "id": "node/685457655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685461877",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4875779,
+          41.8891234
+        ]
+      },
+      "id": "node/685461877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/793807413",
+        "addr:city": "Nashua",
+        "addr:housenumber": "57",
+        "addr:postcode": "03060",
+        "addr:street": "Temple Street",
+        "name": "Temple Street Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4609489,
+          42.761783
+        ]
+      },
+      "id": "node/793807413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/891897095",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "brand:wikipedia": "en:Hannaford Brothers Company",
+        "name": "Hannaford",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3236375,
+          43.3707812
+        ]
+      },
+      "id": "node/891897095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/894587962",
+        "addr:city": "Bedford",
+        "addr:housenumber": "5",
+        "addr:postcode": "03110",
+        "addr:street": "Colby Court",
+        "name": "TBD",
+        "note": "This Hannaford is going to move to the old Stop & Shop building on Kilton Road sometime in the next five years or so. Trader Joe's is planning to move into this building.",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4820337,
+          42.9647396
+        ]
+      },
+      "id": "node/894587962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/932354396",
+        "brand": "Cumberland Farms",
+        "brand:wikidata": "Q1143685",
+        "brand:wikipedia": "en:Cumberland Farms",
+        "name": "Cumberland Farms",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.414793,
+          42.7672815
+        ]
+      },
+      "id": "node/932354396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890053",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4879526,
+          41.8887986
+        ]
+      },
+      "id": "node/953890053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890062",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883755,
+          41.890985
+        ]
+      },
+      "id": "node/953890062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953909059",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via dei santi Quattro,roma,italy 62022.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968765,
+          41.8889852
+        ]
+      },
+      "id": "node/953909059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/981522188",
+        "name": "The Village Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7836528,
+          42.8796902
+        ]
+      },
+      "id": "node/981522188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1086388050",
+        "name": "White Hen Pantry",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4965363,
+          42.8401004
+        ]
+      },
+      "id": "node/1086388050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1170494282",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942213,
+          41.8900377
+        ]
+      },
+      "id": "node/1170494282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1256763227",
+        "addr:city": "Plymouth",
+        "addr:housenumber": "389",
+        "addr:postcode": "03264",
+        "addr:state": "NH",
+        "addr:street": "Tenney Mountain Highway",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "brand:wikipedia": "en:Hannaford Brothers Company",
+        "name": "Hannaford",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+1-603-536-3400",
+        "shop": "supermarket",
+        "website": "https://www.hannaford.com/locations/plymouth-hannaford-21102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.716621,
+          43.7686401
+        ]
+      },
+      "id": "node/1256763227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1269394058",
+        "name": "Honey's Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6591595,
+          44.0497695
+        ]
+      },
+      "id": "node/1269394058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1269615833",
+        "name": "Campton Cupboard",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6353212,
+          43.8636395
+        ]
+      },
+      "id": "node/1269615833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1270711785",
+        "brand": "Price Chopper",
+        "brand:wikidata": "Q7242574",
+        "brand:wikipedia": "en:Price Chopper and Market 32 Supermarkets",
+        "name": "Price Chopper",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6699574,
+          44.0412089
+        ]
+      },
+      "id": "node/1270711785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1289562178",
+        "amenity": "fuel",
+        "name": "Sanborton Country Store",
+        "operator": "Irving",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6325354,
+          43.4967814
+        ]
+      },
+      "id": "node/1289562178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1311352463",
+        "name": "Twin Mountain Trading Post",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5364893,
+          44.2693083
+        ]
+      },
+      "id": "node/1311352463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1349411394",
+        "name": "Klemm's Mobil",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2629678,
+          42.806379
+        ]
+      },
+      "id": "node/1349411394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1649356763",
+        "addr:city": "Londonderry",
+        "addr:housenumber": "124",
+        "addr:postcode": "03053",
+        "addr:street": "Rockingham Road",
+        "name": "Convenience Plus",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3660716,
+          42.9147852
+        ]
+      },
+      "id": "node/1649356763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656861982",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883955,
+          41.8907173
+        ]
+      },
+      "id": "node/1656861982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1676024730",
+        "name": "Minute Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1849282,
+          42.8305801
+        ]
+      },
+      "id": "node/1676024730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1682563460",
+        "brand": "Market Basket",
+        "brand:wikidata": "Q2079198",
+        "brand:wikipedia": "en:Market Basket (New England)",
+        "name": "Market Basket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5300462,
+          43.2152326
+        ]
+      },
+      "id": "node/1682563460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1682563476",
+        "brand": "Market Basket",
+        "brand:wikidata": "Q2079198",
+        "brand:wikipedia": "en:Market Basket (New England)",
+        "name": "Market Basket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5326801,
+          43.2035068
+        ]
+      },
+      "id": "node/1682563476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1682563478",
+        "addr:city": "Concord",
+        "addr:housenumber": "24",
+        "addr:postcode": "03301",
+        "addr:state": "NH",
+        "addr:street": "South Main Street",
+        "name": "Concord Food Co-op",
+        "opening_hours": "Mo-Sa 08:00-19:00; Su 10:00-18:00",
+        "shop": "supermarket",
+        "website": "https://concordfoodcoop.coop/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5356896,
+          43.2031823
+        ]
+      },
+      "id": "node/1682563478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709280191",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-02",
+        "fountain": "bottle_refill",
+        "name:ru": "вода с газом и без. бесплатная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911794,
+          41.891319
+        ]
+      },
+      "id": "node/1709280191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1819701397",
+        "shop": "convenience",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1138309,
+          43.9943639
+        ]
+      },
+      "id": "node/1819701397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1927696666",
+        "amenity": "marketplace",
+        "name": "MB Tractor",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5770538,
+          43.450528
+        ]
+      },
+      "id": "node/1927696666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1964968006",
+        "amenity": "fuel",
+        "brand": "Costal",
+        "name": "Byrne Corner Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1775985,
+          44.3894305
+        ]
+      },
+      "id": "node/1964968006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1964968030",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "name": "Patch's Deli and Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1853332,
+          44.1095033
+        ]
+      },
+      "id": "node/1964968030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1964968051",
+        "amenity": "fuel",
+        "brand": "Sunoco",
+        "name": "Wildcat Service Station",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.190981,
+          44.1469003
+        ]
+      },
+      "id": "node/1964968051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1964968059",
+        "name": "Sam's Variety",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1957853,
+          44.3983054
+        ]
+      },
+      "id": "node/1964968059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1964998515",
+        "amenity": "fuel",
+        "name": "Vashaw's Variety",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.192412,
+          44.3949489
+        ]
+      },
+      "id": "node/1964998515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1973037601",
+        "name": "Peppercorn Natural Foods",
+        "organic": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6875855,
+          43.7555756
+        ]
+      },
+      "id": "node/1973037601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1973037615",
+        "name": "Tedeschi Food Shops",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.687576,
+          43.754816
+        ]
+      },
+      "id": "node/1973037615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1976673346",
+        "addr:city": "Mont Vernon",
+        "addr:housenumber": "10",
+        "addr:postcode": "03057",
+        "addr:state": "NH",
+        "addr:street": "North Main Street",
+        "name": "Mont Vernon General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6751324,
+          42.8952085
+        ]
+      },
+      "id": "node/1976673346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2020220571",
+        "name": "Park-N-Go Market",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5925231,
+          43.4343256
+        ]
+      },
+      "id": "node/2020220571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2020220577",
+        "name": "Stafford Food & Beverage",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5922501,
+          43.4436622
+        ]
+      },
+      "id": "node/2020220577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2022136981",
+        "amenity": "fuel",
+        "brand": "Citgo",
+        "brand:wikidata": "Q2974437",
+        "brand:wikipedia": "en:Citgo",
+        "name": "E & S Automative",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6026107,
+          43.2833749
+        ]
+      },
+      "id": "node/2022136981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2178579067",
+        "name": "Shurfine Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.632253,
+          43.6953128
+        ]
+      },
+      "id": "node/2178579067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2178579068",
+        "amenity": "fuel",
+        "operator": "Cumberland Farms",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6319537,
+          43.6951447
+        ]
+      },
+      "id": "node/2178579068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2239491219",
+        "addr:housenumber": "352",
+        "addr:postcode": "03825",
+        "addr:street": "Calef Highway (Route 125)",
+        "name": "George Calef Fine Foods",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9946774,
+          43.2132365
+        ]
+      },
+      "id": "node/2239491219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2239497416",
+        "addr:housenumber": "606",
+        "addr:postcode": "03825",
+        "addr:street": "Franklin Pierce Highway (Route 9)",
+        "name": "Calef's Country Store",
+        "shop": "convenience",
+        "website": "https://www.calefs.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9969573,
+          43.2132522
+        ]
+      },
+      "id": "node/2239497416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2374341980",
+        "addr:city": "Plaistow",
+        "addr:housenumber": "4",
+        "addr:postcode": "03865",
+        "addr:street": "Plaistow Road",
+        "brand": "Shaw's",
+        "brand:wikidata": "Q578387",
+        "brand:wikipedia": "en:Shaw's and Star Market",
+        "name": "Shaw's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.105908,
+          42.8162322
+        ]
+      },
+      "id": "node/2374341980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537299968",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "indoor": "no",
+        "wikimedia_commons": "File:Nasone via mecenate, Roma, Italia Jun 30, 2022 06-19-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4987211,
+          41.8911676
+        ]
+      },
+      "id": "node/2537299968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2577663936",
+        "addr:city": "Nottingham",
+        "addr:housenumber": "118",
+        "addr:postcode": "03290",
+        "addr:state": "NH",
+        "addr:street": "Stage Road",
+        "name": "Liar's Paradise Pizza & General Store",
+        "phone": "+1-603-679-9955",
+        "shop": "convenience",
+        "website": "www.liarsparadise.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.098881,
+          43.1139286
+        ]
+      },
+      "id": "node/2577663936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644039112",
+        "addr:city": "Alton",
+        "addr:housenumber": "80",
+        "addr:postcode": "03809",
+        "addr:state": "NH",
+        "addr:street": "Wolfeboro Highway, Rt. 28",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "name": "Hannaford",
+        "operator": "Hannaford",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2110169,
+          43.453835
+        ]
+      },
+      "id": "node/2644039112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2644039122",
+        "name": "Alton Circle Grocery",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2130877,
+          43.4523822
+        ]
+      },
+      "id": "node/2644039122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2940623926",
+        "brand": "Irving",
+        "brand:wikidata": "Q1673286",
+        "brand:wikipedia": "en:Irving Oil",
+        "name": "Irving",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4760367,
+          43.4445822
+        ]
+      },
+      "id": "node/2940623926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2940623930",
+        "name": "D&D Country Market & Deli",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4743713,
+          43.4463479
+        ]
+      },
+      "id": "node/2940623930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2948778412",
+        "name": "Pine Cone Country Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2947718,
+          43.6867457
+        ]
+      },
+      "id": "node/2948778412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2948778986",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3983101,
+          43.753572
+        ]
+      },
+      "id": "node/2948778986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2948789507",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "brand:wikipedia": "en:Hannaford Brothers Company",
+        "name": "Hannaford",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4977099,
+          43.66087
+        ]
+      },
+      "id": "node/2948789507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2948789514",
+        "addr:city": "Center Harbor",
+        "addr:housenumber": "12",
+        "addr:postcode": "03226",
+        "addr:street": "Main Street",
+        "alt_name": "EM Heaths",
+        "name": "Heaths Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.461966,
+          43.710335
+        ]
+      },
+      "id": "node/2948789514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2948789521",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4367719,
+          43.716302
+        ]
+      },
+      "id": "node/2948789521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2972219911",
+        "name": "Tuftonboro General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2472371,
+          43.6534098
+        ]
+      },
+      "id": "node/2972219911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3141079988",
+        "brand": "Shaw's",
+        "brand:wikidata": "Q578387",
+        "brand:wikipedia": "en:Shaw's and Star Market",
+        "name": "Shaw's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4261133,
+          43.1055621
+        ]
+      },
+      "id": "node/3141079988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3183916716",
+        "addr:city": "Keene",
+        "addr:housenumber": "661",
+        "addr:postcode": "03431",
+        "addr:state": "NH",
+        "addr:street": "Marlboro Street",
+        "check_date": "2023-01-23",
+        "currency:XBT": "yes",
+        "email": "store@mmm.baby",
+        "name": "Mighty Moose Mart",
+        "opening_hours": "Mo-Sa 07:00-19:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:precious_metal": "yes",
+        "phone": "+1 603-499-4949",
+        "shop": "convenience",
+        "website": "https://mmm.baby"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2473737,
+          42.9152664
+        ]
+      },
+      "id": "node/3183916716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3252959656",
+        "addr:city": "Woodsville",
+        "addr:housenumber": "67",
+        "addr:postcode": "03785",
+        "addr:street": "Smith Street",
+        "name": "Jiffy Mart",
+        "phone": "+1-603-747-2673",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0321459,
+          44.1446085
+        ]
+      },
+      "id": "node/3252959656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3281364441",
+        "addr:city": "Franconia",
+        "addr:housenumber": "347",
+        "addr:postcode": "03580",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "name": "Franconia Market & Deli",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7481185,
+          44.2277522
+        ]
+      },
+      "id": "node/3281364441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3297085463",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1825316,
+          43.0360322
+        ]
+      },
+      "id": "node/3297085463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3400296504",
+        "name": "Shacketts",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7543418,
+          43.6275894
+        ]
+      },
+      "id": "node/3400296504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3400296598",
+        "name": "Bristol Village Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7465499,
+          43.597103
+        ]
+      },
+      "id": "node/3400296598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3400296680",
+        "name": "Park and Go Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7420331,
+          43.5922933
+        ]
+      },
+      "id": "node/3400296680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3586678244",
+        "addr:housenumber": "324",
+        "addr:street": "Main Street",
+        "name": "Franconia Village Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7492408,
+          44.2277881
+        ]
+      },
+      "id": "node/3586678244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3617833313",
+        "addr:city": "Peterborough",
+        "addr:housenumber": "374",
+        "addr:postcode": "03458",
+        "addr:state": "NH",
+        "addr:street": "Union Street",
+        "name": "Nature's Green Grocer",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00",
+        "phone": "+1-603-924-2233",
+        "shop": "supermarket",
+        "website": "http://naturesgreengrocer.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9835055,
+          42.8866365
+        ]
+      },
+      "id": "node/3617833313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3634589533",
+        "name": "Mr. Mike's Mini Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7132153,
+          43.2221333
+        ]
+      },
+      "id": "node/3634589533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3638038715",
+        "addr:city": "New London",
+        "addr:housenumber": "220",
+        "addr:postcode": "03257",
+        "addr:state": "NH",
+        "addr:street": "Newport Road",
+        "name": "Jakes New London Irving",
+        "phone": "+1-603-526-4994",
+        "shop": "convenience",
+        "website": "https://www.theirving.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9993698,
+          43.4229876
+        ]
+      },
+      "id": "node/3638038715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3667866514",
+        "name": "Jugtown Country Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5050652,
+          43.9508672
+        ]
+      },
+      "id": "node/3667866514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3674360727",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5877704,
+          43.7310829
+        ]
+      },
+      "id": "node/3674360727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785014818",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934389,
+          41.8873381
+        ]
+      },
+      "id": "node/3785014818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3900705493",
+        "name": "Mr Mike's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2324468,
+          43.1537467
+        ]
+      },
+      "id": "node/3900705493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3900789641",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4983766,
+          42.9892343
+        ]
+      },
+      "id": "node/3900789641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3967341884",
+        "brand": "Cumberland Farms",
+        "brand:wikidata": "Q1143685",
+        "brand:wikipedia": "en:Cumberland Farms",
+        "name": "Cumberland Farms",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7921467,
+          44.309072
+        ]
+      },
+      "id": "node/3967341884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3989248681",
+        "addr:city": "Littleton",
+        "addr:housenumber": "106",
+        "addr:postcode": "03561",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "name": "The Healthy Rhino",
+        "organic": "only",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7741615,
+          44.307202
+        ]
+      },
+      "id": "node/3989248681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4030077522",
+        "addr:city": "Claremont",
+        "addr:housenumber": "403",
+        "addr:postcode": "03743",
+        "addr:state": "NH",
+        "addr:street": "Washington Street",
+        "brand": "Cumberland Farms",
+        "brand:wikidata": "Q1143685",
+        "brand:wikipedia": "en:Cumberland Farms",
+        "name": "Cumberland Farms",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3188752,
+          43.3652982
+        ]
+      },
+      "id": "node/4030077522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4032215269",
+        "name": "Alstead Village Market",
+        "shop": "convenience",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3603773,
+          43.1490388
+        ]
+      },
+      "id": "node/4032215269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4032293357",
+        "name": "Drewsville Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3923775,
+          43.1288313
+        ]
+      },
+      "id": "node/4032293357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261861807",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8120602,
+          42.9043717
+        ]
+      },
+      "id": "node/4261861807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4261861824",
+        "name": "Royal Market II",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.813302,
+          42.9079925
+        ]
+      },
+      "id": "node/4261861824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4262085840",
+        "addr:city": "Dover",
+        "addr:housenumber": "7",
+        "addr:postcode": "03820",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "name": "Smiley's Discount Beverage",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8714532,
+          43.1955181
+        ]
+      },
+      "id": "node/4262085840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4262085842",
+        "designation": "Convenience Store",
+        "name": "24 Hour Tedeschi Food Shops",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8755465,
+          43.1997824
+        ]
+      },
+      "id": "node/4262085842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4315970183",
+        "brand": "Hudson",
+        "brand:wikidata": "Q111534515",
+        "brand:wikipedia": "en:Hudson Group",
+        "level": "2",
+        "name": "Hudson",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4373634,
+          42.9281242
+        ]
+      },
+      "id": "node/4315970183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4316012538",
+        "brand": "Hudson",
+        "brand:wikidata": "Q111534515",
+        "brand:wikipedia": "en:Hudson Group",
+        "level": "2",
+        "name": "Hudson",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4395375,
+          42.9270333
+        ]
+      },
+      "id": "node/4316012538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4316012555",
+        "brand": "Hudson",
+        "brand:wikidata": "Q111534515",
+        "brand:wikipedia": "en:Hudson Group",
+        "level": "2",
+        "name": "Hudson",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4377879,
+          42.9275699
+        ]
+      },
+      "id": "node/4316012555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4316012571",
+        "brand": "Hudson",
+        "brand:wikidata": "Q111534515",
+        "brand:wikipedia": "en:Hudson Group",
+        "level": "2",
+        "name": "Hudson",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4373469,
+          42.9285021
+        ]
+      },
+      "id": "node/4316012571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4344960791",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "brand:wikipedia": "en:Hannaford Brothers Company",
+        "name": "Hannaford",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9260086,
+          43.1334988
+        ]
+      },
+      "id": "node/4344960791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4412447390",
+        "addr:city": "Tilton",
+        "addr:housenumber": "1021",
+        "addr:postcode": "03276",
+        "addr:state": "NH",
+        "addr:street": "Laconia Road",
+        "name": "Winnisquam Country Store & Deli",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5128945,
+          43.5020111
+        ]
+      },
+      "id": "node/4412447390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4419437589",
+        "internet_access": "wlan",
+        "name": "Wilson's Farm",
+        "name:en": "Wilson's Farm",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4755,
+          42.8219297
+        ]
+      },
+      "id": "node/4419437589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4644469597",
+        "name": "Solomon's Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5337852,
+          44.995854
+        ]
+      },
+      "id": "node/4644469597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4744349798",
+        "addr:city": "Weare",
+        "addr:housenumber": "425",
+        "addr:postcode": "03281",
+        "addr:state": "NH",
+        "addr:street": "South Stark Highway",
+        "name": "Lanctot's Grocery",
+        "phone": "+1-603-529-7137",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6811713,
+          43.0433574
+        ]
+      },
+      "id": "node/4744349798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4994896519",
+        "name": "Monroe Store",
+        "opening_hours": "Mo-Th 06:00-18:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0554199,
+          44.2612284
+        ]
+      },
+      "id": "node/4994896519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5031183821",
+        "name": "Dick's General Store",
+        "name:en": "Dick's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8622254,
+          43.5254424
+        ]
+      },
+      "id": "node/5031183821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5077381043",
+        "addr:city": "Weare",
+        "addr:housenumber": "833",
+        "addr:postcode": "03281",
+        "addr:state": "NH",
+        "addr:street": "South Stark Highway",
+        "name": "Country 3 Corners",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "phone": "+1-603-529-7065",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7139326,
+          43.0555233
+        ]
+      },
+      "id": "node/5077381043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5271017158",
+        "addr:city": "Salem",
+        "addr:housenumber": "167",
+        "addr:postcode": "03079",
+        "addr:state": "NH",
+        "addr:street": "South Broadway",
+        "brand": "Market Basket",
+        "brand:wikidata": "Q2079198",
+        "brand:wikipedia": "en:Market Basket (New England)",
+        "description": "More For Your Dollar Grocery Shopping.",
+        "level": "1",
+        "name": "Market Basket",
+        "opening_hours": "Mo-Sa 07:00-21:00, Mo-Su 07:00-20:00",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:credit": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "phone": "+1-603-893-6366",
+        "shop": "supermarket",
+        "website": "https://www.shopmarketbasket.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2171588,
+          42.7675186
+        ]
+      },
+      "id": "node/5271017158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5412951238",
+        "addr:city": "Nashua",
+        "addr:housenumber": "242",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "Daniel Webster Highway",
+        "name": "Gulf Express",
+        "phone": "+1-603-888-7303",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4412789,
+          42.7100748
+        ]
+      },
+      "id": "node/5412951238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5628929366",
+        "name": "McKinnon's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.784153,
+          43.0345478
+        ]
+      },
+      "id": "node/5628929366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5629056529",
+        "addr:city": "Portsmouth",
+        "addr:housenumber": "1465",
+        "addr:postcode": "03801",
+        "addr:state": "NH",
+        "addr:street": "Woodbury Avenue",
+        "brand": "Market Basket",
+        "brand:wikidata": "Q2079198",
+        "brand:wikipedia": "en:Market Basket (New England)",
+        "check_date": "2023-02-10",
+        "name": "Market Basket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7869716,
+          43.0874676
+        ]
+      },
+      "id": "node/5629056529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5629056530",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "check_date": "2023-02-13",
+        "name": "Whole Foods Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7936072,
+          43.0889672
+        ]
+      },
+      "id": "node/5629056530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5775502904",
+        "addr:housenumber": "151",
+        "addr:street": "Congress Street",
+        "name": "Portsmouth Health Foods",
+        "organic": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7606393,
+          43.0759653
+        ]
+      },
+      "id": "node/5775502904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799783550",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1725946,
+          43.0781229
+        ]
+      },
+      "id": "node/5799783550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5921181175",
+        "addr:city": "Newington",
+        "addr:housenumber": "45",
+        "addr:state": "NH",
+        "addr:street": "Gosling Road",
+        "brand": "Trader Joe's",
+        "brand:wikidata": "Q688825",
+        "brand:wikipedia": "en:Trader Joe's",
+        "name": "Trader Joe's",
+        "phone": "+1-603-431-2654",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8014771,
+          43.0938936
+        ]
+      },
+      "id": "node/5921181175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6438805638",
+        "name": "Litchfield Food mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4598291,
+          42.8826987
+        ]
+      },
+      "id": "node/6438805638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6447198627",
+        "addr:city": "Portsmouth",
+        "addr:housenumber": "112",
+        "addr:postcode": "03801",
+        "addr:state": "NH",
+        "addr:street": "Congress Street",
+        "name": "Celtic Crossing",
+        "opening_hours": "Mo-Th 10:00-18:00; Fr-Sa 10:00-20:00; Su 10:00-17:00",
+        "payment:american_express": "yes",
+        "payment:cheque": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1-603-436-0200",
+        "shop": "convenience",
+        "website": "http://celticcrossing.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7598738,
+          43.0759433
+        ]
+      },
+      "id": "node/6447198627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6640371271",
+        "addr:city": "Exeter",
+        "addr:country": "US",
+        "addr:housenumber": "141",
+        "addr:postcode": "03833",
+        "addr:state": "NH",
+        "addr:street": "Portsmouth Avenue",
+        "brand": "Hannaford",
+        "brand:wikidata": "Q5648760",
+        "brand:wikipedia": "en:Hannaford Brothers Company",
+        "check_date": "2023-01-17",
+        "name": "Hannaford",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1 603-772-1783",
+        "shop": "supermarket",
+        "website": "https://www.hannaford.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9304689,
+          42.9892406
+        ]
+      },
+      "id": "node/6640371271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6642010578",
+        "name": "Exeter One Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9352952,
+          42.9874311
+        ]
+      },
+      "id": "node/6642010578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6682387599",
+        "name": "On The Vine Marketplace",
+        "organic": "yes",
+        "shop": "grocery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9359661,
+          42.9855789
+        ]
+      },
+      "id": "node/6682387599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6737672075",
+        "addr:city": "Enfield",
+        "addr:housenumber": "11",
+        "addr:postcode": "03748",
+        "addr:state": "NH",
+        "addr:street": "Eastman Hill Road",
+        "name": "Evans Expressmart",
+        "phone": "+1-603-448-2675",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.187275,
+          43.6111128
+        ]
+      },
+      "id": "node/6737672075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6873810517",
+        "name": "GFM Pinoy Food Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2336112,
+          42.789817
+        ]
+      },
+      "id": "node/6873810517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6916210053",
+        "name": "South Street Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5390544,
+          43.1976183
+        ]
+      },
+      "id": "node/6916210053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6918257177",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4426821,
+          43.1215822
+        ]
+      },
+      "id": "node/6918257177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6918335586",
+        "name": "Nouria",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4413628,
+          43.1175543
+        ]
+      },
+      "id": "node/6918335586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6985279116",
+        "name": "Pittsfield Main St. Variety",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-21:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3285776,
+          43.3055879
+        ]
+      },
+      "id": "node/6985279116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7098771399",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4405421,
+          43.0285435
+        ]
+      },
+      "id": "node/7098771399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7100030946",
+        "brand": "Kwik Shop",
+        "brand:wikidata": "Q6450417",
+        "brand:wikipedia": "en:Kwik Shop",
+        "name": "Kwik Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.482779,
+          43.1725993
+        ]
+      },
+      "id": "node/7100030946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7105018355",
+        "addr:city": "Newmarket",
+        "addr:housenumber": "44",
+        "addr:postcode": "03857",
+        "addr:state": "NH",
+        "addr:street": "Exeter Road",
+        "name": "Newmarket Mini Mart",
+        "opening_hours": "24/7",
+        "phone": "+1-603-659-6858",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.938776,
+          43.0753149
+        ]
+      },
+      "id": "node/7105018355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7112756508",
+        "brand": "On the Run",
+        "brand:wikidata": "Q16931259",
+        "brand:wikipedia": "en:On the Run (convenience store)",
+        "name": "On the Run",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1351811,
+          43.4973132
+        ]
+      },
+      "id": "node/7112756508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7112776739",
+        "addr:city": "Lisbon",
+        "addr:postcode": "03585",
+        "addr:state": "NH",
+        "addr:street": "Main",
+        "name": "Lisbon Village Market",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9104595,
+          44.2136681
+        ]
+      },
+      "id": "node/7112776739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7112875130",
+        "brand": "Cumberland Farms",
+        "brand:wikidata": "Q1143685",
+        "brand:wikipedia": "en:Cumberland Farms",
+        "name": "Cumberland Farms",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3407332,
+          43.3691113
+        ]
+      },
+      "id": "node/7112875130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7112895509",
+        "addr:city": "Manchester",
+        "addr:housenumber": "1466",
+        "addr:postcode": "03109",
+        "addr:state": "NH",
+        "addr:street": "Bodwell Road",
+        "name": "Bodwell Food Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3903763,
+          42.9486595
+        ]
+      },
+      "id": "node/7112895509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7124391772",
+        "name": "Smoke N Barley",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3624679,
+          43.2279699
+        ]
+      },
+      "id": "node/7124391772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7125030894",
+        "name": "Capital Beverage",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5327129,
+          43.2004135
+        ]
+      },
+      "id": "node/7125030894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7141657142",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9917386,
+          43.3106246
+        ]
+      },
+      "id": "node/7141657142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152225839",
+        "name": "Borderline Beverage",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8643139,
+          43.2651117
+        ]
+      },
+      "id": "node/7152225839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7152225848",
+        "name": "Stateline Mini Mart & Deli",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8649693,
+          43.2650941
+        ]
+      },
+      "id": "node/7152225848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7154551699",
+        "addr:city": "Exeter",
+        "addr:housenumber": "66",
+        "addr:postcode": "03833",
+        "addr:state": "NH",
+        "addr:street": "Lincoln Street",
+        "contact:phone": "+1-603-583-5164",
+        "name": "Gerry's Variety",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9581119,
+          42.9815831
+        ]
+      },
+      "id": "node/7154551699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7177794460",
+        "name": "Campus Convenience",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9254094,
+          43.1340625
+        ]
+      },
+      "id": "node/7177794460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7188768317",
+        "addr:city": "Nashua",
+        "addr:housenumber": "495",
+        "addr:postcode": "03063",
+        "addr:state": "NH",
+        "addr:street": "Amherst Street",
+        "name": "Lanna Asian Market",
+        "shop": "convenience",
+        "website": "http://lannaasianmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5223787,
+          42.7931786
+        ]
+      },
+      "id": "node/7188768317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7231272172",
+        "addr:city": "Sunapee",
+        "addr:housenumber": "546",
+        "addr:postcode": "03782",
+        "addr:state": "NH",
+        "addr:street": "State Route 11",
+        "brand": "Gulf",
+        "name": "Evans Expressmart",
+        "self_service": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0874917,
+          43.3877295
+        ]
+      },
+      "id": "node/7231272172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7231908885",
+        "addr:housenumber": "54",
+        "addr:postcode": "03229",
+        "addr:street": "Park Avenue",
+        "name": "Colonial Village Supermarket",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 08:00-17:00",
+        "phone": "+1-603-746-5085",
+        "shop": "supermarket",
+        "website": "https://www.colonialvillagenh.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7142844,
+          43.2249699
+        ]
+      },
+      "id": "node/7231908885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7310053204",
+        "name": "Village Street Discount Beverage",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5995471,
+          43.2802833
+        ]
+      },
+      "id": "node/7310053204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7333079743",
+        "name": "Katmandu Asian African Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5102556,
+          43.2149494
+        ]
+      },
+      "id": "node/7333079743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7339616504",
+        "addr:city": "Charlestown",
+        "addr:housenumber": "741",
+        "addr:postcode": "03603",
+        "addr:state": "NH",
+        "addr:street": "Old Claremont Road",
+        "name": "Emma's Market & Deli",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4014838,
+          43.2622756
+        ]
+      },
+      "id": "node/7339616504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7415806096",
+        "addr:city": "Whitefield",
+        "addr:housenumber": "21",
+        "addr:postcode": "03598",
+        "addr:state": "NH",
+        "addr:street": "Jefferson Road",
+        "name": "Whitefield Market n Deli",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6094011,
+          44.373478
+        ]
+      },
+      "id": "node/7415806096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7482018798",
+        "addr:city": "Salem",
+        "addr:housenumber": "69",
+        "addr:state": "NH",
+        "addr:street": "Central Street",
+        "brand": "Market Basket",
+        "brand:wikidata": "Q2079198",
+        "brand:wikipedia": "en:Market Basket (New England)",
+        "changing_table": "yes",
+        "changing_table:fee": "no",
+        "name": "Market Basket",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-20:00",
+        "shop": "supermarket",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2275157,
+          42.7770124
+        ]
+      },
+      "id": "node/7482018798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7534093074",
+        "addr:housenumber": "316",
+        "addr:street": "Bartlett Street",
+        "name": "Bartlett Street Superette",
+        "opening_hours": "Th-Sa 11:00-17:00",
+        "phone": "+1-603-627-1580",
+        "shop": "convenience",
+        "website": "bartlettsuperette.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4825726,
+          42.9900404
+        ]
+      },
+      "id": "node/7534093074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7616878379",
+        "name": "Blueberry Station",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3043558,
+          43.3227772
+        ]
+      },
+      "id": "node/7616878379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7741472741",
+        "addr:city": "Lancaster",
+        "addr:housenumber": "77",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "email": "rootseller@taprootnh.org",
+        "name": "Root Seller Marketplace",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa 09:00-15:00; Su 09:00-14:00",
+        "phone": "+1-603-788-4183",
+        "shop": "supermarket",
+        "website": "https://www.taprootnh.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5692772,
+          44.4890281
+        ]
+      },
+      "id": "node/7741472741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7802904574",
+        "brand": "Hudson",
+        "brand:wikidata": "Q111534515",
+        "brand:wikipedia": "en:Hudson Group",
+        "level": "2",
+        "name": "Hudson",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4370669,
+          42.9279294
+        ]
+      },
+      "id": "node/7802904574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7802904575",
+        "brand": "Hudson",
+        "brand:wikidata": "Q111534515",
+        "brand:wikipedia": "en:Hudson Group",
+        "name": "Hudson",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4372556,
+          42.9276415
+        ]
+      },
+      "id": "node/7802904575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7837656317",
+        "name": "Stratham Villiage Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9122641,
+          43.0249551
+        ]
+      },
+      "id": "node/7837656317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7869838921",
+        "name": "Suncook River Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4077584,
+          43.151367
+        ]
+      },
+      "id": "node/7869838921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7885732324",
+        "name": "Summit Natural Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9576183,
+          42.9820517
+        ]
+      },
+      "id": "node/7885732324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7943355316",
+        "name": "Shop Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6440172,
+          43.4448115
+        ]
+      },
+      "id": "node/7943355316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7979086783",
+        "name": "Nouria",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4591568,
+          43.0777547
+        ]
+      },
+      "id": "node/7979086783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7993162672",
+        "name": "River Hill Market",
+        "shop": "convenience",
+        "start_date": "1968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6195098,
+          43.2490082
+        ]
+      },
+      "id": "node/7993162672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8078386840",
+        "amenity": "marketplace",
+        "name": "Exeter Farmers' Market",
+        "opening_hours": "May 02-Oct 31 Th 14:14-17:30",
+        "operator": "Seacoast Growers Association",
+        "organic": "yes",
+        "website": "https://www.seacoastgrowers.org/exeter-farmers-market/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9492296,
+          42.9822011
+        ]
+      },
+      "id": "node/8078386840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8078858807",
+        "addr:city": "Swanzey",
+        "addr:housenumber": "37",
+        "addr:postcode": "03446",
+        "addr:state": "NH",
+        "addr:street": "Monadnock Highway",
+        "name": "T-Bird Mini Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2611873,
+          42.9090471
+        ]
+      },
+      "id": "node/8078858807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8094177725",
+        "addr:city": "Plymouth",
+        "addr:housenumber": "494",
+        "addr:postcode": "03264",
+        "addr:state": "NH",
+        "addr:street": "Tenney Mountain Highway",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "phone": "+1-603-536-1491",
+        "shop": "convenience",
+        "website": "https://www.7-eleven.com/locations/nh/plymouth/494-tenney-mtn-hwy-37391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7264248,
+          43.7717017
+        ]
+      },
+      "id": "node/8094177725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8094177751",
+        "addr:city": "Plymouth",
+        "addr:housenumber": "34",
+        "addr:postcode": "03264",
+        "addr:state": "NH",
+        "addr:street": "Ridgeview Lane",
+        "brand": "Market Basket",
+        "brand:wikidata": "Q2079198",
+        "brand:wikipedia": "en:Market Basket (New England)",
+        "name": "Market Basket",
+        "opening_hours": "Mo-Su 07:00-20:00",
+        "phone": "+1-603-536-1176",
+        "shop": "supermarket",
+        "website": "https://www.shopmarketbasket.com/store-locations/plymouth-new-hampshire-market-basket-86"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7239907,
+          43.7725303
+        ]
+      },
+      "id": "node/8094177751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8156404961",
+        "name": "Jiffy Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.61215,
+          44.3724049
+        ]
+      },
+      "id": "node/8156404961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8223097881",
+        "addr:city": "Center Barnstead",
+        "addr:state": "NH",
+        "name": "White Buffalo Trading Post",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2608218,
+          43.3406136
+        ]
+      },
+      "id": "node/8223097881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8349713737",
+        "brand": "Shaw's",
+        "brand:wikidata": "Q578387",
+        "brand:wikipedia": "en:Shaw's and Star Market",
+        "name": "Shaw's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8331087,
+          42.9677168
+        ]
+      },
+      "id": "node/8349713737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8356412328",
+        "addr:city": "Hampton",
+        "addr:country": "US",
+        "addr:housenumber": "845",
+        "addr:postcode": "03842",
+        "addr:state": "NH",
+        "addr:street": "Lafayette Road",
+        "addr:unit": "Suite 1",
+        "name": "Hampton Natural Foods",
+        "phone": "+1-603-926-5950",
+        "shop": "supermarket",
+        "website": "https://www.hamptonnaturalfoods.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8322142,
+          42.9522313
+        ]
+      },
+      "id": "node/8356412328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8388031113",
+        "amenity": "restaurant",
+        "cuisine": "pizza;sandwich",
+        "name": "Brookside Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9019731,
+          42.9714585
+        ]
+      },
+      "id": "node/8388031113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8395041878",
+        "brand": "Market Basket",
+        "brand:wikidata": "Q2079198",
+        "brand:wikipedia": "en:Market Basket (New England)",
+        "name": "Market Basket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8679761,
+          42.8997209
+        ]
+      },
+      "id": "node/8395041878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8608031825",
+        "name": "Gossville General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.351568,
+          43.2269502
+        ]
+      },
+      "id": "node/8608031825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8676802027",
+        "name": "Diciccos Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8947432,
+          43.2000201
+        ]
+      },
+      "id": "node/8676802027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8725680971",
+        "name": "Laconia Spa",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4681345,
+          43.5303051
+        ]
+      },
+      "id": "node/8725680971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8784065060",
+        "addr:city": "West Lebanon",
+        "addr:housenumber": "55",
+        "addr:postcode": "03784",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "email": "Yipingsasianmarket@gmail.com",
+        "name": "Yipings Asian Market",
+        "opening_hours": "Mo-Sa 10:00-18:00; Su 12:00-18:00",
+        "phone": "+1-603-928-7267",
+        "shop": "supermarket",
+        "website": "https://sites.google.com/site/yipingsasianmarket/home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3104429,
+          43.6470561
+        ]
+      },
+      "id": "node/8784065060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8784065063",
+        "addr:city": "West Lebanon",
+        "addr:housenumber": "89",
+        "addr:postcode": "03784",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "opening_hours": "24/7",
+        "phone": "+1-603-298-5567",
+        "shop": "convenience",
+        "website": "https://www.circlek.com/store-locator/US/west-lebanon/89-main-st/M7246"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3113388,
+          43.6492906
+        ]
+      },
+      "id": "node/8784065063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8784373184",
+        "addr:city": "Keene",
+        "addr:country": "US",
+        "addr:county": "Cheshire, NH",
+        "addr:housenumber": "478",
+        "addr:postcode": "03431-2453",
+        "addr:state": "NH",
+        "addr:street": "West Street",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "delivery": "yes",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cheque": "no",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:ebt": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:snap": "yes",
+        "payment:visa": "yes",
+        "payment:wic": "no",
+        "phone": "+1 877 473 1096",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2960901,
+          42.9320368
+        ]
+      },
+      "id": "node/8784373184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8784388076",
+        "addr:city": "Derry",
+        "addr:country": "US",
+        "addr:county": "Rockingham, NH",
+        "addr:housenumber": "30",
+        "addr:postcode": "03038-3005",
+        "addr:state": "NH",
+        "addr:street": "Manchester Road",
+        "addr:unit": "1",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "delivery": "yes",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cheque": "no",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:ebt": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:snap": "yes",
+        "payment:visa": "yes",
+        "payment:wic": "no",
+        "phone": "+1 844 473 1093",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3348857,
+          42.8967272
+        ]
+      },
+      "id": "node/8784388076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8784388241",
+        "addr:city": "Plaistow",
+        "addr:country": "US",
+        "addr:county": "Rockingham, NH",
+        "addr:housenumber": "9",
+        "addr:postcode": "03865-2824",
+        "addr:state": "NH",
+        "addr:street": "Plaistow Road",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "delivery": "yes",
+        "name": "Aldi",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cheque": "no",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:ebt": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:snap": "yes",
+        "payment:visa": "yes",
+        "payment:wic": "no",
+        "phone": "+1 833 473 7097",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.100812,
+          42.8176644
+        ]
+      },
+      "id": "node/8784388241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8942297499",
+        "addr:city": "Concord",
+        "addr:housenumber": "170",
+        "addr:postcode": "03301",
+        "addr:state": "NH",
+        "addr:street": "North State Street",
+        "name": "Granite State Naturals",
+        "shop": "health_food",
+        "website": "https://www.granitestatenaturals.com/index.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5491197,
+          43.2189425
+        ]
+      },
+      "id": "node/8942297499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8955427942",
+        "fixme": "Also hosts an Amazon Hub Counter, but I didn't check to see what that is exactly",
+        "name": "Xtramart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5804023,
+          43.2885692
+        ]
+      },
+      "id": "node/8955427942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8990560676",
+        "addr:city": "Nashua",
+        "addr:housenumber": "79",
+        "addr:postcode": "03060",
+        "addr:state": "NH",
+        "addr:street": "East Hollis Street",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "1964",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4535675,
+          42.7597958
+        ]
+      },
+      "id": "node/8990560676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8991375647",
+        "addr:city": "Derry",
+        "addr:housenumber": "50",
+        "addr:postcode": "03038",
+        "addr:state": "NH",
+        "addr:street": "Birch Street",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "1959",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3149495,
+          42.8747755
+        ]
+      },
+      "id": "node/8991375647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8991414145",
+        "addr:city": "Londonderry",
+        "addr:housenumber": "66",
+        "addr:postcode": "03053",
+        "addr:state": "NH",
+        "addr:street": "Nashua Road",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "1962",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3518671,
+          42.8623038
+        ]
+      },
+      "id": "node/8991414145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8991417266",
+        "addr:city": "Salem",
+        "addr:housenumber": "362",
+        "addr:postcode": "03079",
+        "addr:state": "NH",
+        "addr:street": "North Broadway",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "1958",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2445474,
+          42.806156
+        ]
+      },
+      "id": "node/8991417266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8991419970",
+        "addr:city": "Hampton",
+        "addr:housenumber": "639",
+        "addr:postcode": "03842",
+        "addr:state": "NH",
+        "addr:street": "Lafayette Road",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "1957",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8328195,
+          42.9456888
+        ]
+      },
+      "id": "node/8991419970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8991462797",
+        "addr:city": "Concord",
+        "addr:housenumber": "15",
+        "addr:postcode": "03301",
+        "addr:state": "NH",
+        "addr:street": "Hall Street",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "1961",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5277843,
+          43.193886
+        ]
+      },
+      "id": "node/8991462797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8992458206",
+        "addr:city": "Chichester",
+        "addr:housenumber": "135",
+        "addr:postcode": "03258",
+        "addr:state": "NH",
+        "addr:street": "Dover Road",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "1956",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4043573,
+          43.2430723
+        ]
+      },
+      "id": "node/8992458206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8992460748",
+        "addr:city": "Concord",
+        "addr:housenumber": "175",
+        "addr:postcode": "03301",
+        "addr:state": "NH",
+        "addr:street": "North Main Street",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "1965",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5393725,
+          43.2116274
+        ]
+      },
+      "id": "node/8992460748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8993636721",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.136442,
+          43.9807903
+        ]
+      },
+      "id": "node/8993636721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8993636753",
+        "name": "Hanafords",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.110459,
+          43.7012861
+        ]
+      },
+      "id": "node/8993636753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9008110338",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6391151,
+          43.6165026
+        ]
+      },
+      "id": "node/9008110338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9008110350",
+        "name": "New Hampton Convenience",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6375703,
+          43.6159198
+        ]
+      },
+      "id": "node/9008110350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9041881280",
+        "name": "George & Ed's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.981531,
+          43.3054058
+        ]
+      },
+      "id": "node/9041881280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9056995028",
+        "name": "Maddy's Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5392854,
+          43.2130324
+        ]
+      },
+      "id": "node/9056995028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9062884316",
+        "addr:city": "Northwood",
+        "addr:housenumber": "1380",
+        "addr:postcode": "03261",
+        "addr:state": "NH",
+        "addr:street": "First New Hampshire Turnpike",
+        "name": "Heritage Corner Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2549711,
+          43.2234916
+        ]
+      },
+      "id": "node/9062884316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9067178153",
+        "amenity": "marketplace",
+        "name": "Nana's Recyclables"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3378673,
+          43.3730428
+        ]
+      },
+      "id": "node/9067178153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9073576063",
+        "name": "Gord's Corner Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3002101,
+          44.5942949
+        ]
+      },
+      "id": "node/9073576063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9103912048",
+        "addr:city": "Concord",
+        "addr:country": "US",
+        "addr:county": "Merrimack, NH",
+        "addr:housenumber": "289",
+        "addr:postcode": "03301-6056",
+        "addr:state": "NH",
+        "addr:street": "Loudon Road",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "delivery": "yes",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "payment:american_express": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cheque": "no",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:ebt": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:snap": "yes",
+        "payment:visa": "yes",
+        "payment:wic": "no",
+        "phone": "+1 833 473 7090",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4876336,
+          43.2262322
+        ]
+      },
+      "id": "node/9103912048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9132310761",
+        "addr:city": "Newport",
+        "addr:housenumber": "595",
+        "addr:postcode": "03773",
+        "addr:state": "NH",
+        "addr:street": "Sunapee Street",
+        "air_conditioning": "yes",
+        "name": "T-Bird Mini Mart",
+        "opening_hours": "Mo-Fr 05:00-10:00, Sa-Su 06:00-10:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:visa": "yes",
+        "phone": "+1-603-863-5802",
+        "shop": "convenience",
+        "website": "https://tbirdminimarts.com/locations/newport-sunapee-road/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1302123,
+          43.3739316
+        ]
+      },
+      "id": "node/9132310761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9178385264",
+        "name": "Danis",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3317844,
+          43.3055526
+        ]
+      },
+      "id": "node/9178385264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9178385312",
+        "name": "Bell Brothers Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3245369,
+          43.3060645
+        ]
+      },
+      "id": "node/9178385312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9214845850",
+        "name": "Lavallee's Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4510928,
+          43.1304421
+        ]
+      },
+      "id": "node/9214845850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9270222248",
+        "name": "Convenience Plus",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4493724,
+          42.9154
+        ]
+      },
+      "id": "node/9270222248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9432042672",
+        "addr:city": "Manchester",
+        "addr:housenumber": "64",
+        "addr:postcode": "03101",
+        "addr:state": "NH",
+        "addr:street": "Merrimack Street",
+        "drink:beer": "retail",
+        "drink:wine": "retail",
+        "name": "U&P Convenience",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4612106,
+          42.9894833
+        ]
+      },
+      "id": "node/9432042672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9437776836",
+        "addr:city": "Manchester",
+        "addr:housenumber": "167",
+        "addr:postcode": "03104",
+        "addr:state": "NH",
+        "addr:street": "Hanover Street",
+        "name": "Down the Block",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4591845,
+          42.990833
+        ]
+      },
+      "id": "node/9437776836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9444953262",
+        "addr:city": "Manchester",
+        "addr:housenumber": "304",
+        "addr:postcode": "03103",
+        "addr:state": "NH",
+        "addr:street": "Merrimack Street",
+        "name": "R & E Grocery",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4531069,
+          42.9894775
+        ]
+      },
+      "id": "node/9444953262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9471820525",
+        "name": "Executive Petroleum & Auto Repair",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4524734,
+          42.9954376
+        ]
+      },
+      "id": "node/9471820525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9471820612",
+        "addr:city": "Manchester",
+        "addr:housenumber": "230",
+        "addr:postcode": "03104",
+        "addr:street": "Lowell Street",
+        "name": "N-N Express Convenience",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4529287,
+          42.9937051
+        ]
+      },
+      "id": "node/9471820612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9477000104",
+        "addr:city": "Manchester",
+        "addr:housenumber": "483",
+        "addr:postcode": "03104",
+        "addr:street": "Maple Street",
+        "name": "Mok's Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4528531,
+          42.9928333
+        ]
+      },
+      "id": "node/9477000104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9592859963",
+        "addr:city": "Manchester",
+        "addr:housenumber": "245",
+        "addr:postcode": "03103",
+        "addr:street": "Maple Street",
+        "facebook": "http://www.facebook.com/SpiceCenter",
+        "name": "Spice Center",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4521212,
+          42.9819289
+        ]
+      },
+      "id": "node/9592859963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9592859968",
+        "addr:city": "Manchester",
+        "addr:housenumber": "245",
+        "addr:postcode": "03103",
+        "addr:street": "Maple Street",
+        "name": "Maple Valley Convience",
+        "shop": "convenience",
+        "website": "http://www.tedeschifoodshops.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4519411,
+          42.9814963
+        ]
+      },
+      "id": "node/9592859968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9621255121",
+        "addr:housenumber": "377",
+        "addr:street": "Elm Street",
+        "name": "Max Nutrition",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4628155,
+          42.9833638
+        ]
+      },
+      "id": "node/9621255121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9631728462",
+        "addr:city": "Manchester",
+        "addr:housenumber": "217",
+        "addr:postcode": "03103",
+        "addr:street": "Union Street",
+        "brand": "Cumberland Farms",
+        "brand:wikidata": "Q1143685",
+        "brand:wikipedia": "en:Cumberland Farms",
+        "name": "Cumberland Farms",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.456907,
+          42.9809958
+        ]
+      },
+      "id": "node/9631728462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9643917813",
+        "addr:city": "Manchester",
+        "addr:housenumber": "706",
+        "addr:postcode": "03103",
+        "addr:street": "Somerville Street",
+        "name": "Gosselin's Superette",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4448172,
+          42.976604
+        ]
+      },
+      "id": "node/9643917813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9740504927",
+        "addr:city": "Hanover",
+        "addr:housenumber": "73",
+        "addr:postcode": "03755",
+        "addr:state": "NH",
+        "addr:street": "South Main Street",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "opening_hours": "24/7",
+        "phone": "+1-603-643-9750",
+        "shop": "convenience",
+        "website": "https://www.circlek.com/store-locator/US/hanover/73-s-main-st/M7245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.290037,
+          43.6998186
+        ]
+      },
+      "id": "node/9740504927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9887362327",
+        "addr:city": "Manchester",
+        "addr:housenumber": "887",
+        "addr:postcode": "03104",
+        "addr:street": "Hanover Street",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "drink:beer": "retail",
+        "name": "Shell",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4281298,
+          42.9874495
+        ]
+      },
+      "id": "node/9887362327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9887579671",
+        "addr:city": "Winchester",
+        "addr:housenumber": "30",
+        "addr:postcode": "03470",
+        "addr:state": "NH",
+        "addr:street": "Warwick Road",
+        "addr:unit": "8",
+        "name": "Kulick's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3860676,
+          42.7660339
+        ]
+      },
+      "id": "node/9887579671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9945972921",
+        "name": "Chase St Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6876841,
+          43.7576069
+        ]
+      },
+      "id": "node/9945972921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9953706918",
+        "addr:postcode": "03303",
+        "branch": "(Open End of August)",
+        "brand": "Market Basket",
+        "brand:wikidata": "Q2079198",
+        "name": "Market Basket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5784777,
+          43.2887498
+        ]
+      },
+      "id": "node/9953706918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10291190705",
+        "Category": "Grocery Store",
+        "Country": "USA",
+        "addr:city": "New Ipswich",
+        "addr:housenumber": "800",
+        "addr:postcode": "03071",
+        "addr:state": "NH",
+        "addr:street": "Turnpike Rd",
+        "name": "Sonny's Market LLC",
+        "opening_hours": "Mon-Sat: 8:00AM to 8:00PM,Sunday: 9:00AM to 8:00PM",
+        "payment:cash": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "603-291-0361",
+        "shop": "supermarket",
+        "website": "https://sonnysmarketllc.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8736168,
+          42.7594561
+        ]
+      },
+      "id": "node/10291190705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10303074531",
+        "check_date": "2023-01-03",
+        "name": "Nouria",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9722444,
+          42.9946424
+        ]
+      },
+      "id": "node/10303074531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10587580433",
+        "check_date": "2023-01-27",
+        "name": "Market Basket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8682211,
+          42.8866617
+        ]
+      },
+      "id": "node/10587580433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10612817242",
+        "name": "Hannaford",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7713375,
+          43.068295
+        ]
+      },
+      "id": "node/10612817242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10646978427",
+        "check_date": "2023-02-10",
+        "name": "Indian Grocery Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7928494,
+          43.0941913
+        ]
+      },
+      "id": "node/10646978427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10690770543",
+        "addr:city": "Atkinson",
+        "addr:housenumber": "110",
+        "addr:postcode": "03811",
+        "addr:state": "NH",
+        "addr:street": "Main Street",
+        "name": "Atkinson Village Store",
+        "phone": "+1-603-362-5898",
+        "shop": "convenience",
+        "website": "atkinsonvillagestore.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1517026,
+          42.8383425
+        ]
+      },
+      "id": "node/10690770543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340247517",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-51-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978518,
+          41.8912427
+        ]
+      },
+      "id": "node/5340247517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340252322",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-49-50 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4973968,
+          41.8913872
+        ]
+      },
+      "id": "node/5340252322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535092255",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915049,
+          41.8918027
+        ]
+      },
+      "id": "node/5535092255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5801329944",
+        "amenity": "drinking_water",
+        "description:de": "Wasserbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4884569,
+          41.8880861
+        ]
+      },
+      "id": "node/5801329944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6547164641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Via in Miranda, Foro Romano, Roma, Italia Oct 05, 2022 04-55-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870814,
+          41.8924043
+        ]
+      },
+      "id": "node/6547164641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6616168986",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4967144,
+          41.8922741
+        ]
+      },
+      "id": "node/6616168986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6841124063",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926345,
+          41.8906387
+        ]
+      },
+      "id": "node/6841124063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085935353",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941883,
+          41.8915996
+        ]
+      },
+      "id": "node/7085935353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7203154248",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Via Marco Aurelio, Roma, Italia Jun 30, 2022 08-08-32 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4955486,
+          41.8882028
+        ]
+      },
+      "id": "node/7203154248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9108120217",
+        "amenity": "drinking_water",
+        "name": "Acqua",
+        "name:en": "Drinkable water",
+        "name:fr": "Eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4847106,
+          41.8877336
+        ]
+      },
+      "id": "node/9108120217"
+    }
+  ]
+}

@@ -1,0 +1,6360 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-06T00:17:47Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266310881",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934985,
+          41.8923773
+        ]
+      },
+      "id": "node/266310881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388984003",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494519,
+          41.8877413
+        ]
+      },
+      "id": "node/388984003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495113034",
+        "amenity": "drinking_water",
+        "check_date": "2022-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934283,
+          41.8913309
+        ]
+      },
+      "id": "node/495113034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/677133836",
+        "name": "Kroger",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9413753,
+          39.6508904
+        ]
+      },
+      "id": "node/677133836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685457655",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4867108,
+          41.8902623
+        ]
+      },
+      "id": "node/685457655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685461877",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4875779,
+          41.8891234
+        ]
+      },
+      "id": "node/685461877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/843347793",
+        "addr:city": "Beaver",
+        "addr:housenumber": "151",
+        "addr:postcode": "25813",
+        "addr:state": "WV",
+        "addr:street": "North Beaver Lane",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "opening_hours": "06:00-24:00",
+        "phone": "+1-304-255-5525",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1365428,
+          37.7507093
+        ]
+      },
+      "id": "node/843347793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/844112323",
+        "addr:city": "Shepherdstown",
+        "addr:housenumber": "85",
+        "addr:postcode": "25443",
+        "addr:state": "WV",
+        "addr:street": "Maddex Square Drive",
+        "brand": "Food Lion",
+        "brand:wikidata": "Q1435950",
+        "brand:wikipedia": "en:Food Lion",
+        "name": "Food Lion",
+        "phone": "+1 304 876-0601",
+        "shop": "supermarket",
+        "website": "https://www.foodlion.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8209525,
+          39.4359485
+        ]
+      },
+      "id": "node/844112323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890053",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4879526,
+          41.8887986
+        ]
+      },
+      "id": "node/953890053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890062",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883755,
+          41.890985
+        ]
+      },
+      "id": "node/953890062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953909059",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via dei santi Quattro,roma,italy 62022.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968765,
+          41.8889852
+        ]
+      },
+      "id": "node/953909059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1170494282",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942213,
+          41.8900377
+        ]
+      },
+      "id": "node/1170494282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1231227868",
+        "brand": "GoMart",
+        "brand:wikidata": "Q5574575",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7957592,
+          38.381382
+        ]
+      },
+      "id": "node/1231227868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1239269331",
+        "brand": "Tiger Mart",
+        "brand:wikidata": "Q57643977",
+        "name": "Tiger Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8311396,
+          38.3884037
+        ]
+      },
+      "id": "node/1239269331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1239269338",
+        "addr:housename": "GoMart",
+        "brand": "GoMart",
+        "brand:wikidata": "Q5574575",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8378988,
+          38.3900982
+        ]
+      },
+      "id": "node/1239269338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1239269342",
+        "brand": "GoMart",
+        "brand:wikidata": "Q5574575",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8344012,
+          38.3863349
+        ]
+      },
+      "id": "node/1239269342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1279864915",
+        "brand": "IGA",
+        "brand:wikidata": "Q3146662",
+        "brand:wikipedia": "en:IGA (supermarkets)",
+        "name": "IGA",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8053068,
+          38.3772135
+        ]
+      },
+      "id": "node/1279864915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1284981084",
+        "name": "Miklas Meat Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6822841,
+          40.0769978
+        ]
+      },
+      "id": "node/1284981084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1284981102",
+        "name": "Convenient",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6843602,
+          40.0708363
+        ]
+      },
+      "id": "node/1284981102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1289645448",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7865033,
+          38.4275417
+        ]
+      },
+      "id": "node/1289645448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1291645039",
+        "name": "The Plaza",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2053711,
+          37.2521894
+        ]
+      },
+      "id": "node/1291645039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1306046482",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4468114,
+          39.0488915
+        ]
+      },
+      "id": "node/1306046482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1329486815",
+        "name": "Exxon Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2239538,
+          39.3440291
+        ]
+      },
+      "id": "node/1329486815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1329490251",
+        "name": "Exxon",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2292107,
+          39.3215132
+        ]
+      },
+      "id": "node/1329490251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1335228421",
+        "addr:housenumber": "889",
+        "addr:postcode": "26508",
+        "addr:street": "Venture Dr",
+        "name": "Price Cutter",
+        "shop": "supermarket",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8958405,
+          39.6504355
+        ]
+      },
+      "id": "node/1335228421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1354803527",
+        "addr:housenumber": "6406",
+        "addr:postcode": "25312",
+        "addr:street": "Sissonville Drive",
+        "name": "Foodland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6717264,
+          38.4766624
+        ]
+      },
+      "id": "node/1354803527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1402287751",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7281119,
+          38.9778008
+        ]
+      },
+      "id": "node/1402287751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1596876578",
+        "addr:housenumber": "1408",
+        "addr:postcode": "26170",
+        "addr:street": "North Pleasants Highway",
+        "name": "St Marys Galaxy Food Center",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1888472,
+          39.414006
+        ]
+      },
+      "id": "node/1596876578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1596885114",
+        "addr:housenumber": "423",
+        "addr:postcode": "26170",
+        "addr:street": "2nd Street",
+        "name": "Food Giant",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2053159,
+          39.3917261
+        ]
+      },
+      "id": "node/1596885114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656861982",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883955,
+          41.8907173
+        ]
+      },
+      "id": "node/1656861982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697713851",
+        "addr:city": "Parkersburg",
+        "addr:housenumber": "2893",
+        "addr:postcode": "26101",
+        "addr:state": "WV",
+        "addr:street": "Pike Street",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "3311",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5451279,
+          39.2180457
+        ]
+      },
+      "id": "node/1697713851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697731004",
+        "name": "Pifers",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5267588,
+          39.187964
+        ]
+      },
+      "id": "node/1697731004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709280191",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-02",
+        "fountain": "bottle_refill",
+        "name:ru": "вода с газом и без. бесплатная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911794,
+          41.891319
+        ]
+      },
+      "id": "node/1709280191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1751863334",
+        "name": "Lost River General Store",
+        "shop": "convenience",
+        "source": "http://en.wikipedia.org/wiki/Lost_River_General_Store",
+        "wikidata": "Q6684217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8043528,
+          38.9530637
+        ]
+      },
+      "id": "node/1751863334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1768766374",
+        "name": "Trent's Arbovale",
+        "opening_hours": "Mo-Sa 07:00-19:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8172084,
+          38.4364593
+        ]
+      },
+      "id": "node/1768766374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1771825595",
+        "brand": "Food Lion",
+        "brand:wikidata": "Q1435950",
+        "brand:wikipedia": "en:Food Lion",
+        "name": "Food Lion",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2400661,
+          39.606829
+        ]
+      },
+      "id": "node/1771825595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1814317531",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1153987,
+          39.4179678
+        ]
+      },
+      "id": "node/1814317531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1848232071",
+        "amenity": "fuel",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.748041,
+          38.2966536
+        ]
+      },
+      "id": "node/1848232071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2258187342",
+        "name": "Foodland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.545356,
+          39.2317457
+        ]
+      },
+      "id": "node/2258187342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2258202569",
+        "name": "Mother Earth Foods",
+        "organic": "only",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5377164,
+          39.2727693
+        ]
+      },
+      "id": "node/2258202569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2333301298",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4960413,
+          39.5980978
+        ]
+      },
+      "id": "node/2333301298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2356329713",
+        "brand": "Food Lion",
+        "brand:wikidata": "Q1435950",
+        "brand:wikipedia": "en:Food Lion",
+        "name": "Food Lion",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.828809,
+          39.29629
+        ]
+      },
+      "id": "node/2356329713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2470757157",
+        "amenity": "marketplace",
+        "cuisine": "chinese",
+        "phone": "+1-304-728-0033",
+        "website": "http://shuchens.homestead.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8601769,
+          39.2891378
+        ]
+      },
+      "id": "node/2470757157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2497802152",
+        "name": "Belko",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2122795,
+          39.720213
+        ]
+      },
+      "id": "node/2497802152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537299968",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "indoor": "no",
+        "wikimedia_commons": "File:Nasone via mecenate, Roma, Italia Jun 30, 2022 06-19-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4987211,
+          41.8911676
+        ]
+      },
+      "id": "node/2537299968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2614067098",
+        "name": "BFS Foods",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.800342,
+          39.5463325
+        ]
+      },
+      "id": "node/2614067098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2638825794",
+        "addr:city": "Oceana",
+        "addr:housenumber": "679",
+        "addr:postcode": "24870",
+        "addr:state": "WV",
+        "addr:street": "Valley Drive",
+        "name": "Goodson's Supermarket",
+        "ref": "3",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6527808,
+          37.6916681
+        ]
+      },
+      "id": "node/2638825794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2639139970",
+        "name": "Express Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2996849,
+          37.7350542
+        ]
+      },
+      "id": "node/2639139970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2639216165",
+        "addr:city": "Oceana",
+        "addr:housenumber": "799",
+        "addr:postcode": "24870",
+        "addr:state": "WV",
+        "addr:street": "Cook Parkway",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6245525,
+          37.6918025
+        ]
+      },
+      "id": "node/2639216165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2639338816",
+        "amenity": "marketplace",
+        "name": "Crazy Harry's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8448068,
+          38.9067359
+        ]
+      },
+      "id": "node/2639338816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2639357947",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.843823,
+          38.9186683
+        ]
+      },
+      "id": "node/2639357947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2639357950",
+        "name": "Hiawatha's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8427841,
+          38.9167045
+        ]
+      },
+      "id": "node/2639357950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2639372716",
+        "name": "Good Energy Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8473672,
+          38.9248487
+        ]
+      },
+      "id": "node/2639372716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2639372743",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8514859,
+          38.928252
+        ]
+      },
+      "id": "node/2639372743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2641610805",
+        "name": "West Union Shop & Save Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7757222,
+          39.2959044
+        ]
+      },
+      "id": "node/2641610805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2643033043",
+        "name": "Fast Mart Food Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2317039,
+          39.0001581
+        ]
+      },
+      "id": "node/2643033043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2643058553",
+        "name": "Vicksburg Food Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2115553,
+          38.9845835
+        ]
+      },
+      "id": "node/2643058553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2643114548",
+        "name": "Wendling's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2336654,
+          38.9675962
+        ]
+      },
+      "id": "node/2643114548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2645962380",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4670517,
+          37.7682649
+        ]
+      },
+      "id": "node/2645962380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2683115035",
+        "name": "Shop 'n Save",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9642538,
+          39.0759193
+        ]
+      },
+      "id": "node/2683115035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2683115064",
+        "amenity": "marketplace",
+        "name": "White Barn Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9639382,
+          39.0836226
+        ]
+      },
+      "id": "node/2683115064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2684430928",
+        "name": "Shop 'n Save",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.871093,
+          38.9321691
+        ]
+      },
+      "id": "node/2684430928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2687106820",
+        "name": "Piggly Wiggly",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0919695,
+          38.2810442
+        ]
+      },
+      "id": "node/2687106820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2687645527",
+        "name": "One Stop Shopping",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9999707,
+          37.8485325
+        ]
+      },
+      "id": "node/2687645527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2687661943",
+        "brand": "Sheetz",
+        "brand:wikidata": "Q7492551",
+        "brand:wikipedia": "en:Sheetz",
+        "name": "Sheetz",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2768911,
+          39.3002145
+        ]
+      },
+      "id": "node/2687661943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2687685214",
+        "brand": "GoMart",
+        "brand:wikidata": "Q5574575",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2756854,
+          39.3040997
+        ]
+      },
+      "id": "node/2687685214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2689272983",
+        "addr:city": "Bridgeport",
+        "addr:housenumber": "635",
+        "addr:postcode": "26330",
+        "addr:state": "WV",
+        "addr:street": "West Main Street",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9028",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2610874,
+          39.2808357
+        ]
+      },
+      "id": "node/2689272983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2690672522",
+        "brand": "Food Lion",
+        "brand:wikidata": "Q1435950",
+        "brand:wikipedia": "en:Food Lion",
+        "name": "Food Lion",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1755747,
+          39.4747487
+        ]
+      },
+      "id": "node/2690672522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2692125470",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1380833,
+          39.4814782
+        ]
+      },
+      "id": "node/2692125470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2692141896",
+        "name": "Shop 'n Save",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1206167,
+          39.4778863
+        ]
+      },
+      "id": "node/2692141896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3256721953",
+        "addr:city": "Beaver",
+        "addr:housenumber": "203",
+        "addr:postcode": "25813",
+        "addr:state": "WV",
+        "addr:street": "Airport Road",
+        "name": "GoMart",
+        "phone": "+1-304-253-7148",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1345704,
+          37.7501525
+        ]
+      },
+      "id": "node/3256721953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3264244537",
+        "addr:city": "Beaver",
+        "addr:housenumber": "810",
+        "addr:postcode": "25813",
+        "addr:state": "WV",
+        "addr:street": "Ritter Highway",
+        "brand": "Sheetz",
+        "brand:wikidata": "Q7492551",
+        "brand:wikipedia": "en:Sheetz",
+        "name": "Sheetz",
+        "note": "Chain offering fuel & familiar convenience goods, including packaged snacks, drinks & takeaway fare.",
+        "opening_hours": "24/7",
+        "phone": "+1-304-250-6036",
+        "shop": "convenience",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.137655,
+          37.7487626
+        ]
+      },
+      "id": "node/3264244537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3264244547",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.139222,
+          37.7494396
+        ]
+      },
+      "id": "node/3264244547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3419915100",
+        "name": "Middle East Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6349648,
+          38.3520652
+        ]
+      },
+      "id": "node/3419915100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3419956986",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1616204,
+          37.7733172
+        ]
+      },
+      "id": "node/3419956986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3421847738",
+        "amenity": "marketplace",
+        "name": "Festival Fridays - Seasonal Entertainment and Open Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2279792,
+          38.992806
+        ]
+      },
+      "id": "node/3421847738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3425880814",
+        "brand": "IGA",
+        "brand:wikidata": "Q3146662",
+        "name": "IGA",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3390044,
+          38.8407986
+        ]
+      },
+      "id": "node/3425880814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3431090476",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6271092,
+          38.360472
+        ]
+      },
+      "id": "node/3431090476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3431090478",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6209971,
+          38.3619133
+        ]
+      },
+      "id": "node/3431090478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3431924435",
+        "name": "Village Hardware",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2878571,
+          38.8960128
+        ]
+      },
+      "id": "node/3431924435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3551078351",
+        "addr:city": "Madison",
+        "addr:housenumber": "3265",
+        "addr:postcode": "25130",
+        "addr:state": "WV",
+        "addr:street": "Smoot Avenue",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "opening_hours": "Su-Sa 06:00-24:00",
+        "phone": "+1-304-369-1935",
+        "shop": "supermarket",
+        "source": "https://www.kroger.com/storeHours?store=02900817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8216944,
+          38.0746243
+        ]
+      },
+      "id": "node/3551078351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3556433389",
+        "name": "Midway",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5261805,
+          38.9199973
+        ]
+      },
+      "id": "node/3556433389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3556900697",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9321045,
+          38.4587183
+        ]
+      },
+      "id": "node/3556900697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3556900714",
+        "brand": "Sheetz",
+        "brand:wikidata": "Q7492551",
+        "brand:wikipedia": "en:Sheetz",
+        "name": "Sheetz",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0160426,
+          38.4364087
+        ]
+      },
+      "id": "node/3556900714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3564160819",
+        "amenity": "fuel",
+        "name": "Macksville Mart Gas",
+        "operator": "Macksville Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3900562,
+          38.8168573
+        ]
+      },
+      "id": "node/3564160819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3564160820",
+        "name": "Macksville Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.390166,
+          38.8169835
+        ]
+      },
+      "id": "node/3564160820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3706626981",
+        "addr:city": "Romney",
+        "addr:housenumber": "24890",
+        "addr:postcode": "26757",
+        "addr:state": "WV",
+        "addr:street": "Northwestern Pike",
+        "name": "County Pride Foods",
+        "phone": "+1 304 822-4516",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.74458,
+          39.3350579
+        ]
+      },
+      "id": "node/3706626981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3706636964",
+        "addr:city": "Romney",
+        "addr:housenumber": "22240",
+        "addr:postcode": "26757",
+        "addr:state": "WV",
+        "addr:street": "Northwestern Pike - Hampshire Square Shopping Center",
+        "brand": "Food Lion",
+        "brand:wikidata": "Q1435950",
+        "brand:wikipedia": "en:Food Lion",
+        "name": "Food Lion",
+        "opening_hours": "07:00-23:00",
+        "phone": "+1 304 822 3641",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7031379,
+          39.3303785
+        ]
+      },
+      "id": "node/3706636964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3730051851",
+        "name": "Great Valu",
+        "shop": "supermarket",
+        "source": "Personal Experience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3289895,
+          38.6516721
+        ]
+      },
+      "id": "node/3730051851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3750982521",
+        "name": "Country Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2619028,
+          38.8037143
+        ]
+      },
+      "id": "node/3750982521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3766036917",
+        "brand": "Sheetz",
+        "brand:wikidata": "Q7492551",
+        "brand:wikipedia": "en:Sheetz",
+        "name": "Sheetz",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9667109,
+          39.0720492
+        ]
+      },
+      "id": "node/3766036917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3766181134",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3906973,
+          39.1026428
+        ]
+      },
+      "id": "node/3766181134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785014818",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934389,
+          41.8873381
+        ]
+      },
+      "id": "node/3785014818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3789193599",
+        "name": "Macfarlan General Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1987259,
+          39.0778524
+        ]
+      },
+      "id": "node/3789193599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3800996239",
+        "name": "Little General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4490846,
+          39.0371271
+        ]
+      },
+      "id": "node/3800996239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3810481775",
+        "amenity_1": "convenience_store",
+        "brand": "Exxon",
+        "name": "One Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6626023,
+          38.364437
+        ]
+      },
+      "id": "node/3810481775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3823590385",
+        "brand": "Clark's Pump-N-Shop",
+        "brand:wikidata": "Q65118218",
+        "name": "Clark's Pump-N-Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5641214,
+          38.3054605
+        ]
+      },
+      "id": "node/3823590385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3848362940",
+        "brand": "GoMart",
+        "brand:wikidata": "Q5574575",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7372997,
+          38.3599001
+        ]
+      },
+      "id": "node/3848362940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3848379009",
+        "brand": "GoMart",
+        "brand:wikidata": "Q5574575",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7669723,
+          38.385001
+        ]
+      },
+      "id": "node/3848379009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3943008341",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.648065,
+          38.6666419
+        ]
+      },
+      "id": "node/3943008341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3996502925",
+        "brand": "Sheetz",
+        "brand:wikidata": "Q7492551",
+        "brand:wikipedia": "en:Sheetz",
+        "name": "Sheetz",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9557196,
+          39.6393788
+        ]
+      },
+      "id": "node/3996502925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4005066085",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6896997,
+          39.4715839
+        ]
+      },
+      "id": "node/4005066085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4005066087",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6912584,
+          39.4718577
+        ]
+      },
+      "id": "node/4005066087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4008434447",
+        "amenity": "marketplace",
+        "name": "Capitol Flea Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5676816,
+          38.3774244
+        ]
+      },
+      "id": "node/4008434447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4008436212",
+        "name": "Smith's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5398686,
+          38.4066682
+        ]
+      },
+      "id": "node/4008436212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4008671670",
+        "addr:city": "Bruceton Mills",
+        "addr:housenumber": "44",
+        "addr:postcode": "26525",
+        "addr:state": "WV",
+        "addr:street": "Fuel Drive",
+        "name": "Little Sandy's Truck Stop",
+        "phone": "+1-304-379-7200",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.638467,
+          39.6569968
+        ]
+      },
+      "id": "node/4008671670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4017496681",
+        "name": "Shop 'n Save",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4617828,
+          39.1288459
+        ]
+      },
+      "id": "node/4017496681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4018777414",
+        "addr:city": "Quincy",
+        "addr:country": "US",
+        "addr:housenumber": "1001",
+        "addr:postcode": "25015",
+        "addr:state": "WV",
+        "addr:street": "Warrior Way",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-304-220-3001",
+        "ref:walmart": "4278",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/4278/quincy-wv/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5058407,
+          38.2021649
+        ]
+      },
+      "id": "node/4018777414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4020803429",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2264397,
+          39.629808
+        ]
+      },
+      "id": "node/4020803429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4022952366",
+        "addr:city": "Sutton",
+        "addr:postcode": "26601",
+        "addr:state": "WV",
+        "addr:street": "Sutton Lane",
+        "amenity": "fuel",
+        "name": "Little General",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.663963,
+          38.7007522
+        ]
+      },
+      "id": "node/4022952366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4024375817",
+        "addr:city": "Martinsburg",
+        "addr:country": "US",
+        "addr:housenumber": "5680",
+        "addr:postcode": "25404",
+        "addr:state": "WV",
+        "addr:street": "Hammonds Mill Road",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-304-274-5176",
+        "ref:walmart": "4423",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/4423/martinsburg-wv/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.910249,
+          39.542837
+        ]
+      },
+      "id": "node/4024375817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4024408033",
+        "name": "ShopNSave",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0372659,
+          39.1442417
+        ]
+      },
+      "id": "node/4024408033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4024408080",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0373177,
+          39.1512147
+        ]
+      },
+      "id": "node/4024408080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4032006624",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4987219,
+          39.1421678
+        ]
+      },
+      "id": "node/4032006624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4034030279",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "brand:wikipedia": "en:Save-A-Lot",
+        "name": "Save-A-Lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8643781,
+          39.2847326
+        ]
+      },
+      "id": "node/4034030279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4041145596",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2515341,
+          37.7163694
+        ]
+      },
+      "id": "node/4041145596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046878813",
+        "branch": "Food Market",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8164159,
+          39.3025914
+        ]
+      },
+      "id": "node/4046878813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046878820",
+        "amenity": "marketplace",
+        "name": "Indoor Flea Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8063571,
+          39.3084804
+        ]
+      },
+      "id": "node/4046878820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4048363944",
+        "addr:city": "Martinsburg",
+        "addr:housenumber": "1317",
+        "addr:postcode": "25404",
+        "addr:state": "WV",
+        "addr:street": "Old Courthouse Square",
+        "name": "Shop 'n Save",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9565465,
+          39.4777622
+        ]
+      },
+      "id": "node/4048363944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4066793209",
+        "name": "Yokum's Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3765498,
+          38.8340966
+        ]
+      },
+      "id": "node/4066793209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4103884936",
+        "addr:city": "Sutton",
+        "addr:housenumber": "33",
+        "addr:postcode": "26624",
+        "addr:state": "WV",
+        "addr:street": "Skidmore Lane",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "name": "Bulk Foods",
+        "shop": "grocery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6665566,
+          38.7041148
+        ]
+      },
+      "id": "node/4103884936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4105123140",
+        "amenity": "fuel",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6586252,
+          38.8576041
+        ]
+      },
+      "id": "node/4105123140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4109301529",
+        "addr:city": "Keyser",
+        "addr:country": "US",
+        "addr:postcode": "26726",
+        "addr:state": "WV",
+        "addr:street": "R.R. #4 Box 82",
+        "fixme": "Missing addr:* tags",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-304-788-8160",
+        "ref:walmart": "2474",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/2474/keyser-wv/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0114629,
+          39.4013763
+        ]
+      },
+      "id": "node/4109301529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4218380690",
+        "addr:street": "Deepwater Mountain Road",
+        "name": "Ed's Country Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2410572,
+          38.0191023
+        ]
+      },
+      "id": "node/4218380690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4392919801",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5921466,
+          38.3269285
+        ]
+      },
+      "id": "node/4392919801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4567636854",
+        "name": "Grants Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1468435,
+          37.974887
+        ]
+      },
+      "id": "node/4567636854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4568829349",
+        "name": "Spanky's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9193957,
+          38.7760123
+        ]
+      },
+      "id": "node/4568829349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4693381505",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7549029,
+          38.4985573
+        ]
+      },
+      "id": "node/4693381505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4693381610",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0433128,
+          38.5927459
+        ]
+      },
+      "id": "node/4693381610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4694779021",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1190633,
+          39.4695993
+        ]
+      },
+      "id": "node/4694779021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4694779025",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1200539,
+          39.4705204
+        ]
+      },
+      "id": "node/4694779025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4711157827",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1289799,
+          38.031373
+        ]
+      },
+      "id": "node/4711157827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4711158071",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6177574,
+          38.1342694
+        ]
+      },
+      "id": "node/4711158071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729774361",
+        "addr:city": "Gilbert",
+        "addr:housenumber": "Route",
+        "addr:postcode": "25621",
+        "addr:state": "WV",
+        "addr:street": "US 52",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "opening_hours": "24/7",
+        "phone": "+1 304 664 3677",
+        "ref": "9220",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8737502,
+          37.6119112
+        ]
+      },
+      "id": "node/4729774361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729775329",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7974751,
+          39.5342514
+        ]
+      },
+      "id": "node/4729775329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4731473131",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5400955,
+          38.233916
+        ]
+      },
+      "id": "node/4731473131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754133547",
+        "addr:city": "Weirton",
+        "addr:housenumber": "100",
+        "addr:postcode": "26062",
+        "addr:state": "WV",
+        "addr:street": "St. Thomas Drive",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "phone": "+1-304-723-5165",
+        "shop": "supermarket",
+        "website": "https://www.kroger.com/stores/details/016/00803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5539847,
+          40.3967435
+        ]
+      },
+      "id": "node/4754133547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4922398198",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.328091,
+          38.1809621
+        ]
+      },
+      "id": "node/4922398198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4922398200",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3212688,
+          38.1811002
+        ]
+      },
+      "id": "node/4922398200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4949377135",
+        "addr:city": "Scott Depot",
+        "addr:housenumber": "100",
+        "addr:postcode": "25560",
+        "addr:state": "WV",
+        "addr:street": "Scott Lane",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9352",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9111532,
+          38.4469562
+        ]
+      },
+      "id": "node/4949377135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4949377140",
+        "addr:city": "Hurricane",
+        "addr:housenumber": "3796",
+        "addr:postcode": "25526",
+        "addr:state": "WV",
+        "addr:street": "Teays Valley Road",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9328",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.95885,
+          38.4472214
+        ]
+      },
+      "id": "node/4949377140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4949377145",
+        "addr:city": "Hurricane",
+        "addr:housenumber": "3805",
+        "addr:postcode": "25526",
+        "addr:state": "WV",
+        "addr:street": "Teays Valley Road",
+        "brand": "Sheetz",
+        "brand:wikidata": "Q7492551",
+        "brand:wikipedia": "en:Sheetz",
+        "name": "Sheetz",
+        "ref": "467",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9580808,
+          38.4464723
+        ]
+      },
+      "id": "node/4949377145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5046853522",
+        "addr:city": "Wheeling",
+        "addr:housenumber": "200",
+        "addr:postcode": "26003",
+        "addr:state": "WV",
+        "addr:street": "Mount DeChantal Road",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "opening_hours": "Mo-Su 06:00-13:00",
+        "phone": "+1-304-233-5480",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6995616,
+          40.0738422
+        ]
+      },
+      "id": "node/5046853522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5150058685",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0149744,
+          39.3840541
+        ]
+      },
+      "id": "node/5150058685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5278908415",
+        "addr:city": "Martinsburg",
+        "addr:housenumber": "149",
+        "addr:postcode": "25401",
+        "addr:state": "WV",
+        "addr:street": "North Queen Street",
+        "name": "Lupitas Grocery Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9631135,
+          39.4584397
+        ]
+      },
+      "id": "node/5278908415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5279375763",
+        "addr:city": "Martinsburg",
+        "addr:housenumber": "246",
+        "addr:state": "WV",
+        "addr:street": "North Queen Street",
+        "name": "A & M Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9630889,
+          39.4597636
+        ]
+      },
+      "id": "node/5279375763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5283952822",
+        "addr:city": "Martinsburg",
+        "addr:housenumber": "1501",
+        "addr:postcode": "25401",
+        "addr:state": "WV",
+        "addr:street": "New York Avenue",
+        "name": "H-Mart Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.978615,
+          39.4415238
+        ]
+      },
+      "id": "node/5283952822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5284422065",
+        "name": "Foodland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5534667,
+          39.3216922
+        ]
+      },
+      "id": "node/5284422065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5292926005",
+        "addr:city": "Martinsburg",
+        "addr:housenumber": "33",
+        "addr:postcode": "25404",
+        "addr:state": "WV",
+        "addr:street": "Meadow Lane",
+        "name": "B Natural Foods",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9515423,
+          39.4780558
+        ]
+      },
+      "id": "node/5292926005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315600763",
+        "addr:city": "Weirton",
+        "addr:country": "US",
+        "addr:housenumber": "400",
+        "addr:postcode": "26062",
+        "addr:state": "WV",
+        "addr:street": "Three Springs Drive",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-304-723-3445",
+        "ref:walmart": "1948",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1948/weirton-wv/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.549497,
+          40.390234
+        ]
+      },
+      "id": "node/5315600763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5398625026",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "brand:wikipedia": "en:Save-A-Lot",
+        "name": "Save-A-Lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9049434,
+          38.4483006
+        ]
+      },
+      "id": "node/5398625026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5411462509",
+        "addr:city": "Levels",
+        "addr:postcode": "25431",
+        "addr:state": "WV",
+        "name": "Levels Family Store and Post Office",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5529869,
+          39.4842711
+        ]
+      },
+      "id": "node/5411462509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5432467252",
+        "addr:city": "Eleanor",
+        "addr:housenumber": "101",
+        "addr:postcode": "25070",
+        "addr:state": "WV",
+        "addr:street": "Roosevelt Boulevard",
+        "brand": "Piggly Wiggly",
+        "brand:wikidata": "Q3388303",
+        "brand:wikipedia": "en:Piggly Wiggly",
+        "name": "Piggly Wiggly",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 08:00-22:00",
+        "phone": "+1-304-586-2582",
+        "shop": "supermarket",
+        "source": "local knowledge;website",
+        "website": "http://www.pigglywigglystores.com/Stores/Eleanor.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9199045,
+          38.53187
+        ]
+      },
+      "id": "node/5432467252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5443909573",
+        "name": "Poca Food Fair",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8140081,
+          38.475162
+        ]
+      },
+      "id": "node/5443909573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5570189418",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3219558,
+          38.1068072
+        ]
+      },
+      "id": "node/5570189418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5588876857",
+        "addr:city": "Martinsburg",
+        "addr:housenumber": "105",
+        "addr:postcode": "25401",
+        "addr:state": "WV",
+        "addr:street": "North Queen Street",
+        "name": "Olde Berkeley News",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9633847,
+          39.4576498
+        ]
+      },
+      "id": "node/5588876857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5605861960",
+        "addr:city": "Star City",
+        "addr:housenumber": "3519",
+        "addr:postcode": "26505",
+        "addr:state": "WV",
+        "addr:street": "Monongahela Boulevard",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo-Sa 09:00-21:00, Su 09:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9907976,
+          39.6559344
+        ]
+      },
+      "id": "node/5605861960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5608451416",
+        "name": "BFS",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9645919,
+          39.6499524
+        ]
+      },
+      "id": "node/5608451416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5627540676",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.744866,
+          38.6576339
+        ]
+      },
+      "id": "node/5627540676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5628088798",
+        "addr:city": "Martinsburg",
+        "addr:housenumber": "529-531",
+        "addr:interpolation": "odd",
+        "addr:postcode": "25401",
+        "addr:state": "WV",
+        "addr:street": "Winchester Avenue",
+        "name": "El Mercadito Diario",
+        "origin": "mexican",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9751448,
+          39.4537801
+        ]
+      },
+      "id": "node/5628088798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5662016185",
+        "name": "H-Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8049003,
+          39.4285466
+        ]
+      },
+      "id": "node/5662016185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5711720554",
+        "addr:city": "Martinsburg",
+        "addr:housenumber": "135",
+        "addr:postcode": "25401",
+        "addr:state": "WV",
+        "addr:street": "West King Street",
+        "level": "1",
+        "name": "Saiboi International Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9650449,
+          39.456348
+        ]
+      },
+      "id": "node/5711720554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5842387741",
+        "diet:vegan": "yes",
+        "name": "Healthy Life",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2595612,
+          38.4196532
+        ]
+      },
+      "id": "node/5842387741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5922299221",
+        "addr:city": "Belva",
+        "addr:housenumber": "22637",
+        "addr:postcode": "26656",
+        "addr:state": "WV",
+        "addr:street": "Turnpike Road",
+        "amenity": "restaurant",
+        "name": "Beech Glen Market & Diner",
+        "opening_hours": "Mo-Sa 05:00-21:00; Su 07:00-20:00",
+        "payment:cash": "yes",
+        "payment:cheque": "yes",
+        "payment:discover_card": "yes",
+        "payment:visa": "yes",
+        "phone": "+1-304-632-0200",
+        "shop": "convenience",
+        "start_date": "2010",
+        "website": "https://www.beechglenmarketanddiner.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.15472,
+          38.2273239
+        ]
+      },
+      "id": "node/5922299221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5939929393",
+        "entrance": "yes",
+        "name": "Wholi Moli",
+        "opening_hours": "Mo-Sa 10:00-19:00; Su 12:00-18:00",
+        "shop": "health_food",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2871606,
+          38.4211423
+        ]
+      },
+      "id": "node/5939929393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5947371862",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "brand:wikipedia": "en:Save-A-Lot",
+        "name": "Save-A-Lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.47886,
+          38.4075339
+        ]
+      },
+      "id": "node/5947371862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6008075411",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1156277,
+          37.6158609
+        ]
+      },
+      "id": "node/6008075411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6008075413",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1141968,
+          37.6168208
+        ]
+      },
+      "id": "node/6008075413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6008110720",
+        "name": "Little General",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1064029,
+          37.7286983
+        ]
+      },
+      "id": "node/6008110720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6008110721",
+        "name": "Shop Rite",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0980259,
+          37.7049006
+        ]
+      },
+      "id": "node/6008110721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6008110722",
+        "name": "Quick Check",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0952169,
+          37.6577234
+        ]
+      },
+      "id": "node/6008110722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6008110724",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.112111,
+          37.7294039
+        ]
+      },
+      "id": "node/6008110724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6008182321",
+        "name": "Sheetz",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1239689,
+          38.0314833
+        ]
+      },
+      "id": "node/6008182321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6008664085",
+        "name": "Econo Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1142997,
+          39.4837592
+        ]
+      },
+      "id": "node/6008664085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6008664086",
+        "name": "Westside Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1512661,
+          39.4842828
+        ]
+      },
+      "id": "node/6008664086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6008674499",
+        "name": "Black Bear Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1762043,
+          39.4714525
+        ]
+      },
+      "id": "node/6008674499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6008674503",
+        "name": "N & Out Quick Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1740178,
+          39.4728188
+        ]
+      },
+      "id": "node/6008674503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6008676346",
+        "name": "East Park Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13327,
+          39.4833482
+        ]
+      },
+      "id": "node/6008676346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6010048425",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1670485,
+          39.4426449
+        ]
+      },
+      "id": "node/6010048425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6010048427",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1698599,
+          39.4431649
+        ]
+      },
+      "id": "node/6010048427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6010117993",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1514397,
+          39.4765833
+        ]
+      },
+      "id": "node/6010117993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6010117999",
+        "name": "Price Cutter",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1552204,
+          39.4685534
+        ]
+      },
+      "id": "node/6010117999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6093776361",
+        "name": "ROCS Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2384758,
+          39.6040565
+        ]
+      },
+      "id": "node/6093776361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6093978351",
+        "amenity": "marketplace",
+        "name": "Cacapon Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2897763,
+          39.5053296
+        ]
+      },
+      "id": "node/6093978351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6188683727",
+        "diet:vegan": "yes",
+        "name": "Tulsi",
+        "organic": "yes",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4453899,
+          38.4213194
+        ]
+      },
+      "id": "node/6188683727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6216596451",
+        "name": "Food Fair",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5642935,
+          38.3950135
+        ]
+      },
+      "id": "node/6216596451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6245511459",
+        "amenity": "marketplace",
+        "name": "Milton Flea Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1150482,
+          38.4319257
+        ]
+      },
+      "id": "node/6245511459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6247668015",
+        "name": "Healthy Life Market",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6673991,
+          38.3671686
+        ]
+      },
+      "id": "node/6247668015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6422124216",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5588224,
+          38.7940407
+        ]
+      },
+      "id": "node/6422124216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6504390885",
+        "amenity": "marketplace",
+        "name": "Pullman Square Farmers Market",
+        "opening_hours": "May-Oct We,Sa 07:00-14:00",
+        "shop": "farm",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4434032,
+          38.4222082
+        ]
+      },
+      "id": "node/6504390885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6538581275",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "brand:wikipedia": "en:Save-A-Lot",
+        "name": "Save-A-Lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3659577,
+          38.4108033
+        ]
+      },
+      "id": "node/6538581275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6605646117",
+        "name": "Bells Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6708706,
+          39.3470483
+        ]
+      },
+      "id": "node/6605646117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6634126930",
+        "amenity": "fuel",
+        "brand": "Exxon",
+        "fuel:diesel": "yes",
+        "fuel:octane_87": "yes",
+        "name": "Pliny Quick Stop",
+        "payment:cash": "yes",
+        "payment:coins": "no",
+        "payment:cryptocurrencies": "no",
+        "payment:electronic_purses": "no",
+        "payment:notes": "no",
+        "shop": "convenience",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9911559,
+          38.6166504
+        ]
+      },
+      "id": "node/6634126930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6700940491",
+        "brand": "Marathon",
+        "brand:wikidata": "Q458363",
+        "brand:wikipedia": "en:Marathon Petroleum",
+        "name": "Marathon",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0968377,
+          38.2253191
+        ]
+      },
+      "id": "node/6700940491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6766887940",
+        "name": "Travel Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3828885,
+          38.1019783
+        ]
+      },
+      "id": "node/6766887940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6780305012",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4350093,
+          37.8079679
+        ]
+      },
+      "id": "node/6780305012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6780305408",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4188919,
+          37.8286647
+        ]
+      },
+      "id": "node/6780305408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6832175610",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "brand:wikipedia": "en:Chevron Corporation",
+        "name": "Chevron",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8328305,
+          38.30569
+        ]
+      },
+      "id": "node/6832175610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6954110257",
+        "brand": "Food Lion",
+        "brand:wikidata": "Q1435950",
+        "brand:wikipedia": "en:Food Lion",
+        "name": "Food Lion",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9767349,
+          39.051686
+        ]
+      },
+      "id": "node/6954110257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6954110713",
+        "addr:city": "Moorefield",
+        "addr:country": "US",
+        "addr:housenumber": "11",
+        "addr:postcode": "26836",
+        "addr:state": "WV",
+        "addr:street": "Harness Road",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "Mo-Su 06:00-01:00",
+        "operator": "Walmart",
+        "phone": "+1-304-538-3490",
+        "ref:walmart": "2696",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/2696/moorefield-wv/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9592003,
+          39.0849294
+        ]
+      },
+      "id": "node/6954110713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6957293062",
+        "name": "Blackwater Plaza",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.473701,
+          39.1288924
+        ]
+      },
+      "id": "node/6957293062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7090791286",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5765829,
+          38.3923293
+        ]
+      },
+      "id": "node/7090791286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7090842027",
+        "name": "Little General",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3202927,
+          38.4034179
+        ]
+      },
+      "id": "node/7090842027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7090842032",
+        "name": "Food Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3051957,
+          38.4181677
+        ]
+      },
+      "id": "node/7090842032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7090842036",
+        "name": "S&J Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2839111,
+          38.3837885
+        ]
+      },
+      "id": "node/7090842036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7139986365",
+        "name": "One Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5780108,
+          38.319776
+        ]
+      },
+      "id": "node/7139986365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7139986367",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.578507,
+          38.3191468
+        ]
+      },
+      "id": "node/7139986367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7139986370",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5762566,
+          38.3188859
+        ]
+      },
+      "id": "node/7139986370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7516177132",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1973172,
+          37.2571126
+        ]
+      },
+      "id": "node/7516177132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7640641263",
+        "name": "Foodfair",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4534311,
+          38.3374099
+        ]
+      },
+      "id": "node/7640641263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7713577773",
+        "amenity": "marketplace",
+        "name": "Ceredo Farmers Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5647522,
+          38.3960369
+        ]
+      },
+      "id": "node/7713577773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7770919750",
+        "name": "Blankenship's Country Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.774461,
+          39.6203162
+        ]
+      },
+      "id": "node/7770919750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7792162134",
+        "brand": "Marathon",
+        "brand:wikidata": "Q458363",
+        "brand:wikipedia": "en:Marathon Petroleum",
+        "name": "Marathon",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6911744,
+          40.0445737
+        ]
+      },
+      "id": "node/7792162134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7792162135",
+        "brand": "Clark's Pump-N-Shop",
+        "brand:wikidata": "Q65118218",
+        "name": "Clark's Pump-N-Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6898295,
+          40.0436895
+        ]
+      },
+      "id": "node/7792162135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7831163735",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7748448,
+          37.966508
+        ]
+      },
+      "id": "node/7831163735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7831163736",
+        "brand": "Dollar General Market",
+        "brand:wikidata": "Q145168",
+        "brand:wikipedia": "en:Dollar General",
+        "name": "Dollar General Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7749578,
+          37.9687617
+        ]
+      },
+      "id": "node/7831163736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7883876631",
+        "addr:state": "WV",
+        "addr:street": "Pennsylvania Avenue",
+        "name": "Olin's Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5723608,
+          38.3990912
+        ]
+      },
+      "id": "node/7883876631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7949445673",
+        "brand": "Price Cutter",
+        "name": "Price Cutter",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3597814,
+          39.2925194
+        ]
+      },
+      "id": "node/7949445673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7965302076",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2847833,
+          37.8023843
+        ]
+      },
+      "id": "node/7965302076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7965302077",
+        "brand": "Food Lion",
+        "brand:wikidata": "Q1435950",
+        "brand:wikipedia": "en:Food Lion",
+        "name": "Food Lion",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2842531,
+          37.8033684
+        ]
+      },
+      "id": "node/7965302077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8060809821",
+        "brand": "Kroger",
+        "brand:wikidata": "Q153417",
+        "brand:wikipedia": "en:Kroger",
+        "name": "Kroger",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6775433,
+          38.3400659
+        ]
+      },
+      "id": "node/8060809821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8092983480",
+        "addr:city": "Weston",
+        "addr:housenumber": "402 B",
+        "addr:postcode": "26452",
+        "addr:state": "WV",
+        "addr:street": "Medical Dr",
+        "name": "Weston Shop N Save Express",
+        "phone": "+1-304-269-5830",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.468666,
+          39.040964
+        ]
+      },
+      "id": "node/8092983480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8214660962",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6338598,
+          38.4117733
+        ]
+      },
+      "id": "node/8214660962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8218174146",
+        "brand": "Sheetz",
+        "brand:wikidata": "Q7492551",
+        "brand:wikipedia": "en:Sheetz",
+        "name": "Sheetz",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7994505,
+          38.4128981
+        ]
+      },
+      "id": "node/8218174146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8218174147",
+        "brand": "Sheetz",
+        "brand:wikidata": "Q7492551",
+        "brand:wikipedia": "en:Sheetz",
+        "name": "Sheetz",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7992879,
+          38.4126334
+        ]
+      },
+      "id": "node/8218174147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8548272072",
+        "addr:city": "Point Pleasant",
+        "addr:housenumber": "2501",
+        "addr:postcode": "25550",
+        "addr:state": "WV",
+        "addr:street": "Jackson Avenue",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Fruth Pharmacy",
+        "ref": "1",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1261717,
+          38.8687883
+        ]
+      },
+      "id": "node/8548272072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8579533643",
+        "name": "Little General",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.834595,
+          38.0809261
+        ]
+      },
+      "id": "node/8579533643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8579541403",
+        "name": "Save a Lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8319383,
+          38.07713
+        ]
+      },
+      "id": "node/8579541403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8677899867",
+        "name": "Rich",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6613907,
+          38.4026583
+        ]
+      },
+      "id": "node/8677899867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8686412163",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3584694,
+          38.5106748
+        ]
+      },
+      "id": "node/8686412163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8686431221",
+        "brand": "FoodLand",
+        "brand:wikidata": "Q5465271",
+        "brand:wikipedia": "en:FoodLand",
+        "name": "FoodLand",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4860183,
+          38.4399103
+        ]
+      },
+      "id": "node/8686431221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8686615495",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5388343,
+          38.4059289
+        ]
+      },
+      "id": "node/8686615495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8686615497",
+        "name": "Smith's Foodfair",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5397903,
+          38.4063997
+        ]
+      },
+      "id": "node/8686615497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8812525404",
+        "addr:city": "Mount Hope",
+        "addr:housenumber": "5481",
+        "addr:postcode": "25880",
+        "addr:state": "WV",
+        "addr:street": "Robert C Byrd Drive",
+        "brand": "Sheetz",
+        "brand:wikidata": "Q7492551",
+        "brand:wikipedia": "en:Sheetz",
+        "name": "Sheetz",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1960929,
+          37.8471022
+        ]
+      },
+      "id": "node/8812525404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8812525406",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.190643,
+          37.8740309
+        ]
+      },
+      "id": "node/8812525406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8850569588",
+        "addr:housenumber": "6308",
+        "addr:postcode": "26142",
+        "addr:street": "Staunton-Parkersburg Turnpike",
+        "name": "Family Dollar",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+1 304-699-0772",
+        "shop": "convenience",
+        "website": "https://www.familydollar.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4621277,
+          39.1994238
+        ]
+      },
+      "id": "node/8850569588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8855135620",
+        "name": "Kerr's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5866356,
+          39.086497
+        ]
+      },
+      "id": "node/8855135620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8910787435",
+        "amenity": "marketplace",
+        "name": "Cheat Lake Farmers Market",
+        "opening_hours": "Mo, 16:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8540705,
+          39.6753849
+        ]
+      },
+      "id": "node/8910787435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8910793124",
+        "name": "BFS",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8454123,
+          39.680007
+        ]
+      },
+      "id": "node/8910793124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8910797648",
+        "name": "Price Cutter",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8961598,
+          39.650378
+        ]
+      },
+      "id": "node/8910797648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8910823857",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93187,
+          39.6287461
+        ]
+      },
+      "id": "node/8910823857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8988650607",
+        "addr:city": "Vienna",
+        "addr:housenumber": "1400",
+        "addr:postcode": "26105",
+        "addr:state": "WV",
+        "addr:street": "Grand Central Avenue",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "ref": "18",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5526263,
+          39.3135125
+        ]
+      },
+      "id": "node/8988650607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9077861006",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0414836,
+          39.1527583
+        ]
+      },
+      "id": "node/9077861006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9163059689",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5393339,
+          39.2623977
+        ]
+      },
+      "id": "node/9163059689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9163756753",
+        "name": "Little General",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1041046,
+          38.0568789
+        ]
+      },
+      "id": "node/9163756753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9174843975",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2478723,
+          39.5928211
+        ]
+      },
+      "id": "node/9174843975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9174844039",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2222284,
+          39.7185896
+        ]
+      },
+      "id": "node/9174844039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175145732",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0841791,
+          38.4762529
+        ]
+      },
+      "id": "node/9175145732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9219487475",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0460292,
+          39.3632778
+        ]
+      },
+      "id": "node/9219487475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9242189429",
+        "addr:city": "New Martinsville",
+        "addr:housenumber": "132",
+        "addr:postcode": "26155",
+        "addr:state": "WV",
+        "addr:street": "North State Route 2",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9170",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8584629,
+          39.6639696
+        ]
+      },
+      "id": "node/9242189429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244464370",
+        "addr:city": "Clarksburg",
+        "addr:housenumber": "1612",
+        "addr:postcode": "26301",
+        "addr:state": "WV",
+        "addr:street": "Buckhannon Pike",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9780",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3199545,
+          39.2557854
+        ]
+      },
+      "id": "node/9244464370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244556326",
+        "addr:city": "Elkins",
+        "addr:housenumber": "1205",
+        "addr:postcode": "26241",
+        "addr:state": "WV",
+        "addr:street": "Harrison Avenue",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9177",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8620825,
+          38.9307087
+        ]
+      },
+      "id": "node/9244556326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244575408",
+        "addr:city": "Buckhannon",
+        "addr:housenumber": "1",
+        "addr:postcode": "26201",
+        "addr:state": "WV",
+        "addr:street": "Green Street",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9218",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2306436,
+          38.9918446
+        ]
+      },
+      "id": "node/9244575408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244773294",
+        "addr:city": "Parkersburg",
+        "addr:housenumber": "4408",
+        "addr:postcode": "26104",
+        "addr:state": "WV",
+        "addr:street": "Emerson Avenue",
+        "name": "Rebel",
+        "ref": "922",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5249318,
+          39.2921407
+        ]
+      },
+      "id": "node/9244773294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244803154",
+        "addr:city": "Vienna",
+        "addr:housenumber": "1606",
+        "addr:postcode": "26105",
+        "addr:state": "WV",
+        "addr:street": "Grand Central Avenue",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9257",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5532634,
+          39.3164542
+        ]
+      },
+      "id": "node/9244803154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244803700",
+        "addr:city": "Point Pleasant",
+        "addr:housenumber": "2725",
+        "addr:postcode": "25550",
+        "addr:state": "WV",
+        "addr:street": "Jackson Avenue",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9163",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1253246,
+          38.8737621
+        ]
+      },
+      "id": "node/9244803700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244826250",
+        "addr:city": "Parkersburg",
+        "addr:housenumber": "417",
+        "addr:postcode": "26101",
+        "addr:state": "WV",
+        "addr:street": "Division Street",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9381",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5532677,
+          39.2555101
+        ]
+      },
+      "id": "node/9244826250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244829535",
+        "addr:city": "Parkersburg",
+        "addr:housenumber": "3211",
+        "addr:postcode": "26101",
+        "addr:state": "WV",
+        "addr:street": "Murdoch Avenue",
+        "name": "Rebel",
+        "ref": "919",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5462194,
+          39.2905564
+        ]
+      },
+      "id": "node/9244829535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244843190",
+        "addr:city": "Parkersburg",
+        "addr:housenumber": "1400",
+        "addr:postcode": "26101",
+        "addr:state": "WV",
+        "addr:street": "7th Street",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9253",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5383762,
+          39.2640972
+        ]
+      },
+      "id": "node/9244843190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244862784",
+        "addr:city": "Parkersburg",
+        "addr:housenumber": "2850",
+        "addr:postcode": "26101",
+        "addr:state": "WV",
+        "addr:street": "Pike Street",
+        "name": "GoMart",
+        "ref": "122",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5465114,
+          39.2185344
+        ]
+      },
+      "id": "node/9244862784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244879178",
+        "addr:city": "Ravenswood",
+        "addr:housenumber": "423",
+        "addr:postcode": "26164",
+        "addr:state": "WV",
+        "addr:street": "Washington Street",
+        "name": "Ravenswood Foodfair",
+        "opening_hours": "08:00-21:00",
+        "phone": "+1 304 273 9404",
+        "shop": "convenience",
+        "website": "https://www.foodfairmarkets.com/stores/ravenswood-foodfair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7618937,
+          38.9524484
+        ]
+      },
+      "id": "node/9244879178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244879192",
+        "addr:city": "Ravenswood",
+        "addr:housenumber": "254",
+        "addr:postcode": "26164",
+        "addr:state": "WV",
+        "addr:street": "Washington Street",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9035",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7619437,
+          38.9491026
+        ]
+      },
+      "id": "node/9244879192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244904225",
+        "addr:city": "Ceredo",
+        "addr:housenumber": "101",
+        "addr:postcode": "25507",
+        "addr:state": "WV",
+        "addr:street": "C Street",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9771",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5643736,
+          38.396881
+        ]
+      },
+      "id": "node/9244904225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244923664",
+        "addr:city": "Ripley",
+        "addr:housenumber": "3451",
+        "addr:postcode": "25271",
+        "addr:state": "WV",
+        "addr:street": "Charleston Road",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9561",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6923245,
+          38.7617252
+        ]
+      },
+      "id": "node/9244923664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9244948318",
+        "addr:city": "Pineville",
+        "addr:housenumber": "1346",
+        "addr:postcode": "24874",
+        "addr:state": "WV",
+        "addr:street": "Appalachian Highway",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9730",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5326885,
+          37.5994135
+        ]
+      },
+      "id": "node/9244948318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9250406261",
+        "addr:city": "Man",
+        "addr:housenumber": "704",
+        "addr:postcode": "25635",
+        "addr:state": "WV",
+        "addr:street": "Main Street",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9326",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8691912,
+          37.7474223
+        ]
+      },
+      "id": "node/9250406261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9250406267",
+        "addr:city": "Man",
+        "addr:housenumber": "168",
+        "addr:postcode": "25635",
+        "addr:state": "WV",
+        "addr:street": "Huffcreek Highway",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9746",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8694218,
+          37.7294266
+        ]
+      },
+      "id": "node/9250406267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9251292614",
+        "addr:city": "Oceana",
+        "addr:housenumber": "1757",
+        "addr:postcode": "24870",
+        "addr:state": "WV",
+        "addr:street": "Cook Parkway",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "phone": "+1 304 682 8538",
+        "ref": "9037",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6368964,
+          37.698493
+        ]
+      },
+      "id": "node/9251292614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9251394681",
+        "addr:city": "Wilkinson",
+        "addr:postcode": "25653",
+        "addr:state": "WV",
+        "addr:street": "WV 44",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "opening_hours": "24/7",
+        "phone": "+1 304 752 4704",
+        "ref": "9792",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0023179,
+          37.8355235
+        ]
+      },
+      "id": "node/9251394681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9251442374",
+        "addr:city": "Stollings",
+        "addr:housenumber": "38",
+        "addr:postcode": "25601",
+        "addr:state": "WV",
+        "addr:street": "Hanging Rock Highway",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "opening_hours": "24/7",
+        "phone": "+1 304 752 8111",
+        "ref": "9199",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9690298,
+          37.8432844
+        ]
+      },
+      "id": "node/9251442374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9251470742",
+        "addr:city": "Logan",
+        "addr:housenumber": "604",
+        "addr:postcode": "25601",
+        "addr:state": "WV",
+        "addr:street": "Main Avenue",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "opening_hours": "24/7",
+        "phone": "+1 304 752 4477",
+        "ref": "9788",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9889997,
+          37.860949
+        ]
+      },
+      "id": "node/9251470742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9251478686",
+        "addr:city": "Chapmanville",
+        "addr:housenumber": "816",
+        "addr:postcode": "25508",
+        "addr:state": "WV",
+        "addr:street": "Main Street",
+        "name": "Towne 'N Country Foodland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0159929,
+          37.9762924
+        ]
+      },
+      "id": "node/9251478686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9251478695",
+        "addr:city": "Chapmanville",
+        "addr:housenumber": "767",
+        "addr:postcode": "25508",
+        "addr:state": "WV",
+        "addr:street": "Main Street",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "opening_hours": "24/7",
+        "phone": "+1 304 855 7112",
+        "ref": "9368",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0173494,
+          37.9757188
+        ]
+      },
+      "id": "node/9251478695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9251831203",
+        "addr:city": "Charleston",
+        "addr:housenumber": "524",
+        "addr:postcode": "25306",
+        "addr:state": "WV",
+        "addr:street": "Campbells Creek Drive",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9786",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5191178,
+          38.3178547
+        ]
+      },
+      "id": "node/9251831203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9251835229",
+        "addr:city": "West Hamlin",
+        "addr:housenumber": "5",
+        "addr:postcode": "25571",
+        "addr:state": "WV",
+        "addr:street": "Lincoln Plaza",
+        "name": "West Hamlin Foodfair",
+        "ref": "3417",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1985449,
+          38.2717791
+        ]
+      },
+      "id": "node/9251835229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9251835581",
+        "addr:city": "Branchland",
+        "addr:housenumber": "7840",
+        "addr:postcode": "25506",
+        "addr:state": "WV",
+        "addr:street": "State Route 10 North",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9327",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1923055,
+          38.2546965
+        ]
+      },
+      "id": "node/9251835581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9251844515",
+        "addr:city": "Clendenin",
+        "addr:housenumber": "8657",
+        "addr:postcode": "25045",
+        "addr:state": "WV",
+        "addr:street": "Elk River Road North",
+        "name": "Rebel",
+        "ref": "923",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3508344,
+          38.4901353
+        ]
+      },
+      "id": "node/9251844515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9251878445",
+        "addr:city": "Elkview",
+        "addr:housenumber": "300",
+        "addr:postcode": "25071",
+        "addr:state": "WV",
+        "addr:street": "Little Sandy Road",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9289",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4970972,
+          38.4569536
+        ]
+      },
+      "id": "node/9251878445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9251888141",
+        "addr:city": "Charleston",
+        "addr:housenumber": "2",
+        "addr:postcode": "25309",
+        "addr:state": "WV",
+        "addr:street": "Green Road",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9351",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7163163,
+          38.3245799
+        ]
+      },
+      "id": "node/9251888141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9251893462",
+        "addr:city": "Charleston",
+        "addr:housenumber": "400",
+        "addr:postcode": "25303",
+        "addr:state": "WV",
+        "addr:street": "MacCorkle Avenue Southwest",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9222",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.690993,
+          38.3679782
+        ]
+      },
+      "id": "node/9251893462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9254623629",
+        "addr:city": "South Charleston",
+        "addr:housenumber": "4401",
+        "addr:postcode": "25309",
+        "addr:state": "WV",
+        "addr:street": "MacCorkle Avenue",
+        "brand": "Sheetz",
+        "brand:wikidata": "Q7492551",
+        "brand:wikipedia": "en:Sheetz",
+        "name": "Sheetz",
+        "ref": "585",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7237255,
+          38.3561438
+        ]
+      },
+      "id": "node/9254623629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9254623631",
+        "addr:city": "South Charleston",
+        "addr:housenumber": "5701",
+        "addr:postcode": "25309",
+        "addr:state": "WV",
+        "addr:street": "MacCorkle Avenue",
+        "name": "Little General",
+        "ref": "7570",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7501299,
+          38.354799
+        ]
+      },
+      "id": "node/9254623631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9254623644",
+        "addr:city": "South Charleston",
+        "addr:housenumber": "5303",
+        "addr:postcode": "25309",
+        "addr:state": "WV",
+        "addr:street": "MacCorkle Avenue",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "7195",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7408497,
+          38.3532837
+        ]
+      },
+      "id": "node/9254623644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9254624009",
+        "addr:city": "Charleston",
+        "addr:housenumber": "5296",
+        "addr:postcode": "25313",
+        "addr:state": "WV",
+        "addr:street": "Big Tyler Road",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "3960",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7692047,
+          38.4324596
+        ]
+      },
+      "id": "node/9254624009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9254949724",
+        "addr:city": "Charleston",
+        "addr:housenumber": "304",
+        "addr:postcode": "25313",
+        "addr:state": "WV",
+        "addr:street": "Goff Mountain Road",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9278",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7947347,
+          38.4160781
+        ]
+      },
+      "id": "node/9254949724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9255108517",
+        "addr:city": "Nitro",
+        "addr:housenumber": "4001",
+        "addr:postcode": "25143",
+        "addr:state": "WV",
+        "addr:street": "1st Avenue",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9233",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8368915,
+          38.4319933
+        ]
+      },
+      "id": "node/9255108517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9261796713",
+        "addr:city": "Winfield",
+        "addr:housenumber": "3399",
+        "addr:postcode": "25213",
+        "addr:state": "WV",
+        "addr:street": "Winfield Road",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9363",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8971857,
+          38.530769
+        ]
+      },
+      "id": "node/9261796713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9262538514",
+        "addr:city": "Huntington",
+        "addr:housenumber": "2498",
+        "addr:postcode": "25703",
+        "addr:state": "WV",
+        "addr:street": "3rd Avenue",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9766",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4136168,
+          38.4276987
+        ]
+      },
+      "id": "node/9262538514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9262559665",
+        "addr:city": "Huntington",
+        "addr:housenumber": "4359",
+        "addr:postcode": "25705",
+        "addr:state": "WV",
+        "addr:street": "US 60",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9259",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3646827,
+          38.4115909
+        ]
+      },
+      "id": "node/9262559665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9262568501",
+        "addr:city": "Huntington",
+        "addr:housenumber": "1562",
+        "addr:postcode": "25704",
+        "addr:state": "WV",
+        "addr:street": "Madison Avenue",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9765",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.481259,
+          38.4089023
+        ]
+      },
+      "id": "node/9262568501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9262571742",
+        "addr:city": "Huntington",
+        "addr:housenumber": "1531",
+        "addr:postcode": "25701",
+        "addr:state": "WV",
+        "addr:street": "6th Avenue",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9750",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.431329,
+          38.4195742
+        ]
+      },
+      "id": "node/9262571742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9262571983",
+        "addr:city": "Huntington",
+        "addr:housenumber": "5702",
+        "addr:postcode": "25705",
+        "addr:state": "WV",
+        "addr:street": "US 60",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9926",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3251218,
+          38.4114646
+        ]
+      },
+      "id": "node/9262571983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9262573457",
+        "addr:city": "Culloden",
+        "addr:housenumber": "2399",
+        "addr:postcode": "25510",
+        "addr:state": "WV",
+        "addr:street": "US Highway 60",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9384",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0413779,
+          38.4179888
+        ]
+      },
+      "id": "node/9262573457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9262576007",
+        "addr:city": "Huntington",
+        "addr:housenumber": "2801",
+        "addr:postcode": "25702",
+        "addr:state": "WV",
+        "addr:street": "5th Avenue",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9791",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4012536,
+          38.4265017
+        ]
+      },
+      "id": "node/9262576007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9262584452",
+        "addr:city": "Huntington",
+        "addr:housenumber": "2500",
+        "addr:postcode": "25701",
+        "addr:state": "WV",
+        "addr:street": "5th Street Road",
+        "brand": "Speedway",
+        "brand:wikidata": "Q7575683",
+        "brand:wikipedia": "en:Speedway (store)",
+        "name": "Speedway",
+        "ref": "9033",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4572934,
+          38.3822074
+        ]
+      },
+      "id": "node/9262584452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9272996262",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.705201,
+          38.3442439
+        ]
+      },
+      "id": "node/9272996262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9272996338",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.717199,
+          38.3185777
+        ]
+      },
+      "id": "node/9272996338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9273039721",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "brand:wikipedia": "en:7-Eleven",
+        "name": "7-Eleven",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7478465,
+          38.2965028
+        ]
+      },
+      "id": "node/9273039721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9325251675",
+        "brand": "Giant Eagle",
+        "brand:wikidata": "Q1522721",
+        "brand:wikipedia": "en:Giant Eagle",
+        "name": "Giant Eagle",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9620995,
+          39.6078742
+        ]
+      },
+      "id": "node/9325251675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9355073641",
+        "addr:city": "Bridgeport",
+        "addr:housenumber": "460",
+        "addr:postcode": "26330",
+        "addr:state": "WV",
+        "addr:street": "East Main Street",
+        "name": "Price Cutter",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2432412,
+          39.2896473
+        ]
+      },
+      "id": "node/9355073641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9355135909",
+        "brand": "Target",
+        "brand:wikidata": "Q1046951",
+        "brand:wikipedia": "en:Target Corporation",
+        "name": "Target",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2741221,
+          39.3112817
+        ]
+      },
+      "id": "node/9355135909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9406206227",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7925157,
+          38.4179947
+        ]
+      },
+      "id": "node/9406206227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9406660720",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7807353,
+          38.3757833
+        ]
+      },
+      "id": "node/9406660720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9419615640",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5233604,
+          38.2209454
+        ]
+      },
+      "id": "node/9419615640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9421337443",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0171976,
+          38.4383637
+        ]
+      },
+      "id": "node/9421337443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9421340172",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1233934,
+          38.4378673
+        ]
+      },
+      "id": "node/9421340172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9421340173",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1218145,
+          38.4378267
+        ]
+      },
+      "id": "node/9421340173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9421340175",
+        "brand": "Sheetz",
+        "brand:wikidata": "Q7492551",
+        "brand:wikipedia": "en:Sheetz",
+        "name": "Sheetz",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.123686,
+          38.4356986
+        ]
+      },
+      "id": "node/9421340175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9421359741",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8363641,
+          38.3106366
+        ]
+      },
+      "id": "node/9421359741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9421762391",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.50403,
+          38.2043972
+        ]
+      },
+      "id": "node/9421762391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9421815403",
+        "name": "Upton's Food Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4707287,
+          38.2064482
+        ]
+      },
+      "id": "node/9421815403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9434947856",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8389652,
+          38.4284851
+        ]
+      },
+      "id": "node/9434947856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476566828",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5175256,
+          39.2693855
+        ]
+      },
+      "id": "node/9476566828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476568420",
+        "addr:city": "Gassaway",
+        "addr:postcode": "26624",
+        "addr:street": "Elk Street",
+        "amenity": "fuel",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7749797,
+          38.6719501
+        ]
+      },
+      "id": "node/9476568420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476568421",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7748585,
+          38.6721982
+        ]
+      },
+      "id": "node/9476568421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476572114",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0561033,
+          39.266455
+        ]
+      },
+      "id": "node/9476572114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476572116",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0545993,
+          39.2621464
+        ]
+      },
+      "id": "node/9476572116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476582678",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1706637,
+          37.7847303
+        ]
+      },
+      "id": "node/9476582678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476583368",
+        "addr:city": "Sutton",
+        "addr:postcode": "26601",
+        "addr:street": "Sutton Lane",
+        "amenity": "fuel",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6604929,
+          38.7040213
+        ]
+      },
+      "id": "node/9476583368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476583369",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6606631,
+          38.7042177
+        ]
+      },
+      "id": "node/9476583369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9495869933",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6043832,
+          38.3466062
+        ]
+      },
+      "id": "node/9495869933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9495985405",
+        "brand": "GoMart",
+        "brand:wikidata": "Q5574575",
+        "brand:wikipedia": "en:GoMart",
+        "name": "GoMart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5811712,
+          38.3665117
+        ]
+      },
+      "id": "node/9495985405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9507716308",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.861,
+          39.2903774
+        ]
+      },
+      "id": "node/9507716308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9512517734",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8976268,
+          39.2947943
+        ]
+      },
+      "id": "node/9512517734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9693459401",
+        "brand": "Save-A-Lot",
+        "brand:wikidata": "Q7427972",
+        "name": "Save-A-Lot",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6692525,
+          39.4686454
+        ]
+      },
+      "id": "node/9693459401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913467594",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4320231,
+          37.8129431
+        ]
+      },
+      "id": "node/9913467594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10231632327",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.838986,
+          38.3692219
+        ]
+      },
+      "id": "node/10231632327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10231773550",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8419168,
+          38.3866813
+        ]
+      },
+      "id": "node/10231773550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10234974143",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7098894,
+          38.375587
+        ]
+      },
+      "id": "node/10234974143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10241851912",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1338723,
+          38.7916653
+        ]
+      },
+      "id": "node/10241851912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340247517",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-51-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978518,
+          41.8912427
+        ]
+      },
+      "id": "node/5340247517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340252322",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-49-50 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4973968,
+          41.8913872
+        ]
+      },
+      "id": "node/5340252322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535092255",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915049,
+          41.8918027
+        ]
+      },
+      "id": "node/5535092255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5801329944",
+        "amenity": "drinking_water",
+        "description:de": "Wasserbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4884569,
+          41.8880861
+        ]
+      },
+      "id": "node/5801329944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6547164641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Via in Miranda, Foro Romano, Roma, Italia Oct 05, 2022 04-55-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870814,
+          41.8924043
+        ]
+      },
+      "id": "node/6547164641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6616168986",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4967144,
+          41.8922741
+        ]
+      },
+      "id": "node/6616168986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6841124063",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926345,
+          41.8906387
+        ]
+      },
+      "id": "node/6841124063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085935353",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941883,
+          41.8915996
+        ]
+      },
+      "id": "node/7085935353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7203154248",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Via Marco Aurelio, Roma, Italia Jun 30, 2022 08-08-32 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4955486,
+          41.8882028
+        ]
+      },
+      "id": "node/7203154248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9108120217",
+        "amenity": "drinking_water",
+        "name": "Acqua",
+        "name:en": "Drinkable water",
+        "name:fr": "Eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4847106,
+          41.8877336
+        ]
+      },
+      "id": "node/9108120217"
+    }
+  ]
+}

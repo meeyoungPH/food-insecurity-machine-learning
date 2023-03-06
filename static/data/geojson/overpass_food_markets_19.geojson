@@ -1,0 +1,8030 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-05T23:34:09Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266310881",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934985,
+          41.8923773
+        ]
+      },
+      "id": "node/266310881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/277748826",
+        "amenity": "fuel",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0736269,
+          41.7901263
+        ]
+      },
+      "id": "node/277748826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/277748868",
+        "amenity": "fuel",
+        "created_by": "Potlatch 0.9c",
+        "name": "Pronto",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0747547,
+          41.7930068
+        ]
+      },
+      "id": "node/277748868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388984003",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494519,
+          41.8877413
+        ]
+      },
+      "id": "node/388984003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/390342240",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4669298,
+          41.7747175
+        ]
+      },
+      "id": "node/390342240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/437788233",
+        "amenity": "fuel",
+        "name": "Git 'n Go",
+        "operator": "Git 'n Go",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0631417,
+          41.6993059
+        ]
+      },
+      "id": "node/437788233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444135307",
+        "name": "Las Ritas",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2951427,
+          43.2048952
+        ]
+      },
+      "id": "node/444135307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/444135312",
+        "name": "Loopy's Dollar Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2946625,
+          43.2047074
+        ]
+      },
+      "id": "node/444135312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/450190392",
+        "addr:city": "Fort Dodge",
+        "addr:housenumber": "115",
+        "addr:postcode": "50501",
+        "addr:street": "South 29th Street",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "+1-515-573-4105",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1559239,
+          42.5047296
+        ]
+      },
+      "id": "node/450190392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495113034",
+        "amenity": "drinking_water",
+        "check_date": "2022-06-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934283,
+          41.8913309
+        ]
+      },
+      "id": "node/495113034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/603661456",
+        "amenity": "fuel",
+        "name": "Kwik Star",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4550971,
+          42.6501131
+        ]
+      },
+      "id": "node/603661456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/613360462",
+        "amenity": "fuel",
+        "brand": "Conoco",
+        "brand:wikidata": "Q109341187",
+        "name": "Conoco - Big 10 Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7217091,
+          42.503371
+        ]
+      },
+      "id": "node/613360462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/648686967",
+        "addr:city": "Perry",
+        "addr:housenumber": "1215",
+        "addr:postcode": "50220",
+        "addr:street": "IA Highway 141",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "operator": "Hy-Vee",
+        "phone": "(515) 465-5321",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1046986,
+          41.8288539
+        ]
+      },
+      "id": "node/648686967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/648692448",
+        "name": "Bill's First Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7304453,
+          41.1804635
+        ]
+      },
+      "id": "node/648692448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/648692795",
+        "amenity": "fuel",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum and Go",
+        "operator": "Kum and Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7811854,
+          41.1774797
+        ]
+      },
+      "id": "node/648692795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/648752810",
+        "amenity": "fuel",
+        "brand": "Phillips 66",
+        "brand:wikidata": "Q1656230",
+        "brand:wikipedia": "en:Phillips 66",
+        "name": "Newton 66",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0763224,
+          41.6885437
+        ]
+      },
+      "id": "node/648752810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/659639870",
+        "amenity": "fuel",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5781163,
+          41.5557186
+        ]
+      },
+      "id": "node/659639870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/659795232",
+        "addr:city": "Moville",
+        "addr:country": "US",
+        "addr:housenumber": "455",
+        "addr:postcode": "51039",
+        "addr:street": "South 1st Street",
+        "amenity": "fuel",
+        "brand": "Sinclair",
+        "fuel:diesel": "yes",
+        "fuel:e85": "yes",
+        "name": "4 Way Stop Shop",
+        "phone": "712-873-5444",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.07668,
+          42.4831
+        ]
+      },
+      "id": "node/659795232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/659795233",
+        "addr:city": "Moville",
+        "addr:housenumber": "4",
+        "addr:state": "IA",
+        "addr:street": "South 1st Street",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0747289,
+          42.4884897
+        ]
+      },
+      "id": "node/659795233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/661977874",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "name": "BP",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.354199,
+          43.4465689
+        ]
+      },
+      "id": "node/661977874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/684984104",
+        "addr:city": "Elk Run Heights",
+        "name": "Flying J Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2523217,
+          42.4597002
+        ]
+      },
+      "id": "node/684984104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/684984123",
+        "amenity": "fuel",
+        "brand": "Phillips 66",
+        "brand:wikidata": "Q1656230",
+        "brand:wikipedia": "en:Phillips 66",
+        "name": "Phillips 66",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2518532,
+          42.4599429
+        ]
+      },
+      "id": "node/684984123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685457655",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4867108,
+          41.8902623
+        ]
+      },
+      "id": "node/685457655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685461877",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4875779,
+          41.8891234
+        ]
+      },
+      "id": "node/685461877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/689093319",
+        "addr:housenumber": "4040",
+        "addr:street": "War Eagle Drive",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su off; PH off",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.46199,
+          42.494606
+        ]
+      },
+      "id": "node/689093319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/689112469",
+        "addr:city": "Sergeant Bluff",
+        "addr:housenumber": "700",
+        "addr:postcode": "51054",
+        "addr:state": "IA",
+        "addr:street": "1st Street",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su off; PH off",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3527935,
+          42.4001134
+        ]
+      },
+      "id": "node/689112469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/690390419",
+        "addr:city": "Sioux City",
+        "addr:housenumber": "3301",
+        "addr:postcode": "51105",
+        "addr:street": "Gordon Drive",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "(712) 234-1960",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3630458,
+          42.488896
+        ]
+      },
+      "id": "node/690390419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/694359317",
+        "addr:city": "Sioux City",
+        "addr:housenumber": "2827",
+        "addr:postcode": "51104",
+        "addr:street": "Hamilton Boulevard",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "operator": "Hy-Vee",
+        "phone": "712-277-8120",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4192196,
+          42.5201322
+        ]
+      },
+      "id": "node/694359317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/703712581",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3514867,
+          42.4797364
+        ]
+      },
+      "id": "node/703712581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/704610199",
+        "name": "Laurence's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3841696,
+          42.5173961
+        ]
+      },
+      "id": "node/704610199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/705717069",
+        "addr:city": "Sioux City",
+        "addr:housenumber": "4267",
+        "addr:postcode": "51106",
+        "addr:state": "IA",
+        "addr:street": "Sergeant Road",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su off; PH off",
+        "operator": "Fareway Stores, Inc.",
+        "phone": "+1-712-276-1873",
+        "shop": "supermarket",
+        "website": "https://www.fareway.com/stores/ia/sioux-city/4267-sergeant-road/ad/weekly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3538704,
+          42.4502739
+        ]
+      },
+      "id": "node/705717069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/765071729",
+        "name": "Home Town Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1622719,
+          42.0167186
+        ]
+      },
+      "id": "node/765071729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/767568949",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "name": "Valley West BP",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7524957,
+          41.5940844
+        ]
+      },
+      "id": "node/767568949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/787487751",
+        "name": "Gas and Goods",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9514297,
+          42.9382939
+        ]
+      },
+      "id": "node/787487751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/796574906",
+        "amenity": "fuel",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6126599,
+          41.4386476
+        ]
+      },
+      "id": "node/796574906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/799931661",
+        "amenity": "fuel",
+        "name": "Kwik Star",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5748512,
+          42.7151353
+        ]
+      },
+      "id": "node/799931661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/814508103",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6185781,
+          41.7444032
+        ]
+      },
+      "id": "node/814508103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/859630583",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2187044,
+          42.7213461
+        ]
+      },
+      "id": "node/859630583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/859630584",
+        "amenity": "fuel",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.226462,
+          42.7313178
+        ]
+      },
+      "id": "node/859630584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/896635292",
+        "name": "Clinton Marina",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1823639,
+          41.8485847
+        ]
+      },
+      "id": "node/896635292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/896707193",
+        "amenity": "fuel",
+        "brand": "Hy-Vee Gas",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee Gas",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1926621,
+          41.8372202
+        ]
+      },
+      "id": "node/896707193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/896733453",
+        "name": "Camanche Harbor",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2487446,
+          41.7836986
+        ]
+      },
+      "id": "node/896733453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/900135079",
+        "amenity": "fuel",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0668674,
+          41.6909183
+        ]
+      },
+      "id": "node/900135079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/906824343",
+        "name": "Co-Op",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5802126,
+          41.6743541
+        ]
+      },
+      "id": "node/906824343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/918369551",
+        "name": "Casey's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3090025,
+          40.8319514
+        ]
+      },
+      "id": "node/918369551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/920045823",
+        "amenity": "fuel",
+        "brand": "Kwik Trip",
+        "brand:wikidata": "Q6450420",
+        "name": "Kwik Star",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1737953,
+          43.0257357
+        ]
+      },
+      "id": "node/920045823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/947850836",
+        "amenity": "fuel",
+        "brand": "Love's",
+        "brand:wikidata": "Q1872496",
+        "brand:wikipedia": "en:Love's",
+        "fuel:diesel": "yes",
+        "name": "Love's (trucks)",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9975724,
+          41.6804245
+        ]
+      },
+      "id": "node/947850836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/947850859",
+        "amenity": "fuel",
+        "brand": "Valero",
+        "brand:wikidata": "Q1283291",
+        "brand:wikipedia": "en:Valero Energy",
+        "name": "Valero",
+        "shop": "convenience",
+        "source": "Mapbox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0006223,
+          41.6801926
+        ]
+      },
+      "id": "node/947850859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/947850877",
+        "alt_name": "Pilot Travel Centers",
+        "amenity": "fuel",
+        "brand": "Pilot",
+        "brand:wikidata": "Q64128179",
+        "name": "pilot",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3585543,
+          41.6978993
+        ]
+      },
+      "id": "node/947850877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890053",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4879526,
+          41.8887986
+        ]
+      },
+      "id": "node/953890053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953890062",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883755,
+          41.890985
+        ]
+      },
+      "id": "node/953890062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953909059",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone via dei santi Quattro,roma,italy 62022.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968765,
+          41.8889852
+        ]
+      },
+      "id": "node/953909059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/957809643",
+        "amenity": "fuel",
+        "name": "Kwik Star",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8645828,
+          43.1842963
+        ]
+      },
+      "id": "node/957809643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/962630258",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5396354,
+          42.7157415
+        ]
+      },
+      "id": "node/962630258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/962684180",
+        "amenity": "fuel",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4868252,
+          42.7261796
+        ]
+      },
+      "id": "node/962684180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/962898156",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.473796,
+          42.7269652
+        ]
+      },
+      "id": "node/962898156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/962898207",
+        "amenity": "fuel",
+        "brand": "Kwik Star",
+        "fuel:biodiesel": "no",
+        "fuel:biogas": "no",
+        "fuel:diesel": "yes",
+        "fuel:e10": "yes",
+        "fuel:e85": "no",
+        "fuel:lpg": "yes",
+        "name": "Kwik Star",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4645343,
+          42.725211
+        ]
+      },
+      "id": "node/962898207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/964926087",
+        "addr:housenumber": "2175",
+        "addr:street": "Central Avenue",
+        "amenity": "car_wash",
+        "name": "FasMart",
+        "payment:coins": "no",
+        "payment:mastercard": "yes",
+        "payment:notes": "no",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6712153,
+          42.5128627
+        ]
+      },
+      "id": "node/964926087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/965039360",
+        "amenity": "fuel",
+        "name": "IOCO Speede Shoppe",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6680573,
+          42.5115878
+        ]
+      },
+      "id": "node/965039360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/966509825",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "fuel:gasoline": "yes",
+        "fuel:octane_87": "yes",
+        "fuel:octane_91": "yes",
+        "name": "Kwik Stop",
+        "operator": "Rainbo Oil",
+        "self_service": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6727911,
+          42.4583601
+        ]
+      },
+      "id": "node/966509825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/989021022",
+        "amenity": "fuel",
+        "name": "Git 'n Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4894512,
+          41.6589889
+        ]
+      },
+      "id": "node/989021022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/989102630",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6178549,
+          41.6290017
+        ]
+      },
+      "id": "node/989102630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1029126754",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.773736,
+          41.558444
+        ]
+      },
+      "id": "node/1029126754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1050427061",
+        "name": "Cissy's IV",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.298456,
+          42.1612152
+        ]
+      },
+      "id": "node/1050427061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1078150484",
+        "name": "La Tapatia 2",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6982649,
+          41.6261436
+        ]
+      },
+      "id": "node/1078150484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1105698537",
+        "amenity": "cafe",
+        "name": "Big Creek Market",
+        "phone": "+1 319 895 8393",
+        "shop": "convenience",
+        "source": "http://www.mvlsun.com/business/",
+        "website": "https://www.facebook.com/bigcreekmarketia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4172669,
+          41.9222351
+        ]
+      },
+      "id": "node/1105698537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1135947641",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4181476,
+          42.5189619
+        ]
+      },
+      "id": "node/1135947641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1135970439",
+        "name": "Pronto",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1848522,
+          42.4756779
+        ]
+      },
+      "id": "node/1135970439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1136069244",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3592467,
+          42.5410145
+        ]
+      },
+      "id": "node/1136069244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1136158643",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3540783,
+          42.4008531
+        ]
+      },
+      "id": "node/1136158643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1136158671",
+        "name": "Cenex",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.363396,
+          42.3999303
+        ]
+      },
+      "id": "node/1136158671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1136158674",
+        "addr:city": "Sergeant Bluff",
+        "addr:housenumber": "111",
+        "addr:postcode": "51054",
+        "addr:state": "IA",
+        "addr:street": "Gaul Drive",
+        "amenity": "fast_food",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "cuisine": "donut;pizza;sandwich",
+        "name": "Casey's General Store",
+        "opening_hours": "Mo-Su 05:00-24:00",
+        "phone": "712-943-2273",
+        "shop": "convenience",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3525119,
+          42.3989875
+        ]
+      },
+      "id": "node/1136158674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1136326699",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4739888,
+          42.5150494
+        ]
+      },
+      "id": "node/1136326699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1136326716",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4752174,
+          42.5202706
+        ]
+      },
+      "id": "node/1136326716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1136326719",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4668005,
+          42.4971624
+        ]
+      },
+      "id": "node/1136326719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1136351237",
+        "amenity": "cafe",
+        "name": "Brew",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7852085,
+          42.481842
+        ]
+      },
+      "id": "node/1136351237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1136351264",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7830467,
+          42.4817629
+        ]
+      },
+      "id": "node/1136351264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1158093827",
+        "amenity": "fuel",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "name": "Casey's General Store",
+        "self_service": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5999634,
+          41.6264322
+        ]
+      },
+      "id": "node/1158093827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1170494282",
+        "amenity": "drinking_water",
+        "fountain": "nasone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942213,
+          41.8900377
+        ]
+      },
+      "id": "node/1170494282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1213399928",
+        "addr:city": "Mason City",
+        "addr:housenumber": "551",
+        "addr:postcode": "50401",
+        "addr:street": "South Illinois Avenue",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "(641) 424-9741",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.168875,
+          43.1467732
+        ]
+      },
+      "id": "node/1213399928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1217851180",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8150124,
+          41.8788479
+        ]
+      },
+      "id": "node/1217851180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1235553467",
+        "amenity": "fuel",
+        "brand": "Phillips 66",
+        "brand:wikidata": "Q1656230",
+        "brand:wikipedia": "en:Phillips 66",
+        "name": "Phillips 66",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9023216,
+          41.6846603
+        ]
+      },
+      "id": "node/1235553467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1258131651",
+        "addr:city": "Des Moines",
+        "addr:housenumber": "3221",
+        "addr:postcode": "50320",
+        "addr:street": "Southeast 14th Street",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "(515) 243-7271",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5947757,
+          41.5547809
+        ]
+      },
+      "id": "node/1258131651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1258976262",
+        "name": "Casey's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9514479,
+          41.5330477
+        ]
+      },
+      "id": "node/1258976262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1260049295",
+        "addr:housenumber": "1730",
+        "addr:street": "Nebraska Street",
+        "name": "Select Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.404661,
+          42.5086977
+        ]
+      },
+      "id": "node/1260049295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1280928142",
+        "amenity": "fuel",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.30977,
+          42.0148704
+        ]
+      },
+      "id": "node/1280928142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1292413108",
+        "amenity": "fuel",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4441101,
+          42.0224751
+        ]
+      },
+      "id": "node/1292413108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1292413130",
+        "amenity": "fuel",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.457955,
+          42.0225648
+        ]
+      },
+      "id": "node/1292413130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1292413178",
+        "amenity": "fuel",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4499384,
+          42.0228333
+        ]
+      },
+      "id": "node/1292413178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1328081952",
+        "amenity": "fuel",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2078954,
+          42.4871188
+        ]
+      },
+      "id": "node/1328081952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1328081954",
+        "amenity": "fuel",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2077158,
+          42.4879605
+        ]
+      },
+      "id": "node/1328081954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1349191696",
+        "name": "Larchwood Food Center",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4345968,
+          43.4526272
+        ]
+      },
+      "id": "node/1349191696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1349191698",
+        "name": "Larchwood Quick Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4337653,
+          43.4525727
+        ]
+      },
+      "id": "node/1349191698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1438459174",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8683589,
+          42.388671
+        ]
+      },
+      "id": "node/1438459174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1479947383",
+        "amenity": "fuel",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9229568,
+          41.8487608
+        ]
+      },
+      "id": "node/1479947383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1590167601",
+        "name": "Tawakal Grocery",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6473652,
+          41.6171995
+        ]
+      },
+      "id": "node/1590167601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1590167640",
+        "name": "Ibrahim Grocery",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.647274,
+          41.6166821
+        ]
+      },
+      "id": "node/1590167640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656861982",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-01",
+        "man_made": "water_tap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883955,
+          41.8907173
+        ]
+      },
+      "id": "node/1656861982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1676132610",
+        "addr:city": "Des Moines",
+        "addr:housenumber": "4605",
+        "addr:postcode": "50321",
+        "addr:street": "Fleur Drive",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "(515) 285-7266",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6428927,
+          41.5424124
+        ]
+      },
+      "id": "node/1676132610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1676143547",
+        "addr:city": "Des Moines",
+        "addr:housenumber": "4121",
+        "addr:postcode": "50321",
+        "addr:street": "Fleur Drive",
+        "name": "Cash Saver",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6435552,
+          41.5468951
+        ]
+      },
+      "id": "node/1676143547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709280191",
+        "amenity": "drinking_water",
+        "check_date": "2021-11-02",
+        "fountain": "bottle_refill",
+        "name:ru": "вода с газом и без. бесплатная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911794,
+          41.891319
+        ]
+      },
+      "id": "node/1709280191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1723323988",
+        "addr:housename": "Plaza Towers",
+        "addr:housenumber": "225",
+        "addr:postcode": "52240",
+        "addr:street": "S Linn St",
+        "alt_name": "Bread Garden Market & Bakery",
+        "name": "Bread Garden Market",
+        "shop": "supermarket",
+        "website": "http://breadgardenmarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5324209,
+          41.6587856
+        ]
+      },
+      "id": "node/1723323988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1724810536",
+        "amenity": "fuel",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.357037,
+          41.5223765
+        ]
+      },
+      "id": "node/1724810536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1725890486",
+        "amenity": "fuel",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.954137,
+          41.381214
+        ]
+      },
+      "id": "node/1725890486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1727310318",
+        "amenity": "fuel",
+        "name": "Casey's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2475033,
+          41.5960069
+        ]
+      },
+      "id": "node/1727310318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1760819011",
+        "name": "Hometown Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5305121,
+          42.1989472
+        ]
+      },
+      "id": "node/1760819011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1760819012",
+        "amenity": "fuel",
+        "name": "R & R One-Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5317671,
+          42.199011
+        ]
+      },
+      "id": "node/1760819012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1801779672",
+        "addr:housenumber": "8036",
+        "addr:postcode": "50322",
+        "addr:street": "Douglas Avenue",
+        "name": "Luna Imported Foods",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7281911,
+          41.6282429
+        ]
+      },
+      "id": "node/1801779672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1804946560",
+        "name": "Brother's Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7852632,
+          42.5697319
+        ]
+      },
+      "id": "node/1804946560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1943522460",
+        "addr:housenumber": "3005",
+        "addr:postcode": "50322",
+        "addr:street": "100th Street",
+        "name": "Wang's Asian Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7549609,
+          41.6228113
+        ]
+      },
+      "id": "node/1943522460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978960278",
+        "addr:city": "Marshalltown",
+        "addr:housenumber": "802",
+        "addr:postcode": "50158",
+        "addr:street": "South Center Street",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "(641) 752-4525",
+        "shop": "supermarket",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9107395,
+          42.0392011
+        ]
+      },
+      "id": "node/1978960278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978975440",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "shop": "supermarket",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.913602,
+          42.0169599
+        ]
+      },
+      "id": "node/1978975440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2008858609",
+        "addr:housenumber": "1140",
+        "addr:postcode": "50316",
+        "addr:street": "East 9th Street",
+        "name": "Jung's Oriental Food Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6069416,
+          41.6000038
+        ]
+      },
+      "id": "node/2008858609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2019195902",
+        "addr:housenumber": "7500, Suite B",
+        "addr:postcode": "50325",
+        "addr:street": "University Avenue",
+        "name": "Namaste India Groceries and Kitchen",
+        "shop": "convenience",
+        "source": "survey:2012-11-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7225904,
+          41.599987
+        ]
+      },
+      "id": "node/2019195902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2022431570",
+        "name": "Don's Food Center",
+        "shop": "supermarket",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0572545,
+          43.0063809
+        ]
+      },
+      "id": "node/2022431570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2034208329",
+        "amenity": "fuel",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1484543,
+          42.4670058
+        ]
+      },
+      "id": "node/2034208329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2035069725",
+        "name": "Casey's Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9289501,
+          40.6241126
+        ]
+      },
+      "id": "node/2035069725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2069297787",
+        "addr:city": "Iowa Falls",
+        "addr:housenumber": "632",
+        "addr:postcode": "50126",
+        "addr:street": "South Oak Street",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "(641) 648-4644",
+        "shop": "supermarket",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26093,
+          42.5087333
+        ]
+      },
+      "id": "node/2069297787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2069299427",
+        "addr:city": "Webster City",
+        "addr:housenumber": "823",
+        "addr:postcode": "50595",
+        "addr:street": "2nd Street",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "(515) 832-3117",
+        "shop": "supermarket",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8257898,
+          42.4705487
+        ]
+      },
+      "id": "node/2069299427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2104846172",
+        "name": "Manning Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0738181,
+          41.9070035
+        ]
+      },
+      "id": "node/2104846172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2197029644",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0826657,
+          41.4356199
+        ]
+      },
+      "id": "node/2197029644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2199144089",
+        "addr:city": "Muscatine",
+        "addr:housenumber": "510",
+        "addr:postcode": "52761",
+        "addr:street": "East 6th Street",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "(563) 263-6461",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0433626,
+          41.4268246
+        ]
+      },
+      "id": "node/2199144089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2199145168",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0645028,
+          41.4085216
+        ]
+      },
+      "id": "node/2199145168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2270727158",
+        "brand": "Kwik Trip",
+        "brand:wikidata": "Q6450420",
+        "name": "Kwik Star",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.173856,
+          43.0254351
+        ]
+      },
+      "id": "node/2270727158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2286356308",
+        "name": "Plaza Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.648536,
+          41.600323
+        ]
+      },
+      "id": "node/2286356308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2353009287",
+        "name": "Strawberry Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5358564,
+          42.6834165
+        ]
+      },
+      "id": "node/2353009287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2380761664",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3854145,
+          42.516396
+        ]
+      },
+      "id": "node/2380761664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2411615776",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4176145,
+          42.5102445
+        ]
+      },
+      "id": "node/2411615776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2417058289",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6440183,
+          41.4956912
+        ]
+      },
+      "id": "node/2417058289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2425962286",
+        "addr:housenumber": "3619",
+        "addr:street": "Stange Road",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "phone": "15152333851",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.646404,
+          42.0570443
+        ]
+      },
+      "id": "node/2425962286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2449951863",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6108732,
+          42.000524
+        ]
+      },
+      "id": "node/2449951863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2451237068",
+        "name": "Bill's Family Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6311124,
+          43.2658991
+        ]
+      },
+      "id": "node/2451237068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2451237071",
+        "name": "Forest City Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6372439,
+          43.2658913
+        ]
+      },
+      "id": "node/2451237071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2466878057",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4170675,
+          42.5044224
+        ]
+      },
+      "id": "node/2466878057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2519311156",
+        "brand": "Aldi",
+        "brand:wikidata": "Q125054",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5559908,
+          42.0368486
+        ]
+      },
+      "id": "node/2519311156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537299968",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "indoor": "no",
+        "wikimedia_commons": "File:Nasone via mecenate, Roma, Italia Jun 30, 2022 06-19-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4987211,
+          41.8911676
+        ]
+      },
+      "id": "node/2537299968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2561986652",
+        "addr:city": "Sioux City",
+        "addr:housenumber": "2611",
+        "addr:postcode": "51104",
+        "addr:street": "Pierce Street",
+        "branch": "Mainstreet",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "building": "supermarket",
+        "name": "Hy-Vee",
+        "operator": "Hy-Vee",
+        "phone": "712-277-0144",
+        "shop": "supermarket",
+        "website": "https://www.hy-vee.com/stores/detail.aspx?s=212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4055307,
+          42.5176636
+        ]
+      },
+      "id": "node/2561986652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2561995166",
+        "addr:housenumber": "3731",
+        "addr:postcode": "51104",
+        "addr:street": "Hamilton Boulevard",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's General Stores",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4094461,
+          42.5350347
+        ]
+      },
+      "id": "node/2561995166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2578713784",
+        "addr:city": "Dubuque",
+        "addr:housenumber": "2395",
+        "addr:postcode": "52002",
+        "addr:street": "Northwest Arterial",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "(563) 583-2199",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7443711,
+          42.5169287
+        ]
+      },
+      "id": "node/2578713784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2578713884",
+        "addr:city": "Dubuque",
+        "addr:housenumber": "2050",
+        "addr:postcode": "52002",
+        "addr:state": "IA",
+        "addr:street": "John F Kennedy Road",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7194698,
+          42.507443
+        ]
+      },
+      "id": "node/2578713884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2578714004",
+        "addr:city": "Dubuque",
+        "addr:housenumber": "3500",
+        "addr:postcode": "52003",
+        "addr:street": "Dodge Street",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "(563) 583-5204",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7230666,
+          42.4911296
+        ]
+      },
+      "id": "node/2578714004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2590869122",
+        "brand": "Kwik Trip",
+        "brand:wikidata": "Q6450420",
+        "brand:wikipedia": "en:Kwik Trip",
+        "name": "Kwik Trip",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4706096,
+          42.4833171
+        ]
+      },
+      "id": "node/2590869122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2608959188",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6796626,
+          42.0115943
+        ]
+      },
+      "id": "node/2608959188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2611448655",
+        "addr:city": "Marion",
+        "addr:housename": "PurseNality",
+        "addr:housenumber": "725",
+        "addr:postcode": "52302",
+        "addr:street": "11th Street",
+        "name": "PurseNality of Marion",
+        "opening_hours": "Mo off; Tu-We,Fr,Sa 10:00-18:00; Th 10:00-19:00; Su 12:00-18:00",
+        "phone": "(319) 261-0879",
+        "shop": "convenience",
+        "website": "http://www.pursenalityofmarion.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5979125,
+          42.0336584
+        ]
+      },
+      "id": "node/2611448655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2622356343",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's General Stores",
+        "name": "Casey's General Store",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6164532,
+          42.843804
+        ]
+      },
+      "id": "node/2622356343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2642194633",
+        "name": "Swift Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6209041,
+          42.046094
+        ]
+      },
+      "id": "node/2642194633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2698497719",
+        "addr:housenumber": "209",
+        "addr:postcode": "50424",
+        "addr:street": "North Main Street",
+        "name": "Johnson Food Center",
+        "shop": "supermarket",
+        "website": "johnsonfdcntr.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9467203,
+          43.3873317
+        ]
+      },
+      "id": "node/2698497719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2826175822",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4262584,
+          41.4886814
+        ]
+      },
+      "id": "node/2826175822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2826175828",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5473226,
+          41.4890583
+        ]
+      },
+      "id": "node/2826175828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2826175936",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5541724,
+          41.4872384
+        ]
+      },
+      "id": "node/2826175936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2826217354",
+        "name": "Casey's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7043926,
+          41.4864222
+        ]
+      },
+      "id": "node/2826217354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2852320043",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5518505,
+          41.6009504
+        ]
+      },
+      "id": "node/2852320043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2859693812",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0167901,
+          41.6140548
+        ]
+      },
+      "id": "node/2859693812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2861524967",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0152424,
+          41.4080778
+        ]
+      },
+      "id": "node/2861524967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2861525123",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0149151,
+          41.4036726
+        ]
+      },
+      "id": "node/2861525123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2861657725",
+        "name": "Casey's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1369347,
+          41.234333
+        ]
+      },
+      "id": "node/2861657725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2923594352",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3777289,
+          42.5027703
+        ]
+      },
+      "id": "node/2923594352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2952631317",
+        "amenity": "fuel",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7016558,
+          42.0340268
+        ]
+      },
+      "id": "node/2952631317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2999875927",
+        "name": "Dows Junction",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4622362,
+          42.6743988
+        ]
+      },
+      "id": "node/2999875927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3026291974",
+        "name": "University Market Grocery Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6347417,
+          41.6006115
+        ]
+      },
+      "id": "node/3026291974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3036238699",
+        "addr:city": "West Des Moines",
+        "addr:housename": "Building 2000",
+        "addr:housenumber": "6305",
+        "addr:postcode": "50266",
+        "addr:state": "IA",
+        "addr:street": "Mills Civic Parkway",
+        "brand": "Trader Joe's",
+        "brand:wikidata": "Q688825",
+        "brand:wikipedia": "en:Trader Joe's",
+        "name": "Trader Joe's",
+        "phone": "+1-515-225-3820",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7939384,
+          41.5621046
+        ]
+      },
+      "id": "node/3036238699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3036333134",
+        "addr:housenumber": "10201",
+        "addr:postcode": "50325",
+        "addr:street": "University Avenue",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7567714,
+          41.6031922
+        ]
+      },
+      "id": "node/3036333134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3036354722",
+        "addr:city": "West Des Moines",
+        "addr:housename": "Water Tower Place",
+        "addr:housenumber": "4101",
+        "addr:postcode": "50266",
+        "addr:street": "University Avenue",
+        "brand": "Whole Foods Market",
+        "brand:wikidata": "Q1809448",
+        "brand:wikipedia": "en:Whole Foods Market",
+        "name": "Whole Foods Market",
+        "shop": "supermarket",
+        "website": "https://www.wholefoods.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7611186,
+          41.5979386
+        ]
+      },
+      "id": "node/3036354722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3086262203",
+        "addr:city": "Rockwell City",
+        "addr:housenumber": "2325",
+        "addr:state": "IA",
+        "addr:street": "Marshall Avenue",
+        "amenity": "fuel",
+        "brand": "Sinclair",
+        "brand:wikidata": "Q1290900",
+        "brand:wikipedia": "en:Sinclair Oil Corporation",
+        "fuel:diesel": "yes",
+        "fuel:e10": "yes",
+        "fuel:e15": "yes",
+        "fuel:e30": "yes",
+        "fuel:e50": "yes",
+        "fuel:e85": "yes",
+        "name": "Sparky's One Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6713881,
+          42.4521191
+        ]
+      },
+      "id": "node/3086262203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156020869",
+        "addr:city": "Earlham",
+        "addr:housenumber": "975",
+        "addr:postcode": "50072",
+        "addr:street": "North Chestnut Avenue",
+        "amenity": "fast_food",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "phone": "+1 515 758 2567",
+        "shop": "convenience",
+        "website": "https://www.caseys.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1239474,
+          41.5003041
+        ]
+      },
+      "id": "node/3156020869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3156028878",
+        "name": "Hometown Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.123295,
+          41.4922471
+        ]
+      },
+      "id": "node/3156028878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3187817045",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9530663,
+          41.3641039
+        ]
+      },
+      "id": "node/3187817045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453106067",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5743326,
+          42.188361
+        ]
+      },
+      "id": "node/3453106067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3459989278",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8680658,
+          41.6130671
+        ]
+      },
+      "id": "node/3459989278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3536074352",
+        "amenity": "marketplace",
+        "name": "Sioux City Farmers Market",
+        "opening_hours": "May-Oct: We,Sa 08:00-13:00",
+        "shop": "farm",
+        "website": "https://www.farmersmarketsiouxcity.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4089465,
+          42.4915884
+        ]
+      },
+      "id": "node/3536074352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3648017484",
+        "addr:city": "Clive",
+        "addr:housename": "Plaza 1800",
+        "addr:housenumber": "1800",
+        "addr:postcode": "50325",
+        "addr:street": "Northwest 86th Street",
+        "name": "Mexican Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7374704,
+          41.608145
+        ]
+      },
+      "id": "node/3648017484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3762727757",
+        "addr:city": "Hull",
+        "addr:housenumber": "1023",
+        "addr:postcode": "51239",
+        "addr:state": "IA",
+        "addr:street": "Black Forest Rd",
+        "name": "Dan's Food Center",
+        "opening_hours": "Mo-Sa 07:30-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1325276,
+          43.1859714
+        ]
+      },
+      "id": "node/3762727757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3785014818",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934389,
+          41.8873381
+        ]
+      },
+      "id": "node/3785014818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3805436380",
+        "addr:city": "Muscatine",
+        "addr:housenumber": "2307",
+        "addr:postcode": "52761",
+        "addr:state": "IA",
+        "addr:street": "Lucas St",
+        "name": "GM Mini Mart",
+        "phone": "(563) 263-5861",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.071333,
+          41.4230422
+        ]
+      },
+      "id": "node/3805436380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3809362605",
+        "addr:city": "Ames",
+        "addr:housenumber": "113",
+        "addr:postcode": "50014",
+        "addr:state": "IA",
+        "addr:street": "Colorado Avenue",
+        "addr:unit": "133",
+        "name": "Pammel Grocery",
+        "phone": "+15152929700",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6633968,
+          42.0235228
+        ]
+      },
+      "id": "node/3809362605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3822123799",
+        "brand": "BP Shop",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "name": "BP Shop",
+        "operator": "BP",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6744988,
+          41.2985097
+        ]
+      },
+      "id": "node/3822123799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3822124768",
+        "name": "Sinclair",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6913625,
+          41.2966946
+        ]
+      },
+      "id": "node/3822124768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3822138058",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7150126,
+          41.4826611
+        ]
+      },
+      "id": "node/3822138058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3835812862",
+        "addr:housenumber": "1231",
+        "addr:postcode": "50501",
+        "addr:street": "1st Avenue South",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "opening_hours": "07:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1814909,
+          42.5044804
+        ]
+      },
+      "id": "node/3835812862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3843427492",
+        "addr:city": "Springville",
+        "addr:housenumber": "1002",
+        "addr:postcode": "52336",
+        "addr:state": "IA",
+        "addr:street": "County Home Road",
+        "name": "Whittier Market",
+        "opening_hours": "Mo-Fr 06:30-18:00, Sa 08:00-17:00",
+        "operator": "Knight's Farm",
+        "shop": "convenience",
+        "website": "http://whittiermarket.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4631612,
+          42.0928171
+        ]
+      },
+      "id": "node/3843427492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3949308576",
+        "shop": "convenience",
+        "source": "Mapbox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6802062,
+          41.9782721
+        ]
+      },
+      "id": "node/3949308576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3949308579",
+        "shop": "convenience",
+        "source": "Mapbox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6816224,
+          41.9794744
+        ]
+      },
+      "id": "node/3949308579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3949333120",
+        "shop": "convenience",
+        "source": "Mapbox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7397459,
+          41.9645063
+        ]
+      },
+      "id": "node/3949333120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3949375035",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7265306,
+          41.9560336
+        ]
+      },
+      "id": "node/3949375035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3950968268",
+        "brand": "Road Ranger",
+        "brand:wikidata": "Q7339377",
+        "brand:wikipedia": "en:Road Ranger",
+        "name": "Road Ranger",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2472182,
+          42.4610661
+        ]
+      },
+      "id": "node/3950968268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3951198847",
+        "name": "Fas Fuel",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6779978,
+          42.0343141
+        ]
+      },
+      "id": "node/3951198847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3951212075",
+        "name": "Big Ten Mart",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6896467,
+          42.043597
+        ]
+      },
+      "id": "node/3951212075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3951212145",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6824342,
+          42.0459395
+        ]
+      },
+      "id": "node/3951212145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3951224701",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6724993,
+          42.0443659
+        ]
+      },
+      "id": "node/3951224701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3951239885",
+        "name": "Casey's",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7152645,
+          41.9742151
+        ]
+      },
+      "id": "node/3951239885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3951239899",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7152886,
+          41.9797205
+        ]
+      },
+      "id": "node/3951239899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3951244264",
+        "brand": "Murphy USA",
+        "brand:wikidata": "Q19604459",
+        "brand:wikipedia": "en:Murphy USA",
+        "name": "Murphy USA",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7167611,
+          41.9481412
+        ]
+      },
+      "id": "node/3951244264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3951774815",
+        "name": "HyVee Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3264236,
+          42.4597245
+        ]
+      },
+      "id": "node/3951774815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3951888874",
+        "name": "The Mill Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7672882,
+          42.465741
+        ]
+      },
+      "id": "node/3951888874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3951969416",
+        "brand": "Kwik Trip",
+        "brand:wikidata": "Q6450420",
+        "brand:wikipedia": "en:Kwik Trip",
+        "name": "Kwik Trip",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4471727,
+          42.4704495
+        ]
+      },
+      "id": "node/3951969416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957539471",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7293659,
+          42.0637899
+        ]
+      },
+      "id": "node/3957539471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957690103",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6562916,
+          41.938222
+        ]
+      },
+      "id": "node/3957690103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4158849622",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7489363,
+          41.0376692
+        ]
+      },
+      "id": "node/4158849622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4158864976",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7445081,
+          41.046627
+        ]
+      },
+      "id": "node/4158864976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4158873154",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2337243,
+          41.0274718
+        ]
+      },
+      "id": "node/4158873154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4158890580",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2331691,
+          41.00688
+        ]
+      },
+      "id": "node/4158890580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4158896592",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2323884,
+          41.0108087
+        ]
+      },
+      "id": "node/4158896592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4158896595",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2322169,
+          41.016429
+        ]
+      },
+      "id": "node/4158896595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4158896597",
+        "shop": "supermarket",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2343063,
+          41.0115069
+        ]
+      },
+      "id": "node/4158896597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4170809230",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1408705,
+          40.8079859
+        ]
+      },
+      "id": "node/4170809230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4170883625",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1506539,
+          40.8254913
+        ]
+      },
+      "id": "node/4170883625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4170883733",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1558252,
+          40.8256842
+        ]
+      },
+      "id": "node/4170883733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4170883743",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1423203,
+          40.8136189
+        ]
+      },
+      "id": "node/4170883743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4170883751",
+        "addr:city": "West Burlington",
+        "addr:housenumber": "1108",
+        "addr:postcode": "52655",
+        "addr:state": "IA",
+        "addr:street": "West Agency Road",
+        "alt_name": "Westland Fast Break",
+        "name": "Fast Break",
+        "phone": "(319) 754-0068",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1694776,
+          40.8124375
+        ]
+      },
+      "id": "node/4170883751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4170883763",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1407887,
+          40.8263519
+        ]
+      },
+      "id": "node/4170883763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4173792197",
+        "addr:city": "Fairfield",
+        "addr:housenumber": "1309",
+        "addr:postcode": "52556",
+        "addr:state": "IA",
+        "addr:street": "South Main Street",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "phone": "641-472-6806",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9625942,
+          40.9944539
+        ]
+      },
+      "id": "node/4173792197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4173824983",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9676743,
+          41.0063343
+        ]
+      },
+      "id": "node/4173824983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4173825591",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9684172,
+          41.0069213
+        ]
+      },
+      "id": "node/4173825591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4173825617",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9654802,
+          41.0069719
+        ]
+      },
+      "id": "node/4173825617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4173825669",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9615535,
+          41.0063586
+        ]
+      },
+      "id": "node/4173825669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4173879321",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9818283,
+          41.0070994
+        ]
+      },
+      "id": "node/4173879321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4173879369",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9833116,
+          41.0069112
+        ]
+      },
+      "id": "node/4173879369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4175065098",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9684232,
+          41.0126786
+        ]
+      },
+      "id": "node/4175065098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4175065148",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9655344,
+          41.0123001
+        ]
+      },
+      "id": "node/4175065148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4177586942",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.541147,
+          40.9645345
+        ]
+      },
+      "id": "node/4177586942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4177586952",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5242116,
+          40.9602993
+        ]
+      },
+      "id": "node/4177586952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4198262133",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4113027,
+          40.4225137
+        ]
+      },
+      "id": "node/4198262133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4198262147",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4098785,
+          40.4202757
+        ]
+      },
+      "id": "node/4198262147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4198262182",
+        "name": "Site Mart",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3897968,
+          40.4026449
+        ]
+      },
+      "id": "node/4198262182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4199715208",
+        "name": "Fast Break",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3773995,
+          40.6234742
+        ]
+      },
+      "id": "node/4199715208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4199715372",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3378691,
+          40.6268678
+        ]
+      },
+      "id": "node/4199715372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4199715409",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3612445,
+          40.6240279
+        ]
+      },
+      "id": "node/4199715409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4199715428",
+        "addr:city": "Fort Madison",
+        "addr:housenumber": "2606",
+        "addr:postcode": "52627",
+        "addr:street": "Avenue L",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "(319) 372-5841",
+        "shop": "supermarket",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3432496,
+          40.6258031
+        ]
+      },
+      "id": "node/4199715428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4199901362",
+        "name": "County Market",
+        "shop": "supermarket",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3307913,
+          40.6299177
+        ]
+      },
+      "id": "node/4199901362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4201179221",
+        "addr:city": "Oskaloosa",
+        "addr:housenumber": "901",
+        "addr:postcode": "52577",
+        "addr:state": "IA",
+        "addr:street": "South Market Street",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "phone": "641-673-1498",
+        "shop": "convenience",
+        "source": "Bing",
+        "website": "https://www.caseys.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6455996,
+          41.2878495
+        ]
+      },
+      "id": "node/4201179221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4201216362",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6457932,
+          41.3051057
+        ]
+      },
+      "id": "node/4201216362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4201216397",
+        "addr:city": "Oskaloosa",
+        "addr:housenumber": "1902",
+        "addr:postcode": "52577",
+        "addr:state": "IA",
+        "addr:street": "South Market Street",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "phone": "641-673-0656",
+        "shop": "convenience",
+        "source": "Bing",
+        "website": "https://www.caseys.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6443073,
+          41.2781247
+        ]
+      },
+      "id": "node/4201216397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4201258818",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6225573,
+          41.2794632
+        ]
+      },
+      "id": "node/4201258818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4201258821",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6230508,
+          41.2875375
+        ]
+      },
+      "id": "node/4201258821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4201258888",
+        "alt_name": "Wigg's Country Store",
+        "name": "Wigg's",
+        "shop": "supermarket",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.630223,
+          41.2958466
+        ]
+      },
+      "id": "node/4201258888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4201325352",
+        "addr:city": "Oskaloosa",
+        "addr:housenumber": "2201",
+        "addr:postcode": "52577",
+        "addr:street": "A Avenue West",
+        "brand": "Murphy USA",
+        "brand:wikidata": "Q19604459",
+        "brand:wikipedia": "en:Murphy USA",
+        "name": "Murphy USA",
+        "phone": "641-673-5085",
+        "shop": "convenience",
+        "source": "Bing",
+        "website": "https://www.murphyusa.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6685593,
+          41.2969672
+        ]
+      },
+      "id": "node/4201325352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4201325365",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6490816,
+          41.2965701
+        ]
+      },
+      "id": "node/4201325365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4201325370",
+        "addr:city": "Oskaloosa",
+        "addr:country": "US",
+        "addr:housenumber": "2203",
+        "addr:postcode": "52577",
+        "addr:state": "IA",
+        "addr:street": "A Avenue West",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-641-673-3839",
+        "ref:walmart": "1393",
+        "shop": "supermarket",
+        "source": "Bing",
+        "website": "https://www.walmart.com/store/1393/oskaloosa-ia/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6698795,
+          41.2986094
+        ]
+      },
+      "id": "node/4201325370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4201325379",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6596121,
+          41.2958586
+        ]
+      },
+      "id": "node/4201325379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4211591471",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0275172,
+          41.8384813
+        ]
+      },
+      "id": "node/4211591471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4211662909",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's General Stores",
+        "name": "Casey's General Store",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0857158,
+          41.8380697
+        ]
+      },
+      "id": "node/4211662909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4211662911",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's General Stores",
+        "name": "Casey's General Store",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1060201,
+          41.8409232
+        ]
+      },
+      "id": "node/4211662911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4211662949",
+        "amenity": "bank",
+        "atm": "yes",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1059235,
+          41.8289206
+        ]
+      },
+      "id": "node/4211662949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213098005",
+        "name": "Main Street Marketplace",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5005114,
+          41.6537952
+        ]
+      },
+      "id": "node/4213098005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4220511301",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7847105,
+          42.0070616
+        ]
+      },
+      "id": "node/4220511301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4220728832",
+        "name": "Newton 66",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0760188,
+          41.6887849
+        ]
+      },
+      "id": "node/4220728832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4220728835",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0759866,
+          41.6880278
+        ]
+      },
+      "id": "node/4220728835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4220776618",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0138988,
+          41.6976415
+        ]
+      },
+      "id": "node/4220776618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4220776632",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0136521,
+          41.6995801
+        ]
+      },
+      "id": "node/4220776632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4220776671",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.071451,
+          41.6988712
+        ]
+      },
+      "id": "node/4220776671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4220778624",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0346806,
+          41.6984786
+        ]
+      },
+      "id": "node/4220778624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4220778629",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0402837,
+          41.6997403
+        ]
+      },
+      "id": "node/4220778629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4220778636",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0413807,
+          41.6995481
+        ]
+      },
+      "id": "node/4220778636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4220778668",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0493844,
+          41.6992577
+        ]
+      },
+      "id": "node/4220778668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4220778698",
+        "name": "Git 'n Go",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0631737,
+          41.6990995
+        ]
+      },
+      "id": "node/4220778698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4222894709",
+        "shop": "convenience",
+        "source": "Mapbox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0006197,
+          41.6799463
+        ]
+      },
+      "id": "node/4222894709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4222961596",
+        "amenity": "fuel",
+        "brand": "Love's",
+        "brand:wikidata": "Q1872496",
+        "brand:wikipedia": "en:Love's",
+        "fuel:gasoline": "yes",
+        "name": "Love's (cars)",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9986593,
+          41.6802968
+        ]
+      },
+      "id": "node/4222961596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4222961661",
+        "brand": "Love's",
+        "brand:wikidata": "Q1872496",
+        "brand:wikipedia": "en:Love's",
+        "name": "Love's",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9981869,
+          41.680397
+        ]
+      },
+      "id": "node/4222961661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4283467047",
+        "name": "Hometown Pantry",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.967606,
+          42.5880097
+        ]
+      },
+      "id": "node/4283467047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4324531326",
+        "brand": "Hy-Vee Gas",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee Gas",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7417857,
+          42.5175456
+        ]
+      },
+      "id": "node/4324531326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4345265846",
+        "addr:city": "West Des Moines",
+        "addr:housename": "Clocktower Square",
+        "addr:housenumber": "2900",
+        "addr:postcode": "50265",
+        "addr:street": "University Avenue",
+        "brand": "Fresh Thyme",
+        "brand:wikidata": "Q64132791",
+        "name": "Fresh Thyme",
+        "shop": "supermarket",
+        "website": "https://freshthyme.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7443147,
+          41.5993729
+        ]
+      },
+      "id": "node/4345265846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4346781692",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.443954,
+          42.5087429
+        ]
+      },
+      "id": "node/4346781692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4513589872",
+        "addr:city": "Dubuque",
+        "addr:housenumber": "250",
+        "addr:postcode": "52001",
+        "addr:state": "IA",
+        "addr:street": "West 1st Street",
+        "name": "Fuel Express Food Mart",
+        "phone": "+15635570864",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6645939,
+          42.4944698
+        ]
+      },
+      "id": "node/4513589872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4624250185",
+        "addr:city": "West Des Moines",
+        "addr:housename": "Galleria at Jordan Creek",
+        "addr:housenumber": "3110",
+        "addr:postcode": "50266",
+        "addr:street": "South 64th Street",
+        "name": "Indian Grocery",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7988989,
+          41.5599364
+        ]
+      },
+      "id": "node/4624250185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4677339046",
+        "addr:city": "Dyersville",
+        "addr:housenumber": "1207",
+        "addr:postcode": "52040",
+        "addr:street": "12th Avenue Southeast",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1119654,
+          42.4749169
+        ]
+      },
+      "id": "node/4677339046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708747544",
+        "addr:city": "Des Moines",
+        "addr:housenumber": "420",
+        "addr:postcode": "50309",
+        "addr:street": "Court Avenue",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "operator": "Hy-Vee",
+        "shop": "supermarket",
+        "website": "https://www.hy-vee.com/stores/detail.aspx?s=1559",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6221969,
+          41.5846493
+        ]
+      },
+      "id": "node/4708747544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4852337922",
+        "branch": "Grocery",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1068357,
+          43.4214245
+        ]
+      },
+      "id": "node/4852337922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4852402274",
+        "name": "Sunshine Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.149531,
+          43.3319661
+        ]
+      },
+      "id": "node/4852402274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4852415995",
+        "name": "Dyno's Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1495699,
+          43.3210619
+        ]
+      },
+      "id": "node/4852415995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4858431506",
+        "name": "USA Food & Gas Liquor",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.646815,
+          41.8276692
+        ]
+      },
+      "id": "node/4858431506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881113522",
+        "addr:city": "Decorah",
+        "addr:housenumber": "905",
+        "addr:postcode": "52161",
+        "addr:state": "IA",
+        "addr:street": "Short Street",
+        "brand": "Kwik Trip",
+        "brand:wikidata": "Q6450420",
+        "brand:wikipedia": "en:Kwik Trip",
+        "name": "Kwik Star",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.795307,
+          43.2919112
+        ]
+      },
+      "id": "node/4881113522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4913021620",
+        "addr:city": "Burlington",
+        "addr:housenumber": "920",
+        "addr:postcode": "52601",
+        "addr:state": "IA",
+        "addr:street": "Lawrence Drive",
+        "branch": "Grocery",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "phone": "(319) 758-6740",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1389505,
+          40.7990691
+        ]
+      },
+      "id": "node/4913021620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5043495915",
+        "name": "Kwik Star",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5751433,
+          42.7152485
+        ]
+      },
+      "id": "node/5043495915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5043497327",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7898622,
+          42.7452867
+        ]
+      },
+      "id": "node/5043497327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5043497330",
+        "name": "Kwik Star",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9675401,
+          42.7452875
+        ]
+      },
+      "id": "node/5043497330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5043609343",
+        "name": "Kwik Star",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.477299,
+          42.7261318
+        ]
+      },
+      "id": "node/5043609343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5043609356",
+        "amenity": "fuel",
+        "name": "Kwik Star",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4751103,
+          42.702611
+        ]
+      },
+      "id": "node/5043609356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5106640641",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "name": "Casey's General Store",
+        "shop": "convenience",
+        "source": "Mapbox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1442379,
+          42.5007513
+        ]
+      },
+      "id": "node/5106640641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5106640654",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1929952,
+          42.5019322
+        ]
+      },
+      "id": "node/5106640654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5106640658",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1480602,
+          42.5008956
+        ]
+      },
+      "id": "node/5106640658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5106640667",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2184631,
+          42.5159726
+        ]
+      },
+      "id": "node/5106640667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5145305089",
+        "addr:city": "Algona",
+        "addr:housenumber": "1500",
+        "addr:postcode": "50511",
+        "addr:street": "Highway 169 North",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "(515) 295-3540",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2378909,
+          43.0812269
+        ]
+      },
+      "id": "node/5145305089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5151728047",
+        "addr:city": "Humboldt",
+        "addr:postcode": "50548",
+        "addr:street": "10th Avenue North",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "(515) 332-1498",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2173327,
+          42.7328157
+        ]
+      },
+      "id": "node/5151728047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5152182831",
+        "addr:city": "Knoxville",
+        "addr:housenumber": "809",
+        "addr:postcode": "50138",
+        "addr:street": "West Rock Island Street",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "(641) 842-4717 / (641) 842-2922",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.107257,
+          41.3256579
+        ]
+      },
+      "id": "node/5152182831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5152704971",
+        "addr:city": "Mason City",
+        "addr:housenumber": "875",
+        "addr:postcode": "50401",
+        "addr:street": "4th Street Southwest",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "(641) 424-4181",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.214435,
+          43.1477796
+        ]
+      },
+      "id": "node/5152704971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5154067874",
+        "addr:city": "Red Oak",
+        "addr:housenumber": "1605",
+        "addr:postcode": "51566",
+        "addr:street": "North Broadway Street",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "(712) 623-4992",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2347044,
+          41.0196139
+        ]
+      },
+      "id": "node/5154067874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5154214880",
+        "addr:city": "Shenandoah",
+        "addr:housenumber": "500",
+        "addr:postcode": "51601",
+        "addr:street": "Fremont Street",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "phone": "(712) 246-1495",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3871579,
+          40.7631184
+        ]
+      },
+      "id": "node/5154214880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5209368650",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4073191,
+          42.4545496
+        ]
+      },
+      "id": "node/5209368650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210943941",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's General Stores",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3558074,
+          42.4567139
+        ]
+      },
+      "id": "node/5210943941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5211463406",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3188549,
+          42.4490214
+        ]
+      },
+      "id": "node/5211463406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5235606078",
+        "name": "Kwik Star",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4564081,
+          42.5189507
+        ]
+      },
+      "id": "node/5235606078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5247963049",
+        "amenity": "fuel",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's General Stores",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2632789,
+          42.1033252
+        ]
+      },
+      "id": "node/5247963049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5305652884",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7217359,
+          43.402593
+        ]
+      },
+      "id": "node/5305652884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5315600812",
+        "addr:city": "Carroll",
+        "addr:country": "US",
+        "addr:housenumber": "2014",
+        "addr:postcode": "51401",
+        "addr:state": "IA",
+        "addr:street": "Kittyhawk Road",
+        "brand": "Walmart",
+        "brand:wikidata": "Q483551",
+        "brand:wikipedia": "en:Walmart",
+        "name": "Walmart Supercenter",
+        "opening_hours": "24/7",
+        "operator": "Walmart",
+        "phone": "+1-712-792-2280",
+        "ref:walmart": "1787",
+        "shop": "supermarket",
+        "website": "https://www.walmart.com/store/1787/carroll-ia/whats-new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.893106,
+          42.081336
+        ]
+      },
+      "id": "node/5315600812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5341402072",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "cuisine": "pizza;sandwich",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8523548,
+          41.2398944
+        ]
+      },
+      "id": "node/5341402072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5368839494",
+        "name": "Sunshine Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1703177,
+          43.4324126
+        ]
+      },
+      "id": "node/5368839494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5368885255",
+        "amenity": "fuel",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1750697,
+          43.4320542
+        ]
+      },
+      "id": "node/5368885255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5528559215",
+        "addr:housenumber": "1503",
+        "addr:street": "Pierce Street",
+        "name": "Habesha Grocery Store",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 10:00-20:00",
+        "origin": "east_african;middle_eastern",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4052425,
+          42.5062548
+        ]
+      },
+      "id": "node/5528559215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5601304196",
+        "addr:city": "Lake City",
+        "addr:housenumber": "820",
+        "addr:postcode": "51449",
+        "addr:state": "IA",
+        "addr:street": "East Main Street",
+        "name": "Lake City Food Center",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7249161,
+          42.267081
+        ]
+      },
+      "id": "node/5601304196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5646978761",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "changing_table": "yes",
+        "changing_table:count": "1",
+        "level": "0",
+        "name": "Casey's General Store",
+        "opening_hours": "Mo-Fr 06:30-24:00; Sa 09:00-17:00; Su unknown",
+        "organic": "no",
+        "shop": "convenience",
+        "toilets:access": "permissive",
+        "toilets:wheelchair": "designated",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0998174,
+          41.5099939
+        ]
+      },
+      "id": "node/5646978761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5703717542",
+        "name": "Casey's Gas Station",
+        "shop": "convenience",
+        "source": "Mapbox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.879961,
+          41.5916025
+        ]
+      },
+      "id": "node/5703717542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5787422277",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "name": "Kum & Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2365812,
+          42.2277215
+        ]
+      },
+      "id": "node/5787422277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6022943254",
+        "name": "Cubby's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7924181,
+          40.6886619
+        ]
+      },
+      "id": "node/6022943254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6141054665",
+        "name": "West Liberty Foods Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5529006,
+          40.9669434
+        ]
+      },
+      "id": "node/6141054665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6141054676",
+        "name": "Yenchay's Oriental Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5530789,
+          40.9659287
+        ]
+      },
+      "id": "node/6141054676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6222082902",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8608026,
+          42.0635425
+        ]
+      },
+      "id": "node/6222082902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6281028851",
+        "amenity": "marketplace",
+        "name": "Moville Farmer's Market",
+        "opening_hours": "Th 16:30-19:00",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0699236,
+          42.4890259
+        ]
+      },
+      "id": "node/6281028851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6298445381",
+        "addr:city": "Clarksville",
+        "addr:housenumber": "402",
+        "addr:postcode": "50619",
+        "addr:state": "IA",
+        "addr:street": "North Main Street",
+        "name": "K & S Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6675757,
+          42.7876239
+        ]
+      },
+      "id": "node/6298445381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6329249387",
+        "name": "Big 10 Mart",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7197882,
+          42.5085475
+        ]
+      },
+      "id": "node/6329249387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6391749636",
+        "addr:city": "Dubuque",
+        "addr:housenumber": "2685",
+        "addr:postcode": "52003",
+        "addr:state": "IA",
+        "addr:street": "Dodge Street",
+        "brand": "Kwik Trip",
+        "brand:wikidata": "Q6450420",
+        "name": "Kwik Star",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7025135,
+          42.4919466
+        ]
+      },
+      "id": "node/6391749636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6443528506",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1037393,
+          42.3609474
+        ]
+      },
+      "id": "node/6443528506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6443528507",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1012502,
+          42.3610148
+        ]
+      },
+      "id": "node/6443528507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6446473518",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1643388,
+          42.7936472
+        ]
+      },
+      "id": "node/6446473518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6474010890",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8519547,
+          41.2191426
+        ]
+      },
+      "id": "node/6474010890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6541296172",
+        "addr:city": "Cedar Rapids",
+        "addr:housenumber": "1950",
+        "addr:postcode": "52402",
+        "addr:state": "IA",
+        "addr:street": "Dodge Road Northeast",
+        "addr:suite": "106",
+        "name": "Asian General Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6673016,
+          42.0273253
+        ]
+      },
+      "id": "node/6541296172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6558725796",
+        "addr:city": "Council Bluffs",
+        "addr:housenumber": "2024",
+        "addr:postcode": "51501",
+        "addr:state": "IA",
+        "addr:street": "5th Avenue",
+        "alt_name": "White Oak Station #53",
+        "name": "White Oak Station",
+        "old_name": "Kum & Go",
+        "phone": "(712) 322-0758",
+        "shop": "convenience",
+        "source": "EsriWorldImagery",
+        "website": "https://www.whiteoakstation.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8748929,
+          41.25751
+        ]
+      },
+      "id": "node/6558725796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6559110546",
+        "addr:city": "Glenwood",
+        "addr:housenumber": "900",
+        "addr:postcode": "51534",
+        "addr:state": "IA",
+        "addr:street": "South Locust Street",
+        "name": "Russ's Market",
+        "opening_hours": "Mo-Su 07:30-21:00",
+        "phone": "(712) 527-9912",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7465233,
+          41.0391223
+        ]
+      },
+      "id": "node/6559110546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573998418",
+        "addr:city": "Carter Lake",
+        "addr:housenumber": "1650",
+        "addr:postcode": "51510",
+        "addr:state": "IA",
+        "addr:street": "East Locust Street",
+        "name": "Casey's General",
+        "phone": "+1 712 347 2307",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9101637,
+          41.2855508
+        ]
+      },
+      "id": "node/6573998418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6573998479",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9142648,
+          41.2854954
+        ]
+      },
+      "id": "node/6573998479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6577819234",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1014543,
+          40.8110341
+        ]
+      },
+      "id": "node/6577819234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6579484768",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1075068,
+          40.7796931
+        ]
+      },
+      "id": "node/6579484768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6579540555",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1080239,
+          40.7959102
+        ]
+      },
+      "id": "node/6579540555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6579540559",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.115783,
+          40.7889588
+        ]
+      },
+      "id": "node/6579540559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6579549985",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1168302,
+          40.7800375
+        ]
+      },
+      "id": "node/6579549985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6579558384",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1152852,
+          40.7971528
+        ]
+      },
+      "id": "node/6579558384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6582656827",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6012163,
+          41.559617
+        ]
+      },
+      "id": "node/6582656827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6583084279",
+        "name": "Corner Deli",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5466839,
+          41.5309477
+        ]
+      },
+      "id": "node/6583084279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6583116451",
+        "addr:city": "Le Claire",
+        "addr:housenumber": "1301",
+        "addr:postcode": "52753",
+        "addr:state": "IA",
+        "addr:street": "Eagle Ridge Road",
+        "name": "Slagle's Food Pride",
+        "operator": "Slagle's",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3597637,
+          41.5882257
+        ]
+      },
+      "id": "node/6583116451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6588145902",
+        "addr:city": "West Burlington",
+        "addr:housenumber": "208",
+        "addr:postcode": "52655",
+        "addr:state": "IA",
+        "addr:street": "West Agency Road",
+        "brand": "Murphy USA",
+        "brand:wikidata": "Q19604459",
+        "brand:wikipedia": "en:Murphy USA",
+        "name": "Murphy USA",
+        "opening_hours": "Su-Th 06:00-21:00; Fr-Sa 06:00-22:00",
+        "phone": "(319) 754-7404",
+        "shop": "convenience",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1586477,
+          40.813642
+        ]
+      },
+      "id": "node/6588145902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6604432888",
+        "shop": "convenience",
+        "source": "EsriWorldImageryClarity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2080413,
+          40.8260304
+        ]
+      },
+      "id": "node/6604432888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6612471993",
+        "addr:city": "Cedar Rapids",
+        "addr:housenumber": "707",
+        "addr:postcode": "52401",
+        "addr:state": "IA",
+        "addr:street": "3rd Avenue Southeast",
+        "amenity": "marketplace",
+        "name": "Karibu Market",
+        "phone": "3193207708",
+        "website": "https://karibumarketcedarrapids.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.66096,
+          41.9802088
+        ]
+      },
+      "id": "node/6612471993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6615238142",
+        "brand": "BP Shop",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "name": "BP Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1639195,
+          41.0022422
+        ]
+      },
+      "id": "node/6615238142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6615294016",
+        "shop": "convenience",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9636229,
+          40.9888826
+        ]
+      },
+      "id": "node/6615294016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6635752393",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's General Stores",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3607702,
+          43.1463365
+        ]
+      },
+      "id": "node/6635752393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6635752394",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3597928,
+          43.1447082
+        ]
+      },
+      "id": "node/6635752394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6636185393",
+        "addr:city": "Cedar Rapids",
+        "addr:housenumber": "1507",
+        "addr:postcode": "52402",
+        "addr:state": "IA",
+        "addr:street": "1st Avenue East",
+        "name": "K.A.F.F. Oriental & African Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6518032,
+          41.9881448
+        ]
+      },
+      "id": "node/6636185393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6639400817",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3958253,
+          42.5117555
+        ]
+      },
+      "id": "node/6639400817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6699415921",
+        "addr:city": "Ankeny",
+        "addr:housenumber": "2075",
+        "addr:postcode": "50021",
+        "addr:street": "North Ankeny Boulevard",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "shop": "supermarket",
+        "website": "aldi.us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.599534,
+          41.7489575
+        ]
+      },
+      "id": "node/6699415921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6713217557",
+        "addr:city": "Ankeny",
+        "addr:housenumber": "202",
+        "addr:postcode": "50021",
+        "addr:street": "Southeast Oralabor Road",
+        "name": "Kwik Star",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5966705,
+          41.7036151
+        ]
+      },
+      "id": "node/6713217557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6900294361",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's General Stores",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6621829,
+          43.1862739
+        ]
+      },
+      "id": "node/6900294361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6900336611",
+        "name": "Sanborn Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.655574,
+          43.1827145
+        ]
+      },
+      "id": "node/6900336611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6910150586",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6086416,
+          41.7404528
+        ]
+      },
+      "id": "node/6910150586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983298913",
+        "addr:city": "Cedar Rapids",
+        "addr:housenumber": "180",
+        "addr:postcode": "52402",
+        "addr:state": "IA",
+        "addr:street": "Collins Road Northeast",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "opening_hours": "Mo, We, Fr-Su 09:00-20:00; Tu, Th 09:00-20:00",
+        "phone": "855-955-2534",
+        "shop": "supermarket",
+        "website": "https://www.aldi.us/stores/en-us/Search?SingleSlotGeo=Cedar%20Rapids%2C%20Iowa%2052402%2C%20USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6276002,
+          42.029381
+        ]
+      },
+      "id": "node/6983298913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7055520740",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3550487,
+          41.39894
+        ]
+      },
+      "id": "node/7055520740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7063847089",
+        "amenity": "fuel",
+        "brand": "Sinclair",
+        "brand:wikidata": "Q1290900",
+        "brand:wikipedia": "en:Sinclair Oil Corporation",
+        "name": "Sinclair",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1758981,
+          43.4316088
+        ]
+      },
+      "id": "node/7063847089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7158776245",
+        "brand": "Fresh Thyme",
+        "brand:wikidata": "Q64132791",
+        "name": "Fresh Thyme",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5466965,
+          41.5583769
+        ]
+      },
+      "id": "node/7158776245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7256343491",
+        "addr:city": "Elkhart",
+        "addr:housenumber": "102",
+        "addr:postcode": "50073",
+        "addr:state": "IA",
+        "addr:street": "NW Main Street",
+        "amenity": "marketplace",
+        "building": "commercial",
+        "name": "Tompkins Industries",
+        "opening_hours": "Mo-Fr 07:00-16:00",
+        "operator": "Tompkins Industries, Inc."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5261303,
+          41.7936729
+        ]
+      },
+      "id": "node/7256343491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7682246786",
+        "shop": "convenience",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6715344,
+          42.5127377
+        ]
+      },
+      "id": "node/7682246786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7682246796",
+        "shop": "convenience",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.672279,
+          42.515841
+        ]
+      },
+      "id": "node/7682246796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7682246863",
+        "name": "Kwik Stop",
+        "shop": "convenience",
+        "source": "EsriWorldImagery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7422911,
+          42.5012203
+        ]
+      },
+      "id": "node/7682246863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7821683737",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience",
+        "source": "EsriWorldImageryClarity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6789717,
+          42.4552982
+        ]
+      },
+      "id": "node/7821683737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7821855276",
+        "shop": "convenience",
+        "source": "EsriWorldImageryClarity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1137197,
+          42.4784206
+        ]
+      },
+      "id": "node/7821855276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7821857095",
+        "shop": "convenience",
+        "source": "EsriWorldImageryClarity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1150715,
+          42.4735683
+        ]
+      },
+      "id": "node/7821857095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7821872500",
+        "name": "Luxembourg Gas, Liquor and Tobacco",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0745272,
+          42.6028024
+        ]
+      },
+      "id": "node/7821872500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7855870016",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's General Stores",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6843382,
+          42.9824126
+        ]
+      },
+      "id": "node/7855870016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7855870018",
+        "name": "Prairie Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6873932,
+          42.9797066
+        ]
+      },
+      "id": "node/7855870018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7914887110",
+        "addr:city": "Iowa City",
+        "addr:housenumber": "301",
+        "addr:postcode": "52242",
+        "addr:state": "IA",
+        "addr:street": "North Clinton Street",
+        "name": "Clinton Street Market",
+        "operator": "University of Iowa Housing & Dining",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5350751,
+          41.665278
+        ]
+      },
+      "id": "node/7914887110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7914887114",
+        "name": "Grand Avenue Market",
+        "shop": "convenience",
+        "website": "https://dining.uiowa.edu/grand-avenue-market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5426326,
+          41.6592604
+        ]
+      },
+      "id": "node/7914887114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7914887115",
+        "name": "Mayflower Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5319148,
+          41.6765386
+        ]
+      },
+      "id": "node/7914887115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7914887120",
+        "name": "Union Market",
+        "operator": "University Of Iowa Housing & Dinning",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.538459,
+          41.6629458
+        ]
+      },
+      "id": "node/7914887120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7995925213",
+        "brand:wikidata": "Q17146520",
+        "name": "Natural Grocers",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5189036,
+          41.5743005
+        ]
+      },
+      "id": "node/7995925213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8004377458",
+        "brand": "Hy-Vee",
+        "brand:wikidata": "Q1639719",
+        "brand:wikipedia": "en:Hy-Vee",
+        "name": "Hy-Vee Dollar Fresh",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1316148,
+          43.3701905
+        ]
+      },
+      "id": "node/8004377458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8037915634",
+        "name": "West Side Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.651258,
+          42.0249617
+        ]
+      },
+      "id": "node/8037915634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8037915635",
+        "name": "South Side Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6504772,
+          42.014163
+        ]
+      },
+      "id": "node/8037915635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8037915638",
+        "name": "East Side Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6382495,
+          42.0236442
+        ]
+      },
+      "id": "node/8037915638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8153018093",
+        "brand": "Fareway",
+        "brand:wikidata": "Q5434998",
+        "brand:wikipedia": "en:Fareway",
+        "name": "Fareway",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8514559,
+          42.0656291
+        ]
+      },
+      "id": "node/8153018093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8158876220",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3366799,
+          42.470163
+        ]
+      },
+      "id": "node/8158876220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8291487379",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5761917,
+          42.0349588
+        ]
+      },
+      "id": "node/8291487379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8356140539",
+        "addr:housenumber": "7229",
+        "addr:postcode": "50324",
+        "addr:street": "University Avenue",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7173584,
+          41.6009201
+        ]
+      },
+      "id": "node/8356140539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8360782173",
+        "addr:city": "Lansing",
+        "addr:housenumber": "301",
+        "addr:postcode": "52151",
+        "addr:state": "IA",
+        "addr:street": "Main Street",
+        "name": "Kwik Star",
+        "phone": "563-538-4308",
+        "shop": "convenience",
+        "website": "https://www.kwiktrip.com/locator/store?id=818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2173747,
+          43.361491
+        ]
+      },
+      "id": "node/8360782173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8360782174",
+        "addr:housenumber": "420",
+        "addr:street": "Main Street",
+        "name": "Lansing Iga",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.219237,
+          43.3619775
+        ]
+      },
+      "id": "node/8360782174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8377339485",
+        "addr:city": "Cedar Rapids",
+        "addr:housenumber": "613",
+        "addr:postcode": "52402",
+        "addr:state": "IA",
+        "addr:street": "Center Point Road Northeast",
+        "name": "Babanur International Grocery",
+        "phone": "+1-319-362-0740",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6606982,
+          41.9907132
+        ]
+      },
+      "id": "node/8377339485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8385058806",
+        "addr:city": "Cedar Rapids",
+        "addr:housenumber": "4357",
+        "addr:postcode": "52402",
+        "addr:state": "IA",
+        "addr:street": "Czech Lane Northeast",
+        "name": "Our Himalayan Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6679266,
+          42.0232666
+        ]
+      },
+      "id": "node/8385058806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8436122334",
+        "addr:city": "Brooklyn",
+        "addr:housenumber": "106",
+        "addr:state": "IA",
+        "addr:street": "West 2nd Street",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's General Stores",
+        "name": "Casey's General Store",
+        "opening_hours": "Mo-Su 16:00-24:00",
+        "phone": "+1 641-522-3188",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4458812,
+          41.7305925
+        ]
+      },
+      "id": "node/8436122334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8492715422",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0497339,
+          42.9968726
+        ]
+      },
+      "id": "node/8492715422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8530434455",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6476434,
+          42.0225975
+        ]
+      },
+      "id": "node/8530434455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8538308624",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6219673,
+          42.0340266
+        ]
+      },
+      "id": "node/8538308624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8751462380",
+        "addr:city": "Dubuque",
+        "addr:housenumber": "1210",
+        "addr:postcode": "52001",
+        "addr:state": "IA",
+        "addr:street": "East 16th Street",
+        "name": "Kwik Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6557418,
+          42.5111732
+        ]
+      },
+      "id": "node/8751462380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8861602189",
+        "amenity": "fuel",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "cuisine": "pizza",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5467401,
+          41.4957412
+        ]
+      },
+      "id": "node/8861602189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8920329374",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3530089,
+          43.1329662
+        ]
+      },
+      "id": "node/8920329374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8931874876",
+        "addr:city": "Des Moines",
+        "addr:housenumber": "319",
+        "addr:postcode": "50309",
+        "addr:state": "IA",
+        "addr:street": "7th Street",
+        "addr:unit": "101",
+        "brand": "Kum & Go",
+        "brand:wikidata": "Q6443340",
+        "brand:wikipedia": "en:Kum & Go",
+        "name": "Kum & Go",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6259718,
+          41.5864918
+        ]
+      },
+      "id": "node/8931874876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8931874891",
+        "addr:city": "Des Moines",
+        "addr:housenumber": "604",
+        "addr:postcode": "50309",
+        "addr:state": "IA",
+        "addr:street": "Locust Street",
+        "name": "DGX",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6249977,
+          41.5864137
+        ]
+      },
+      "id": "node/8931874891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9078211973",
+        "amenity": "marketplace",
+        "name": "Farmers Market",
+        "opening_hours": "Th 16:30-19:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8515721,
+          41.2598441
+        ]
+      },
+      "id": "node/9078211973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9108587118",
+        "addr:city": "Iowa City",
+        "addr:housenumber": "2580",
+        "addr:postcode": "52245",
+        "addr:state": "IA",
+        "addr:street": "Moss Ridge Road",
+        "brand": "Conoco",
+        "brand:wikidata": "Q214763",
+        "brand:wikipedia": "en:ConocoPhillips",
+        "name": "Conoco",
+        "operator": "URBAN FUELS EXPRESS",
+        "phone": "(319) 259-7595",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4958583,
+          41.6935403
+        ]
+      },
+      "id": "node/9108587118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9120965121",
+        "addr:city": "Dubuque",
+        "addr:housenumber": "333",
+        "addr:postcode": "52002",
+        "addr:state": "IA",
+        "addr:street": "Asbury Road",
+        "brand": "Natural Grocers",
+        "brand:wikidata": "Q17146520",
+        "brand:wikipedia": "en:Vitamin Cottage Natural Grocers",
+        "name": "Natural Grocers",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7226473,
+          42.5125609
+        ]
+      },
+      "id": "node/9120965121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9144867085",
+        "brand": "BP Shop",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "name": "BP Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3543191,
+          43.4469032
+        ]
+      },
+      "id": "node/9144867085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9167411617",
+        "addr:housenumber": "1026",
+        "addr:postcode": "50112",
+        "addr:street": "Main Street",
+        "name": "McNally’s Foods",
+        "phone": "6412363166",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7254748,
+          41.7457443
+        ]
+      },
+      "id": "node/9167411617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9289097652",
+        "name": "Kwik Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8513028,
+          42.4429987
+        ]
+      },
+      "id": "node/9289097652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9370855409",
+        "name": "Leafy Bar",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6269326,
+          42.0267387
+        ]
+      },
+      "id": "node/9370855409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9419632400",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1392347,
+          43.3632252
+        ]
+      },
+      "id": "node/9419632400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9482500684",
+        "addr:city": "Manson",
+        "addr:housenumber": "1105",
+        "addr:postcode": "50563",
+        "addr:state": "IA",
+        "addr:street": "Main Street",
+        "name": "Manson Hometown Grocery",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.533842,
+          42.5305178
+        ]
+      },
+      "id": "node/9482500684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9525087825",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "brand:wikipedia": "en:Casey's",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4172226,
+          42.5055746
+        ]
+      },
+      "id": "node/9525087825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9538461582",
+        "addr:city": "Des Moines",
+        "addr:housenumber": "333",
+        "addr:postcode": "50309",
+        "addr:state": "IA",
+        "addr:street": "East Grand Avenue",
+        "addr:unit": "104",
+        "name": "East Village Pantry",
+        "phone": "+15154214009",
+        "shop": "convenience",
+        "website": "https://eastvillagedesmoines.com/shops/east-village-pantry/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6131005,
+          41.589858
+        ]
+      },
+      "id": "node/9538461582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9570201535",
+        "addr:city": "Iowa City",
+        "addr:housenumber": "415",
+        "addr:postcode": "52240",
+        "addr:state": "IA",
+        "addr:street": "East Washington Street",
+        "amenity": "marketplace",
+        "name": "Iowa City Farmers Market",
+        "operator": "Iowa City Parks and Recreation Department",
+        "website": "https://www.icgov.org/farmersmarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5293125,
+          41.6597962
+        ]
+      },
+      "id": "node/9570201535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9603564532",
+        "amenity": "marketplace",
+        "name": "Market Wagon",
+        "website": "https://marketwagon.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5731673,
+          41.6719259
+        ]
+      },
+      "id": "node/9603564532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9744946367",
+        "addr:city": "Cedar Rapids",
+        "addr:housenumber": "2000",
+        "addr:postcode": "52404",
+        "addr:state": "IA",
+        "addr:street": "Wiley Boulevard Southwest",
+        "amenity": "marketplace",
+        "name": "Cedar Rapids African and Oriental Market",
+        "phone": "+1 319 396 4072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7264076,
+          41.9598919
+        ]
+      },
+      "id": "node/9744946367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9745444629",
+        "addr:city": "Cedar Rapids",
+        "addr:housenumber": "95",
+        "addr:postcode": "52404",
+        "addr:state": "IA",
+        "addr:street": "16th Avenue Southwest",
+        "amenity": "marketplace",
+        "name": "Vintage Market & Supply Co.",
+        "opening_hours": "Tu-Th,Su 10:00-17:00; Fr-Sa 10:00-18:00",
+        "phone": "(319) 200-4555",
+        "website": "https://www.facebook.com/Vintagemarket.village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6613098,
+          41.9643265
+        ]
+      },
+      "id": "node/9745444629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9749824725",
+        "name": "Country Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2785686,
+          41.8964973
+        ]
+      },
+      "id": "node/9749824725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9815454451",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5686362,
+          41.6000912
+        ]
+      },
+      "id": "node/9815454451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9824076872",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "name": "ALDI",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4424685,
+          42.4866627
+        ]
+      },
+      "id": "node/9824076872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9836500006",
+        "addr:city": "Des Moines",
+        "addr:housenumber": "11801",
+        "addr:postcode": "50323",
+        "addr:state": "IA",
+        "addr:street": "Hickman Road",
+        "addr:unit": "300",
+        "name": "Protein House",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "phone": "515-276-6193",
+        "shop": "health_food",
+        "website": "https://www.protein-house.com/des-moines-ia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7781172,
+          41.6175181
+        ]
+      },
+      "id": "node/9836500006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9852192562",
+        "addr:city": "Clinton",
+        "addr:housenumber": "249",
+        "addr:postcode": "52732",
+        "addr:state": "IA",
+        "addr:street": "Main Avenue",
+        "name": "Kwik Star",
+        "phone": "563-242-7705",
+        "shop": "convenience",
+        "website": "https://www.kwiktrip.com/locator/store?id=698"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1828539,
+          41.872896
+        ]
+      },
+      "id": "node/9852192562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9925988917",
+        "addr:city": "Dyersville",
+        "addr:housenumber": "1201",
+        "addr:postcode": "52040",
+        "addr:street": "12th Avenue Southeast",
+        "name": "Dollar Fresh Market",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "shop": "grocery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1109275,
+          42.4749082
+        ]
+      },
+      "id": "node/9925988917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9949964792",
+        "name": "Kwik Star",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3570195,
+          41.6916447
+        ]
+      },
+      "id": "node/9949964792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9950243034",
+        "brand": "Casey's General Store",
+        "brand:wikidata": "Q2940968",
+        "name": "Casey's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0055446,
+          42.3024655
+        ]
+      },
+      "id": "node/9950243034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10003168586",
+        "brand": "Love's",
+        "brand:wikidata": "Q1872496",
+        "name": "Love's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8271188,
+          41.0462025
+        ]
+      },
+      "id": "node/10003168586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10003168593",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8249055,
+          41.0461934
+        ]
+      },
+      "id": "node/10003168593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10051985417",
+        "name": "ALDI",
+        "shop": "grocery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0196658,
+          41.4594208
+        ]
+      },
+      "id": "node/10051985417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10077993845",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3007459,
+          40.9946981
+        ]
+      },
+      "id": "node/10077993845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10080863401",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1509255,
+          42.5007955
+        ]
+      },
+      "id": "node/10080863401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10087967378",
+        "addr:city": "Ames",
+        "addr:housenumber": "130",
+        "addr:postcode": "50014",
+        "addr:state": "IA",
+        "addr:street": "Dotson Drive",
+        "name": "Ames Asian Market West",
+        "phone": "+15152924699",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6711707,
+          42.0218054
+        ]
+      },
+      "id": "node/10087967378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10095856438",
+        "addr:city": "Ames",
+        "addr:housenumber": "516",
+        "addr:postcode": "50010",
+        "addr:state": "IA",
+        "addr:street": "Lincoln Way",
+        "addr:unit": "3",
+        "name": "Asia Foods Store",
+        "phone": "+15152334928",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6178337,
+          42.022533
+        ]
+      },
+      "id": "node/10095856438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10096946173",
+        "addr:city": "Ames",
+        "addr:housenumber": "222",
+        "addr:postcode": "50010",
+        "addr:state": "IA",
+        "addr:street": "Lincoln Way",
+        "addr:unit": "102",
+        "name": "Inspire Nutrition",
+        "phone": "+15152322717",
+        "shop": "health_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6132522,
+          42.0226029
+        ]
+      },
+      "id": "node/10096946173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10120399228",
+        "addr:city": "Lansing",
+        "addr:housenumber": "748",
+        "addr:postcode": "52151",
+        "addr:state": "IA",
+        "addr:street": "Main Street",
+        "name": "Expresso",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2253566,
+          43.3620972
+        ]
+      },
+      "id": "node/10120399228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10200095596",
+        "addr:city": "Sioux City",
+        "addr:housenumber": "5001",
+        "addr:postcode": "51106",
+        "addr:state": "IA",
+        "addr:street": "Sergeant Road",
+        "addr:unit": "140",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI",
+        "shop": "supermarket",
+        "start_date": "2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3403384,
+          42.4474776
+        ]
+      },
+      "id": "node/10200095596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10251723895",
+        "name": "World Food Market",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5061805,
+          41.6426018
+        ]
+      },
+      "id": "node/10251723895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340247517",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-51-16 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978518,
+          41.8912427
+        ]
+      },
+      "id": "node/5340247517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5340252322",
+        "amenity": "drinking_water",
+        "fountain": "drinking",
+        "note": "not a nasone, historic drinking fountain",
+        "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-49-50 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4973968,
+          41.8913872
+        ]
+      },
+      "id": "node/5340252322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535092255",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4915049,
+          41.8918027
+        ]
+      },
+      "id": "node/5535092255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5801329944",
+        "amenity": "drinking_water",
+        "description:de": "Wasserbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4884569,
+          41.8880861
+        ]
+      },
+      "id": "node/5801329944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6547164641",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Fountain Via in Miranda, Foro Romano, Roma, Italia Oct 05, 2022 04-55-47 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4870814,
+          41.8924043
+        ]
+      },
+      "id": "node/6547164641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6616168986",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4967144,
+          41.8922741
+        ]
+      },
+      "id": "node/6616168986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6841124063",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926345,
+          41.8906387
+        ]
+      },
+      "id": "node/6841124063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085935353",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941883,
+          41.8915996
+        ]
+      },
+      "id": "node/7085935353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7203154248",
+        "amenity": "drinking_water",
+        "fountain": "nasone",
+        "wikimedia_commons": "File:Nasone Via Marco Aurelio, Roma, Italia Jun 30, 2022 08-08-32 PM.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4955486,
+          41.8882028
+        ]
+      },
+      "id": "node/7203154248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9108120217",
+        "amenity": "drinking_water",
+        "name": "Acqua",
+        "name:en": "Drinkable water",
+        "name:fr": "Eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4847106,
+          41.8877336
+        ]
+      },
+      "id": "node/9108120217"
+    }
+  ]
+}
