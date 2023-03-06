@@ -114,3 +114,35 @@ dropdown-content a {
     text-decoration: none;
     display: block;
 }
+
+/* About the team */
+.team-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+.team-member {
+    text-align: center;
+    margin: 20px;
+}
+.team-member img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.team-member p {
+    margin: 10px 0 0 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.team-member span {
+    display: block;
+    font-size: 1rem;
+    color: #666;
+}
