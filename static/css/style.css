@@ -70,11 +70,15 @@ a.link-text {
 }
 
 .intro-text {
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .ml-img {
     width: 100%;
+}
+
+.navbar-container {
+    max-width: 1627px !important;
 }
 
 .result-text {
