@@ -73,6 +73,14 @@ a.link-text {
     font-size: 25px;
 }
 
+.ml-img {
+    width: 100%;
+}
+
+.result-text {
+    font-size: 20px;
+}
+
 .sub-section {
     background-color:transparent;
     font-size:25px;
@@ -88,6 +96,12 @@ a.link-text {
     text-align: justify;
 }
 
+h3 {
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font: 20px "Lato", sans-serif;
+    color: #111;
+}
 h3 {
     letter-spacing: 5px;
     text-transform: uppercase;

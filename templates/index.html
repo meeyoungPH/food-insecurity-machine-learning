@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Food Equity AI</title>
+        <title>Food Equity ML</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Custom CSS -->
@@ -30,7 +30,7 @@
         <!-- Bootstrap navbar -->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
             <div class="container">
-                <a class="navbar-brand" href="#">Food Equity AI</a>
+                <a class="navbar-brand" href="#">Food Equity ML</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -71,23 +71,27 @@
             </div>
         </div>
 
-        <div id="intro-section"
-            
-            class="banner-white fluid-container mx-auto">
+        <div id="intro-section" class="banner-white fluid-container mx-auto">
             <h3 class="container my-3" style="text-align:center;">Food Insecurity & Machine Learning (ML)</h3>
             <p class="intro-text">Sociodemographic risk factors such as low income, unemployement, race/ethnicity,
-                and disability may predispose people to food insecurity, which is the limited access to healthy food in terms of distance or affordability. 
-                People experiencing food insecurity are at higher risk of obesity, chronic diseases, developmental problems, and 
-                poor mental health. Food insecurity is a wide-spread problem with 13.8 million out of 128.6 million households 
-                being affected at least part of the year in 2020 (<a href="https://health.gov/healthypeople/priority-areas/social-determinants-health/literature-summaries/food-insecurity" target="_blank">HHS</a>).
+                and disability may predispose people to food insecurity, which is the limited access to healthy food in
+                terms of distance or affordability.
+                People experiencing food insecurity are at higher risk of obesity, chronic diseases, developmental
+                problems, and
+                poor mental health. Food insecurity is a wide-spread problem with 13.8 million out of 128.6 million
+                households
+                being affected at least part of the year in 2020 (<a
+                    href="https://health.gov/healthypeople/priority-areas/social-determinants-health/literature-summaries/food-insecurity"
+                    target="_blank">HHS</a>).
             </p>
             <hr>
             <p class="intro-text">
-                For the Food Equity ML project, we conducted an analysis of food insecurity for populations within a 
-                1/2 radius for urban census tracts and a 10 mile radius for rural census tracts to identify potential 
-                sociodemographic risk factors. To accomplish this, we applied machine learning algorithms to analyze 
+                For the Food Equity ML project, we conducted an analysis of food insecurity for populations within a
+                1/2 radius for urban census tracts and a 10 mile radius for rural census tracts to identify potential
+                sociodemographic risk factors. To accomplish this, we applied machine learning algorithms to analyze
                 data from the Food Access Research Atlas published by the US Department of Agriculture (UDSA).
-                We further analyzed the data using geospatial mapping and data visualization tools to explore the dataset
+                We further analyzed the data using geospatial mapping and data visualization tools to explore the
+                dataset
                 for corresponding results.
             </p>
         </div>
@@ -101,8 +105,10 @@
         <div style="position:relative;">
             <div class="sub-section-text">
                 <div class="banner-black fluid-container mx-auto">
-                    <p class="intro-text">Source: <a href="https://www.ers.usda.gov/data-products/food-access-research-atlas/" target="_blank" class="link-text">
-                        Food Access Research Atlas</a></p>
+                    <p class="intro-text">Source: <a
+                            href="https://www.ers.usda.gov/data-products/food-access-research-atlas/" target="_blank"
+                            class="link-text">
+                            Food Access Research Atlas</a></p>
                     <p class="intro-text">Initial Number of Records: 72,530</p>
                     <p class="intro-text">Initial Number of Columns: 147</p>
                 </div>
@@ -111,16 +117,17 @@
 
         <div class="bgimg-3">
             <div class="caption">
-                <span class="border sub-section">Final Data for ML</span>
+                <span class="border sub-section">Final Data</span>
             </div>
         </div>
 
         <div style="position:relative;">
             <div class="sub-section-text">
                 <div class="banner-black fluid-container mx-auto">
-                    <p class="intro-text">Target Variable: LAhalfand10 - US Census tracts with low access within 0.5 mi (urban) and 10 mi (rural) of a food market</p>
                     <p class="intro-text">Final Number of Records: 67,286</p>
                     <p class="intro-text">Final Number of Columns: 47</p>
+                    <p class="intro-text">Target Variable: LAhalfand10 - US Census tracts with low access within 0.5 mi
+                        (urban) and 10 mi (rural) of a food market</p>
                 </div>
             </div>
         </div>
@@ -134,30 +141,60 @@
         <div class="fluid-container mx-auto my-5" style="max-width: 1627px">
             <!-- Two Columns of Content -->
             <div id="modeling-section" class="row">
-                <div class="col-md-12">
-                    <h2>Machine Learning</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur massa ac bibendum
+                <div class="row mt-5">
+                    <h3 class="mt-2">Machine Learning</h3>
+                    <p class="result-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur
+                        massa ac bibendum
                         euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
                         egestas. Donec blandit risus sed odio tincidunt hendrerit. Nam pretium dignissim enim, quis
                         maximus enim convallis vel. Sed vel risus sit amet odio laoreet lacinia vel ac lorem. In at
-                        justo vel sapien placerat bibendum. Duis malesuada sodales mauris ac feugiat. </p>
+                        justo vel sapien placerat bibendum.</p>
                 </div>
-                <div class="col-md-6">
-                    <h2>Column 2</h2>
-                    <p>Proin eget purus a nisl hendrerit feugiat in vel sapien. Pellentesque mollis quam a ex blandit
-                        malesuada. Nulla facilisi. Sed eget fringilla quam. Nunc eget efficitur nulla. Etiam lacinia,
-                        libero ut viverra lacinia, sapien leo elementum odio, sed laoreet ante ipsum vel justo. Morbi
-                        porta augue a aliquet tempus. </p>
+                <div class="row text-center">
+                    <div class="col-md-4">
+                        <h4>Supervised Machine Learning</h4>
+                        <img class="ml-img" src="../static/img/ml_supervised_ml_score_card.png"
+                            alt="supervised learning machine learning score card">
+                    </div>
+                    <div class="col-md-8">
+                        <h4>Optimization</h4>
+                        <img class="ml-img" src="../static/img/ml_rfc_score_card.png"
+                            alt="random forest classifier optimization results">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <h4>Random Forest Classification Model Tree</h4>
+                        <p class="result-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+                            consectetur massa ac bibendum
+                            euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+                            turpis
+                            egestas. Donec blandit risus sed odio tincidunt hendrerit. Nam pretium dignissim enim, quis
+                            maximus enim convallis vel. Sed vel risus sit amet odio laoreet lacinia vel ac lorem. In at
+                            justo vel sapien placerat bibendum.</p>
+                        <img class="ml-img" src="../static/img/ml_tree.png" alt="random forest classifer model tree">
+                    </div>
+                    <div class="col-md-6">
+                        <h4>Feature Selection</h4>
+                        <p class="result-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+                            consectetur massa ac bibendum
+                            euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+                            turpis
+                            egestas. Donec blandit risus sed odio tincidunt hendrerit. Nam pretium dignissim enim, quis
+                            maximus enim convallis vel. Sed vel risus sit amet odio laoreet lacinia vel ac lorem. In at
+                            justo vel sapien placerat bibendum.</p>
+                        <img class="ml-img" src="../static/img/ml_feature_selection_plot.png" alt="random forest classifer model tree">
+                    </div>
                 </div>
             </div>
 
 
+
             <!-- Leaflet Map -->
-            <div id="mapping-section" class="my-5">
-                <div class="row">
-                    <!-- <div class="col-md-12"> -->
-                    <div class="row">
-                        <h2>US Census Tracts with Low Food Access and Location of Food Markets</h2>
+            <div id="mapping-section" class="mb-5">
+                <!-- <div class="row"> -->
+                    <div class="row mt-5">
+                        <h3 class="mt-5">US Census Tracts with Low Food Access and Location of Food Markets</h3>
                     </div>
                     <div class="row">
                         <div class="dropdown mt-2">
@@ -177,7 +214,7 @@
                             in rural areas from the nearest food market</p>
                     </div>
                     <!-- </div> -->
-                </div>
+                <!-- </div> -->
             </div>
 
 
@@ -185,7 +222,7 @@
             <div id='tableau-section' class="my-5">
                 <div class="row">
                     <div class="col-md-12 mt-4">
-                        <h2>Comparison of Food Secure and Insecure Populations and Households</h2>
+                        <h3>Comparison of Food Secure and Insecure Populations and Households</h3>
                         <div class='tableauPlaceholder' id='viz1678121739210' style='position: relative'>
                             <noscript>
                                 <a href='#'>
@@ -216,32 +253,34 @@
                 </div>
             </div>
 
-            <div id="team-section" class="team-container">
-                <h2>Meet the Team</h2>
-                <div class="team-member">
-                    <img src="../static/img/pic-faulkner.jpg" alt="Team Member 1">
-                    <p>Alison Faulkner</p>
-                    <span>Neural Navigator</span>
-                </div>
-                <div class="team-member">
-                    <img src="../static/img/pic-sontakke.jpg" alt="Team Member 2">
-                    <p>Dipti Sontakke</p>
-                    <span>Visualization Virtuoso</span>
-                </div>
-                <div class="team-member">
-                    <img src="../static/img/pic-JS.jpg" alt="Team Member 3">
-                    <p>Jovawnte Stovall</p>
-                    <span>Curating Craftsman</span>
-                </div>
-                <div class="team-member">
-                    <img src="team-member-4.jpg" alt="Team Member 4">
-                    <p>Meena Rai</p>
-                    <span>Research Raconteur</span>
-                </div>
-                <div class="team-member">
-                    <img class="pr-4" src="../static/img/pic-park.jpg" alt="Team Member 5">
-                    <p>Meeyoung Park</p>
-                    <span>Cat-herding Champion</span>
+            <div id="team-section" class="fluid-container row">
+                <h3>Meet the Team</h3>
+                <div class="team-container">
+                    <div class="team-member">
+                        <img src="../static/img/pic-faulkner.jpg" alt="Team Member 1">
+                        <p>Alison Faulkner</p>
+                        <span>Neural Navigator</span>
+                    </div>
+                    <div class="team-member">
+                        <img src="../static/img/pic-sontakke.jpg" alt="Team Member 2">
+                        <p>Dipti Sontakke</p>
+                        <span>Visualization Virtuoso</span>
+                    </div>
+                    <div class="team-member">
+                        <img src="../static/img/pic-JS.jpg" alt="Team Member 3">
+                        <p>Jovawnte Stovall</p>
+                        <span>Curating Craftsman</span>
+                    </div>
+                    <div class="team-member">
+                        <img src="../static/img/pic-rai.jpg" alt="Team Member 4">
+                        <p>Meena Rai</p>
+                        <span>Research Raconteur</span>
+                    </div>
+                    <div class="team-member">
+                        <img class="pr-4" src="../static/img/pic-park.jpg" alt="Team Member 5">
+                        <p>Meeyoung Park</p>
+                        <span>Cat-herding Champion</span>
+                    </div>
                 </div>
             </div>
         </div>
