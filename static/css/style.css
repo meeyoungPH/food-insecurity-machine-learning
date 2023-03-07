@@ -69,16 +69,27 @@ a.link-text {
     letter-spacing: 10px;
 }
 
+.img-container {
+    text-align: center;
+}
+
+.img-ml,
+.img-tbl,
+.img-tf {
+    width: 100%;
+    margin: 0px auto 45px auto;
+}
+
+.img-tbl {
+    border: 1px solid black;
+}
+
+.img-tf {
+    display: inline-block;
+}
+
 .intro-text {
     font-size: 20px;
-}
-
-.ml-img {
-    width: 100%;
-}
-
-.navbar-container {
-    max-width: 1627px !important;
 }
 
 .result-text {
@@ -112,6 +123,65 @@ h3 {
     font: 20px "Lato", sans-serif;
     color: #111;
 }
+
+table {
+    width: 100%;
+}
+
+td {
+    font-size: 20px;
+}
+
+td.bottom {
+    border-bottom: 2px solid #000;
+}
+
+td.yellow {
+    background-color: rgb(206, 206, 149);
+}
+
+td.salmon {
+    background-color: rgb(218, 158, 134);
+}
+
+td.skyblue {
+    background-color: rgb(165, 197, 217);
+}
+
+th.top {
+    border-bottom: 2px solid white;
+}
+
+thead {
+    background-color: darkslategray;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Responsive screen size */
+/* For screens smaller than or equal to 1627px */
+@media screen and (max-width: 1627px) {
+    .navbar-container, 
+    .banner-container, 
+    .results-container {
+      max-width: 95% !important;
+    }
+    /* .results-container {
+        max-width: 95% !important;
+      } */
+  }
+  
+  /* For screens larger than 1627px */
+  @media screen and (min-width: 1628px) {
+    .navbar-container {
+      max-width: 95% !important;
+    }
+    .banner-container,
+    .results-container {
+        max-width: 1627px !important;
+      }
+  }
 
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1024px) {
