@@ -5,7 +5,7 @@ pip install -r requirements.txt
 
 * PROJECT OVERVIEW *
 
-For the Food Insecurity Machine-Learning project, we conducted an analysis of food insecurity across US Census Tracts to identify potential sociodemographic risk factors. To accomplish this, we applied machine learning algorithms to analyze data pulled from the usda.gov website and used various visualization tools to chart findings.
+For the Food Insecurity AI project, we conducted an analysis of food insecurity across US Census Tracts to identify potential sociodemographic risk factors. To accomplish this, we applied machine learning algorithms to analyze data pulled from the usda.gov website and used various visualization tools to chart findings.
 We used Flask API to connect to our Postgres database, and HTML to create a  website that showcases findings. Most of the ETL was done using Jupyter Notebook/Pandas. We used Leaflet and Tableau for visualizations via maps and charts. For this 'big data' project we cut over to using data from the cloud using  AWS.
 
 
