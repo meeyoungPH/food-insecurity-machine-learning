@@ -38,3 +38,6 @@ There are 2 types of visualized data presentations in this project and both can 
 						** NEURONETWORKING **
 
 ...............
+
+<img width="194" alt="ml_supervised_ml_score_card  (1)" src="https://user-images.githubusercontent.com/112736433/223292931-0ee957db-9318-4ec8-af01-be51f435d1d7.png">
+
