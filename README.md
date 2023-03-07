@@ -32,6 +32,8 @@ The optimized model we found has a high recall (93%) for label '1' (or low acces
 
 There are 2 types of visualized data presentations in this project and both can be found on the webpage. we used GeoJason to create a heatmap that shows food access in the US by state. Tableau is used to show bar charts comparing food access by different demographics. We compared food access by race, age and income. We also compare the number of people who have SNAP (a form of government assistance) to those that are food insecure. Some of the key findings shown in visuals is that there is a higher percentage of food insecure kids than secure, but for seniors there is a higher percentage of food secure people. A surprising outcome we came across is the fact that there is a higher percentage of food secure people using SNAP government assistance than non-secure people. We also found that distance from a grocery store does not have a significant impact on food security within a 1/2 mile range. Within this range, there isn't a significant difference in food security based on income either.
 ![viz](https://user-images.githubusercontent.com/112736433/223290202-49aa334c-c8cb-401c-872e-77c9a18960cc.png)
+https://public.tableau.com/app/profile/dipti7328/viz/TractSNAPSECUREVSINSECURE/another?publish=yes
+
 
 
 
