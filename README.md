@@ -1,61 +1,150 @@
-pip freeze > requirements.txt
+# Project 4: Food Insecurity and Machine Learning
+![website_background](static/img/top_pic.png)
+ 
+# Overview
+Sociodemographic risk factors such as low income, unemployment, race/ethnicity,
+and disability may predispose people to food insecurity, which is the limited access to healthy food in terms of distance or affordability. people experiencing food insecurity are at higher risk of obesity, chronic diseases, developmental Problems, and poor mental health. Food insecurity is a wide-spread problem with 13.8 million out of 128.6 million households being affected at least part of the year in 2020. (Source: [HHS](https://health.gov/healthypeople/priority-areas/social-determinants-health/literature-summaries/food-insecurity))
 
+For the Food Equity ML project, we conducted an analysis of food insecurity for populations within a 1/2 mile radius for urban census tracts and a 10-mile radius for rural census tracts to identify potential sociodemographic risk factors. To accomplish this, we applied machine learning algorithms to analyze data from the Food Access Research Atlas published by the US Department of Agriculture (UDSA).
+We further analyzed the data using geospatial mapping and data visualization tools to explore the dataset for corresponding results. 
+
+# Installation
+
+1. Postgres
+    * Create a database named 'food_insecurity'
+    * Enter the text from the [SQLSchema file](static/data/SQLSchema.sql) into the food_insecurity query in Postgres
+    * 
+2. To install the version of libraries/modules, enter this command in your terminal:
+
+```
 pip install -r requirements.txt
+```
+
+# Methodology
+* Project Data sources:
+    * [Food Access Dataset](https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/)
+    * [Food Market Locations](https://overpass-turbo.eu/)
+    * [US Census Tract GeoJSON files](https://www2.census.gov/geo/tiger/TIGER2021/TRACT/)
+* Project Wireframe<br>
+![wireframe](static/img/wireframe.png)
+
+## Dataframe Creation (ETL) 
+* Multiple dataframes were created to support analysis for machine learning and visualizations in Tableau and Leaflet. Datasets created include:
+    * State
+    * Food_Access_1 - preliminary model; 
+    * Food_Access_2 - preliminary model; not enough rows for ML after removing nulls
+    * Food_Access_3 - final model used for ML modeling
+    * Viz_Data - includes available data for all US census tracts
+    * Summary - summary data aggregated by state and national geographic levels
+
+## Geospatial Files
+
+## Extraction (MEEYOUNG)
+* Imported the FoodAccessResearchAtlasData2019.csv file as a Pandas dataframe 
+* Confirmed a successful import by displaying the dataframe<br>
+![raw df](static/img/raw_df.png)<br>
+
+## Transformation
+* Data was cleaned and organized using the following methods:
+    * Slice, apply, round, lambda, drop, dropna, reset_index, isnull, duplicated, sum, describe, tolist, info, rename, groupby, agg, concat, merge, pop, corr
+* State FIPS column was added
+* Percentage calculations were added   
+
+## Loading (MEEYOUNG)
+* LOADED TO POSTGRES
+
+# Machine Learning
+Since "Food Access Dataset" is a labeled (LAhalfand10) dataset and has two class labels (0 and 1), we used binary classification supervised machine learning models.
+
+## Date Loading 
+* Data was loaded from AWS and confirmed<br>
+![ml_df](static/img/ml_df.png)<br>
+
+## Data Pre-processing
+* Added a new column
+* Dropped undesired columns
+* Moved target feature to the last column
+* Checked for null values
+* Checked for duplicate values
+* Checked correlation matrix for features<br>
+![corr_matrix](static/img/ml_corr_matrix.png)<br>
+
+## Split Data into Training/ Testing Sets and Standardize
+* Created features (X), by removing the "LAhalfand10" column 
+* Created target (y) by using the "LAhalfand10" column 
+* Split data into training and testing datasets using train_test_split function
+* Standardized data (X) using StandardScaler function 
+
+## Model, Fit, Predict
+* Created, trained and scored the following binary classification models to select the best model for our dataset<br>
+![ml_score](static/img/ml_diff_models_score.png)<br>
+![nn initial score](static/img/NN_initial_scorecard.png)<br>
+
+## Random forest classifier and neural network models showed the highest accuracy and hence were selected for further optimization<br>
 
 
-* PROJECT OVERVIEW *
+## Model Optimization
+* Data Addition - 13 more columns were added<br>
+![df with added columns](static/img/df3.png)<br>
 
-For the Food Insecurity AI project, we conducted an analysis of food insecurity across US Census Tracts to identify potential sociodemographic risk factors. To accomplish this, we applied machine learning algorithms to analyze data pulled from the usda.gov website and used various visualization tools to chart findings.
-We used Flask API to connect to our Postgres database, and HTML to create a  website that showcases findings. Most of the ETL was done using Jupyter Notebook/Pandas. We used Leaflet and Tableau for visualizations via maps and charts. For this 'big data' project we cut over to using data from the cloud using  AWS.
+* Classification report for bigger Random forest model<br>
+![Alt text](static/img/rfc_col_add_score.png)<br>
 
+* Accuracy report for bigger Neural Network model<br>
+![NN_final_scorecard](static/img/NN_final_scorecard.png)<br>
 
-						** MACHINE LEARNING **
-![ml_tree](https://user-images.githubusercontent.com/112736433/223291719-05c108ae-0914-4687-83ca-2d6049371e71.png)
+* Feature Importance<br>
+![fi_plot](static/img/ml_feature_selection_plot.png)<br>
 
-We had to clean and organize the data to prepare it for machine learning. Using various tools like slice, drop, reset, aggregating, groupby, etc. we got the data into usable format. The dataset is has two class labels (0 and 1) to signify whether subjects have food access or not. We created several dataframes to run our supervised machine learning models. We found that one of the dataframes had plenty of usable rows (over 70,000), but the maximum accuracy we got with it was 75%. A second dataframe had high accuracy at 90%, but the number of usable rows was less than 8,000. We ultimately decided on a third dataframe  where we felt good about the fitting as well as accuracy.
-We used various binary classification models to get the best results. The Random Forest Classifier gave the highest accuracy  at 84%, but there was an overfitting issue (training score of 1.0). 
+* Feature Selection Score<br>
+![fs_score](static/img/ml_feature_selection_score.png)<br>
 
+### Random Forest Model Hypertuning with GridSearchCV
+* Hypertuning Parameters - to minimize overfitting, max depth and n_estimators were tuned<br>
+![hypertunig_parameters](static/img/ml_hyperparameter_tuning.png)<br>
 
-Manipulating features did not help this issue, yielding a training score of 0.99 and a lower accuracy of 0.83. We next tried hyperparameter modeling with different depth and estimators. 
+* Tuned model classification report<br>
+![Alt text](static/img/ml_best_parameter_score.png)<br>
 
-<img width="386" alt="ml_feature_selection_plot" src="https://user-images.githubusercontent.com/112736433/223291367-f322eb0c-7bf6-4898-9e3a-ddf893cec804.png">  <img width="178" alt="ml_diff_models_score" src="https://user-images.githubusercontent.com/112736433/223290708-d463f686-6a1b-4e13-9a31-f2de4953b858.png">
+* Tree plot with best parameter ('max_depth': 7, 'n_estimators': 100)<br>
+![Tree plot](static/img/ml_tree.png)<br>
 
+# Visualizations
+Used Leaflet and Tableau to visualize our data<br>
+* Leaflet map: used GeoJson to create a heatmap that shows food access in the US by state<br>
+![leaflet_map](static/img/map-example.png)<br>
 
+* Tableau Dashboard: bar charts comparing food access by different demographics<br>
+![Alt text](static/img/tablaeu_dashboard.png)<br>
 
-The optimized model we found has a high recall (93%) for label '1' (or low access population with food insecurity). This means the model is highly efficient in predicting true positives, which is very important for people trying to qualify for food assistance benefits, for example.
+# Analysis
+## Machine Learning
+We created multiple dataframes (different feature numbers/ rows) from our dataset and used various binary classification models to get the best performing model. The following are conclusions from our best model (using third dataframe):<br>
+* Out of all the binary classification models tested, Random Forest Classifier gave the highest accuracy with overfitting (Training Score: 1.0, Testing Score: 0.84).
+*Feature addition improved model accuracy - third dataframe was created by adding 13 more features to first dataframe and it increased the accuracy from 0.78 to 0.82 for random forest classifier and 0.85 for neural network model.
+* Feature selection was unhelpful in resolving overfitting issue (Training Score: 0.99, Testing Score: 0.83).
+* Hyperparameter tuning ('max_depth': 7, 'n_estimators': 200) resolved the overfitting issue (Training Score: 0.83, Testing Score: 0.82) with some decrease in accuracy (0.84 to 0.82)
+* Optimized model has a high recall (0.94) for "label 1" (low access population with food insecurity flag) which means our model is highly efficient in predicting true positives for this class (less false negatives). 
 
-<img width="253" alt="ml_best_parameter_score" src="https://user-images.githubusercontent.com/112736433/223290496-a85e0345-a4c2-443e-8c59-1b318dba16b6.png">
-
-
-
-						** VISUALIZATIONS **
-
-There are 2 types of visualized data presentations in this project and both can be found on the webpage. we used GeoJason to create a heatmap that shows food access in the US by state. Tableau is used to show bar charts comparing food access by different demographics. We compared food access by race, age and income. We also compare the number of people who have SNAP (a form of government assistance) to those that are food insecure. Some of the key findings shown in visuals is that there is a higher percentage of food insecure kids than secure, but for seniors there is a higher percentage of food secure people. A surprising outcome we came across is the fact that there is a higher percentage of food secure people using SNAP government assistance than non-secure people. We also found that distance from a grocery store does not have a significant impact on food security within a 1/2 mile range. Within this range, there isn't a significant difference in food security based on income either.
-![viz](https://user-images.githubusercontent.com/112736433/223290202-49aa334c-c8cb-401c-872e-77c9a18960cc.png)
-https://public.tableau.com/app/profile/dipti7328/viz/TractSNAPSECUREVSINSECURE/another?publish=yes
-
-
-
-
-						** NEURONETWORKING **
-
-For the neural network model, we first pared the raw data down from an initial 147 columns into 17 trainable features and preprocessed it to remove null values. 
-We chose Tensorflow as our neural network platform due to its flexibility, wide range of deep learning applications, and because our data isn't deeply complex. The model chosen was tf.keras.Sequential, as it arranges the layers in a linear, top-to-bottom approach. We used two hidden layers with 8 and 16 neurons respectively, with 30 dimensions, and trained this model in 80 epochs. We achieved an accuracy of 85% with a loss of 32%, meaning our model is relatively accurate predictions while also being correct in its predictions for approximately 85% of the samples in the dataset.
-
-Analysis:
-
-- Split dataset into features and target (‘LAhalfand10’).
-- Normalized the data.
-- Defined a Tensorflow Sequential model with 2 hidden layers with 8 & 16 neurons respectively; 30 input dimensions and used rectilinear units (‘relu’) as both layers’ activations.
-- Compiled this model using binary crossentropy as its loss, “Adam” as the optimizer, and sought accuracy as the primary metric.
-- Fit the model on 80 epochs.
-
-Results:
-
-- Loss: 0.32829371 
-- Accuracy: 0.84615385
-- An accuracy of 0.8462 suggests that the model is correct in its predictions for approximately 85% of the samples in the dataset.
+## Leaflet Map (MEEYOUNG)
 
 
-<img width="194" alt="ml_supervised_ml_score_card  (1)" src="https://user-images.githubusercontent.com/112736433/223292931-0ee957db-9318-4ec8-af01-be51f435d1d7.png">
+## Tableau Dashboard (DIPTI)
+We had interesting findings with machine learning versus what we found in the Tableau presentation. Our data was based on Secure vs Insecure flag. We used the same indicator against dimensions such as Age, Race, Ethnicity, SNAP Benefits, Housing Units without Vehicle, Household low income to display the presentation of Secure vs non-secure populations. In most of our chart comparisons, there is not a significant difference in terms of %, which ranges between 1-10%. The following are the conclusions from our Tableau analysis: <br>
+* In terms of food security, insecure kids are higher in % than secure kids, but for seniors, the opposite is true and secure % is higher than insecure population of seniors. <br>
+* A surprising outcome we came across is the fact that there is a higher percentage of food-secure people using SNAP government assistance benefits than non-secure people. <br>
+* We also found that distance from a grocery store does not have a significant impact on food security within a 1/2 mile range. <br>
+* Within this ½ mile range, there is not a significant difference in food security based on household income, either. <br>
+* Secure population without a vehicle is 6% greater than insecure population without a vehicle.<br>
 
+## Limitations
+* For machine learning, we ran into issues of usable data after data cleaning, since many columns have multiple null values. For this reason we had to create the third dataframe (final dataframe). The following are the specific limitations for first and second dataframes:
+    * First dataframe - Even though the number of rows is high (71,782 rows), the accuracy score is fairly low (0.75).
+    * Second dataframe - Even though the accuracy is high (.90), the number of rows is suboptimal (7,708 rows) for machine learning.
+* As our data resides on an AWS-S3 bucket , there was a limitation to connect Tableau Public to AWS. Hence, we took another route and used an exported, cleaned, transformed, and modeled .csv file for this purpose.
+* Many of data elements were missing values, hence we couldn’t use some important columns which could have given us a better understanding of this dataset.
+
+# References/ Sources
+* https://foodtank.com/wp-content/uploads/2022/04/vince-veras-sYaK3SlGwEw-unsplash.jpg
+* https://leafletjs.com/
+* https://www.tableau.com/
