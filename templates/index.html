@@ -102,12 +102,12 @@
         <div style="position:relative;">
             <div class="sub-section-text">
                 <div class="banner-black banner-container fluid-container mx-auto text-center">
+                    <p class="intro-text">Records: 72,530 | Columns: 147</p>
                     <p class="intro-text">Source: <a
                             href="https://www.ers.usda.gov/data-products/food-access-research-atlas/" target="_blank"
                             class="link-text">
                             Food Access Research Atlas</a></p>
-                    <p class="intro-text">Initial Number of Records: 72,530</p>
-                    <p class="intro-text">Initial Number of Columns: 147</p>
+                    <!-- <p class="intro-text">Initial Number of Columns: 147</p> -->
                 </div>
             </div>
         </div>
@@ -121,8 +121,8 @@
         <div style="position:relative;">
             <div class="sub-section-text">
                 <div class="banner-black banner-container fluid-container mx-auto text-center">
-                    <p class="intro-text">Final Number of Records: 67,286</p>
-                    <p class="intro-text">Final Number of Columns: 47</p>
+                    <p class="intro-text">Records: 67,286 | Columns: 47</p>
+                    <!-- <p class="intro-text">Columns: 47</p> -->
                     <p class="intro-text">Target Variable: LAhalfand10 - US Census tracts with low access within 0.5 mi
                         (urban) and 10 mi (rural) of a food market</p>
                 </div>
@@ -139,41 +139,13 @@
             <div id="modeling-section" class="row">
                 <div class="row mt-5">
                     <h3 class="mt-2">Machine Learning</h3>
-                    <h4 class="mt-4">Supervised Machine Learning</h4>
-                    <p class="result-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur
-                        massa ac bibendum
-                        euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
-                        egestas. Donec blandit risus sed odio tincidunt hendrerit. Nam pretium dignissim enim, quis
-                        maximus enim convallis vel. Sed vel risus sit amet odio laoreet lacinia vel ac lorem. In at
-                        justo vel sapien placerat bibendum.</p>
                 </div>
                 <div class="row">
-                    <div class="col-md-4">
-                        <h4 class="mt-4">Supervised Machine Learning Score Card</h4>
-                        <img class="img-ml" src="../static/img/ml_supervised_ml_score_card.png"
-                            alt="supervised learning machine learning score card">
-                    </div>
-                    <div class="col-md-8">
-                        <h4 class="mt-4">Tensor Flow: Neural Networks</h4>
-                        <p class="result-text">We chose Tensorflow as our neural network platform due to its
-                            flexibility, wide range of deep learning applications, and because our data isn't deeply
-                            complex. The model chosen was tf.keras.Sequential, as it arranges the layers in a linear,
-                            top-to-bottom approach. We used two hidden layers with 8 and 16 neurons respectively, with
-                            30
-                            dimensions, and trained this model in 80 epochs. We achieved an accuracy of 85% with a loss
-                            of
-                            of 32%, meaning our model is relatively accurate predictions while also being correct in its
-                            predictions for approximately 85% of the samples in the dataset.</p>
-                        <img class="img-ml" src="../static/img/ml_tf_neural_network.png"
-                            alt="random forest classifier optimization results">
-                    </div>
-                </div>
-                <div class="row mt-4">
-                    <h4>Random Forest Classification</h4>
+                    <h4 class="mt-4"><strong>Supervised Machine Learning</strong></h4>
                 </div>
                 <div class="row">
-                    <div class="col-md-4">
-                        <h4 class="mt-4">Random Forest Classification</h4>
+                    <div class="col-md-6">
+                        <h4 class="mt-4">Overview</h4>
                         <p class="result-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
                             consectetur
                             massa ac bibendum
@@ -183,38 +155,158 @@
                             maximus enim convallis vel. Sed vel risus sit amet odio laoreet lacinia vel ac lorem. In at
                             justo vel sapien placerat bibendum.</p>
                     </div>
-                    <div class="col-md-8">
+                    <div class="col-md-6">
                         <h4 class="mt-4">Score Card</h4>
-                        <img class="img-ml" src="../static/img/ml_rfc_score_card.png"
-                            alt="random forest classifier optimization results">
+                        <img class="img-tbl" src="../static/img/ml_supervised_ml_score_card.png"
+                            alt="supervised learning machine learning score card">
                     </div>
+                </div>
+
+                <hr>
+
+                <div class="row mt-4">
+                    <h4><strong>Random Forest Classification</strong></h4>
+                </div>
+                <div class="row">
+                    <h4 class="mt-4">Results</h4>
+                    <p class="result-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+                        consectetur
+                        massa ac bibendum
+                        euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+                        turpis
+                        egestas. Donec blandit risus sed odio tincidunt hendrerit. Nam pretium dignissim enim, quis
+                        maximus enim convallis vel. Sed vel risus sit amet odio laoreet lacinia vel ac lorem. In at
+                        justo vel sapien placerat bibendum.</p>
+                </div>
+                <div class="row">
+                    <!-- <div class="col-md-12"> -->
+                    <h4 class="mt-4">Score Card</h4>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th rowspan="2">Model</th>
+                                <th rowspan="2">Optimization</th>
+                                <th rowspan="2">Training Score</th>
+                                <th rowspan="2">Testing Score</th>
+                                <th rowspan="2">Accuracy</th>
+                                <th class="top" colspan="2">Precision</th>
+                                <th class="top" colspan="2">Recall</th>
+                                <th class="top" colspan="2">F1 Score</th>
+                            </tr>
+                            <tr>
+                                <th>Secure (0)</th>
+                                <th>Insecure (1)</th>
+                                <th>Secure (0)</th>
+                                <th>Insecure (1)</th>
+                                <th>Secure (0)</th>
+                                <th>Insecure (1)</th>
+                            </tr>
+                        </thead>
+                        <tbody class='text-center'>
+                            <tr>
+                                <td><b>Random Forest Classifier_1</b></td>
+                                <td>n/a</td>
+                                <td>1.00</td>
+                                <td>0.78</td>
+                                <td>0.78</td>
+                                <td>0.71</td>
+                                <td>0.80</td>
+                                <td>0.50</td>
+                                <td>0.91</td>
+                                <td>0.59</td>
+                                <td>0.85</td>
+                            </tr>
+                            <tr>
+                                <td><b>Random Forest Classifer_2.1</b></td>
+                                <td>Feature addition (n=13)</td>
+                                <td>1.00</td>
+                                <td>0.84</td>
+                                <td>0.85</td>
+                                <td>0.76</td>
+                                <td>0.87</td>
+                                <td>0.65</td>
+                                <td>0.92</td>
+                                <td>0.70</td>
+                                <td>0.90</td>
+                            </tr>
+                            <tr>
+                                <td><b>Random Forest Classifier_2.2</b></td>
+                                <td>Feature selection (did not drop any columns)</td>
+                                <td>1.00</td>
+                                <td>0.84</td>
+                                <td class="salmon">0.84</td>
+                                <td>0.75</td>
+                                <td>0.87</td>
+                                <td>0.63</td>
+                                <td class="skyblue">0.92</td>
+                                <td>0.68</td>
+                                <td>0.89</td>
+                            </tr>
+                            <tr>
+                                <td class="bottom"><b>Random Forest Classifier_2.3</b></td>
+                                <td class="bottom">Hyperparameter Tuning with GridSearchCV (max_depth: [3, 5, 7],
+                                    n_estimators: [50, 100, 200]</td>
+                                <td class="bottom yellow">0.83</td>
+                                <td class="bottom yellow">0.82</td>
+                                <td class="bottom salmon">0.82</td>
+                                <td class="bottom">0.77</td>
+                                <td class="bottom">0.83</td>
+                                <td class="bottom">0.49</td>
+                                <td class="bottom skyblue">0.94</td>
+                                <td class="bottom">0.60</td>
+                                <td class="bottom">0.88</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <!-- </div> -->
+
+
                 </div>
                 <div class="row">
                     <div class="col-md-6">
-                        <h4>Random Forest Classification Model Tree</h4>
-                        <p class="result-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                            consectetur massa ac bibendum
-                            euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-                            turpis
-                            egestas. Donec blandit risus sed odio tincidunt hendrerit. Nam pretium dignissim enim, quis
-                            maximus enim convallis vel. Sed vel risus sit amet odio laoreet lacinia vel ac lorem. In at
-                            justo vel sapien placerat bibendum.</p>
+                        <h4 class="mt-4">Random Forest Classification Model Tree</h4>
+                        <p class="result-text">This tree plot shows slight imbalance in our dataset, with
+                            higher insecure population data as compared to secure population. This can be used for
+                            future optimization.</p>
                         <img class="img-ml" src="../static/img/ml_tree.png" alt="random forest classifer model tree">
                     </div>
                     <div class="col-md-6">
-                        <h4>Feature Selection</h4>
-                        <p class="result-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                            consectetur massa ac bibendum
-                            euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-                            turpis
-                            egestas. Donec blandit risus sed odio tincidunt hendrerit. Nam pretium dignissim enim, quis
-                            maximus enim convallis vel. Sed vel risus sit amet odio laoreet lacinia vel ac lorem. In at
-                            justo vel sapien placerat bibendum.</p>
+                        <h4 class="mt-4">Feature Selection</h4>
+                        <p class="result-text">In general, low access population demographic features are significantly
+                            important. Surprisingly median household income and poverty rate features do not seem to be
+                            that important.</p>
                         <img class="img-ml" src="../static/img/ml_feature_selection_plot.png"
                             alt="random forest classifer model tree">
                     </div>
                 </div>
+
+                <hr>
+
+                <div class="row">
+                    <h4 class="mt-4"><strong>TensorFlow: Neural Networks</strong></h4>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <h4 class="mt-4">Neural Network Diagram</h4>
+                        <div class="img-container">
+                            <img class="img-tf" src="../static/img/ml_tf_neural_network.png"
+                                alt="random forest classifier optimization results">
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <h4 class="mt-4">Results</h4>
+                        <p class="result-text">We chose Tensorflow as our neural network platform due to its
+                            flexibility, wide range of deep learning applications, and because our data isn't deeply
+                            complex. The model chosen was tf.keras.Sequential, as it arranges the layers in a linear,
+                            top-to-bottom approach. We used two hidden layers with 8 and 16 neurons respectively, with
+                            30 dimensions, and trained this model in 80 epochs. We achieved an accuracy of 85% with a
+                            loss
+                            of 32%, meaning our model is relatively accurate predictions while also being correct in its
+                            predictions for approximately 85% of the samples in the dataset.</p>
+                    </div>
+                </div>
             </div>
+            <hr>
 
             <!-- Leaflet Map -->
             <div id="mapping-section" class="mb-5">
@@ -239,6 +331,7 @@
                         in rural areas from the nearest food market</p>
                 </div>
             </div>
+            <hr>
 
             <!-- Tableau Charts -->
             <div id='tableau-section' class="my-5">
@@ -274,6 +367,7 @@
                     </div>
                 </div>
             </div>
+            <hr>
 
             <div id="conclusion-section" class="row">
                 <div class="row mt-5">
@@ -295,6 +389,7 @@
                         justo vel sapien placerat bibendum.</p>
                 </div>
             </div>
+            <hr>
 
             <div id="team-section" class="row">
                 <div class="row mt-5">
