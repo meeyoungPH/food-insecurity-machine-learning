@@ -37,7 +37,22 @@ There are 2 types of visualized data presentations in this project and both can 
 
 						** NEURONETWORKING **
 
-...............
+For the neural network model, we first pared the raw data down from an initial 147 columns into 17 trainable features and preprocessed it to remove null values.
+
+Analysis:
+
+- Split dataset into features and target (‘LAhalfand10’).
+- Normalized the data.
+- Defined a Tensorflow Sequential model with 2 hidden layers with 8 & 16 neurons respectively; 30 input dimensions and used rectilinear units (‘relu’) as both layers’ activations.
+- Compiled this model using binary crossentropy as its loss, “Adam” as the optimizer, and sought accuracy as the primary metric.
+- Fit the model on 80 epochs.
+
+Results:
+
+- Loss: 0.32829371 
+- Accuracy: 0.84615385
+- An accuracy of 0.8462 suggests that the model is correct in its predictions for approximately 85% of the samples in the dataset.
+
 
 <img width="194" alt="ml_supervised_ml_score_card  (1)" src="https://user-images.githubusercontent.com/112736433/223292931-0ee957db-9318-4ec8-af01-be51f435d1d7.png">
 
