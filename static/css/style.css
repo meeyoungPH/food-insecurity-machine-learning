@@ -1,12 +1,34 @@
 /* Add background image and parallax effect */
-body, html {
+body,
+html {
     height: 100%;
     margin: 0;
     font: 400 15px/1.8 "Lato", sans-serif;
     color: #777;
 }
-  
-.bgimg-1, .bgimg-2, .bgimg-3 {
+
+a.link-text {
+    color: #1d7593;
+}
+
+.banner-black {
+    max-width: 1627px;
+    padding:20px 80px;
+
+}
+
+.banner-white {
+    color: #777;
+    background-color: white;
+    text-align:center;
+    padding:50px 80px;
+    text-align: justify;
+    max-width: 1627px;
+}
+
+.bgimg-1,
+.bgimg-2,
+.bgimg-3 {
     position: relative;
     opacity: 0.65;
     background-attachment: fixed;
@@ -19,17 +41,17 @@ body, html {
     background-image: url("https://d31nhj1t453igc.cloudfront.net/cloudinary/2022/Apr/08/kEj6bRq5c0eDeW6u6GDJ.jpg");
     min-height: 100%;
 }
-  
+
 .bgimg-2 {
     background-image: url("https://foodtank.com/wp-content/uploads/2022/04/vince-veras-sYaK3SlGwEw-unsplash.jpg");
     min-height: 400px;
 }
-  
+
 .bgimg-3 {
     background-image: url("https://helpingpeople.org/wp-content/uploads/2020/03/FoodInsecurity.jpg");
     min-height: 400px;
 }
-  
+
 .caption {
     position: absolute;
     left: 0;
@@ -38,7 +60,7 @@ body, html {
     text-align: center;
     color: #000;
 }
-  
+
 .caption span.border {
     background-color: #111;
     color: #fff;
@@ -46,17 +68,53 @@ body, html {
     font-size: 25px;
     letter-spacing: 10px;
 }
-  
+
+.intro-text {
+    font-size: 25px;
+}
+
+.ml-img {
+    width: 100%;
+}
+
+.result-text {
+    font-size: 20px;
+}
+
+.sub-section {
+    background-color:transparent;
+    font-size:25px;
+    /* color: #f7f7f7; */
+    color: #080808;
+}
+
+.sub-section-text {
+    color:#ddd;
+    background-color:#282E34;
+    text-align:center;
+    /* padding:50px 80px; */
+    text-align: justify;
+}
+
 h3 {
     letter-spacing: 5px;
     text-transform: uppercase;
     font: 20px "Lato", sans-serif;
     color: #111;
 }
-  
+h3 {
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font: 20px "Lato", sans-serif;
+    color: #111;
+}
+
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1024px) {
-    .bgimg-1, .bgimg-2, .bgimg-3 {
+
+    .bgimg-1,
+    .bgimg-2,
+    .bgimg-3 {
         background-attachment: scroll;
     }
 }
@@ -75,19 +133,14 @@ h3 {
     margin-right: 1rem !important;
 }
 
-/* Style the active menu item */
-.active {
-    font-weight: bold;
-    border-bottom: 2px solid #fff;
-}
-
 /* Style the map */
 #myMap {
-  width: 100%;;
-  height: 650px;
-  min-height: 100%;
-  min-width: 100%;
-  display: block;
+    width: 100%;
+    ;
+    height: 650px;
+    min-height: 100%;
+    min-width: 100%;
+    display: block;
 }
 
 .legend {
@@ -98,7 +151,7 @@ h3 {
     opacity: 0.85;
     border-radius: 10px;
 }
-  
+
 .legend i {
     width: 30px;
     height: 18px;
@@ -108,7 +161,7 @@ h3 {
 }
 
 /* Style the dropdown */
-dropdown-content a { 
+dropdown-content a {
     color: black;
     padding: 12px 16px;
     text-decoration: none;
@@ -124,10 +177,12 @@ dropdown-content a {
     padding: 20px;
     background-color: #f5f5f5;
 }
+
 .team-member {
     text-align: center;
     margin: 20px;
 }
+
 .team-member img {
     width: 150px;
     height: 150px;
@@ -136,11 +191,13 @@ dropdown-content a {
     object-position: center;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
+
 .team-member p {
     margin: 10px 0 0 0;
     font-size: 1.2rem;
     font-weight: bold;
 }
+
 .team-member span {
     display: block;
     font-size: 1rem;

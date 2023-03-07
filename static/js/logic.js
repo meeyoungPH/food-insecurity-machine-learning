@@ -46,7 +46,6 @@ var street = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 var tractLayer = L.layerGroup();
 var marketHeatLayer = L.layerGroup();
 var foodAccessLayer = L.layerGroup();
-// var populationLayer = L.layerGroup();
 
 // create baseMap object
 var baseMap = {  
@@ -55,9 +54,8 @@ var baseMap = {
 // create overlay object
 var overlayMaps = {
     "US Census Tracts": tractLayer,
-    "Food Market Heat Map": marketHeatLayer,
     "Low Food Access": foodAccessLayer,
-    // "Pop w/in 0.5 Mile of Market": populationLayer
+    "Food Market Heat Map": marketHeatLayer
 };
 
 // settings for map on load
@@ -65,7 +63,7 @@ var myMap = L.map('myMap', {
     center: [32.318230, -86.902298],
     zoom: 7,
     zoomControl: false,
-    layers: [street, tractLayer, marketHeatLayer]
+    layers: [street, tractLayer, foodAccessLayer]
 });
 
 // add layer controls to map

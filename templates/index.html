@@ -4,184 +4,301 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Food Equity AI</title>
+        <title>Food Equity ML</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Custom CSS -->
         <link rel="stylesheet" href="../static/css/style.css">
 
-         <!-- Bootstrap CSS -->
-         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
-        
-         <!-- Leaflet CSS -->
-         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
-         integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
-         crossorigin=""/>
- 
-         <!-- Font-Awesome -->
-         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
- 
-         <!-- Leaflet zoom home plugin -->
-         <link rel="stylesheet" href="../static/css/leaflet.zoomhome.css"/>
+        <!-- Bootstrap CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+            integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+
+        <!-- Leaflet CSS -->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+            integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+
+        <!-- Font-Awesome -->
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+
+        <!-- Leaflet zoom home plugin -->
+        <link rel="stylesheet" href="../static/css/leaflet.zoomhome.css" />
 
     </head>
+
     <body>
         <!-- Bootstrap navbar -->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
             <div class="container">
-            <a class="navbar-brand" href="#">Food Equity AI</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ml-auto">
-                <li class="nav-item">
-                    <a class="nav-link active" href="#">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">About</a>
-                </li>
-                </ul>
-            </div>
+                <a class="navbar-brand" href="#">Food Equity ML</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#intro-section">Intro</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#modeling-section">Modeling</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#mapping-section">Mapping</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#tableau-section">Charts</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#conclusion-section">Conclusion</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#team-section">Team</a>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </nav>
 
         <div class="bgimg-1">
             <div class="caption">
-                <span class="border">Food Equity AI</span>
+                <span class="border">Food Equity ML</span>
                 <br>
                 <h1 class="mt-5">Bridging the Gap Between Access and Insecurity with Machine Learning</h1>
             </div>
         </div>
-          
-        <div style="color: #777;background-color:white;text-align:center;padding:50px 80px;text-align: justify;">
-            <h3 class="container my-5" style="text-align:center;">Machine Learning Results Here</h3>
-            <p>Nascetur per nec posuere turpis, lectus nec libero turpis nunc at, sed posuere mollis ullamcorper libero ante lectus, blandit pellentesque a, magna turpis est sapien duis blandit dignissim. Viverra interdum mi magna mi, morbi sociis. Condimentum dui ipsum consequat morbi, curabitur aliquam pede, nullam vitae eu placerat eget et vehicula. Varius quisque non molestie dolor, nunc nisl dapibus vestibulum at, sodales tincidunt mauris ullamcorper, dapibus pulvinar, in in neque risus odio. Accumsan fringilla vulputate at quibusdam sociis eleifend, aenean maecenas vulputate, non id vehicula lorem mattis, ratione interdum sociis ornare. Suscipit proin magna cras vel, non sit platea sit, maecenas ante augue etiam maecenas, porta porttitor placerat leo.</p>
+
+        <div id="intro-section" class="banner-white fluid-container mx-auto">
+            <h3 class="container my-3" style="text-align:center;">Food Insecurity & Machine Learning (ML)</h3>
+            <p class="intro-text">Sociodemographic risk factors such as low income, unemployement, race/ethnicity,
+                and disability may predispose people to food insecurity, which is the limited access to healthy food in
+                terms of distance or affordability.
+                People experiencing food insecurity are at higher risk of obesity, chronic diseases, developmental
+                problems, and
+                poor mental health. Food insecurity is a wide-spread problem with 13.8 million out of 128.6 million
+                households
+                being affected at least part of the year in 2020 (<a
+                    href="https://health.gov/healthypeople/priority-areas/social-determinants-health/literature-summaries/food-insecurity"
+                    target="_blank">HHS</a>).
+            </p>
+            <hr>
+            <p class="intro-text">
+                For the Food Equity ML project, we conducted an analysis of food insecurity for populations within a
+                1/2 radius for urban census tracts and a 10 mile radius for rural census tracts to identify potential
+                sociodemographic risk factors. To accomplish this, we applied machine learning algorithms to analyze
+                data from the Food Access Research Atlas published by the US Department of Agriculture (UDSA).
+                We further analyzed the data using geospatial mapping and data visualization tools to explore the
+                dataset
+                for corresponding results.
+            </p>
         </div>
-          
+
         <div class="bgimg-2">
             <div class="caption">
-                <span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;">Section header</span>
+                <span class="border sub-section">Raw Data</span>
             </div>
         </div>
-          
+
         <div style="position:relative;">
-            <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
-                <p>Talking points here</p>
+            <div class="sub-section-text">
+                <div class="banner-black fluid-container mx-auto">
+                    <p class="intro-text">Source: <a
+                            href="https://www.ers.usda.gov/data-products/food-access-research-atlas/" target="_blank"
+                            class="link-text">
+                            Food Access Research Atlas</a></p>
+                    <p class="intro-text">Initial Number of Records: 72,530</p>
+                    <p class="intro-text">Initial Number of Columns: 147</p>
+                </div>
             </div>
         </div>
-          
+
         <div class="bgimg-3">
             <div class="caption">
-                <span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;">Section header</span>
+                <span class="border sub-section">Final Data</span>
             </div>
         </div>
-          
+
         <div style="position:relative;">
-            <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
-                <p>More talking points</p>
+            <div class="sub-section-text">
+                <div class="banner-black fluid-container mx-auto">
+                    <p class="intro-text">Final Number of Records: 67,286</p>
+                    <p class="intro-text">Final Number of Columns: 47</p>
+                    <p class="intro-text">Target Variable: LAhalfand10 - US Census tracts with low access within 0.5 mi
+                        (urban) and 10 mi (rural) of a food market</p>
+                </div>
             </div>
         </div>
-          
+
         <div class="bgimg-1">
             <div class="caption">
                 <span class="border">Haroon - give us an A+</span>
             </div>
         </div>
 
-        <div class="container my-5">
+        <div class="fluid-container mx-auto my-5" style="max-width: 1627px">
             <!-- Two Columns of Content -->
-            <!-- <div class="container my-5"> -->
+            <div id="modeling-section" class="row">
+                <div class="row mt-5">
+                    <h3 class="mt-2">Machine Learning</h3>
+                    <p class="result-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur
+                        massa ac bibendum
+                        euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
+                        egestas. Donec blandit risus sed odio tincidunt hendrerit. Nam pretium dignissim enim, quis
+                        maximus enim convallis vel. Sed vel risus sit amet odio laoreet lacinia vel ac lorem. In at
+                        justo vel sapien placerat bibendum.</p>
+                </div>
+                <div class="row text-center">
+                    <div class="col-md-4">
+                        <h4>Supervised Machine Learning</h4>
+                        <img class="ml-img" src="../static/img/ml_supervised_ml_score_card.png"
+                            alt="supervised learning machine learning score card">
+                    </div>
+                    <div class="col-md-8">
+                        <h4>Optimization</h4>
+                        <img class="ml-img" src="../static/img/ml_rfc_score_card.png"
+                            alt="random forest classifier optimization results">
+                    </div>
+                </div>
                 <div class="row">
-                <div class="col-md-6">
-                    <h2>Column 1</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur massa ac bibendum euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec blandit risus sed odio tincidunt hendrerit. Nam pretium dignissim enim, quis maximus enim convallis vel. Sed vel risus sit amet odio laoreet lacinia vel ac lorem. In at justo vel sapien placerat bibendum. Duis malesuada sodales mauris ac feugiat. </p>
+                    <div class="col-md-6">
+                        <h4>Random Forest Classification Model Tree</h4>
+                        <p class="result-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+                            consectetur massa ac bibendum
+                            euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+                            turpis
+                            egestas. Donec blandit risus sed odio tincidunt hendrerit. Nam pretium dignissim enim, quis
+                            maximus enim convallis vel. Sed vel risus sit amet odio laoreet lacinia vel ac lorem. In at
+                            justo vel sapien placerat bibendum.</p>
+                        <img class="ml-img" src="../static/img/ml_tree.png" alt="random forest classifer model tree">
+                    </div>
+                    <div class="col-md-6">
+                        <h4>Feature Selection</h4>
+                        <p class="result-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+                            consectetur massa ac bibendum
+                            euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+                            turpis
+                            egestas. Donec blandit risus sed odio tincidunt hendrerit. Nam pretium dignissim enim, quis
+                            maximus enim convallis vel. Sed vel risus sit amet odio laoreet lacinia vel ac lorem. In at
+                            justo vel sapien placerat bibendum.</p>
+                        <img class="ml-img" src="../static/img/ml_feature_selection_plot.png" alt="random forest classifer model tree">
+                    </div>
                 </div>
-                <div class="col-md-6">
-                    <h2>Column 2</h2>
-                    <p>Proin eget purus a nisl hendrerit feugiat in vel sapien. Pellentesque mollis quam a ex blandit malesuada. Nulla facilisi. Sed eget fringilla quam. Nunc eget efficitur nulla. Etiam lacinia, libero ut viverra lacinia, sapien leo elementum odio, sed laoreet ante ipsum vel justo. Morbi porta augue a aliquet tempus. </p>
-                </div>
-            <!--</div>-->
+            </div>
+
+
 
             <!-- Leaflet Map -->
-            <!-- <div class="container my-5"> -->
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="row">
-                            <h2>US Census Tracts with Low Food Access and Location of Food Markets</h2>
-                        </div>
-                        <div class="row">
-                            <div class="dropdown mt-2">
-                                <b>Select Jurisdiction</b>
-                                <div class="dropdown-content mt-2 d-flex">
-                                    <select id="jurisdiction-dropdown" onchange="jurisdictionChanged(this.value)"></select>
-                                    <button type="button" class="btn btn-outline-secondary btn-block rounded-0" onclick='resetMap()'>Reset Map</button>
-                                </div>
+            <div id="mapping-section" class="mb-5">
+                <!-- <div class="row"> -->
+                    <div class="row mt-5">
+                        <h3 class="mt-5">US Census Tracts with Low Food Access and Location of Food Markets</h3>
+                    </div>
+                    <div class="row">
+                        <div class="dropdown mt-2">
+                            <b>Select Jurisdiction</b>
+                            <div class="dropdown-content mt-2 d-flex">
+                                <select id="jurisdiction-dropdown" onchange="jurisdictionChanged(this.value)"></select>
+                                <button type="button" class="btn btn-outline-secondary btn-block rounded-0"
+                                    onclick='resetMap()'>Reset Map</button>
                             </div>
-                        </div>
-                        <div class="row">
-                            <div id="map-button" class="leaflet-control">
-                            </div>
-                            <div id="myMap" class= "mt-3"></div> 
-                            <p>*Indicates low food access for people living within 0.5 miles in urban areas and 10 miles in rural areas from the nearest food market</p>
                         </div>
                     </div>
-                </div>
-            <!--</div>-->
-                            
+                    <div class="row">
+                        <div id="map-button" class="leaflet-control">
+                        </div>
+                        <div id="myMap" class="mt-3"></div>
+                        <p>*Indicates low food access for people living within 0.5 miles in urban areas and 10 miles
+                            in rural areas from the nearest food market</p>
+                    </div>
+                    <!-- </div> -->
+                <!-- </div> -->
+            </div>
+
 
             <!-- Tableau Charts -->
-            <!-- <div class="container my-5"> -->
+            <div id='tableau-section' class="my-5">
                 <div class="row">
                     <div class="col-md-12 mt-4">
-                        <h2>Tableau dashboard here</h2>
-                        <div class='tableauPlaceholder' id='viz1678121739210' style='position: relative'><noscript><a href='#'><img alt='Food Security across US Census Tracts ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;TractSNAPSECUREVSINSECURE&#47;another&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TractSNAPSECUREVSINSECURE&#47;another' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;TractSNAPSECUREVSINSECURE&#47;another&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1678121739210');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1620px';vizElement.style.height='887px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1620px';vizElement.style.height='887px';} else { vizElement.style.width='100%';vizElement.style.height='1627px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-                        <!--<iframe src="https://public.tableau.com/app/profile/dipti7328/viz/TractSNAPSECUREVSINSECURE/Dashboard2?publish=yes" width="100%" height="600"></iframe>-->
+                        <h3>Comparison of Food Secure and Insecure Populations and Households</h3>
+                        <div class='tableauPlaceholder' id='viz1678121739210' style='position: relative'>
+                            <noscript>
+                                <a href='#'>
+                                    <img alt='Food Security across US Census Tracts '
+                                        src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;TractSNAPSECUREVSINSECURE&#47;another&#47;1_rss.png'
+                                        style='border: none' />
+                                </a>
+                            </noscript>
+                            <object class='tableauViz' style='display:none;'>
+                                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                                <param name='embed_code_version' value='3' />
+                                <param name='site_root' value='' />
+                                <param name='name' value='TractSNAPSECUREVSINSECURE&#47;another' />
+                                <param name='tabs' value='no' />
+                                <param name='toolbar' value='yes' />
+                                <param name='static_image'
+                                    value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;TractSNAPSECUREVSINSECURE&#47;another&#47;1.png' />
+                                <param name='animate_transition' value='yes' />
+                                <param name='display_static_image' value='yes' />
+                                <param name='display_spinner' value='yes' />
+                                <param name='display_overlay' value='yes' />
+                                <param name='display_count' value='yes' />
+                                <param name='language' value='en-US' />
+                                <param name='filter' value='publish=yes' />
+                            </object>
+                        </div>
                     </div>
                 </div>
-            <!--</div>-->
+            </div>
 
-           
-        </div>
-
-        <h2>Meet the Team</h2>
-        <div class="container team-container">
-            <div class="team-member">
-                <img src="../static/img/pic-faulkner.jpg" alt="Team Member 1">
-                <p>Alison Faulkner</p>
-                <span>Neural Navigator</span>
-            </div>
-            <div class="team-member">
-                <img src="../static/img/pic-sontakke.jpg" alt="Team Member 2">
-                <p>Dipti Sontakke</p>
-                <span>Visualization Virtuoso</span>
-            </div>
-            <div class="team-member">
-                <img src="../static/img/pic-JS.jpg" alt="Team Member 3">
-                <p>Jovawnte Stovall</p>
-                <span>Curating Craftsman</span>
-            </div>
-            <div class="team-member">
-                <img src="team-member-4.jpg" alt="Team Member 4">
-                <p>Meena Rai</p>
-                <span>Research Raconteur</span>
-            </div>
-            <div class="team-member">
-                <img class="pr-4" src="../static/img/pic-park.jpg" alt="Team Member 5">
-                <p>Meeyoung Park</p>
-                <span>Cat-herding Champion</span>
+            <div id="team-section" class="fluid-container row">
+                <h3>Meet the Team</h3>
+                <div class="team-container">
+                    <div class="team-member">
+                        <img src="../static/img/pic-faulkner.jpg" alt="Team Member 1">
+                        <p>Alison Faulkner</p>
+                        <span>Neural Navigator</span>
+                    </div>
+                    <div class="team-member">
+                        <img src="../static/img/pic-sontakke.jpg" alt="Team Member 2">
+                        <p>Dipti Sontakke</p>
+                        <span>Visualization Virtuoso</span>
+                    </div>
+                    <div class="team-member">
+                        <img src="../static/img/pic-JS.jpg" alt="Team Member 3">
+                        <p>Jovawnte Stovall</p>
+                        <span>Curating Craftsman</span>
+                    </div>
+                    <div class="team-member">
+                        <img src="../static/img/pic-rai.jpg" alt="Team Member 4">
+                        <p>Meena Rai</p>
+                        <span>Research Raconteur</span>
+                    </div>
+                    <div class="team-member">
+                        <img class="pr-4" src="../static/img/pic-park.jpg" alt="Team Member 5">
+                        <p>Meeyoung Park</p>
+                        <span>Cat-herding Champion</span>
+                    </div>
+                </div>
             </div>
         </div>
 
         <!-- Bootstrap -->
-        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
-        <!--<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
-        crossorigin="anonymous"></script>-->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+            integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+            crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+            crossorigin="anonymous"></script>
 
         <!-- LeafletJS plugin -->
-        <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+        <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+            integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
         <script src="https://unpkg.com/leaflet-polylinedecorator"></script>
 
         <!-- LeafletJS heatmap plugin -->
@@ -189,9 +306,28 @@
 
         <!-- d3 plugin -->
         <script src="https://d3js.org/d3.v5.min.js"></script>
-        
+
         <!-- Page logic -->
         <script type="text/javascript" src="../static/js/logic.js"></script>
 
+        <script type='text/javascript' src="../static/js/tableau.js"></script>
+        <!--var divElement = document.getElementById('viz1678121739210');                    
+            var vizElement = divElement.getElementsByTagName('object')[0];                    
+            if ( divElement.offsetWidth > 800 ) { 
+                vizElement.style.width='1620px';
+                vizElement.style.height='887px';
+            } else if ( divElement.offsetWidth > 500 ) { 
+                vizElement.style.width='1620px';
+                vizElement.style.height='887px';
+            } else { 
+                vizElement.style.width='100%';
+                vizElement.style.height='1627px';
+            }                     
+            var scriptElement = document.createElement('script');                    
+            scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+            vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+        </script>-->
+
     </body>
+
 </html>
