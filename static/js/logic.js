@@ -18,7 +18,6 @@ function createDropdown(){
     
     // jurisdiction dropdown menu
     d3.json('/api/jurisdictions').then(data => {
-        // console.log(data)
 
         let options = [...new Set(data.map(d => [d.StateFIPS, d.State]))];
 
@@ -131,7 +130,6 @@ function tract(fips) {
 
     // access tract data
     d3.json(`/api/food-access/${fips}.geojson`).then(d => {
-        // console.log(d.features)
 
         // render boundaries
         L.geoJSON(d, {
@@ -154,7 +152,6 @@ function foodAccessHeatMap(fips){
         let results = d.features
 
         heatArray = [...new Set(results.map(d => [d.geometry.coordinates[1],d.geometry.coordinates[0]]))];
-        // console.log(heatArray)
 
         // heatmap parameters
         var heat = L.heatLayer(heatArray, {
@@ -191,7 +188,7 @@ function foodAccess(fips){
             weight: 1,
             color: 'grey',
             fillColor: 'grey',
-            fillOpacity: 0.2
+            fillOpacity: 0.6
         }).addTo(foodAccessLayer)
     });
 };
@@ -199,82 +196,27 @@ function foodAccess(fips){
 // setup legend
 var legend = L.control({position: 'bottomright'});
 
+// create legend
 legend.onAdd = function(myMap) {
     var div = L.DomUtil.create('div', 'info legend'),
         foodAccess = [null,0,1],
         labels = [];
     let from, to;
 
-    labels.push(`<i style="background: #808080; fill-opacity: 0.1;"></i> No Data`);
+    labels.push(`<i style="background: #808080; fill-opacity: 0.3;"></i> No Data`);
     labels.push(`<i style="background: red; fill-opacity: 0.1;"></i> Low Access*`);
 
     div.innerHTML = '<h4 style="text-align: center">Food Access</h4>'+ labels.join('<br>');
     return div;
 };
 
+// add legend to map
 legend.addTo(myMap);
 
-// function getColor(rate) {
-//     return  alt >= 90  ?   "#552a58": 
-//             alt >= 80  ?   "#73315c":
-//             alt >= 70  ?   "#8e3a5d":
-//             alt >= 60  ?   "#a7465a":
-//             alt >= 50  ?   "#bb5654":
-//             alt >= 40  ?   "#ca6a4e":
-//             alt >= 30  ?   "#d48148":
-//             alt >= 20  ?   "#d89945":
-//             alt >= 10   ?   "#d5b348":
-//                             "#cdcd55"
-// };
-
-// function to number of people identify population within 1/2 mile of food market
-// function population(fips){
-//     // clear existing dta from layer
-//     populationLayer.clearLayers()
-
-//     // access data
-//     d3.json(`/api/food-access/${fips}.geojson`).then(d => {
-//         console.log(`population, ${fips}`)
-//         console.log(d.features)
-
-//         // create popup for each feature
-//         function onEachFeature(feature, layer) {
-//             layer.bindPopup(
-//                 `<h4>${feature.properties.NAMELSAD}</h4>
-//                 <h4>${feature.properties.County}</h4>
-//                 <hr>
-//                 <p>Population w/in 0.5 mile of food store: ${feature.properties.lapophalfshare}</p>
-//                 <p>Poverty Rate: ${feature.properties.PovertyRate}</p>
-//                 <p>Median Family Income: $${feature.properties.MedianFamilyIncome}</p>`
-//             )
-//         };
-
-//         // format circular markers
-//         function pointToLayer(feature, latlng) {
-
-//             // parameters for circle markers
-//             var markerOptions = {
-//                 radius: feature.properties.lapophalfshare, // radius by pop within 1/2 mile to food market
-//                 fillColor: getColor(feature.properties.PovertyRate), // color gradient by poverty rate
-//                 color: "#808080", // grey outline
-//                 opacity: 0.5,
-//                 fillOpacity: 0.5,
-//                 weight: 1,
-//             };
-            
-//             return L.circleMarker(latlng, markerOptions);
-//         }
-
-//         // create GeoJSON layer with circle markers
-//         L.geoJSON(d, {
-//             pointToLayer: pointToLayer,
-//             onEachFeature: onEachFeature
-//         }).addTo(populationLayer)
-//     });
-// };
-
+// run function to initialize page on load
 init()
 
+// function to change map settings with the dropdown menu
 function jurisdictionChanged(fips){
     console.log(fips)
     centerMap(fips)
