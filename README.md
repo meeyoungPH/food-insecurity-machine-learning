@@ -39,7 +39,8 @@ https://public.tableau.com/app/profile/dipti7328/viz/TractSNAPSECUREVSINSECURE/a
 
 						** NEURONETWORKING **
 
-For the neural network model, we first pared the raw data down from an initial 147 columns into 17 trainable features and preprocessed it to remove null values.
+For the neural network model, we first pared the raw data down from an initial 147 columns into 17 trainable features and preprocessed it to remove null values. 
+We chose Tensorflow as our neural network platform due to its flexibility, wide range of deep learning applications, and because our data isn't deeply complex. The model chosen was tf.keras.Sequential, as it arranges the layers in a linear, top-to-bottom approach. We used two hidden layers with 8 and 16 neurons respectively, with 30 dimensions, and trained this model in 80 epochs. We achieved an accuracy of 85% with a loss of 32%, meaning our model is relatively accurate predictions while also being correct in its predictions for approximately 85% of the samples in the dataset.
 
 Analysis:
 
