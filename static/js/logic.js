@@ -223,5 +223,4 @@ function jurisdictionChanged(fips){
     tract(fips)
     foodAccessHeatMap(fips)
     foodAccess(fips)
-    population(fips)
 }
