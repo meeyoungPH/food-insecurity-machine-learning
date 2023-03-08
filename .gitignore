@@ -4,6 +4,8 @@ config*
 test*
 final*
 *copy*
+*untitled*
+checkpoint*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
