@@ -8,53 +8,84 @@ and disability may predispose people to food insecurity, which is the limited ac
 For the Food Equity ML project, we conducted an analysis of food insecurity for populations within a 1/2 mile radius for urban census tracts and a 10-mile radius for rural census tracts to identify potential sociodemographic risk factors. To accomplish this, we applied machine learning algorithms to analyze data from the Food Access Research Atlas published by the US Department of Agriculture (UDSA).
 We further analyzed the data using geospatial mapping and data visualization tools to explore the dataset for corresponding results. 
 
-# Installation
-
-1. Postgres
-    * Create a database named 'food_insecurity'
-    * Enter the text from the [SQLSchema file](static/data/SQLSchema.sql) into the food_insecurity query in Postgres
-    * 
-2. To install the version of libraries/modules, enter this command in your terminal:
-
-```
-pip install -r requirements.txt
-```
+# Tools & Libraries
+* Database/Tools
+    * AWS - RDS & S3 Buckets
+    * PGAdmin
+    * Tableau
+* Languages
+    * Python
+    * Javascript
+    * HTML/CSS
+    * PostgreSQL
+* Libraries
+    * Bootstrap
+    * D3
+    * Geopandas
+    * Leaflet
+    * Matplotlib
+    * OS
+    * Pandas
+    * Seaborn
+    * SKlearn
+    * SQLAlchemy
+    * Sys
+    * TensorFlow
+    * Zipfile
 
 # Methodology
 * Project Data sources:
-    * [Food Access Dataset](https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/)
-    * [Food Market Locations](https://overpass-turbo.eu/)
+    * [Food Access Research Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/)
+    * [Food Market Locations GeoJSON](https://overpass-turbo.eu/)
+        * The query used to retrieve the data can be found in [geojson-etl.ipynb](static/data/geojson/geojson-etl.ipynb)
     * [US Census Tract GeoJSON files](https://www2.census.gov/geo/tiger/TIGER2021/TRACT/)
-* Project Wireframe<br>
+* Project Workflow<br>
 ![wireframe](static/img/wireframe.png)
 
-## Dataframe Creation (ETL) 
+## Dataset Preparation (ETL) 
 * Multiple dataframes were created to support analysis for machine learning and visualizations in Tableau and Leaflet. Datasets created include:
-    * State
-    * Food_Access_1 - preliminary model; 
-    * Food_Access_2 - preliminary model; not enough rows for ML after removing nulls
+    * State - index of states
+    * Food_Access_1 - preliminary model
+    * Food_Access_2 - preliminary model
     * Food_Access_3 - final model used for ML modeling
     * Viz_Data - includes available data for all US census tracts
     * Summary - summary data aggregated by state and national geographic levels
 
-## Geospatial Files
-
-## Extraction (MEEYOUNG)
-* Imported the FoodAccessResearchAtlasData2019.csv file as a Pandas dataframe 
-* Confirmed a successful import by displaying the dataframe<br>
+### Extraction (Food Access Research Atlas data)
+* Downloaded the FoodAccessResearchAtlasData2019.csv file as a dataframe (72,531 records) and saved to an AWS S3 Bucket<br>
 ![raw df](static/img/raw_df.png)<br>
 
-## Transformation
-* Data was cleaned and organized using the following methods:
-    * Slice, apply, round, lambda, drop, dropna, reset_index, isnull, duplicated, sum, describe, tolist, info, rename, groupby, agg, concat, merge, pop, corr
-* State FIPS column was added
-* Percentage calculations were added   
+### Transformation
+* All datasets
+    * Derived State FIPS value
+* State summary
+    * Created unique list of states in dataset (see [etl.ipynb](static/data/etl.ipynb))
+* Dataset for machine learning models (see [etl.ipynb](static/data/etl.ipynb))
+    * Removed columns with an excessive number of null fields or that were otherwise not useful for machine learning
+    * Deleted rows with any null values
+    * Calculated percent population distribution at census tract level for sociodemographic variables
+* Dataset for mapping (see [etl.ipynb](static/data/etl.ipynb))
+    * Kept columns used for machine learning
+    * Did not delete rows with null values in one or more columns
+    * Calculated percent population distribution at census tract level for sociodemographic variables
+* Dataset for charts (see [etl_state_summary.ipynb](static/data/etl_state_summary.ipynb))
+    * Grouped raw data by state level and target variable
+    * Calculated percent population distribution at state level for sociodemographic variables of interest
 
-## Loading (MEEYOUNG)
-* LOADED TO POSTGRES
+### Loading
+* Setup Postgres server in AWS RDS
+* Pre-loaded SQL schemas into the Postgres database manager of choice - PGAdmin
+* Used SQLAlchemy to load each dataframe to the AWS Postgres server
+* The data for the Tableau charts was exported - [summary.csv](static/data/Summary.csv)
+
+### Geospatial Files
+1. Downloaded zip folders containing ArcGIS and other shape files the [US Census repository](https://www2.census.gov/geo/tiger/TIGER2021/TRACT/)
+2. Merged ArcGIS shapefiles into a GeoJSON file by each state
+3. Merged food access data with GeoJSON polygon files by US Census Tract
+    * saved as `tl_2021_<state fips>_tract.geojson` in the [data/geojson folder](static/data/geojson/)
 
 # Machine Learning
-Since "Food Access Dataset" is a labeled (LAhalfand10) dataset and has two class labels (0 and 1), we used binary classification supervised machine learning models.
+In the data from the Food Access Research Dataset ("Food Access Data"), our target variable is LAhalfand10 with two class labels (0 and 1). Therefore, we used binary classification supervised machine learning models.
 
 ## Date Loading 
 * Data was loaded from AWS and confirmed<br>
@@ -121,28 +152,38 @@ Used Leaflet and Tableau to visualize our data<br>
 ## Machine Learning
 We created multiple dataframes (different feature numbers/ rows) from our dataset and used various binary classification models to get the best performing model. The following are conclusions from our best model (using third dataframe):<br>
 * Out of all the binary classification models tested, Random Forest Classifier gave the highest accuracy with overfitting (Training Score: 1.0, Testing Score: 0.84).
-*Feature addition improved model accuracy - third dataframe was created by adding 13 more features to first dataframe and it increased the accuracy from 0.78 to 0.82 for random forest classifier and 0.85 for neural network model.
+* Feature addition improved model accuracy - third dataframe was created by adding 13 more features to first dataframe and it increased the accuracy from 0.78 to 0.82 for random forest classifier and 0.85 for neural network model.
 * Feature selection was unhelpful in resolving overfitting issue (Training Score: 0.99, Testing Score: 0.83).
 * Hyperparameter tuning ('max_depth': 7, 'n_estimators': 200) resolved the overfitting issue (Training Score: 0.83, Testing Score: 0.82) with some decrease in accuracy (0.84 to 0.82)
 * Optimized model has a high recall (0.94) for "label 1" (low access population with food insecurity flag) which means our model is highly efficient in predicting true positives for this class (less false negatives). 
 
-## Leaflet Map (MEEYOUNG)
+## Leaflet Map
+We created the interactive map using LeafletJS with integrated data served through a Flask server API. Features of the map include:
+* Selection of data at US census tract level by state
+* Interactive layers to overlay US census tract boundaries, food access status, and a heat map to visualize the location of food markets.
+* In confirmation of USDA indicators for food insecurity, the location of food markets generally cluster in or near US census tracts that are not flagged for food insecurity<br>
+![colorado map](static/img/map-colorado-zoom.png)<br>
 
-
-## Tableau Dashboard (DIPTI)
-We had interesting findings with machine learning versus what we found in the Tableau presentation. Our data was based on Secure vs Insecure flag. We used the same indicator against dimensions such as Age, Race, Ethnicity, SNAP Benefits, Housing Units without Vehicle, Household low income to display the presentation of Secure vs non-secure populations. In most of our chart comparisons, there is not a significant difference in terms of %, which ranges between 1-10%. The following are the conclusions from our Tableau analysis: <br>
-* In terms of food security, insecure kids are higher in % than secure kids, but for seniors, the opposite is true and secure % is higher than insecure population of seniors. <br>
-* A surprising outcome we came across is the fact that there is a higher percentage of food-secure people using SNAP government assistance benefits than non-secure people. <br>
-* We also found that distance from a grocery store does not have a significant impact on food security within a 1/2 mile range. <br>
-* Within this ½ mile range, there is not a significant difference in food security based on household income, either. <br>
-* Secure population without a vehicle is 6% greater than insecure population without a vehicle.<br>
+## Tableau Dashboard
+We had interesting findings with machine learning versus what we found in the Tableau presentation. In Tableau, we developed our visualizations to compare two cohorts at state and national levels of populations and households with and without food security. We stratified these groups by sociodemographic factors: age, race/ethnicity, SNAP Benefit eligibility, Housing Units without Vehicle (HUNV), and low income. 
+* In most of our chart comparisons at the national level, there was not a significant difference in terms of %, which ranged between 1-10%. The following are the conclusions from our Tableau analysis: <br>
+* In terms of food security, there is a higher percentage of insecure kids than secure kids, but for seniors, the opposite is true. <br>
+* Surprisingly, there is a higher percentage of households in  food-secure areas using SNAP government assistance benefits than non-secure households. <br>
+* Likewise, the percentage of households without a car in food secure US census tracts is 6% greater than in food insecure census tracts. <br>
 
 ## Limitations
-* For machine learning, we ran into issues of usable data after data cleaning, since many columns have multiple null values. For this reason we had to create the third dataframe (final dataframe). The following are the specific limitations for first and second dataframes:
-    * First dataframe - Even though the number of rows is high (71,782 rows), the accuracy score is fairly low (0.75).
-    * Second dataframe - Even though the accuracy is high (.90), the number of rows is suboptimal (7,708 rows) for machine learning.
-* As our data resides on an AWS-S3 bucket , there was a limitation to connect Tableau Public to AWS. Hence, we took another route and used an exported, cleaned, transformed, and modeled .csv file for this purpose.
-* Many of data elements were missing values, hence we couldn’t use some important columns which could have given us a better understanding of this dataset.
+* The majority of columns in the food access dataset, specifically those related to the number and percentage share of residents living at various distances from food markets, were significantly incomplete. Therefore, we had to drop these columns in order to maintain a dataset large enough for machine learning, and were unable to include additional geospatial reference variables to enhance our analysis.
+* The data structure did not allow us to drill-down to subcategories of populations, for instance to identify people of a race/ethnicity that were also low income. We were therefore unable to explore why the % of households without vehicles was greater across census tracts in the US with food security for the majority of their residents, which seems counter-intuitive. One hypothesis is that there could be a higher cumulative number of households in dense population areas with access to food markets that do not require cars versus the cumulative number of households in less populated areas - but we have no means to check it using this dataset.
+
+# Web Visualization
+We created a Flask web application to organize and present our machine learning results and charts, as well as to host the interactive map and Tableau dashboard, as seen in screenshots below.<br>
+![home](static/img/web-home.png)<br>
+![intro](static/img/web-intro.png)<br>
+![ml-1](static/img/web-ml-1.png)<br>
+![ml-2](static/img/web-ml-2.png)<br>
+![map](static/img/web-map-iowa.png)<br>
+![chart](static/img/web-chart.png)<br>
+![team](static/img/web-team.png)<br>
 
 # References/ Sources
 * https://foodtank.com/wp-content/uploads/2022/04/vince-veras-sYaK3SlGwEw-unsplash.jpg
